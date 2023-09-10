@@ -1,3 +1,4 @@
+# for huggingface 
 # pip install transformers
 # pip install transformers[tf-cpu] - to use tensorflow
 # pip install torch - to load weights into TFAutoModelForTokenClassification from torch
