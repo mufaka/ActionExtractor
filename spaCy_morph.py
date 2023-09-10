@@ -3,35 +3,66 @@
 #python -m spacy download en_core_web_sm
 #python -m spacy download en_core_web_lg
 import spacy 
+from spacy.matcher import Matcher
 
 def load_trf_nlp():
+    # Pipeline: ['transformer', 'tagger', 'parser', 'attribute_ruler', 'lemmatizer', 'ner'] 
     return spacy.load("en_core_web_trf")
 
 def load_sm_nlp():
     return spacy.load("en_core_web_sm")
 
 def load_lg_nlp():
-    return spacy.load("en_core_web_lg")
+    # Pipeline: ['tok2vec', 'tagger', 'parser', 'attribute_ruler', 'lemmatizer', 'ner']
+    # need to add entity_ruler before ner before adding morph? https://github.com/explosion/spaCy/issues/7382
+    nlp_lg = spacy.load("en_core_web_lg")
+    nlp_lg.add_pipe("entity_ruler", before="ner")
+    return nlp_lg
 
 def load_doc(nlp, text):
     return nlp(text)
 
 def show_morph(doc):    
     for token in doc:
-        print(f'{token.text}\t\t{token.pos_}\t{token.tag_}\t{token.morph.to_dict()}')
+        print(f'{token.text}\t\t\t{token.pos_}\t{token.tag_}\t{token.dep_}\t{token.shape_}\t{token.is_alpha}\t{token.is_stop}\t{token.morph.to_dict()}')
 
-nlp = load_trf_nlp()
+nlp = load_trf_nlp() 
 #nlp = load_sm_nlp()
-#nlp = load_lg_nlp()
+#nlp = load_lg_nlp() 
+
+'''
+The following causes a ValueError: [E109] Component 'morphologizer' could not be run. Did you forget to call `initialize()`?
+Dead in the water if we can't get the morph to work correctly ...
+'''
+#nlp.add_pipe("morphologizer") 
 
 #check the pipeline
 print("Pipeline:", nlp.pipe_names)
 
-show_morph(load_doc(nlp, "I don't watch the news, I read the paper instead"))
+# NOTE: on WSL you can go to the \\wsl$\<distro name> and then navigate to the following path to view files (but don't edit!)
+print(nlp.path)
 
-# https://spacy.io/usage/linguistic-features#morphology
+#doc = load_doc(nlp, "I don't watch the news, I read the paper instead") 
+#doc = load_doc(nlp, "Write an essay on morphological features of spaCy.") # Write  VERB    VB      ROOT    Xxxxx   True    False   {'VerbForm': 'Inf'} <-- meh....
+#doc = load_doc(nlp, "The author was staring pensively as she wrote")
+doc = load_doc(nlp, "Add a modifier of either RT or LT to procedure 30801 and then resubmit the claim.")
+
+show_morph(doc)
+
+# pattern matching?
+pattern = [{'POS': 'VERB', 'OP': '?'},{'POS': 'ADV', 'OP': '*'},{'OP': '*'},{'POS': 'VERB', 'OP': '+'}]
+
+matcher = Matcher(nlp.vocab)
+matcher.add("verb-phrases", [pattern])
+matches = matcher(doc)
+spans = [doc[start:end] for _, start, end in matches]
+print(pattern)
+print(spans)
+
 
 '''
+https://spacy.io/usage/linguistic-features#morphology
+
 I               PRON    PRP     {'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
 do              AUX     VBP     {'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
 n't             PART    RB      {'Polarity': 'Neg'}
