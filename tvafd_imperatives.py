@@ -1,6 +1,5 @@
-import spacy 
-from spacy.matcher import Matcher
 import pandas as pd 
+from SpacyAnalyzer import SpacyAnalyzer as sa 
 
 '''
 Analyze the annotated data in the following to, hopefully, discover patterns in
@@ -67,9 +66,12 @@ imperative_sentences = []
 for index, row in df.iterrows():
     # marked imperative?
     if (row["is_imperative"] == 1 and row["has_neg_mark"] == "nf"):
-        imperative_sentences.append(f'{row["category"]}-{row["text"]}')
+        #imperative_sentences.append(f'{row["category"]}-{row["text"]}')
+        imperative_sentences.append(f'{row["text"]}')
 
 print(*imperative_sentences, sep = "\n")
 
+analyzer = sa("en_core_web_trf")
+analyzer.show_imperative_phrases_for_sentences(imperative_sentences)
 # print_full(df)
 
