@@ -82,27 +82,63 @@ class SpacyAnalyzer:
 
     def show_imperative_phrases(self, doc):
         print("############ IMPERATIVE PHRASES ############")
-        patterns = [
-            [
-                {'POS': 'VERB', 'OP': '+'}, # require verb 1 or more times
-                {'TAG': 'VBD', 'OP': '!'}, # not a past tense verb
-                {'OP': '*'},
-                {'TAG': 'NN', 'OP': '+'}
-            ]
-        ]
-        matcher = Matcher(self.nlp.vocab)
-        matcher.add("verb-phrases", patterns)
-        matches = matcher(doc)
-        spans = [doc[start:end] for _, start, end in matches]
-        print(doc)
-        print(spans)
+        imperative_phrases = self.get_imperative_phrases(doc)
+        for imperative_phrase in imperative_phrases:
+            print(imperative_phrase)
 
     def get_imperative_phrases(self, doc):
         patterns = [
             [
-                {'POS': 'VERB', 'OP': '+'}, # require verb 1 or more times
-                {'TAG': 'VBD', 'OP': '!'}, # not a past tense verb
-                {'OP': '*'},
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'ADP', 'OP': '+'},
+                {'POS': 'DET', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'ADP', 'OP': '+'},
+                {'POS': 'DET', 'OP': '+'},
+                {'POS': 'ADJ', 'OP': '+'},
+                {'TAG': 'PROPN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'ADP', 'OP': '+'},
+                {'POS': 'PRON', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'ADP', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'PRON', 'OP': '+'},
+                {'POS': 'DET', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'PRON', 'OP': '+'},
+                {'POS': 'ADJ', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'PRON', 'OP': '+'},
+                {'POS': 'DET', 'OP': '+'},
+                {'POS': 'ADJ', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'PRON', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'DET', 'OP': '+'},
                 {'TAG': 'NN', 'OP': '+'}
             ]
         ]

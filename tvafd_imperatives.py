@@ -74,8 +74,11 @@ for index, row in df.iterrows():
 #print(*imperative_sentences, sep = "\n")
 
 analyzer = sa("en_core_web_trf")
-imperative_phrases = analyzer.get_imperative_phrases_for_sentences(imperative_sentences)
-print(*imperative_phrases, sep = "\n")
+
+analyzer.show_morph_for_sentences(imperative_sentences)
+
+#imperative_phrases = analyzer.get_imperative_phrases_for_sentences(imperative_sentences)
+#print(*imperative_phrases, sep = "\n")
 #analyzer.show_imperative_phrases_for_sentences(imperative_sentences)
 # print_full(df)
 
