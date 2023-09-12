@@ -69,7 +69,7 @@ for index, row in df.iterrows():
     if (row["is_imperative"] == 1 and row["has_neg_mark"] == "nf"):
         imperative_sentences.append(f'{row["category"]}-{row["text"]}')
 
-print(imperative_sentences)
+print(*imperative_sentences, sep = "\n")
 
 # print_full(df)
 
