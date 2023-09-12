@@ -1,0 +1,416 @@
+﻿2x07	time	0
+2x07	all right, klingons, pencils down	1	1	nf
+2x07	okay, i have "pokh"	0
+2x07	have it got it	0
+2x07	"potl"	0
+2x07	yup have it have it	0
+2x07	"pukhpa"	0
+2x07	have it got it yup	0
+2x07	i have "chorrr"	0
+2x07	got it yup	0
+2x07	"nekhmakh" yeah yeah	0
+2x07	and "kreplach"	0
+2x07	hold on a second "kreplach"	0
+2x07	yeah	0
+2x07	that isn't klingon it's yiddish for meatfilled dumpling	0
+2x07	well, as it turns out, it's also a klingon word	0
+2x07	really define it	1	1	nf
+2x07	"kreplach" a hearty klingon dumpling	0
+2x07	judge's ruling	0
+2x07	bilurrrbe	0
+2x07	hey, guys, i need to use your tv	1	1	nf
+2x07	what's wrong with your tv	0
+2x07	i don't know it just died	0
+2x07	i'm getting a bunch of static	0
+2x07	did you pay your cable bill	0
+2x07	ugh, you sound just like the cable company	0
+2x07	all right, so, shh	0
+2x07	tyra banks is about to kick	0
+2x07	someone off  america's next top model	0
+2x07	excuse me, penny, but we're	0
+2x07	no, no, don't tell her	1	1	ni
+2x07	playing klingon boggle	0
+2x07	aw	0
+2x07	what do you mean, "aw"	0
+2x07	like she didn't know we were nerds	0
+2x07	all right, if you must watch,	0
+2x07	then mute it with closed captions, please	1	1	nf
+2x07	fine	0
+2x07	all right, boggle warriors kapla'	0
+2x07	look at those women	1	1	nf
+2x07	they're gorgeous	0
+2x07	oh "worf," nice too bad that's a proper noun	0
+2x07	oh, look, the's the future mrs wolowitz	0
+2x07	no, wait, that's the future mrs wolowitz with her head in the lap of	0
+2x07	oh, what a coincidence it's the future mrs wolowitz	0
+2x07	yeah, and they can all move in with you and your mother	0
+2x07	the current mrs wolowitz	0
+2x07	is "qochbe'" spelled with a (gargling) or a (guttural grunt)	0
+2x07	why is that mrs wolowitz crying	0
+2x07	that's anais	0
+2x07	none of the other girls in the house like her	0
+2x07	house what house	0
+2x07	they all live in a house together	0
+2x07	a house, where	0
+2x07	i don't know somewhere in la	0
+2x07	wait a minute	1	1	nf
+2x07	you're telling me that i'm within driving distance	0
+2x07	of a house filled with aspiring supermodels	0
+2x07	yeah, i guess	0
+2x07	and they live together and shower together and	0
+2x07	have naked pillow fights	0
+2x07	hey, whwhere are you going to pay my cable bill	0
+2x07	all right, pencils down	1	1	nf
+2x07	i have "lokh," "makh," and "cherrrkh"	0
+2x07	anybody got those	0
+2x07	did i miss anything	0
+2x07	did they kick giselle off	0
+2x07	not yet, but her underwater photo shoot	0
+2x07	was an embarrassment	0
+2x07	sadly, mrs giselle wolowitz is sensitive to chlorine	0
+2x07	lucky for her i like my fashion models pruny and bugeyed	0
+2x07	sheldon, the food's here	0
+2x07	ooh, there's the house	0
+2x07	freeze frame, freeze frame	1	1	nf
+2x07	what are you doing	0
+2x07	marking the star positions and physical landmarks	0
+2x07	so we can find the house of the supermodels	0
+2x07	why	0
+2x07	isn't it obvious	0
+2x07	every week, they kick out a beautiful girl,	0
+2x07	making her feel unwanted and without selfesteem	0
+2x07	aka the future mrs howard wolowitz	0
+2x07	is my hamburger medium well yes	0
+2x07	dill slices, not sweet yes	0
+2x07	individual relish packets yes	0
+2x07	onion rings yes	0
+2x07	extra breading i asked	0
+2x07	what did they say no did you protest	0
+2x07	yes vociferously no	0
+2x07	well, then what took you so long	0
+2x07	just eat	1	1	nf
+2x07	hey, guys, what'd i miss what'd i miss	0
+2x07	giselle's hanging by a thread	0
+2x07	oh, good, i hate her	0
+2x07	then you're not invited to our wedding	0
+2x07	here you go	0
+2x07	thank you	0
+2x07	oh, do we have to suffer through this	0
+2x07	transparently manipulative pseudoreality again	0
+2x07	yes	0
+2x07	you and i have a standing tv schedule,	0
+2x07	which is the result of extensive debate and compromise	0
+2x07	any alterations except for breaking news	0
+2x07	have to be preapproved at the weekly roommate meeting	0
+2x07	put it on the agenda	1	1	nf
+2x07	but you have to make a motion to put it on agenda	0
+2x07	oh, i'll make a motion, but you're not going to like it	1	1	ni
+2x07	fine mock parliamentary procedure	0
+2x07	at least put it on mute	1	1	nf
+2x07	oh, giselle's not getting kicked off	0
+2x07	it's totally going to be summer	0
+2x07	what	0
+2x07	sheldon's onion ring just put it back	1	1	nf
+2x07	it's one onion ring	0
+2x07	just put it back before he comes	1	1	nf
+2x07	no, no, no	1	1	ni
+2x07	no, i don't think that's where it was	0
+2x07	okay, here he comes  deny, deny, people	1	1	nf
+2x07	wall of silence	0
+2x07	who touched my	0
+2x07	penny penny did it	0
+2x07	why would you do that	0
+2x07	i don't know i was hungry	0
+2x07	what's the big deal	0
+2x07	the big deal is that nobody touches food on my plate	1	1	ni
+2x07	all right look, i didn't know, i'm sorry	0
+2x07	well, i'm sorry, but that is your second strike	0
+2x07	what	0
+2x07	you have two strikes	0
+2x07	three strikes and you're out	0
+2x07	it's a sports metaphor	0
+2x07	a sports metaphor	0
+2x07	yes, baseball	0
+2x07	all right, yeah ii'll play along	0
+2x07	what was my first strike	0
+2x07	march th	0
+2x07	you violated my rule about forwarding email humor	0
+2x07	i did	0
+2x07	the photo of the cat who wants to "has cheezeburger"	0
+2x07	oh, come on everybody loves "lol cats"	0
+2x07	they're cute and they can't spell 'cause they're cats	0
+2x07	i trusted you with my email address,	0
+2x07	and you betrayed that trust by sending me internet banality	0
+2x07	strike one	0
+2x07	touching my food strike two	0
+2x07	don't worry they only stay on your record for a year	0
+2x07	you can get them removed early, but you have to take his class	0
+2x07	come on, i touched one onion ring	0
+2x07	yeah, and then you put it back,	0
+2x07	compromising the integrity of all the other onion rings	0
+2x07	oh, honey, the buses don't go where you live, do they	0
+2x07	look, penny, i wish i could be more lenient with you,	0
+2x07	but since you've become a permanent member of our social group,	0
+2x07	i have to hold you to the same standards as everybody else	0
+2x07	congratulations you're officially one of us	0
+2x07	one of us, one of us	1	1	nf
+2x07	well, what a thrill	0
+2x07	you're sitting in my spot	1	1	nf
+2x07	oh, jeez, you've got to be kidding me	0
+2x07	leonard, she's in my spot	0
+2x07	yeah, yeah uh, see, here's the thing	0
+2x07	after you leave, i still have to live with him	0
+2x07	i don't care i'm taking a stand	0
+2x07	metaphorically	0
+2x07	all right, that's it strike three	0
+2x07	ooh, strike three	0
+2x07	i'm banished	0
+2x07	what the hell kind of crap is that	0
+2x07	listen, don't worry i'll talk to him	0
+2x07	yeah, you do that	1	1	nf
+2x07	just so i know, would you be open to taking his class	0
+2x07	you can do it online	0
+2x07	so based on our triangulation,	0
+2x07	we've narrowed down the location of the top model house three square miles in the hollywood hills	0
+2x07	or possibly durham, noh carolina	0
+2x07	when we find it, you want to go with us	1	3	nf
+2x07	to do what	0
+2x07	party with the pretty girls, dude	0
+2x07	are you insane	0
+2x07	you're not going to party with them	0
+2x07	you're not even going to get anywhere near that place	0
+2x07	that's what they said to neil armstrong about the moon	0
+2x07	no one said anything of the kind to neil armstrong	0
+2x07	the entire nation dedicated a decade of effort and treasure	to put a man on the moon	0
+2x07	well, my fellow americans, before this year is out,	0
+2x07	we will put a wolowitz on one of america's top models	0
+2x07	and a large number of people will believe it never happened	0
+2x07	okay, let me guess	0
+2x07	a quesadilla with soy cheese for the lactoseintolerant leonard	0
+2x07	thank you	0
+2x07	shrimp caesar salad with no almonds	0
+2x07	for the highly allergic kosheronlyonthehighholidays howard	0
+2x07	and for our suddenly "back on the hindu wagon" raj,	0
+2x07	the meatlover's pizza, no meat	0
+2x07	coming right up	0
+2x07	wait excuse me	0
+2x07	you forgot my barbecue bacon cheeseburger,	0
+2x07	barbecue sauce, bacon and cheese on the side	0
+2x07	oh, i didn't tell you	0
+2x07	you're banished from the cheesecake factory	1	1	nf
+2x07	why	0
+2x07	well, you have three strikes	0
+2x07	one coming in two sitting down	0
+2x07	and three i don't like your attitude	0
+2x07	you can't do that	1	1	nf
+2x07	not only is it a violation of california state law,	0
+2x07	it flies directly in the face of cheesecake factory policy	0
+2x07	yeah, no, there's a new policy	0
+2x07	no shoes, no shirt, no sheldon	0
+2x07	i bet we could sell that sign all over pasadena	0
+2x07	penny, can i talk to you for a minute	1	1	nf
+2x07	well, here's the thing	0
+2x07	um, i talked to sheldon	0
+2x07	and he feels terrible	0
+2x07	and he agrees that he was unreasonable and out of line	0
+2x07	really well, that's great	0
+2x07	yeah, so just apologize to him, okay	1	1	nf
+2x07	what i'm not going to apologize to that nutcase	0
+2x07	oh, come on it's easy	0
+2x07	he'll even tell you what to say	0
+2x07	leard, don't you get it	0
+2x07	if you guys keep going along with his insanity,	0
+2x07	you're just encouraging him	0
+2x07	we're not encouraging	0
+2x07	it's more like knuckling under	0
+2x07	look, i like hanging out with you guys,	0
+2x07	but i'm not going to apologize for something i didn't do	1	1	ni
+2x07	well, actually, technically, you did do it	0
+2x07	that's strike one, leonard	1	1	nf
+2x07	there you go quesadilla	0
+2x07	salad	0
+2x07	there's your pizza	0
+2x07	and thanks to sheldon's heated discussion with my manager	0
+2x07	one barbecue bacon cheeseburger,	0
+2x07	barbecue sauce, bacon and cheese on the side	0
+2x07	thank you	0
+2x07	go ahead eat it	1	1	nf
+2x07	i dare you	1	1	nf
+2x07	that's it there's the house	0
+2x07	i foundamerica's top models	0
+2x07	are you sure	0
+2x07	look, on the roof	1	1	nf
+2x07	anais and giselle are sunbathing	0
+2x07	europeanstyle	0
+2x07	you can recognize people on google earth	0
+2x07	of course not	0
+2x07	i got a buddy of mine at norad to have a spy drone fly over	0
+2x07	norad you're using military aircraft	0
+2x07	it was already targeted to poke around	0
+2x07	a nuclear reactor in siberia	0
+2x07	i took it an hour out of its way, tops	0
+2x07	okay, where is he	0
+2x07	sheldon i just dropped him off at the comic book store why	0
+2x07	here try and go online	1	1	nf
+2x07	problem with the wifi just try	1	1	nf
+2x07	greetings, hamburger toucher	0
+2x07	you are probably wondering	0
+2x07	why you cannot im with your little friends	0
+2x07	about how much you "heart" various things	0
+2x07	this recorded message is alerting you	0
+2x07	that i am putting an end to your parasitic piggybacking upon our wifi	0
+2x07	if you want to remedy the situation,	0
+2x07	you can contact the phone company,	0
+2x07	set up your own wifi and pay for it, or you may apologize to me	0
+2x07	well	0
+2x07	i reiterate knuckle under	0
+2x07	no, no, no, no, no it is on	0
+2x07	i am gonna introduce your friend to a world of hurt	1	1	nf
+2x07	oh, penny, you don't want to get into it with sheldon	0
+2x07	the guy is one lab accident away	0
+2x07	from being a supervillain	0
+2x07	i don't care i was in junior rodeo	0
+2x07	i can hogtie and castrate him in 60 seconds	1	1	nf
+2x07	no need to neuter the nerd	0
+2x07	i can get you back online	0
+2x07	there, see problem solved	0
+2x07	voil	0
+2x07	sheldon hello, puny insects	0
+2x07	as a consequence of your efforts to circumvent my will,	0
+2x07	everyone is awarded one additional strike	0
+2x07	thanks a lot, howard	0
+2x07	what are you complaining about	0
+2x07	i'm the one who has to take the class again	0
+2x07	hello	0
+2x07	time to do your laundry, huh	0
+2x07	it's saturday night	0
+2x07	saturday is laundry night	0
+2x07	i know	0
+2x07	every saturday at	0
+2x07	easy to anticipate	0
+2x07	what are you implying	0
+2x07	i'm implying that you're a creature of habit	0
+2x07	and if something were to prevent you from doing your laundry	0
+2x07	on saturday at ,	0
+2x07	you might find it	0
+2x07	unpleasant	0
+2x07	knuckle under my ass	0
+2x07	oh, no, are all the machines taken	0
+2x07	what are you gonna do	0
+2x07	no problem	0
+2x07	i'll just do my laundry another night	0
+2x07	another night	0
+2x07	well, i guess you can try,	0
+2x07	but deep inside your heart,	0
+2x07	you'll know that laundry night is always saturday night	0
+2x07	woman, you are playing with forces beyond your ken	1	1	nf
+2x07	yeah, well, your ken can kiss my barbie	0
+2x07	sheldon sheldon	0
+2x07	sheldon	0
+2x07	yes	0
+2x07	where are my clothes	0
+2x07	your clothes yes, i left them in the washers	0
+2x07	and when i went down to get them, they were gone	0
+2x07	really	0
+2x07	despite the sign that says "do not leave laundry unattended"	0
+2x07	sheldon, where are my clothes	0
+2x07	you know, i do recall seeing some female undergarments	0
+2x07	where was that	0
+2x07	oh, yes	0
+2x07	earlier this evening,	0
+2x07	i happened to gaze out the window	0
+2x07	and a brassiere caught my eye	0
+2x07	do those look familiar	0
+2x07	how the hell did you get them up on that telephone wire	0
+2x07	when you understand the laws of physics, penny,	0
+2x07	anything is possible	0
+2x07	and may i add mwuhhaha	0
+2x07	get them down	1	1	nf
+2x07	apologize	1	1	nf 
+2x07    never	1	1	ni
+2x07	well, then may i suggest you get a very long stick and play panty pinata	1	3	nf
+2x07	look, wait, sheldon, this has gotten out of hand, okay	0
+2x07	i've done some stupid things	0
+2x07	you've done some stupid things	0
+2x07	how about we just call it even and move on with our lives	1	3	nf
+2x07	i've done no stupid things	0
+2x07	look, you've got to meet me halfway here	1	1	nf
+2x07	i am meeting you halfway	0
+2x07	i'm willing to concede that you've done stupid things	0
+2x07	hey, you guys are talking again good	0
+2x07	what happened	0
+2x07	leonard, remember when i said it was on	0
+2x07	well, now it's junior rodeo on	0
+2x07	oh, not junior rodeo	0
+2x07	what did you do	0
+2x07	i had no choice, leonard	0
+2x07	she ruined laundry night	0
+2x07	mwuhhaha	0
+2x07	telephone wires can't electrocute you, can they	0
+2x07	no look, this has to stop	1	1	ni
+2x07	oh, no, no, no it is just beginning	0
+2x07	all right, i really didn't want to do this, but	0
+2x07	here	0
+2x07	what's this	0
+2x07	sheldon's kryptonite	0
+2x07	oh, my god	0
+2x07	he can never know that i gave that to you	1	1	ni
+2x07	look, i said i wanted to hurt him, but	0
+2x07	but this	0
+2x07	it'll shorten the war by five years	0
+2x07	and save millions of lives	0
+2x07	oh, pause it that's it confirmed	1	1	nf
+2x07	we now have the address of the top model house	0
+2x07	god bless you, google street view registered trademark	0
+2x07	okay, for the record,	0
+2x07	what you're doing is really creepy	0
+2x07	you know what if it's "creepy" to use the internet, military satellites, and robot aircraft to find a house full of gorgeous young models	0
+2x07	so that i can drop in on them unexpectedly,	0
+2x07	then fine, i'm "creepy"	0
+2x07	hello	0
+2x07	oh, hi yeah, hold on a second i'll get him	1	1	nf
+2x07	sheldon, it's for you	0
+2x07	who is it your mother	0
+2x07	oh, good	0
+2x07	hi, mom how are you	0
+2x07	but, mom	0
+2x07	she keeps sitting in my spot	0
+2x07	andand she touched my food	0
+2x07	okay, yes, i took her clothes, but she started it	0
+2x07	no, that's not fair	0
+2x07	why should i have to apologize	0
+2x07	yeah, i really don't think this is the kind of thing	0
+2x07	jesus concerns himself with	0
+2x07	no, you're right	0
+2x07	i don't really know what jesus thinks about	0
+2x07	all right, goodbye	0
+2x07	did you tell on me	0
+2x07	are you kidding me	0
+2x07	i already have two strikes	0
+2x07	penny penny	0
+2x07	penny	0
+2x07	i am very, very sorry for what i have done	0
+2x07	here's your laundry	0
+2x07	i rescind your strikes	0
+2x07	and you are no longer banished	0
+2x07	can i sit wherever i want	0
+2x07	never mind, never mind	1	1	ni
+2x07	that's, that's not important	0
+2x07	sheldon, this was big of you	0
+2x07	thank you i really appreciate it	0
+2x07	thank you	0
+2x07	good night, sheldon	0
+2x07	penny	0
+2x07	yes	0
+2x07	well played	0
+2x07	thank you	0
+2x07	just remember with great power comes great responsibility	0
+2x07	understood	0
+2x07	can i help you	0
+2x07	yes, we here to fix the cable	0
+2x07	i think we have satellite	0
+2x07	that's what i meant	0
+2x07	oh okay, come on in	0
+2x07	she's taller than all the women in my family combined	0
+2x07	what do we do now	0
+2x07	follow mrs wolowitz	1	1	nf

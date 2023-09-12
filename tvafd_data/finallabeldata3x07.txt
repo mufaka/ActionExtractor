@@ -1,0 +1,623 @@
+﻿3x07	wow, sheldon, i cannot believe you made up your own game	0
+3x07	it's like the slogan says,	0
+3x07	"the physics is theoretical,	0
+3x07	but the fun is real"	0
+3x07	we must not be playing it right	0
+3x07	all right, five	0
+3x07	one, two, three, four, five	0
+3x07	oh, wow, look at that my department of defense	0
+3x07	research grant is renewed	0
+3x07	oh great roll	0
+3x07	now you can demolish your sovietstyle cyclotron	0
+3x07	and build the large hadron collider	0
+3x07	yay	0
+3x07	you're a natural at this, penny	0
+3x07	and as the first beta testers,	0
+3x07	you two'll have quite the edge	0
+3x07	when we play with wolowitz and koothrappali on sunday	0
+3x07	oh, gee, sheldon,	0
+3x07	i don't think we can play on sunday	0
+3x07	why not	0
+3x07	because of the reasons	0
+3x07	that penny will now tell you	0
+3x07	penny	0
+3x07	actually, i have to pick up my friend justin from the airport	0
+3x07	there you go she has to pick up her friend justin at the airport	0
+3x07	and i can't play 'cause	0
+3x07	i'm going with her right	0
+3x07	um, yeah, if you want	0
+3x07	i mean, there may not be room	0
+3x07	he's got a lot of stuff	0
+3x07	like guitars and amplifiers	0
+3x07	wait	0
+3x07	what are you talking about	0
+3x07	my friend, justin	0
+3x07	pay attention,	1	1	nf
+3x07	leonard	0
+3x07	that's why she can't play on sunday	0
+3x07	who is this justin	0
+3x07	your turn, leonard	0
+3x07	i told you about him	0
+3x07	no, you didn't	0
+3x07	roll the dice, leonard	1	1	nf
+3x07	yeah my friend from omaha plays the guitar	0
+3x07	anyway, he's coming to la	0
+3x07	looking for some session work,	0
+3x07	so i told him he could just crash on my couch for a few weeks	0
+3x07	come on, leonard	0
+3x07	if you roll a six,	0
+3x07	penny dies horribly in a nuclear meltdown	0
+3x07	see what i mean when i say the fun is real	0
+3x07	hang on	1	1	nf
+3x07	some guy is going to be sleeping on your couch	0
+3x07	he's not "some guy"	0
+3x07	he's my friend	0
+3x07	so by "friend,"	0
+3x07	do you mean "friend friend,", "gay friend," or "ex boyfriend	0
+3x07	"who you're now platonic with	0
+3x07	but still might have a thing for you friend"	0
+3x07	well, he's definitely not gay	0
+3x07	oh, hoho, a definitely	0
+3x07	not gay musician	0
+3x07	sleeping on my girlfriend's couch	0
+3x07	yippee	0
+3x07	okay, we went out a little bit,	a long time ago	0
+3x07	but we were never like "going out"	0
+3x07	okay, not to be pedantic,	0
+3x07	but last i checked	0
+3x07	"went out" was in fact the past tense of "going out"	0
+3x07	which i think	0
+3x07	we all know is a popular euphemism for "saw each other naked"	0
+3x07	i'll just roll for you	0
+3x07	do you have a problem with justin staying with me	0
+3x07	what was your first clue	0
+3x07	uhoh	0
+3x07	industrial accident	0
+3x07	you know what	0
+3x07	don't talk to me like i'm an idiot	1	1	ni
+3x07	i'm not talking to you like you're an idiot	0
+3x07	i'm saying the whole idea is idiotic	0
+3x07	"you accidentally stare	at a heliumargon laser lose one turn and a retina"	0
+3x07	how is that not talking to me like i'm an idiot	0
+3x07	it's my friend,	0
+3x07	it's my couch,	0
+3x07	and it's my freakin' life	0
+3x07	it's also your roll	0
+3x07	you know what	0
+3x07	it is your life	0
+3x07	if you want to have some stupid guitarist stay on your couch, then fine	0
+3x07	why don't you just rent some bun beds and invite the black eyed peas	0
+3x07	hey, if i want to invite the entire lineup of lollapalooza to sleep in my apartment,	0
+3x07	i will,	0
+3x07	and it's none of your business	0
+3x07	are you listening to yourself	0
+3x07	do you know how childish	0
+3x07	you sound right now	0
+3x07	oh, now i'm a child	0
+3x07	well, at least	0
+3x07	i'm not an idiot anymore	0
+3x07	the two aren't mutually	0
+3x07	exclusive	0
+3x07	oh, you are such a	0
+3x07	what the hell is he doing	0
+3x07	he's drowning us out	0
+3x07	he doesn't like fighting	0
+3x07	sheldon, just stop	0
+3x07	ok, the fight is over	0
+3x07	oh, and fyi,	0
+3x07	you never even heard of the black eyed peas	0
+3x07	until you met me	0
+3x07	i heard of 'em	0
+3x07	didn't know they were a band	0
+3x07	sheldon, she's gone	0
+3x07	you can turn off the blender	0
+3x07	has your relationship reached its inevitable ugly end	0
+3x07	no, we just had a little spat	0
+3x07	look on the bright side	1	3	nf
+3x07	as the result of penny's forfeit,	0
+3x07	you have become the world's first winner of "research lab"	0
+3x07	would you like a commemorative snow cone	0
+3x07	i don't get how she can just announce that an old boyfriend is going to be sleeping on her couch	0
+3x07	hey, i thought of a game we can play in the car	0
+3x07	i don't want to play a game,	0
+3x07	sheldon	1	1	nf
+3x07	it's called "scientists"	0
+3x07	now, i will name three scientists,	0
+3x07	then you will put them in order	of the size of their contribution to their respective fields to make this game	0
+3x07	even more compelling,	0
+3x07	you must consider only the contribution	of the man to the field,	0
+3x07	not the validity of the field itself	0
+3x07	for example	0
+3x07	abu musa jabir ibn hayn	0
+3x07	made a greater contribution to	0
+3x07	the discredited field of alchemy	0
+3x07	than halbert vanderplatt made to neurobiology	0
+3x07	okay, ready to have some fun	0
+3x07	an old boyfriend	0
+3x07	who's definitely not gay	0
+3x07	that's what a guy likes to hear "definitely"	0
+3x07	all right, i'll start with an easy one	0
+3x07	um, isaac newton, madame curie	0
+3x07	and niels bohr	0
+3x07	and then i say one little thing	0
+3x07	and i end up being the bad guy	0
+3x07	hint madame curie had her husband to help her	0
+3x07	what am i supposed to say	0
+3x07	"sure, penny, i'm cool with your old boyfriend	0
+3x07	sleeping in your	0
+3x07	apartment"	0
+3x07	"well, leonard, it doesn't	0
+3x07	matter if you're cool or not	0
+3x07	"because i'm penny	0
+3x07	and i'm pretty	0
+3x07	and i can do whatever the hell i want"	0
+3x07	"oh, i get it	0
+3x07	"you think you're doing me a favor just by being in a relationship with me"	0
+3x07	"no, no, leonard	0
+3x07	i'm doing you a favor	0
+3x07	just by being in the same room as you"	0
+3x07	leonard stop the car	1	1	nf
+3x07	what	0
+3x07	i can't listen to the two of you fight anymore	0
+3x07	come on, come on,	1	1	nf
+3x07	we're late	0
+3x07	calm down	1	1	nf
+3x07	we'll make the movie	0
+3x07	i believe my alarm is appropriate,	0
+3x07	given the situation	0
+3x07	the movie starts in  minutes,	0
+3x07	which means we'll need to make all the lights on colorado boulevard,	0
+3x07	plus skip the concession stand,	0
+3x07	and preshow urination	0
+3x07	oh, dude, i wish you had said something	0
+3x07	before pounded that last red bull	0
+3x07	sheldon go, go,	0
+3x07	power rangers, go	0
+3x07	hey	0
+3x07	hey	0
+3x07	we're, uh, going to the movies	0
+3x07	no, we're not	0
+3x07	we're standing in the hallway,	0
+3x07	suffering through an awkward encounter	0
+3x07	hang on	1	1	nf
+3x07	they're showing a new digital	0
+3x07	part of time bandits	0
+3x07	you wouldn't want to come,	0
+3x07	would you	0
+3x07	not really, no	0
+3x07	all right, invitation pointlessly offered,	0
+3x07	invitation declined	0
+3x07	as expected,	0
+3x07	everyone's civil,	0
+3x07	nobody's fighting	0
+3x07	have a nice evening	0
+3x07	just give us a minute	0
+3x07	oh, take all the time	0
+3x07	you need	0
+3x07	so, are we going to talk	0
+3x07	about last night	0
+3x07	are you ready to apologize	0
+3x07	no	0
+3x07	wrong answer	0
+3x07	but thank you for playing	0
+3x07	oh, come on	0
+3x07	this is stupid	0
+3x07	oh, there it is again	0
+3x07	you think i'm stupid	0
+3x07	no, there's a difference between being stupid and acting stupid	0
+3x07	oh, yeah well,	0
+3x07	there's a difference between being a jerk	0
+3x07	and being an ass	0
+3x07	no, there isn't	0
+3x07	they're synonyms	0
+3x07	well, that was rather unpleasant	0
+3x07	yeah, i don't think i need my preshow urination anymore	0
+3x07	leonard, when that woman moved in three years ago	0
+3x07	i told you not to talk to her,	0
+3x07	and now look	0
+3x07	we're going to be late for the movies	0
+3x07	hey look amazing	0
+3x07	spiderman	0
+3x07	got it	0
+3x07	remember this one	0
+3x07	spiderman loses a big fight	0
+3x07	and then his girlfriend breaks up with him	0
+3x07	hmm	0
+3x07	want me to get it for you	0
+3x07	it'll help take your mind	0
+3x07	off things	0
+3x07	hey, guys what's going	0
+3x07	oh, we need to kill a couple hours	0
+3x07	till the next showing of time bandits	0
+3x07	oh, well,	0
+3x07	no problem	0
+3x07	i was thinking of closing early	0
+3x07	and going home,	0
+3x07	but let's face it,	0
+3x07	that's just a slightly smaller lonely room filled with comic books	0
+3x07	thanks, stuart	0
+3x07	let me ask you something	0
+3x07	do you think it's okay for penny to have an exboyfriend sleep	0
+3x07	on her couch	0
+3x07	no, i mean, she's obviously way out of line	0
+3x07	thank you	0
+3x07	but if she dumps you,	0
+3x07	she'll have a new boyfriend	0
+3x07	by tomorrow morning	0
+3x07	and you'll have a new girlfriend	0
+3x07	when you figure out	0
+3x07	how to build one	0
+3x07	so the only question is	0
+3x07	how long until you fold	0
+3x07	i am not going to fold	0
+3x07	well, excuse me,	0
+3x07	i don't think	0
+3x07	penny's out of line at all	0
+3x07	you don't own her	0
+3x07	it's like my girl, beyonce says	0
+3x07	"if you like it, you shoulda put a ring on it"	0
+3x07	wolowitz	0
+3x07	come on	0
+3x07	at the very least,	0
+3x07	when she found out leonard was upset about it,	0
+3x07	she should've backed off	0
+3x07	you mean like	0
+3x07	when a guy's upset	0
+3x07	because his friend agreed to take a cooking class with him	0
+3x07	and then doesn't show up	0
+3x07	because he's doing a juice fast with his mother	0
+3x07	i didn't know you were upset about that	0
+3x07	really did you miss all	0
+3x07	the subtle indicators,	0
+3x07	like me saying,	0
+3x07	"howard, i am upset"	0
+3x07	okay, sorry	0
+3x07	maybe it means something different in this country	0
+3x07	back in india, it means you're upset with a guy named howard	0
+3x07	i said i'm sorry	0
+3x07	sorry doesn't make up	0
+3x07	for the fact	0
+3x07	that i had to make chicken	0
+3x07	and rice with this vegan guy	0
+3x07	do you know what vegan	0
+3x07	chicken and rice is	0
+3x07	rice	0
+3x07	yeah, well, you think	0
+3x07	i was having fun,	0
+3x07	sitting around all night	0
+3x07	listening to my mother say,	0
+3x07	"have you ever peed so much	0
+3x07	in your life"	0
+3x07	oh, my god, you are such a mama's boy	0
+3x07	wolowitz	0
+3x07	hey, don't bring my mother into this	1	1	ni
+3x07	you brought your mother into this	0
+3x07	stop it,	1	1	nf
+3x07	both of you	0
+3x07	all this fighting,	0
+3x07	i might as well be back with my parents	0
+3x07	"damn it, george,	0
+3x07	i told you if you didn't quit drinkin' i'd leave you"	0
+3x07	"well, i guess that makes you a liar	0
+3x07	'cause i'm drunk as hell	0
+3x07	and you're still here"	0
+3x07	"stop yelling	1	1	nf
+3x07	you're making sheldon cry"	0
+3x07	"i'll tell you	0
+3x07	what's making sheldon cry	0
+3x07	that i let you name him	0
+3x07	sheldon"	0
+3x07	boy, what got him so upset	0
+3x07	oh, sure, you can tell	0
+3x07	when sheldon's upset	0
+3x07	oh, thank you	0
+3x07	very much	0
+3x07	come back soon	1	2	nf
+3x07	with the other half of my tip	0
+3x07	hey, sheldon	0
+3x07	what are you doing here	0
+3x07	this is a restaurant	0
+3x07	it's lunchtime	0
+3x07	i would think, as a waitress,	0
+3x07	you'd be familiar with the paradigm	0
+3x07	is leonard coming	0
+3x07	no, i believe	0
+3x07	leonard is waiting for you to come crawling back to him and apologize	0
+3x07	well, that's not gonna happen	0
+3x07	i assumed that would	0
+3x07	be your attitude	0
+3x07	hence, my true purpose in coming here	0
+3x07	which is	0
+3x07	i want you to crawl	0
+3x07	back to him and apologize	0
+3x07	i'm busy	0
+3x07	excuse me, miss	0
+3x07	i'd like to order lunch	0
+3x07	fine what do you want	0
+3x07	i have a few questions	0
+3x07	first, i notice that you offer soup and a halfsandwich	0
+3x07	yes	0
+3x07	where exactly does	0
+3x07	the halfsandwich come from	0
+3x07	are you giving me half of someone else's sandwich,	0
+3x07	or do i have to wait	0
+3x07	for someone else in the restaurant to order the other half	0
+3x07	no, no, sheldon, they	0
+3x07	just make a halfsandwich	0
+3x07	you can't make a halfsandwich	0
+3x07	if it's the half of a whole sandwich,	0
+3x07	it's just a small sandwich	0
+3x07	okay, fine, it's soup	0
+3x07	and a small sandwich	0
+3x07	is that what you want	0
+3x07	of course not	0
+3x07	i'll have my usual	0
+3x07	great	0
+3x07	aren't you going to ask me if i want a beverage	1	3	ni
+3x07	don't you usually get lemonade	0
+3x07	yes	0
+3x07	do you want lemonade	0
+3x07	yes	0
+3x07	anything else	0
+3x07	yes i want you to apologize to leonard	0
+3x07	i am not going to apologize	0
+3x07	i've done nothing wrong	0
+3x07	he is completely overreacting	0
+3x07	irrelevant	0
+3x07	the disruption in your relationship is making my life intolerable	0
+3x07	well, i'm sorry, sheldon, but	0
+3x07	this really isn't about you	0
+3x07	i don't follow	1	1	ni
+3x07	yeah, yeah, i'll be right there	0
+3x07	look, sheldon,	0
+3x07	i have to go	0
+3x07	all right, let's assume,	0
+3x07	ad argumentum,	0
+3x07	that in this case,	0
+3x07	leonard is wrong	0
+3x07	leonard is wrong	0
+3x07	considering the number of transgressions	0
+3x07	you've committed	0
+3x07	that he's overlooked,	0
+3x07	don't you think that,	0
+3x07	just this once,	0
+3x07	you could return the favor	0
+3x07	i'm coming	0
+3x07	goodbye, sheldon	0
+3x07	what do you mean,	0
+3x07	transgressions i've committed	0
+3x07	were you under the impression	0
+3x07	that leonard has no complaints about you	0
+3x07	like what	0
+3x07	yeah, yeah, i see you	0
+3x07	you're making a little check sign in the air	0
+3x07	i got it	0
+3x07	just hold your horses	1	1	nf
+3x07	what does leonard complain about	0
+3x07	your driving	0
+3x07	the plethora of stuffed animals on your bed	0
+3x07	that stare at him	0
+3x07	during your amorous activities	0
+3x07	your constant tardiness,	0
+3x07	your singing	0
+3x07	my singing	0
+3x07	that's actually from my list	0
+3x07	but leonard would be a fool	0
+3x07	if he didn't agree with it	0
+3x07	okay, if leonard has so	many problems with me,	0
+3x07	why hasn't he	0
+3x07	just said so	0
+3x07	because, according to him,	0
+3x07	you're oversensitive	0
+3x07	and have a temper	0
+3x07	oh, really	0
+3x07	well, then, do me a favor	0
+3x07	and tell leonard that he can drop dead	0
+3x07	and she wonders why	0
+3x07	she's constantly undertipped	0
+3x07	hey	0
+3x07	oh, good, you're home	0
+3x07	i need you to do me a favor	0
+3x07	sure	0
+3x07	go apologize to penny	1	1	nf
+3x07	what	0
+3x07	right now would be good	0
+3x07	penny leonard	0
+3x07	although, a few minutes ago	0
+3x07	would have been better	0
+3x07	penny	0
+3x07	i hear you don't like my stuffed animals,	0
+3x07	my driving or my punctuality	0
+3x07	what who would tell you	0
+3x07	something like that	0
+3x07	why would you tell her something like that	0
+3x07	it doesn't matter	0
+3x07	why he told me	0
+3x07	it's true, isn't it	0
+3x07	okay, yeah, it's true,	0
+3x07	but i can live	0
+3x07	with that stuff	0
+3x07	what i can't live with is	0
+3x07	you casually informing me	0
+3x07	that some guy's going to be staying in your apartment without even asking me first	0
+3x07	that isn't even your problem	0
+3x07	your problem is	0
+3x07	you don't trust me	0
+3x07	oh, come on	0
+3x07	sheldon, have you ever once heard me say	0
+3x07	that i don't trust penny	0
+3x07	sheldon	0
+3x07	where did he go	0
+3x07	penny	0
+3x07	oh, your yelling must have freaked him out again	0
+3x07	where are you going	0
+3x07	you just walk away in the middle of an argument	0
+3x07	no	0
+3x07	i'm going to go find your damn roommate	0
+3x07	before he hurts himself	0
+3x07	trying to cross the street	0
+3x07	or something	0
+3x07	why didn't you say so	0
+3x07	oh, now i need your permission for that, too	0
+3x07	well, i can't read your mind, penny	0
+3x07	really why not	0
+3x07	you're so smart,	0
+3x07	and i'm so dumb	0
+3x07	raj	0
+3x07	raj	0
+3x07	raj	0
+3x07	koothrappali	0
+3x07	stop knocking	1	1	nf
+3x07	it's open	0
+3x07	please tell my parents that our dark matter research is at a critical juncture,	1	1	nf
+3x07	and i can't come home	0
+3x07	for my cousin sanjay's wedding	0
+3x07	mrs koothrappali	0
+3x07	sheldon,	0
+3x07	ask our son what we're supposed to say to mr and mrs cheldry,	1	1	nf
+3x07	whose daughter, lakshmi	is flying in from london, for the sole purpose of meeting him	0
+3x07	i didn't ask you	0
+3x07	to set me up with lakshmi	0
+3x07	you should be thanking us	1	1	nf
+3x07	yes lakshmi just got her stomach stapled	0
+3x07	you have an opportunity to get in good with her	0
+3x07	before she loses weight,	0
+3x07	and her selfesteem goes up	0
+3x07	i don't care	0
+3x07	and why don't you think i can find a woman for myself	0
+3x07	because you're ,	0
+3x07	and the closest thing we have to a daughterinlaw is that jewish boy howard	0
+3x07	ohthat is completely	0
+3x07	below the belt	0
+3x07	sheldon, tell my parents that howard and i are just friends	1	1	nf
+3x07	sheldon	0
+3x07	howard and i are just friends	0
+3x07	fine i'll come home	0
+3x07	for sanjay's wedding	0
+3x07	sheldon	1	1	nf
+3x07	what are you doing	0
+3x07	he's not a lost dog	0
+3x07	hey, why don't you just let me find him	0
+3x07	while you sit there hitting your imaginary brake	0
+3x07	the brake might be imaginary,	0
+3x07	but that stop sign	0
+3x07	you just ran wasn't	0
+3x07	what stop sign	0
+3x07	eyes on the road	1	1	nf
+3x07	eyes on the road	1	1	nf
+3x07	mother howard,	0
+3x07	answer the door	1	1	nf
+3x07	i'm busy	0
+3x07	wolowitz i'm busy too	0
+3x07	you answer it	1	1	nf
+3x07	mother	0
+3x07	i can't	0
+3x07	i'm on the toilet	0
+3x07	wolowitz	0
+3x07	for god's sake,	1	2	nf
+3x07	i don't need to hear that	0
+3x07	can't you just say, "i'm busy"	1	1	ni
+3x07	mother	0
+3x07	i said i'm busy,	0
+3x07	but that wasn't	good enough for you	0
+3x07	wolowitz	0
+3x07	you know what	0
+3x07	i hope it's one of those home invasion deals,	0
+3x07	and they shove me in the head	0
+3x07	mother well, if it's a home invader,	0
+3x07	don't tell them	1	1	ni
+3x07	i'm on the toilet	0
+3x07	there's no one there	0
+3x07	you're hearing things,	0
+3x07	you crazy old lady	0
+3x07	hey, stuart,	0
+3x07	have you seen sheldon	0
+3x07	yeah, he's, uh, over in	the graphic novel section	0
+3x07	built himself a little nest	0
+3x07	thank you	0
+3x07	uh, penny	0
+3x07	yeah	0
+3x07	is everything okay	0
+3x07	what do you mean	0
+3x07	uh, sheldon told me	0
+3x07	you and leonard	0
+3x07	were having a fight	0
+3x07	oh, yeah, kind of	0
+3x07	it'sit's no big thing	0
+3x07	oh, good, good	0
+3x07	i love you	0
+3x07	i'm not leaving	until you talk to me	1	1	ni
+3x07	all right,	0
+3x07	what's going on	0
+3x07	it's a little hard to explain	0
+3x07	he does this thing	0
+3x07	where he pretends	0
+3x07	he's in an alternate	0
+3x07	dimension that occupies the same physical space we're in,	0
+3x07	but he can't perceive us	0
+3x07	don't flatter yourself	1	1	ni
+3x07	i'm just ignoring you	0
+3x07	come on, sheldon,	1	1	nf
+3x07	let's go home	1	1	nf
+3x07	look, we're done fighting	0
+3x07	i've heard that before	0
+3x07	but then,	0
+3x07	the next thing you know,	0
+3x07	i'm hiding in my bedroom,	0
+3x07	blaring a richard feinman lecture	0
+3x07	while my mom is shouting	0
+3x07	that jesus would forgive her	0
+3x07	if she put ground glass	0
+3x07	in my dad's meatloaf	0
+3x07	and my dad's on the roof skeetshooting	0
+3x07	her franklin mint collectible plates	0
+3x07	there's going to no more shouting	0
+3x07	and no skeetshooting	0
+3x07	really	0
+3x07	where's your friend justin	0
+3x07	going to sleep	0
+3x07	yeah where's	0
+3x07	he gonna sleep	0
+3x07	oh, my god, would you let this go	1	1	nf
+3x07	stuart	0
+3x07	i'd let it go	0
+3x07	why should i let it go	0
+3x07	why don't you just tell the guy	0
+3x07	to find another place to sleep	0
+3x07	oh, for god's sakes	1	2	nf
+3x07	so, you have childhood issues	0
+3x07	we all have childhood issues at some point, you just need	0
+3x07	to grow up and get past them	0
+3x07	robot	0
+3x07	fire fire	0
+3x07	leonard, will you just	0
+3x07	let me handle this, please	0
+3x07	again fire fire	0
+3x07	let justlook	0
+3x07	sheldon, please, try and understand	1	1	nf
+3x07	look, leonard and i are in a relationship,	0
+3x07	and occasionally,	0
+3x07	we're going to fight	0
+3x07	but no matter	0
+3x07	what happens between us, we will always love you	0
+3x07	right, leonard	1	1	nf
+3x07	always is a long time	0
+3x07	sure always	0
+3x07	you know, how about we buy you this robot,	0
+3x07	and then we all go home	0
+3x07	i want that one	0
+3x07	okay, you can have that one	0
+3x07	oh, come on, he's just going to play with it twice,	0
+3x07	and then it'll end up in his closet with all the other junk	0
+3x07	buy him the robot, leonard	1	1	nf
+3x07	can i get this comic book, too	0
+3x07	yes, you can	0
+3x07	we meet again	0
+3x07	so what did justin say	0
+3x07	when you told him	0
+3x07	he couldn't sleep	0
+3x07	on your couch	0
+3x07	he's a musician	0
+3x07	he'll sleep in his own vomit, if he has to	0
+3x07	i should have asked for much more	0
+3x07	than a comic book and a robot	0

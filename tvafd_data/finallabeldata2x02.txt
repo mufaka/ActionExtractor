@@ -1,0 +1,384 @@
+﻿2x02	worst	0
+2x02	renaissance	0
+2x02	fair	0
+2x02	ever	0
+2x02	please let it go, sheldon	1	1	nf
+2x02	it was rife with historical inaccuracies	0
+2x02	for example, the tavern girl serving flagons of mead	0
+2x02	her costume was obviously germanic	0
+2x02	but in 1487,the bavarian purity laws, or reinheitsgebot,severely limited the availability of mead	0
+2x02	at best, they would have had some sort of spiced wine	0
+2x02	you're nitpicking	0
+2x02	oh, really	0
+2x02	well, here's another nit for you: the flagonswould not have been made of polypropylene	0
+2x02	renaissance fairs aren't about historical accuracy	0
+2x02	they're about taking chubby girls who work at kinko'sand lacing them up in corsets so tighttheir bosom jumps out and says, howdy	0
+2x02	bosoms would not have said howdy in the 15th century	0
+2x02	if anything, they would've said, huzzah	0
+2x02	i don't care what the bosoms say	0
+2x02	i just want to be part of the conversation	0
+2x02	hi, guys	0
+2x02	looks like you've been to the renaissance fair	0
+2x02	i'm hoping	0
+2x02	renaissance fair	0
+2x02	more of a medieval, slash, age of enlightenment,slash, any-excuse-to-wear-a-codpiece fair	0
+2x02	okay, fine, whatever	0
+2x02	this is my friend eric	0
+2x02	hello	0
+2x02	hey	0
+2x02	so, yeah, good to see you	0
+2x02	it's good to see you, too	0
+2x02	we should probably go	0
+2x02	bye, guys	0
+2x02	i like your hat	0
+2x02	thanks, my mom made it	0
+2x02	penny with a new guy, très awkward	0
+2x02	it wasn't awkward	0
+2x02	it wasn't fun	0
+2x02	besides, what's the big deal	0
+2x02	we dated, we stopped dating, and now we're both moving on	0
+2x02	by moving on, do you mean she's going out with other menand you spent the afternoon making 15th-century soap with wolowitz	0
+2x02	that was not 15th century soap	0
+2x02	my god, those people need to learn you can't just put "ye olde" in front of anything you want and expect to get away with it	1	1	ni	
+2x02	can we please just go in	1	1	nf
+2x02	my chain mail's stuck in my underwear	0
+2x02	you're wearing modern underwear	0
+2x02	relatively modern	0
+2x02	what are you wearing	0
+2x02	i fashioned historically accurate undergarments out of linen	0
+2x02	you bought linen	0
+2x02	don't be silly	1	2	ni
+2x02	i borrowed one of your pillowcases	0
+2x02	borrowed	0
+2x02	i'm happy that penny's moving on	0
+2x02	it gives me the freedom to move on myself	0
+2x02	are you saying that you've been holding back	0
+2x02	of course	0
+2x02	out of respect	0
+2x02	so, how do you explain the ten years before penny	0
+2x02	who were you respecting then	0
+2x02	well, i've dated plenty of women	0
+2x02	there was joyce kim	0
+2x02	leslie winkle	0
+2x02	notify the editors of the oxford english dictionary	0
+2x02	the word "plenty" has been redefined to mean two	0
+2x02	what about that girl last year at comic-con	0
+2x02	doesn't count	0
+2x02	why not	0
+2x02	what happens in costume at comic-con stays at comic-con	0
+2x02	you're saying that because of what happened to you	0
+2x02	what happened to you	0
+2x02	nothing happened to me	0
+2x02	it wasn't your fault	0
+2x02	he was dressed as a green orion slave girl	0
+2x02	how did we get on me	0
+2x02	we were mocking leonard for not moving on	0
+2x02	dude, you have totally not moved on	0
+2x02	yes, i have	0
+2x02	it's just a matter of actually making a date with someone	0
+2x02	like who	0
+2x02	well, there's joyce kim	0
+2x02	but she defected back to north korea, so	0
+2x02	it's a little geographically undesirable	0
+2x02	what about leslie winkle	0
+2x02	oh, no	0
+2x02	why	0
+2x02	her research methodology is sloppy,she's unjustifiably arrogant about loop quantum gravity,and to make matters worse, she's often mean to me	0
+2x02	i think she's smoking hot	0
+2x02	i'd hit that	0
+2x02	you'd hit particulate soil in a colloidal suspension	0
+2x02	mud	0
+2x02	i like leslie, but she's not interested in datingas much as using men as tools for stress release	0
+2x02	yeah, so	0
+2x02	be a tool	1	1	nf
+2x02	go get yourself a little rebound stress release	1	1	nf
+2x02	technically, it would only be rebound if he and pennyhad actually engaged in physical intimacy	0
+2x02	like you and richard the slave girl	0
+2x02	i bought him dinner and we kissed once	0
+2x02	that was it	0
+2x02	and he told me his name was kimberly	0
+2x02	you know how i know we're not in the matrix	0
+2x02	how	0
+2x02	if we were, the food would be better	0
+2x02	hey, leonard	0
+2x02	hey, leslie	0
+2x02	hey, dummy	0
+2x02	hello, to you	0
+2x02	insufficiently intelligent person	0
+2x02	ooh, rush me to the burn unit	0
+2x02	do you have a second	1	1	nf	
+2x02	i need to ask you something	0
+2x02	sure	0
+2x02	if you'll excuse me,i'm going to go do workthat promises significant results, as opposed to what you do,which does not	0
+2x02	yeah, you heard me	0
+2x02	so, i heard your relationship with penny crashed to the groundlike blue ice falling out of an airplane lavatory	0
+2x02	where did you hear that	0
+2x02	actually, i read it	0
+2x02	wolowitz texted me	0
+2x02	like blue ice falling out of an airplane lavatory, yeah	0
+2x02	i thought it was a pretty good one	0
+2x02	i gave him an lol	0
+2x02	anyway, it got me thinking	0
+2x02	now that you're unattached,maybe we can revisit our previous attachment	1	2	nf
+2x02	are you suggesting another bout of stress release	0
+2x02	no, i'm all done with casual sex	0
+2x02	from now on, i'm fully committedto the traditional relationship paradigm	0
+2x02	really	0
+2x02	what changed	0
+2x02	it's hard to say	0
+2x02	i guess there's a time in every woman's lifewhen she gets tired of waking up on a strange futonwith a bunch of people she doesn't know	0
+2x02	yeah, i can see how that would-- a bunch of people	0
+2x02	anyway, i figure it's time to slow things down and,who better to slow things down with than you	0
+2x02	i'm flattered	0
+2x02	so,how do you suggest we proceed	0
+2x02	your place, we'll order chinese,you'll rent a movieartsy, but accessible then light petting, no coitus	1	2	nf
+2x02	sounds fun	0
+2x02	i'll leave the details up to you	0
+2x02	it's better if you assume the male role	0
+2x02	thank you, that's very thoughtful	0
+2x02	great	0
+2x02	call me	1	2	nf
+2x02	great news	0
+2x02	my mom sent me my old nintendo 64	0
+2x02	terrific	0
+2x02	you know what this means, don't you	0
+2x02	break out the red bull, it's time to rock mario, old school	1	2	nf
+2x02	i kind of have other plans tonight	0
+2x02	but it's friday	0
+2x02	friday's always vintage game night	0
+2x02	look, mom included the memory card	0
+2x02	we can pick up right where i left off in 1999 when i had pernicious anemia	0
+2x02	the thing is, someone's coming over	0
+2x02	no problem	0
+2x02	i have three controllers	0
+2x02	the more the merrier	0
+2x02	it's a date	0
+2x02	i have a date coming over	0
+2x02	you can't blame me for not jumping to that conclusion	1	1	ni
+2x02	why	0
+2x02	what's so unusual about me having a date	0
+2x02	statistically speaking,all right, all right	0
+2x02	nevertheless, i have one now and i'd appreciate it if you would,make yourself scarce	1	1	nf
+2x02	i'm a published theoretical physicist with two doctoratesand an iq which can't be accurely measured by normal tests	0
+2x02	how much scarcer could i be	0
+2x02	you know what i mean	0
+2x02	could you just give us a little privacy	1	1	nf	
+2x02	you want me to leave the apartment	0
+2x02	yes	0
+2x02	you mean, just go someplace else and be someplace else	0
+2x02	yes	0
+2x02	why should i leave	0
+2x02	this is my apartment, too	0
+2x02	i know,and if science ever discovers a second member of your speciesand you two would like some privacy,i'd be more than happy to get out of your way	0
+2x02	well, all right then	0
+2x02	what are you doing	0
+2x02	playing super marioon a poorly coded nintendo 64 emulator	0
+2x02	why are you doing it on the stairs	0
+2x02	i am a modern day napoleon exiled to the elba of the staircasebecause leonard, get this, has a date	1	1	nf	
+2x02	good for him	0
+2x02	why are you sitting here	0
+2x02	why don't you just go to a movie or something	1	3	ni
+2x02	alone	0
+2x02	yeah, why not	0
+2x02	what if i choke on my popcorn	0
+2x02	who will administer the heimlich maneuver	0
+2x02	then don't order popcorn	1	1	ni
+2x02	no popcorn at the mo listen to yourself	1	1	nf
+2x02	why don't you go to a coffee shop	1	3	ni
+2x02	i don't drink coffee	0
+2x02	they have other things	0
+2x02	what do they have	0
+2x02	you know, cookies, pastries	0
+2x02	pastries such as bear claws	0
+2x02	yeah, sure	0
+2x02	i don't like bear claws	0
+2x02	hey, penny	0
+2x02	dumbass	0
+2x02	leslie winkle	0
+2x02	of all the overrated physicists in all the labs in all the world,why does it have to be leslie winkle	0
+2x02	they have a lot in common	0
+2x02	i mean, they're both scientists	0
+2x02	oh, please	0
+2x02	the only way she could make a contribution to sciencewould be if they resumed sending chimps into space	0
+2x02	okay, well, i have a date, too, so i'll see ya	0
+2x02	everybody has a date	0
+2x02	even you, mario, going after princess peach	0
+2x02	and what am i doing	0
+2x02	i'm just enabling you	0
+2x02	this is pretty good orange chicken	0
+2x02	yeah, it's from chang's	0
+2x02	not chow's	0
+2x02	no, chang's	0
+2x02	what happened to chow's	0
+2x02	it changed	0
+2x02	so,how many childrendo you think we should have	0
+2x02	i'm sorry	0
+2x02	that was a little abrupt	0
+2x02	a little	0
+2x02	there are so many things to talk aboutbefore we discuss reproduction	0
+2x02	i sure hope so	0
+2x02	besides shortness, what genetic weaknesses run in your family	0
+2x02	sorry to interrupt	0
+2x02	battery's dying	0
+2x02	continue	1	1	nf
+2x02	genetic weakness, right	0
+2x02	there's the lactose intolerance	0
+2x02	don't forget the male-pattern baldness	1	1	ni
+2x02	when his uncles sit around the dinner table,they look like a half carton of eggs	0
+2x02	okay, my uncles are bald,but my aunt edna is one of the hairiest women you'll ever meet	0
+2x02	sweet lady	0
+2x02	always tickles when she hugs me	0
+2x02	what now	0
+2x02	i have to make pee-pee	0
+2x02	i'm sorry about all of sheldon's interruptions	0
+2x02	he can be a bit of an eccentric	0
+2x02	if by "eccentric" you mean passive-aggressiveeast texas blowhole, i agree	0
+2x02	i think tonight was a very good start	0
+2x02	me, too	0
+2x02	you sure you're okay postponing intercourseuntil our relationship is past the initial viability test	0
+2x02	no problem, i'm very skilled at postponing intercourse	0
+2x02	i guess i'll call you and we'll arrange another evening	0
+2x02	i believe protocol dictates you wait a minimum of 18 hours before you callso i'm not repulsed by your cloying eagerness	1	1	nf	
+2x02	sure	0
+2x02	again, it's your decision	0
+2x02	you're the man	0
+2x02	it wasn't my cat	0
+2x02	it was an experiment designed by this guy named schroedinger	0
+2x02	from the charlie brown cartoons	0
+2x02	no, he was some kind of scientist	0
+2x02	let me start again	0
+2x02	hey, leonard	0
+2x02	hello	0
+2x02	leslie	0
+2x02	hi	0
+2x02	okay, well, good night	0
+2x02	okay, good night	0
+2x02	that ain't gonna make your point	0
+2x02	that's enough	1	1	nf
+2x02	call me	1	1	nf
+2x02	right	0
+2x02	okay, good night	0
+2x02	what	0
+2x02	had a great time	0
+2x02	ciao	0
+2x02	i'm sorry, i am not going back to the renaissance fair	0
+2x02	come on,there's so few places i can wear my jester costume	0
+2x02	i don't care	0
+2x02	there are far too many historical anomalies for my comfort	0
+2x02	okay, how about this	0
+2x02	you can go dressed as a star trek science officerexploring a planet similar to earth in the 1500s	1	3	nf
+2x02	you mean, like spock	0
+2x02	sure	0
+2x02	fascinating	0
+2x02	hey, fellow scientists why don't we all move over there so leslie can join us	1	1	ni
+2x02	let's do it	1	1	nf
+2x02	if you're having trouble deciding where to sit,may i suggest one potato, two potato	0
+2x02	or as i call it, the leslie winkle experimental methodology	0
+2x02	don't make this hard for me	1	1	ni
+2x02	it's not hard	0
+2x02	it's simple	0
+2x02	you can either sit with me, your friend, colleague and roommateor with an overrated scientist you might have sex with	1	3	nf
+2x02	you're right, it is simple	0
+2x02	hey, sheldon	0
+2x02	penny	0
+2x02	third floor tonight mixing it up	0
+2x02	i still don't understand why you don't go to dinner or something	1	3	ni
+2x02	all right,let's say i go to dinner alone,and during the meal, i have to use the restroom	0
+2x02	how do i know someone's not touching my food	0
+2x02	good night, sheldon	0
+2x02	penny, hold on	1	1	nf
+2x02	are you sure things can't work out with you and leonard	0
+2x02	excuse me	1	1	nf
+2x02	i'm just wonderingif you really gave it the old college try	0
+2x02	or in your case, the old community college try	0
+2x02	okay, where is this coming from	0
+2x02	leonard is upstairs right now with my archenemy	0
+2x02	your archenemy	0
+2x02	the dr	0
+2x02	doom to my mr	0
+2x02	fantastic	0
+2x02	the dr	0
+2x02	octopus to my spider-man, the dr	0
+2x02	sivana to my captain marvel	0
+2x02	i get it	0
+2x02	it's amazing how many supervillains have advanced degrees	0
+2x02	graduate school should do a better job of screening those people out	0
+2x02	sheldon, come back	1	1	nf
+2x02	you're losing me	0
+2x02	it's leslie winkle, penny	0
+2x02	she belittles my research	0
+2x02	sweetie, i'm sorry	0
+2x02	she called me dumbass	0
+2x02	i know	0
+2x02	i heard	0
+2x02	given this situation,i have no choice but to withdraw my previous objectionsto your ill-considered relationship with leonard	0
+2x02	gee, well, thank you for that	0
+2x02	but i think for now,leonard and i are just gonna stay friends	0
+2x02	no, that response is unacceptable to me	0
+2x02	sheldon, you area smart guy	0
+2x02	i'm smart	0
+2x02	i'd have to lose 60 iq points to be classified as smart	0
+2x02	are you gonna let me talk	1	1	nf	
+2x02	i'm sorry	0
+2x02	you must know that if leonardand leslie want to be together,nothing you can do is gonna stop it	1	1	ni
+2x02	you continue to underestimate my capabilities, madam	0
+2x02	let me put it this way	0
+2x02	if you're really leonard's friend,you will support him no matter who he wants to be with	1	4	ni	
+2x02	wait a minute	1	1	nf
+2x02	why am i doing all the giving here	0
+2x02	if leonard's really my friend, why doesn't he have to support meand my hatred of leslie winkle	0
+2x02	because love trumps hate	0
+2x02	now you're just making stuff up	0
+2x02	okay, good night, sheldon	0
+2x02	mario	0
+2x02	if only i could control everyone the way i control you	0
+2x02	hop, you little plumber, hop, hop, hop	1	1	nf
+2x02	when the two of you reach a natural stopping point,i'd like to have a word	0
+2x02	if the word is pee-pee, just do it	1	1	nf
+2x02	leonard, you're my friend,and friends support their friends apparently	0
+2x02	so i'm withdrawing my objectionto your desire to have a relationship with leslie	0
+2x02	thank you	0
+2x02	i will graciouslyoverlook the fact that she is an arrogant,subpar scientist who actually believes loop quantum gravitybetter unites quantum mechanics with general relativitythan does string theory	0
+2x02	you kids have fun	1	4	nf	
+2x02	hang on a second	1	1	nf
+2x02	loop quantum gravity clearly offers more testable predictions than string theory	0
+2x02	i'm listening	0
+2x02	amuse me	1	1	nf
+2x02	for one thing, we expect quantized space-time to manifest itselfas minute differences in the speed of light for different colors	0
+2x02	balderdash	0
+2x02	matter clearly consists of tiny strings	0
+2x02	are you gonna let him talk to me like that	1	1	nf
+2x02	okay, well, there is a lot of merit to both theories	0
+2x02	no, there isn't	0
+2x02	only loop quantum gravitycalculates the entropy of black holes	0
+2x02	sheldon, don't make that noise	1	1	ni
+2x02	it's disrespectful	0
+2x02	i should hope so	0
+2x02	it was a snort of derision	0
+2x02	you agree with me, right	1	1	nf
+2x02	loop quantum gravity is the future of physics	0
+2x02	sorry, leslie, i guess i prefer my space stringy, not loopy	0
+2x02	i'm glad i found out the truth about you before this went any further	0
+2x02	truth	0
+2x02	what truth	0
+2x02	we're talking about untested hypothes	0
+2x02	it's no big deal	0
+2x02	it isn't	0
+2x02	really	0
+2x02	tell me, how will we raise the children	1	1	nf
+2x02	i guess we wait until they're old enough and let them choose their own theory	0
+2x02	we can't let them choose	0
+2x02	they're children	0
+2x02	where are you going	0
+2x02	i'm sorry	0
+2x02	i could have accepted our kids being genetically unable to eat ice cream or ever get a good view of a parade	0
+2x02	but this	0
+2x02	this is a deal breaker	0
+2x02	look on the bright side	1	1	nf
+2x02	what's the bright side	0
+2x02	only nine more months to comic-con	0
+2x02	captain, i'm getting an unusual reading	0
+2x02	that's great	0
+2x02	you guys want corn dogs	1	3	nf	
+2x02	that's a temporal anomaly	0
+2x02	corn dog's didn't come into existence till the first half of the 20th century	0

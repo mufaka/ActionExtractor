@@ -1,0 +1,544 @@
+﻿4x05	all i'm saying is, if they took all the money they spent	0
+4x05	trying to make a decent hulk movie,	0
+4x05	they could probably	0
+4x05	just make an actual hulk that is apt and amusing	0
+4x05	i think i shall share that with amy farrah fowler	0
+4x05	she'll appreciate the witticism	0
+4x05	thank you	0
+4x05	it'll also help improve her initial impression of you	0
+4x05	so what's going on with you two	0
+4x05	well, the status is	0
+4x05	as it always was	0
+4x05	she's a girl she's a friend	0
+4x05	she is not my	0
+4x05	please forgive me for doing this	1	1	nf
+4x05	"girlfriend"	0
+4x05	right, right	0
+4x05	so you're still just texting and emailing	0
+4x05	you don't feel any need to hang out with her, you know be in the same room	0
+4x05	leonard, you are my best friend	0
+4x05	i've known you for seven years,	0
+4x05	and i can barely tolerate sitting on the couch with you	0
+4x05	imagine my attitude regarding prolonged physical proximity to amy farrah fowler	0
+4x05	got it	0
+4x05	i sense judgment on your part	0
+4x05	no, no	1	1	ni
+4x05	maybe a little	0
+4x05	may i suggest that your	0
+4x05	criticism is based on jealousy	0
+4x05	jealousy what do i	0
+4x05	have to be jealous of	0
+4x05	i have a functioning	0
+4x05	and satisfying relationship with a female	0
+4x05	you have none	0
+4x05	oh, right that	0
+4x05	jealousy is an ugly greeneyed monster	0
+4x05	not unlike the hulk	0
+4x05	who, by the way,	0
+4x05	also has a girlfriend in this iteration,	0
+4x05	jennifer connelly,	0
+4x05	whom you may recall as the girlfriend of russell crowe	0
+4x05	in a beautiful mind,	0
+4x05	a feelgood romp if there ever was one	0
+4x05	i'm not jealous	0
+4x05	leonard not jealous	0
+4x05	you know, it just occurred to me,	0
+4x05	if there are an infinite number of parallel universes,	0
+4x05	in one of them,	0
+4x05	there's probably a sheldon	0
+4x05	who doesn't believe parallel universes exist	0
+4x05	probably what's your point	0
+4x05	no point	0
+4x05	it's just one of the things	0
+4x05	that makes one of the mes chuckle	0
+4x05	what makes you chuckle, leonard	0
+4x05	hmm, recently	0
+4x05	not much	0
+4x05	is it because of the conflict that arises from your desperate need	0
+4x05	to pairbond with a woman,	0
+4x05	and the apparent collective decision of all womankind to deny you that opportunity	0
+4x05	um	0
+4x05	shut up	1	1	nf
+4x05	sheldon you know,	0
+4x05	when my grandfather died,	0
+4x05	and meemaw was alone,	0
+4x05	my mom arranged for her	to visit a center three times a week	0
+4x05	where she could socialize with other lonely people	0
+4x05	it's very nice	0
+4x05	they discuss current events, play bridge, get a hot meal	0
+4x05	that sounds lovely	0
+4x05	it is if you like bridge	0
+4x05	do you like bridge,	0
+4x05	leonard	0
+4x05	sheldon, i'm just not dating someone right now	0
+4x05	i don't need to go to a senior center	0
+4x05	meemaw resisted at first,	0
+4x05	but now she loves it	0
+4x05	fine if i don't meet someone soon, you can put me in a home	0
+4x05	it's not a home	0
+4x05	it's a senior center	0
+4x05	we'd never put	0
+4x05	meemaw in a home	0
+4x05	hey, guys	0
+4x05	hey	0
+4x05	hey	0
+4x05	all right, i'll bow to social pressure hey	0
+4x05	excuse me that's my girlfriend,	0
+4x05	bernadette	0
+4x05	i assigned her	0
+4x05	her own ringtone	0
+4x05	"bernadette,"	0
+4x05	by the four tops	0
+4x05	hello, bernadette	0
+4x05	when i call him, his phone plays "brown eyed girl"	0
+4x05	which, now that i think about it, is not so good	0
+4x05	you realize he's just rubbing our noses in the fact	0
+4x05	that he has a girlfriend,	0
+4x05	and we don't	0
+4x05	you mean, you don't	0
+4x05	you have a girlfriend	0
+4x05	how could you have a girlfriend	0
+4x05	you can't even speak to women	0
+4x05	two words deaf chick	0
+4x05	it doesn't matter	0
+4x05	if i can't talk,	0
+4x05	because she can't hear me	0
+4x05	what	0
+4x05	that's what she said	0
+4x05	great you have a girlfriend,	0
+4x05	howard's got a girlfriend,	0
+4x05	sheldon's got a girl	0
+4x05	no, no, no, no	0
+4x05	who's a friend	0
+4x05	thank you	0
+4x05	what about you, stuart	0
+4x05	you have a girlfriend yet	0
+4x05	oh, yeah yeah	0
+4x05	i met her at comiccon,	0
+4x05	the one place in the world	0
+4x05	where saying	0
+4x05	"i own a comic bookstore" is an actual pickup line	0
+4x05	oh well, good for you	0
+4x05	not really she's horrible	0
+4x05	when she wants to have sex,	0
+4x05	she puts on her plussize	0
+4x05	wonder woman costume and shouts,	0
+4x05	"who wants to take a ride in my invisible plane"	0
+4x05	why don't you just break up with her	1	3	ni
+4x05	no, no, i can't	0
+4x05	why not	0
+4x05	'cause then i'd be alone,	0
+4x05	like you	0
+4x05	dude, why don't you just invoke your girlfriend pact with wolowitz	1	3	ni
+4x05	because i don't	need his girlfriend to set me up with one of her girlfriends	0
+4x05	i'm perfectly capable of finding a girl on my own	0
+4x05	oh, leonard, you remind me of the funny old story about a man	0
+4x05	who walks into a women's correctional institution with a stack of paperwork	0
+4x05	that will allow the female convicts to go free	0
+4x05	you're saying i	couldn't get laid in a women's prison with a handful of pardons	0
+4x05	are you going to let me	0
+4x05	tell the story or not	0
+4x05	leonard	0
+4x05	are you sleeping	0
+4x05	no	0
+4x05	are you ill	0
+4x05	no	0
+4x05	are you still depressed	0
+4x05	because you're alone,	0
+4x05	and no one loves you	0
+4x05	i don't know maybe	0
+4x05	i want you to know	0
+4x05	that i'm genuinely concerned about your wellbeing	0
+4x05	thank you	0
+4x05	you're welcome	0
+4x05	but it's still no reason to have your feet in my spot	1	1	ni
+4x05	amy	0
+4x05	may i offer an observation	0
+4x05	what the hell	0
+4x05	how long has she been here	0
+4x05	since we got home from the comic bookstore	0
+4x05	that was two hours ago	0
+4x05	as per your suggestion,	0
+4x05	we're hanging out	0
+4x05	quite frankly, i don't see	0
+4x05	what all the hoopla's about	0
+4x05	go on, amy	1	1	nf
+4x05	from a neurobiological	0
+4x05	standpoint, leonard,	0
+4x05	you may be alone	0
+4x05	because your psychological state is causing an actual pheromonebased stink of desperation	0
+4x05	did you know that, leonard	0
+4x05	no	0
+4x05	i did	0
+4x05	i understand	0
+4x05	that some people find mates	0
+4x05	in social gathering places	0
+4x05	such as bars or taverns	0
+4x05	have you tried a bar or tavern	0
+4x05	no, i'm not gonna try to pick up a woman in a bar	0
+4x05	wise decision you see, amy,	0
+4x05	success at a bar is based	0
+4x05	on classic male attributes	0
+4x05	such as height, strength,	0
+4x05	attractiveness,	0
+4x05	the ability to hold one's liquor	0
+4x05	and throw darts separately or together	0
+4x05	leonard has none of these	0
+4x05	attributes, right, leonard	0
+4x05	right	0
+4x05	that's not true of all bars	0
+4x05	juice bars, for example	0
+4x05	oh good point, amy	0
+4x05	yeah, building	0
+4x05	on your premise,	0
+4x05	leonard could frequent sushi bars, salad bars, oyster bars,	0
+4x05	the apple genius bar	0
+4x05	what are you doing	0
+4x05	keep going i'm listening	1	4	nf
+4x05	that was rude	0
+4x05	he does it all the time	0
+4x05	he's a cornucopia of social awkwardness	0
+4x05	cornucopia	0
+4x05	what a mellifluous word	0
+4x05	let's make that our word of the day	1	3	nf
+4x05	agreed and we'll use mellifluous tomorrow	0
+4x05	well, i have to void my bladder	0
+4x05	it was nice spending this time with you	0
+4x05	amy	0
+4x05	wait	1	1	nf
+4x05	i have a request	0
+4x05	yes	0
+4x05	i'd like you to meet my mother	1	1	nf
+4x05	i see	0
+4x05	can i get back to you on that	0
+4x05	certainly good night	0
+4x05	good night	0
+4x05	leonard, leonard, leonard,	0
+4x05	leonard, leonard,	0
+4x05	leonard, leonard,	0
+4x05	leonard, leonard, leonard,	0
+4x05	leonard, leonard, leonard,	0
+4x05	leonard, leonard,	0
+4x05	leonard, leonard,	0
+4x05	leonard, leonard	0
+4x05	yeah, what	0
+4x05	amy farrah fowler has asked me	0
+4x05	to meet her mother	0
+4x05	yeah so	0
+4x05	what does that mean	0
+4x05	well, you know	0
+4x05	how you're always saying	0
+4x05	that amy is a girl	0
+4x05	who's your friend,	0
+4x05	and not your girlfriend	0
+4x05	uhhuh	0
+4x05	you can't say that anymore	0
+4x05	wait what	1	1	nf
+4x05	look, she obviously wants to take your relationship to the next level	0
+4x05	i don't want the next level	0
+4x05	i like this level	0
+4x05	fix it for me	1	1	nf
+4x05	me	0
+4x05	well, how am i supposed	to fix it	0
+4x05	simple you want a girlfriend,	0
+4x05	amy wants to be someone's girlfriend	0
+4x05	take her off my hands	1	1	nf
+4x05	i give you my blessing	0
+4x05	that is insane	0
+4x05	you're right	0
+4x05	it would never work	0
+4x05	amy finds you tedious	0
+4x05	okay, good luck	0
+4x05	wait what am i	1	1	nf
+4x05	supposed to do	0
+4x05	well, have you considered telling her how you feel	0
+4x05	leonard, i'm a physicist,	0
+4x05	not a hippie	0
+4x05	all right, well, let me see	0
+4x05	if i can explain your situation	using physics	0
+4x05	what would you be	0
+4x05	if you were attached to another object	0
+4x05	by an inclined plane wrapped	0
+4x05	helically around an axis	0
+4x05	screwed	0
+4x05	there you go	0
+4x05	amy's right	0
+4x05	he is tedious	0
+4x05	mrs wolowitz	0
+4x05	howard, get the door	1	1	nf
+4x05	wolowitz	0
+4x05	why can't you get it	1	1	ni
+4x05	mrs wolowitz	0
+4x05	you know i'm doing a bowel cleanse for my colonoscopy	0
+4x05	i'm like an upsidedown volcano here	0
+4x05	oh, hey	0
+4x05	i hope you didn't hear that	0
+4x05	the volcano thing no	0
+4x05	what's with the tshirt	0
+4x05	you working at the	0
+4x05	apple store now	0
+4x05	no, it's just something	0
+4x05	i threw on	0
+4x05	i know all your shirts	0
+4x05	that's not one of them	0
+4x05	you were pretending to work at the genius bar to pick up women,	0
+4x05	weren't you	0
+4x05	yeah	0
+4x05	turns out,	0
+4x05	they guard the ipods,	0
+4x05	but they don't guard the shirts	0
+4x05	so, how'd it go	0
+4x05	it was going well	0
+4x05	i was showing	0
+4x05	this super hot girl	0
+4x05	how to boot up in safe mode	0
+4x05	the manager got suspicious,	0
+4x05	and, well, long story short,	0
+4x05	they really do have a little jail in the mall	0
+4x05	just fyi, don't try to go back with a fake mustache	1	1	ni
+4x05	i mean, they may not really be geniuses,	0
+4x05	but they see right through that	0
+4x05	i want to invoke the girlfriend pact, howard	0
+4x05	you that desperate	0
+4x05	no, i just	0
+4x05	i want what you have	0
+4x05	you know, i want	0
+4x05	a woman in my life	0
+4x05	mrs wolowitz	0
+4x05	holy moses,	0
+4x05	how much liquid can be in one tokus	0	
+4x05	to be clear, i meant like	0
+4x05	bernadette, not your mother	0
+4x05	yeah, i know	0
+4x05	what you mean	0
+4x05	well, i'm off to meet	0
+4x05	bernadette's friend	0
+4x05	how do i look	0
+4x05	as if one of the plants	from invasion of the body snatchers duplicated you in every way,	0
+4x05	only with an absurd	0
+4x05	amount of hair gel	0
+4x05	what are you	0
+4x05	working on	0
+4x05	i'm removing	0
+4x05	my digital footprint	0
+4x05	from the internet	0
+4x05	so amy farrah fowler	0
+4x05	can't find me	0
+4x05	and compel me to meet her mother	0
+4x05	ah	0
+4x05	you're going off the grid	0
+4x05	exactly	0
+4x05	the old unabomber approach	0
+4x05	kudos	0
+4x05	thank you	0
+4x05	i've also sent amy a	0
+4x05	relationship termination notice	0
+4x05	and changed my cell phone number	0
+4x05	and email address	0
+4x05	what if she just comes over	0
+4x05	she'll get lost	0
+4x05	we no longer live at  los robles	0
+4x05	we now live at  los robles	0
+4x05	you changed the address	on the building	0
+4x05	what about mail	0
+4x05	oh, no worries	0
+4x05	i explained my predicament to our letter carrier	0
+4x05	he was sympathetic	0
+4x05	his exact words were	0
+4x05	"got your back, jack	0
+4x05	bitches be crazy"	0
+4x05	who is it	0
+4x05	amy farrah fowler	0
+4x05	darn she found me	0
+4x05	she's been here before	0
+4x05	the only flaw in an otherwise perfect plan	0
+4x05	now, get my back, jack	1	1	nf
+4x05	what do you want to do	0
+4x05	tell her i'm not here	1	1	ni
+4x05	okay, where are you	0
+4x05	i don't know	0
+4x05	you'll have to devise a scenario	0
+4x05	that plausibly explains my absence,	0
+4x05	keeping in mind that the key to a good lie lies in the details	1	1	nf	0
+4x05	hi, amy	0
+4x05	sheldon's not here	0
+4x05	all right	0
+4x05	way to go on the details	0
+4x05	thanks again for	0
+4x05	doing this, bernadette	0
+4x05	oh, i take pacts	0
+4x05	very seriously	0
+4x05	one time at my lab,	0
+4x05	a petri dish of genetically modified	0
+4x05	supervirus went missing	0
+4x05	that day we made a pinky swear	0
+4x05	never to admit	0
+4x05	we crossed ebola with the common cold	0
+4x05	why the hell	0
+4x05	would you cross ebola	0
+4x05	with the common cold	0
+4x05	we never did	0
+4x05	that would be a terrible, terrible thing	0
+4x05	hi sorry i'm late	0
+4x05	i was at the gym	0
+4x05	spin class	0
+4x05	worked up quite a sweat	0
+4x05	joy, this is leonard	0
+4x05	leonard, this is joy	0
+4x05	hi	0
+4x05	hi	0
+4x05	you don't look	0
+4x05	like a genius	0
+4x05	go ahead, say something smart	1	1	nf
+4x05	uh	0
+4x05	aah time's up	0
+4x05	joy	0
+4x05	just kidding	0
+4x05	first thing you need	0
+4x05	to know about me	0
+4x05	i'm hilarious	0
+4x05	yeah	0
+4x05	leonard	0
+4x05	so, bernadette tells me	0
+4x05	she knows you from	0
+4x05	selfdefense classes	0
+4x05	yeah israeli krav maga	0
+4x05	lots of fun	0
+4x05	basically,	0
+4x05	a hundred different ways to rip a guy's nuts off	0
+4x05	leonard	0
+4x05	wow wouldn't think there'd be that many	0
+4x05	number	0
+4x05	whoa	0
+4x05	isn't she a pip	0
+4x05	proxima centauri's the nearest star	0
+4x05	the celestial bodies that follow are alpha centauri a, toli,	0
+4x05	barnard's star,	0
+4x05	wolf	0
+4x05	lalande ,	0
+4x05	sirius a, sirius b,	0
+4x05	blceti, uvceti,	0
+4x05	ross	0
+4x05	ross	0
+4x05	epsilon eridani,	0
+4x05	lac,	0
+4x05	ross ,	0
+4x05	procyon a	0
+4x05	oh, darn, that's wrong	0
+4x05	ez aquarii a,	0
+4x05	ez aquarii b,	0
+4x05	ez aquarii c,	0
+4x05	procyon a	0
+4x05	those are the stars	0
+4x05	that are nearest to me	0
+4x05	tralala and fiddledeedee	0
+4x05	oh, dear	0
+4x05	they really do be crazy	0
+4x05	this lobster's good	0
+4x05	on the way down	0
+4x05	and the way up	0
+4x05	should be it's	0
+4x05	$ a pound	0
+4x05	hey, this is a date, right	0
+4x05	yep, it is	0
+4x05	whoa	0
+4x05	excuse me, i have to go	0
+4x05	to the little girls' room	0
+4x05	and take a wicked whiz	0
+4x05	i'll go with you	0
+4x05	fair warning	0
+4x05	i had the asparagus	0
+4x05	my pea is gonna	stink up the place	0
+4x05	i think she likes you	0
+4x05	ez aquarii b	0
+4x05	ez aquarii c	0
+4x05	excuse me, madam	0
+4x05	sheldon	0
+4x05	rats	0
+4x05	i believe a misunderstanding	0
+4x05	may have occurred	0
+4x05	when i asked you to meet my mother	0
+4x05	no misunderstanding	0
+4x05	i've learned what that request actually means,	0
+4x05	and i don't want to be joined to another object by an inclined plane wrapped helically around an axis	0
+4x05	in what way are	you screwed	0
+4x05	all i want to do is present you	0
+4x05	as my boyfriend to my mother	0
+4x05	so she'll be satisfied	0
+4x05	that i'm in a relationship	0
+4x05	so we'd be	0
+4x05	perpetrating a ruse	0
+4x05	precisely	0
+4x05	and you haven't fallen hopelessly in love with me	0
+4x05	don't be absurd	1	1	ni
+4x05	i find the notion of romantic love to be an unnecessary cultural construct	0
+4x05	that adds no value to human relationships	0
+4x05	amy farrah fowler, that's the most pragmatic thing	0
+4x05	anyone has ever said to me	0
+4x05	i trust this clarification allows us to return to boyslashfriendslash girlslashfriend status	0
+4x05	of course	0
+4x05	would you like to join me for chinese food	1	3	nf
+4x05	sheldon, please,	1	1	nf
+4x05	you're suffocating me	0
+4x05	my apologies	0
+4x05	good night, amy	0
+4x05	good night, sheldon	0
+4x05	come on, just give her a chance	1	1	nf
+4x05	maybe she'll grow on you	0
+4x05	or maybe she'll finally succeed in ripping my nuts off	0
+4x05	there are still  ways	0
+4x05	she hasn't tried yet	0
+4x05	look, hhoward,	0
+4x05	i appreciate the effort, but this is, like,	0
+4x05	the worst date of my life	0
+4x05	seriously	0
+4x05	i was once robbed by a preop	0
+4x05	transsexual i met on jdate,	0
+4x05	and that didn't	even crack my top ten	0
+4x05	i guess the difference is, i have some selfrespect	0
+4x05	not that i've ever seen	0
+4x05	it's relatively new	0
+4x05	i just know that	0
+4x05	i'm not gonna spend time with someone i don't like	0
+4x05	simply to have a girlfriend	0
+4x05	i'm okay on my own	0
+4x05	good news i made	0
+4x05	lots of room for dessert	0
+4x05	look, uh, joy, it was nice	0
+4x05	to meet you, but	0
+4x05	yeah, you, too	0
+4x05	hey, you got anything for next weekend	0
+4x05	i need a date for	0
+4x05	my cousin's wedding	0
+4x05	you're asking me out	0
+4x05	joy	0
+4x05	yeah	0
+4x05	and it's an open bar,	0
+4x05	so i'll probably be giving it away	0
+4x05	i look forward to it	0
+4x05	mrs fowler	0
+4x05	it's nice to meet you, too, sheldon	0
+4x05	i honestly didn't believe amy	0
+4x05	when she told me	0
+4x05	she had a boyfriend	0
+4x05	i assure you i am quite real	0
+4x05	and i'm having regular intercourse	0
+4x05	with your daughter	0
+4x05	what	0
+4x05	oh, yes	0
+4x05	we're like wild	0
+4x05	animals in heat	0
+4x05	it's a wonder neither of us has been hurt	0
+4x05	amy what is he saying	0
+4x05	you wanted me to have a boyfriend, mother	0
+4x05	well, here he is	0
+4x05	have to sign off now	0
+4x05	my hunger for sheldon is stirring in my loins	0
+4x05	oh, yes, it's time for me to make love to your daughter's vagina	0
+4x05	thank you, sheldon,	0
+4x05	that went very well	0
+4x05	agreed	0
+4x05	amy, i find myself wondering	0
+4x05	if we should actually engage in coitus at least one time in our relationship	0
+4x05	bazinga	0
+4x05	bedtime please show yourself out	1	1	nf

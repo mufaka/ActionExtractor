@@ -1,0 +1,373 @@
+﻿2x21	are you from the star wars universe	0
+2x21	were you in the original trilogy	0
+2x21	yes	0
+2x21	is there a picture of you in my wallet wearing a metal bikini	0
+2x21	god, i hope not	0
+2x21	and no, i'm not princess leia	0
+2x21	okay my turn	0
+2x21	are you in all six star wars movies	0
+2x21	yes	0
+2x21	interesting	0
+2x21	are you a droid	0
+2x21	do you kind of look like a shiny sheldon	0
+2x21	cpo	0
+2x21	you got it	0
+2x21	that's preposterous	0
+2x21	i do not resemble cpo	0
+2x21	don't get me wrong	0
+2x21	i'm flattered i just don't see it	0
+2x21	leslie winkle	0
+2x21	you've reached "friends with benefits" for a booty call,	0
+2z21	press one now	1	1	nf
+2x21	what exactly does that expression mean,	0
+2x21	"friends with benefits"	0
+2x21	does he provide her with health insurance	0
+2x21	imagine you maintained a friendship with someone you had sex with,	1	3	nf
+2x21	but you were free to date whoever you wanted	0
+2x21	i'm sorry	0
+2x21	i can't imagine any of that	0
+2x21	all right back to the game	1	1	nf
+2x21	i believe it's my turn	0
+2x21	you may begin your questions	0
+2x21	whenever you're ready	0
+2x21	are you spock	0
+2x21	i don't like this game	0
+2x21	so, where were we	0
+2x21	aren't you leaving for your booty call	0
+2x21	no, it was something else	0
+2x21	why does everything have to be about sex with you come on whose turn is it	0
+2x21	we were up to you	0
+2x21	great just start	1	1	nf
+2x21	let's see are you from a tv series	0
+2x21	she dumped me	0
+2x21	i bet he's someone from babylon	0
+2x21	we're never going to get it	0
+2x21	what happened	0
+2x21	why did she dump you	0
+2x21	i don't know she just said,	0
+2x21	"howard, mama's a rolling stone"	0
+2x21	then her call waiting beeped	0
+2x21	and she was gone	0
+2x21	i don't understand	0
+2x21	if you were in a nonemotional relationship,	0
+2x21	then why are you having what appears to be an emotional response	0
+2x21	he obviously had feelings for her	0
+2x21	of course i had feelings for her	0
+2x21	i saw her naked, for god's sake	0
+2x21	okay, you just need to get your mind off it	1	3	nf
+2x21	do you want to go to the comic book store	1	3	nf
+2x21	maybe go see a movie	1	1	nf
+2x21	i don't want to go anywhere	0
+2x21	you know,	0
+2x21	i'm given to understand that there's an entire city in nevada designed specifically to help people like howard forget their problems	0
+2x21	they can replace them with new problems, such as alcoholism, gambling addiction, and sexually transmitted diseases	0
+2x21	is it me, or was that sheldon's way of saying, "vegas, baby"	0
+2x21	i've never been there have you	0
+2x21	me no	0
+2x21	i just got "vegas, baby" from vince vaughn in swingers	0
+2x21	it could be fun	0
+2x21	my weekend's wide open, now that	0
+2x21	okay, let's do this	1	1	nf
+2x21	let's go to las vegas	1	1	nf
+2x21	now right now	0
+2x21	why not people do things "right now,"	0
+2x21	all the time	0
+2x21	why can't we be "right now" people, too	0
+2x21	go home, pack a bag, and we'll be "right now" people	0
+2x21	i have to stop at the drug store to refill a prescription,	0
+2x21	but after that, we'll go right now	0
+2x21	what do you say, howard	0
+2x21	i say	0
+2x21	"vegas, baby"	0
+2x21	what are you gonna tell your mother	0
+2x21	"sea world, baby"	0
+2x21	are you coming	0
+2x21	i'd rather have a blowfly lay eggs	0
+2x21	and hatch larvae	0
+2x21	in my auditory canal	0
+2x21	great	0
+2x21	we'll bring you back a tshirt	0
+2x21	thank you	0
+2x21	hello, neighbor	0
+2x21	hello, sheldon	0
+2x21	and how are you this fine evening	0
+2x21	great	0
+2x21	good i'm glad	0
+2x21	really	0
+2x21	are you drunk	0
+2x21	i'm just in a good mood	0
+2x21	while my compatriots are in las vegas,	0
+2x21	i will be enjoying a blissful evening in my personal fortress of solitude	0
+2x21	that's superman's big ice thingy, right	0
+2x21	you know, i'm in such a good mood,	0
+2x21	i'm actually finding your tenuous grasp of the english language folksy and charming today	0
+2x21	what smells so good	0
+2x21	that is the intoxicating aroma of kadhai paneer,	0
+2x21	a perfect culinary representation of the freedom this evening holds	0
+2x21	not only is it indian cuisine, which koothrappali loathes,	0
+2x21	it contains a generous helping of peanuts, which would reduce wolowitz to a wheezing pound blister	0
+2x21	and finally, its main ingredient is paneer, a farmer's cheese that would cause leonard to render	0
+2x21	any room uninhabitable within minutes	0
+2x21	yum	0
+2x21	well, enjoy your big evening	1	2	nf
+2x21	i realize you're also on your own tonight,	0
+2x21	so if, at some point, you find yourself with nothing to do,	0
+2x21	please do not disturb me	1	1	ni
+2x21	have fun, sheldon	1	2	nf
+2x21	i shall	0
+2x21	what's wrong, superman	0
+2x21	locked out of your big ice thingy	0
+2x21	look at this	1	1	nf
+2x21	mouthwash, lotion, body wash shampoo and conditioner together in one tiny bottle	0
+2x21	i love las vegas	0
+2x21	howard, could i borrow some aftershave	0
+2x21	black case, top compartment	1	4	nf
+2x21	that's a lot of cologne	0
+2x21	first row are your musks	0
+2x21	second is woods, leathers and botanicals	0
+2x21	third is assorted pheromones tread lightly	1	3	nf
+2x21	that's the spirit, howard	0
+2x21	yes, we can	0
+2x21	let's go	1	1	nf
+2x21	you guys go ahead	1	1	nf
+2x21	i just have to finish up an email	0
+2x21	that's not an email	0
+2x21	that's leslie's facebook page	0
+2x21	okay, fine	0
+2x21	i'm checking her facebook page	0
+2x21	look at her status update	0
+2x21	she's saying she dumped me	0
+2x21	people need to know i dumped her	0
+2x21	but she did dump you	0
+2x21	grow up, raj there's no place for truth on the internet	0
+2x21	just go	1	1	nf
+2x21	i'll catch up with you	0
+2x21	all right	0
+2x21	we should have a plan in case one of us gets lucky	1	1	nf
+2x21	okay, if i get lucky,	0
+2x21	i'll take her to my stately manor outside gotham city, and	0
+2x21	if you get lucky,	0
+2x21	i'll sleep on the moon	0
+2x21	sounds like a plan	0
+2x21	hang on i think the emergency key is around here somewhere	0
+2x21	we have a bowl	0
+2x21	our keys go in a bowl	0
+2x21	you should get a bowl	1	1	nf
+2x21	so, how did the beautiful mind of sheldon cooper forget his key in the first place	0
+2x21	i left them in the bowl	0
+2x21	i just remembered where the emergency key is	0
+2x21	where	0
+2x21	in your apartment	0
+2x21	what's it doing in my apartment	0
+2x21	i went in there a few weeks ago and you guys weren't home and i forgot it there	0
+2x21	you went in my why would	0
+2x21	what are you saying	0
+2x21	it's not a big deal i was making coffee and i ran out of milk	0
+2x21	you're the milk thief	0
+2x21	leonard said i was crazy,	0
+2x21	but i knew that carton felt lighter	0
+2x21	all right just calm down	1	1	nf
+2x21	i will call the building manager and he'll come open your door	0
+2x21	eat your dinner here	1	1	nf
+2x21	while you're waiting	0
+2x21	eat my dinner in your apartment	0
+2x21	why not	0
+2x21	sure why not	0
+2x21	and after the sun's down,	0
+2x21	we can all pile in my pickup and go skinnydipping down at the creek	0
+2x21	'cause today's the day to stop making sense	0
+2x21	thanks	0
+2x21	i'm telling you, leonard	0
+2x21	video slots free drinks brought to us by a bosomy barmaid and all you can eat shrimp or $	0
+2x21	disneyland can suck it	0
+2x21	this is the real happiest place on earth	0
+2x21	dude, check it out	1	1	nf
+2x21	that's laundry for a month	0
+2x21	hi	0
+2x21	hello	0
+2x21	what's your name	0
+2x21	rajesh ramayan koothrappali	0
+2x21	hello, rajesh ra	0
+2x21	hi, rajesh	0
+2x21	i'm michaela	0
+2x21	hello, michaela	0
+2x21	so, you interested in a little party	1	3	nf
+2x21	why, yes, i love to party	0
+2x21	party is my middle name	0
+2x21	or, it would be	0
+2x21	if it weren't ramayan	0
+2x21	can i talk to you for a moment	1	1	nf
+2x21	not now	1	1	ni
+2x21	michaela's inviting me to a party	0
+2x21	you better call the moon and make sure they have a bed for you	0
+2x21	yeah i really need to talk to you	0
+2x21	excuse me i'll be right back	0
+2x21	don't go anywhere don't move	1	1	ni
+2x21	just stay the beautiful, unspoiled american flower that you are	1	1	nf
+2x21	what's wrong with you, dude	0
+2x21	that woman was all up in my jammy	0
+2x21	okay, i hate to break this to you	0
+2x21	and whatever your "jammy" is, but	0
+2x21	i'm pretty sure she's a prostitute	0
+2x21	what	0
+2x21	let me put it this way	0
+2x21	in your entire life, how many gorgeous women have walked straight up to you in a bar and asked if you wanted to party	0
+2x21	maybe i can save her	0
+2x21	maybe, but i'm guessing it'll cost you	0
+2x21	about $ an hour to try	0
+2x21	it was lovely meeting you	0
+2x21	best of luck in your future endeavors	0
+2x21	whatever	0
+2x21	i miss her already	0
+2x21	howard's losing it	0
+2x21	check out his latest twitters	1	1	nf
+2x21	"i'm at the bottom of a black hole staring into the abyss "my life is meaningless my future is without hope"	0
+2x21	why don't we take him to see the blue man group	1	3	ni
+2x21	you think that'd help	0
+2x21	usa today calls them "exuberant fun for the whole family"	0
+2x21	i don't know, howard isn't really the family fun kind of guy	0
+2x21	it's too bad he wasn't here for that hooker	0
+2x21	she's exactly his type a hooker	0
+2x21	you know, i bet if we hired her, that would cheer him up	0
+2x21	we're not gonna get wolowitz a hooker	1	1	ni
+2x21	"i'm so lonely and horny, "i may open this $ jar of peanuts and end it all"	0
+2x21	i suppose it wouldn't hurt to get an estimate	0
+2x21	so how was your day	0
+2x21	are you trying to make small talk	0
+2x21	sweetie, you really don't have to	1	1	ni
+2x21	no, it's the accepted convention	0
+2x21	how was your day	0
+2x21	they shifted my schedule around at the restaurant,	0
+2x21	so my hours are gonna be	0
+2x21	i'm sorry	0
+2x21	that's not going to interest me at all	0
+2x21	just eat	1	1	nf
+2x21	hello again	0
+2x21	hi listen	0
+2x21	if you're not busy, we were thinking maybe you could	0
+2x21	we were wondering if you're really a prostitute	0
+2x21	you guys cops	0
+2x21	no	0
+2x21	i'm a prostitute	0
+2x21	okay, great	0
+2x21	the thing is, we've got this friend, and he's kind of down in the dumps and we thought maybe you could cheer him up with sex	0
+2x21	i think she knows what i meant	0
+2x21	how when you beat around the bush	0
+2x21	she's from the mean streets where they shoot from the hip and keep it real	0
+2x21	don't worry	1	1	ni
+2x21	i can take good care of your friend	0
+2x21	okay, terrific	0
+2x21	listen, is there a way that we can do this	0
+2x21	where he doesn't know that you're a, you know prostitute	0
+2x21	you want the girlfriend experience	0
+2x21	yes yeah, exactly	0
+2x21	the girlfriend experience	0
+2x21	actually,	0
+2x21	if it's not too much to ask,	0
+2x21	could we have the jewish girlfriend experience	0
+2x21	okay, that's question	0
+2x21	you have to guess	1	1	nf
+2x21	i don't know, sheldon	0
+2x21	are you star wars	0
+2x21	how can one person be a whole movie	0
+2x21	i give up	0
+2x21	can we just do something else	1	1	nf
+2x21	fine	0
+2x21	i was spock	0
+2x21	are you and leonard friends with benefits	0
+2x21	what	0
+2x21	are you and leonard friends with benefits	0
+2x21	where did that even come from	0
+2x21	did he say we were	0
+2x21	no, leonard said nothing	0
+2x21	but who knows what goes on over here	0
+2x21	when he pretends	0
+2x21	your mail was misdelivered	0
+2x21	just mail, no benefits	0
+2x21	i see	0
+2x21	why are you asking	0
+2x21	i'm curious about the whole social construct on its face, the idea of satisfying one's sexual appetite,	0
+2x21	assuming one is afflicted with such, that seems eminently practical	 what i've observed, however, s howard wolowitz crying like a little girl	0
+2x21	some people just can't handle that kind of relationship	0
+2x21	can you	0
+2x21	excuse me	0
+2x21	are you able to have sex with men without developing an emotional attachment	0
+2x21	i really don't want to talk about this with you	0
+2x21	is this conversation making you uncomfortable	0
+2x21	of course it's making me uncomfortable	0
+2x21	can't you tell	0
+2x21	i really have no idea	0
+2x21	i don't particularly excel at reading facial expressions	0
+2x21	i'm uncomfortable, sheldon	0
+2x21	thank you that's very helpful	0
+2x21	all right, where are these amazing shrimp	0
+2x21	behold	1	1	nf
+2x21	seriously, you think this is the size of a baby's arm	0
+2x21	a little baby	0
+2x21	i'm going back to the room	0
+2x21	boy, would it maybe kill them to put out a nice brisket	0
+2x21	hi, there howard wolowitz	0
+2x21	esther rosenblatt	0
+2x21	i don't think the manager's coming tonight, so here are you suggesting i sleep on the couch	0
+2x21	it wasn't the first suggestion that came to mind,	0
+2x21	but it's the one i'm going with	0
+2x21	i can't sleep on your couch	0
+2x21	i sleep in a bed	0
+2x21	and given its dimensions, i have  intention of living out snickering's beloved children's book, the tall man from cornwall	0
+2x21	what	0
+2x21	"there was a tall man from cornwall "whose length exceed his bed "my body fits on it, but barely upon it, "there's no room for my big cornish head"	0
+2x21	all right, i will give you my bed	0
+2x21	on one condition	0
+2x21	that you promise to zip your hole for the next eight hours	0
+2x21	may i say one last thing	0
+2x21	only if it doesn't rhyme	0
+2x21	all right	0
+2x21	good night	0
+2x21	turnons let me see	0
+2x21	reading a good book in front of the fire, long walks on the beach and getting freaky on the sabbath with a bacon cheeseburger	0
+2x21	really me, too	0
+2x21	oy, gevalt, you're hot	0
+2x21	excuse me for a moment	1	1	nf
+2x21	how's it going	0
+2x21	cut the crap	1	1	nf
+2x21	you set this up, didn't you	0
+2x21	she's a hooker, isn't she	0
+2x21	a prostitute, yes	0
+2x21	you already gave her the money	0
+2x21	thank you	0
+2x21	what	0
+2x21	i can't sleep	0
+2x21	maybe that's because your hole is still open	0
+2x21	i'm homesick	0
+2x21	your home is  feet from here	0
+2x21	feet,  lightyears,	0
+2x21	it doesn't matter	0
+2x21	it's in a galaxy far, far away	0
+2x21	damn it	0
+2x21	what do you want me to do	0
+2x21	sing soft kitty	0
+2x21	that's only for when you're sick	0
+2x21	homesick is a type of being sick	0
+2x21	come on, do i really have to	0
+2x21	i suppose we can stay up and talk	1	4	nf
+2x21	soft kitty	0
+2x21	warm kitty	0
+2x21	little ball of fur	0
+2x21	happy kitty	0
+2x21	sleepy kitty	0
+2x21	sleepy kit	0
+2x21	start over	1	1	nf
+2x21	soft kitty	0
+2x21	warm kitty	0
+2x21	little ball of fur	0
+2x21	happy kitty	0
+2x21	sleepy kitty	0
+2x21	purr, purr, purr	0
+2x21	thank you for letting me stay here	0
+2x21	you're welcome, sweetie	0
+2x21	okay, i'm sleepy now	0
+2x21	get out	1	1	nf
+2x21	good you're finally home	0
+2x21	what were you doing at penny's	0
+2x21	well, we had dinner, played some games, and then i spent the night	0
+2x21	you'll be happy to know that i now have a much better understanding of "friends with benefits"	0

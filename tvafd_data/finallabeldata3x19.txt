@@ -1,0 +1,272 @@
+﻿3x19	having a little trouble catching your breath there	0
+3x19	no, no, i'm good	0
+3x19	if my pe teachers had told me this is what i was training for, i would have tried a lot harder	0
+3x19	"do or do not there is no try"	0
+3x19	did you just quote star wars	0
+3x19	i believe i quoted empire strikes back	0
+3x19	oh, my God i'm lying in bed with a beautiful woman who can quote yoda	0
+3x19	i love you, penny	0
+3x19	oh thank you	0
+3x19	you're welcome	0
+3x19	i just wanted to put that out there	0
+3x19	oh, yeah, no, I i'm i'm glad	0
+3x19	good glad is good	0
+3x19	yeah	0
+3x19	yeah	0
+3x19	no, no	1	1	ni
+3x19	um	0
+3x19	so, it's getting pretty late we should probably go to sleep	0
+3x19	yeah	0
+3x19	okay	0
+3x19	yeah, probably	0
+3x19	okay, good night, sweetie	0
+3x19	good night	0
+3x19	hey, leonard, where do you come down on giant ants	0
+3x19	sheldon says impossible howard and i say not only possible, but as a mode of transportation, way cooler than a batmobile	0
+3x19	you are ignoring the squarecube law the giant ant would be crushed under the weight of its own exoskeleton and for the record, the appropriate ranking of cool modes of transportation is jet pack, hoverboard, transporter, batmobile, and then giant ant	0
+3x19	seriously	0
+3x19	you have nothing better to do than sit around and discuss the possibility of giant ants	0
+3x19	what's with him	0
+3x19	perhaps he's at a sensitive point in his monthly cycle	0
+3x19	are you saying he's manstrating	0
+3x19	not literally but as far back as the th century, scientists observed a day fluctuation in men's hormone levels	0
+3x19	interesting that might explain my weepy days in the middle of the month you know what i'm talking about	0
+3x19	okay, forget giant ants	1	1	nf
+3x19	how about giant rabbits	0
+3x19	big or small, i don't like rabbits they always look like they're about to say something, but they never do	0
+3x19	rabbits do have a respiratory system that would support great size and on a side note, they are one of the few mammals whose scrotum is in front of the penis	0
+3x19	maybe that's what they want to talk about	0
+3x19	leonard, where do you stand on giant rabbits and scrotal position	0
+3x19	i honestly don't care	0
+3x19	really because every time we've talked about unusual animal genitals, you've always had some pretty strong and controversial opinions	0
+3x19	what do you want from me	0
+3x19	i just don't give a rat's ass	0
+3x19	would that be a giant rat's ass	0
+3x19	for the record, giant rats are possible	0
+3x19	can we please talk about something else	1	1	nf
+3x19	maybe something vaguely related to life as we know it on this planet	1	1	nf
+3x19	okay, how about this for a topic why is leonard being a giant douche	0
+3x19	assuming giant douches are possible	0
+3x19	of course they are	0
+3x19	leonard's being one	0
+3x19	maybe he's having a lover's spat with penny	0
+3x19	no, there was no spat	0
+3x19	oh, but something happened	0
+3x19	i don't want to talk about it but i sense you're going to and i don't want to hear about it	0
+3x19	excuse me	1	1	nf
+3x19	what'd you do, Romeo you pour maple syrup all over your body and ask her if she was in the mood for a short stack	0
+3x19	did you think it would be funny to put on a pair of her panties and jump around, but it wound up just creeping her out	0
+3x19	what no	0
+3x19	i'm just asking, dude	0
+3x19	it happens	0
+3x19	you guys still on	 for bowling tonight	0
+3x19	oh, yes in fact, i've prepared some trash talk for the occasion you bowl like your mama unless, of course, she bowls well in which case, you bowl nothing like her	0
+3x19	oh ouch	0
+3x19	that is what is referred to as a burn on you	0
+3x19	did you ask her to start waxing	0
+3x19	no	0
+3x19	did you start waxing	0
+3x19	no	0
+3x19	while making love, did you accidentally spank your own ass and cry out, "mommy"	0
+3x19	i'm walking away from you now	1	1	nf
+3x19	that wasn't a no	0
+3x19	yeah, i think we're getting close	0
+3x19	did you take a benadryl and fall asleep while pleasuring her because you can die that way	0
+3x19	oh, that would be a good way to go	0
+3x19	hi	0
+3x19	oh, hey good, penny bowling tonight at 7:00	1	3	nf
+3x19	at	0
+3x19	oh, right, bowling	0
+3x19	you don't have to come if you don't want to	1	3	ni
+3x19	no, no, it's okay i mean, let's face it, you guys would get creamed without me	0
+3x19	we would indeed	0
+3x19	in this particular case, your lack of femininity works to our advantage	0
+3x19	it's always nice chatting with you, sheldon	0
+3x19	sarcasm thinly veiled contempt	0
+3x19	got it	0
+3x19	pacific daylight time	0
+3x19	bite me	1	2	nf
+3x19	please reserve that butch spirit for the lanes	1	1	nf
+3x19	i thought you were bringing your own bowling shoes	0
+3x19	these are my own bowling shoes	0
+3x19	then what's with the disinfectant	0
+3x19	i know where my feet have been	0
+3x19	hey, penny and you guys albino bob couldn't make it, so i brought a substitute i believe some of you know wil wheaton	0
+3x19	hi, sheldon how's it going	0
+3x19	well, well, weli if it isn't wil wheaton, the green goblin to my spiderman the pope paul v to my galileo, the internet explorer to my firefox	0
+3x19	you're not still carrying a grudge because i beat you at that card tournament, are you	0
+3x19	i'm the proud owner of wilwheatonstinkscom, net, and org what does that tell you	0
+3x19	it tells me that i am living rentfree right here	0
+3x19	you ready to bowl	0
+3x19	oh, i'm ready	0
+3x19	i don't know if stuart told you what you're up against tonight, but before you stands the cocaptain of the east texas christian youth holy roller bowling league championship team to year old division	0
+3x19	also, penny's pretty good	0
+3x19	great	0 
+3x19	then it's on	1	1	nf
+3x19	oh, foolish wil wheaton, it was never off	0
+3x19	yes a common spare the miss congeniality of the bowling pageant	0
+3x19	before you jump on twitter to tout your modest accomplishment, how it's really done	0
+3x19	i am the ball my thoughts are its thoughts its holes are my holes	0
+3x19	yes tweet that, tweety bird	1	1	nf
+3x19	hey, i just wanted to tell you i'm a big fan	0
+3x19	oh, thanks i'm sure you're probably sick of star trek questions, but whoopi Goldberg you ever hit that	0
+3x19	ah, beer	0
+3x19	the magic elixir that can turn this poor, shy indian boy into the life of the party	0
+3x19	oh, yeah chili cheese fry	1	3	nf
+3x19	yes i love chili cheese fries	0
+3x19	really you love them	0
+3x19	yeah, why	0
+3x19	no reason	0
+3x19	i'm just glad to hear you're comfortable saying you love something	0
+3x19	do you really want to get into this right now	0
+3x19	get into what	0
+3x19	why wouldn't you love the chili cheese fries they've been in your life a long time they make you happy they deserve to know	0
+3x19	look, you just caught me by surprise last night i didn't know what to say	0
+3x19	okay, well, now you've had some time to think about it so, what do you want to say	0
+3x19	i'm not sure	0
+3x19	how can you not be sure	0
+3x19	okay, this isn't the place to have this conversation	1	1	ni
+3x19	no, the place to have the conversation was in bed after i said, "i love yo""  you said, "thank you good night""	0
+3x19	don't push it, leonard	1	1	ni
+3x19	i am not pushing anything	0
+3x19	you are	0
+3x19	you don't get to decide when i'm ready to say "i love you"	1	1	ni
+3x19	ah, the premature "i love you"	0
+3x19	i guessed "premature"does that count	0
+3x19	penny penny penny	0
+3x19	what	0
+3x19	this is for you	1	3	nf
+3x19	ice cream	0
+3x19	i've been familiarizing myself with female emotional crises by studying the comic strip cathy when she's upset, she says,"ack" and eats ice cream	0
+3x19	um ack	0
+3x19	if you were a cat, i would have brought you a lasagna	0
+3x19	did leonard send you over here	0
+3x19	no, we haven't spoken since your abrupt departure last night caused us to forfeit to stuart and his dastardly ringer wil wheaton	0
+3x19	yeah, i'm sorry about that	0
+3x19	i'm not too proud to admit that i cried myself to sleep	0
+3x19	again, i'm sorry	0
+3x19	and let me tell you, sleep did not come easily with leonard in the next room singing along with alanis morrisette	0
+3x19	you're kidding	0
+3x19	no clearly another woman in dire need of ice cream	0
+3x19	all right, sheldon, what part of this is supposed to make me feel better	1	1	nf
+3x19	the part where i tell you i've engineered a rematch with stuart's team for tonight	0
+3x19	oh, honey, i don't know things are a little weird with leonard right now	0
+3x19	you want me to remove him from the team i'm the captain i can do that	0
+3x19	no, no, that's okay just let me talk to him, and i'll get back to you	0
+3x19	when are you going to talk to him	0
+3x19	i don't know he's in the laundry room now	0
+3x19	now woulbe a good time	1	4	nf
+3x19	you're not gonna leave me alone until i do it, are you	0
+3x19	oh, i think we both know the answer to that question	0
+3x19	i think we should talk now	1	1	nf
+3x19	wha no, it's okay we don't have to talk 'cause there's nothing to talk about everything's good	0
+3x19	really so, you didn't get all snarky 'cause i said somethingice to a bowl of chili fries	0
+3x19	all right, maybe i overreacted so we're in two different places emotionally so what and maybe i'm a little ahead of you that's fine in fact, it makes sense, 'cause let's face it, i've been in this relationship two years longer than you	0
+3x19	look, leonard, you have how much i care about you it's just that i've said the "l" word soon before, and it didn't work out very well	0
+3x19	really i wouldn't know what that's like	0
+3x19	i'm sorry	0
+3x19	you know what i'm talking about, though	0
+3x19	yeah, i do	0
+3x19	so, we're good	0
+3x19	yes, that's what i'm telling you we are good we are great	0
+3x19	all right fence mended, problem swept under the rug time to bowl	1	1	nf
+3x19	yes, i was eavesdropping there's a lot at stake here	0
+3x19	attention, all bowlers	1	1	nf
+3x19	i've taken the liberty of having these made for our rematch	0
+3x19	"the wesley crushers"	0
+3x19	no, not the wesley crushers the wesley crushers	0
+3x19	i don't get it	0
+3x19	wesley crusher was wil wheaton's character on star trek	0
+3x19	still don't get it	0
+3x19	it's a blindingly clever play on words by appropriating his character's name and adding the s, we imply that we we'll be the crushers of wesley	0
+3x19	okay, i'm sorry, honey, but the wesley crushers sounds like a bunch of people who like wesley crusher	0
+3x19	no again, it's not the wesley crushers it's the wesley crushers	0
+3x19	no, if you want it to mean you're crushing wesley, it'd be the wesley crushers	0
+3x19	do you people even hear yourselves	0
+3x19	it's not the wesley crushers it's not the wesley crushers it's the wesley crushers	0
+3x19	hey, look	1	1	nf
+3x19	they named their team after m	0
+3x19	no, it's not the never mind	1	1	ni
+3x19	so, we're all clear on the bet and the stakes	0
+3x19	oh, yes the losers will be publicly humiliated in a fashion to be chosen by the victor	0
+3x19	i plan on having you publish a scientific paper expounding the discredited velikovsky hypothesis	0
+3x19	ouch again	0
+3x19	hey, sheldon, i just wanted you to know that i'm really looking forward to wiping the floor with you	0
+3x19	oh, yes well, before i respond, let me ask you a question is your mother a good or poor bowler	0
+3x19	after you	1	1	nf
+3x19	no, after you	1	1	ni
+3x19	as we are currently crushing you, Wesley it's customary for the player on the righthand lane to bowl first	0
+3x19	all right	0
+3x19	it's a custom, not a rule	0
+3x19	i so loathe you	0
+3x19	that's right, sheldon	0
+3x19	embrace the dark side	1	1	nf
+3x19	that's not even from your franchise	0
+3x19	i, um, i want you to know that even though we're on opposite sides, i, i bear you no ill will	0
+3x19	thank you, stuart it's nice to know	0
+3x19	mmhmm, mmhmm	0
+3x19	people from opposite sides often have good relationships you know, romeo and Juliet tony and maria from west side story, what'shisname and the big blue chick in avatar	0
+3x19	i'm gonna bowl now	0
+3x19	be the ball, howard	1	1	nf
+3x19	leave me alone, sheldon	1	1	nf
+3x19	you weren't the ball	0
+3x19	hey, thanks	0
+3x19	this is fun, huh	0
+3x19	yeah it's good that we got out and did something physical	0
+3x19	mmhmm	0
+3x19	gets us out of our heads you get in your head, you start to overthink, overanalyze, obsess, you worry that's not what we're doing tonight tonight we're just throwing a ball at some pins	1	1	nf
+3x19	yeah, that's right	0
+3x19	mmhmm, and someday we don't know when maybe you'll love me back	0
+3x19	ooh, i'm up	0
+3x19	sheldon Sheldon sheldon sheldon	0
+3x19	excuse me i don't know who you're chanting for as i am currently the ball ball the ball the ball the ball the ball the ball	0
+3x19	thank you, jesus	0
+3x19	as my mother would say i'm glad you patched things up with your boyfriend	0
+3x19	oh, yeah, me, too it's always tough when the "l" bomb gets dropped and you're not ready for it	0
+3x19	tell me about it	1	1	nf
+3x19	i dated this one girl, and i told her that i loved her, and she said she wasn't sure and she strung me along for almost two years it was brutal	0
+3x19	oh, i'm sorry	0
+3x19	thanks i wish she had just broken up with me right there, and put me out of my misery	0
+3x19	really	0
+3x19	yeah, would have been kinder	0
+3x19	wil, you're up	1	1	nf
+3x19	oh, that's me	0
+3x19	did you let wil wheaton get in your head	0
+3x19	what are you talking about	0
+3x19	he's evil he plays evil mind games did he tell you his grandmother died	0
+3x19	no	0
+3x19	well, if he does, don't believe it	1	1	ni
+3x19	he's not above playing the dead meemaw card	0
+3x19	yes enjoy the accolades now, wil wheaton,	1	1	nf
+3x19	but like your time on star trek next generation, your smug selfsatisfaction will be shortlived	1	2	nf
+3x19	penny, you're up	1	1	nf
+3x19	all right,	0
+3x19	remember, his meemaw's alive	1	1	nf
+3x19	and be the ball	1	1	nf
+3x19	yeah, i got it	0
+3x19	we really need a strike here	0
+3x19	i know	0
+3x19	so just take your time and concentrate	1	1	nf
+3x19	leonard, stop pressuring me	1	1	nf
+3x19	i'm not pressuring you	0
+3x19	yeah, you are	0
+3x19	just back off	1	1	nf
+3x19	okay, i'm sorry i'll shut up	0
+3x19	i didn't mean "shut up"	0
+3x19	fine just tell me what to do, and i'll do it	0
+3x19	no this isn't fair to you, leonard i'm sorry	0
+3x19	wait where are you going	1	1	nf
+3x19	penny, come back	1	1	nf
+3x19	i'll get you ice cream	0
+3x19	no, let her go	1	1	ni
+3x19	are you insane if she leaves, it's over	0
+3x19	i'm pretty sure it's already over	0
+3x19	tough luck, sheldon	0
+3x19	you did this, didn't you	0
+3x19	do you think i would really break up a couple just to win a bowling match	0
+3x19	no, i suppose not	0
+3x19	good, keep thinking that	1	1	nf
+3x19	wheaton	0
+3x19	mmhmm, mmhmm, yeah, i'm telling you, the matchcom chicks are much looser than on eharmony	0
+3x19	you know, ii gotta call you back i won a bet, and it's time to collect	0
+3x19	i don't know about you, but i feel empowered	0

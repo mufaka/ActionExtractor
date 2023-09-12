@@ -1,0 +1,498 @@
+﻿4x04	i'm telling you, if xenon emits	0
+4x04	ultraviolet light,	0
+4x04	then those dark matter	0
+4x04	discoveries must be wrong	0
+4x04	yes, well, if we lived in a world	0
+4x04	where slowmoving xenon produced light,	0
+4x04	then you'd be correct	0
+4x04	also, pigs would fly,	0
+4x04	my derriere would produce cotton candy,	0
+4x04	and the phantom menace would be a timeless classic	0
+4x04	oh, you're so arrogant	0
+4x04	if you were a superhero,	0
+4x04	your name would be captain arrogant	0
+4x04	and you know	0
+4x04	what your superpower would be arrogance	0
+4x04	you're wrong again	0
+4x04	if my superpower were arrogance,	0
+4x04	my name would be dr arroganto	0
+4x04	i love watching raj and sheldon	try to work together	0
+4x04	yeah, it's like	0
+4x04	if alien and predator decided to go partners in a jamba juice	0
+4x04	has it occurred to you	0
+4x04	you're missing the big picture	0
+4x04	if you look at neutron scattering data	0
+4x04	oh, penny	0
+4x04	penny	0
+4x04	what's up	0
+4x04	nothing i just wanted to make raj stop talking	0
+4x04	no, no, no	0
+4x04	he won	0 
+4x04	suck it up	1	1	nf
+4x04	well, i'd ask you guys	0
+4x04	if you want dessert,	0
+4x04	but i know sheldon doesn't eat dessert on tuesdays	0
+4x04	and even if raj wanted something, he couldn't tell me	0
+4x04	howard won't order anything,	0
+4x04	but he will come up with some sort of skeevy comment involving the words pie or cheesecake	0
+4x04	and leonard's lactose intolerant,	0
+4x04	so he can't eat anything here without his intestines blowing up	0
+4x04	like a balloon animal	0
+4x04	hang on a second	1	1	nf
+4x04	i could have the fruit platter	0
+4x04	you want the fruit platter	0
+4x04	does it have melon	0
+4x04	on it	0
+4x04	yeah	0
+4x04	no, i can't eat melon	0
+4x04	oh, howard,	0
+4x04	heads up	1	1	nf
+4x04	your exgirlfriend just came in for her shift	0
+4x04	when was the last time	0
+4x04	you saw her	0
+4x04	oh, not since we broke up	0
+4x04	wow how am i going to play this	sophisticated and relaxed	0
+4x04	friendly, noncommittal	0
+4x04	cold and distant	0
+4x04	hi, guys	0
+4x04	hey	0
+4x04	hello	0
+4x04	i see you decided to go	with pathetic and frightened	0
+4x04	it's one of his best moves	0
+4x04	so, my dear, we meet again	0
+4x04	hello, howard	0
+4x04	i've missed you	0
+4x04	i've missed you, katee sackhoff	0
+4x04	one question	0
+4x04	anything	0
+4x04	why am i wearing my battlestar galactica flight suit in bed	0
+4x04	why are you in bed with me	0
+4x04	if we start to question this,	0
+4x04	it all falls apart	0
+4x04	sorry	0
+4x04	oh, ravish me, howard	1	4	nf
+4x04	my loins ache for you	0
+4x04	okay, if you insist mrs wolowitz	0
+4x04	howard, have you seen my girdle	0
+4x04	no, ma	0
+4x04	i can't find it, and i'm late for my weight watchers meeting	0
+4x04	maybe it committed suicide	0
+4x04	leave me alone	1	1	nf
+4x04	now, where were we	0
+4x04	i believe you were about to rip off my uniform with your teeth	0
+4x04	bernadette	0
+4x04	what are you doing here	0
+4x04	well, if i had to	0
+4x04	guess, i'd say i'm here	0
+4x04	because you saw me earlier this evening,	0
+4x04	and you're still hung up on me	0
+4x04	no, i'm not	0
+4x04	clearly you are	0
+4x04	otherwise, based on past experience,	0
+4x04	we'd be done by now	0
+4x04	okay,	0
+4x04	i'm a little confused here	0
+4x04	george takei	0
+4x04	oh, my	0
+4x04	can i help	0
+4x04	not that kind of confused	0
+4x04	what's george	0
+4x04	takei doing here	0
+4x04	howard, do you have latent homosexual tendencies	0
+4x04	no, of course not	0
+4x04	so you say	0
+4x04	yet, here i am	0
+4x04	george, let me	ask you something	0
+4x04	how did you deal with being typecast as a science fiction icon	0
+4x04	it's difficult	0
+4x04	you try and stretch as an actor	0
+4x04	do strindberg, o'neill,	0
+4x04	but all they want is,	0
+4x04	"course laid in, captain"	0
+4x04	tell me about it	0
+4x04	it's frackin' frustrating	0
+4x04	wait katee,	0
+4x04	why are you leaving	0
+4x04	she's leaving because you really want to be with me	0
+4x04	mrs wolowitz	0
+4x04	howard, i found my girdle	0
+4x04	it was in the dryer	0
+4x04	great, ma	0
+4x04	i think it shrunk	0
+4x04	i'm spilling out like the pillsbury doughboy here and with that mental picture,	0
+4x04	i think we're done for the evening	0
+4x04	you know, you never told me what happened between you and bernadette	0
+4x04	i did a stupid thing	0
+4x04	yeah, i guessed that	0
+4x04	it was the kind of thing that makes it kind of hard to face her now	0
+4x04	that covers anything from farting in bed to killing a homeless guy	0
+4x04	oh, my god	0
+4x04	you ran over a hobo	0
+4x04	no	0
+4x04	stop asking	1	1	nf
+4x04	all right, fine so you want to get back together with her,	0
+4x04	but you're too ashamed to face her	0
+4x04	because of whatever	0
+4x04	it is you did in a nutshell	0
+4x04	okay	0
+4x04	well, how about this	0
+4x04	kidnap bernadette from the opera wearing a creepy mask so she doesn't know it's you	0
+4x04	now, you see, i don't know	0
+4x04	if you're kidding or not	0
+4x04	you're being unreasonable	0
+4x04	why can't	0
+4x04	i have a desk	0
+4x04	our collaboration is a work of the mind	0
+4x04	we don't need desks	0
+4x04	you have a desk	0
+4x04	correct	0
+4x04	but i can't have one	0
+4x04	you're two for two	0
+4x04	why can't he have a desk,	0
+4x04	sheldon	0
+4x04	oh, lord, will	0
+4x04	this day never end	0
+4x04	as i've explained repeatedly to dr koothrappali,	0
+4x04	whose ability to comprehend the american idiom fails him	0
+4x04	when it's convenient,	0
+4x04	there's absolutely	0
+4x04	no money	0
+4x04	in my budget for additional office furniture	0
+4x04	oh, but there's money	0
+4x04	for a drawer full of red vines,	0
+4x04	a marshmallow shooting rifle,	0
+4x04	and a super executive ant farm	0
+4x04	with glowinthedark sand	0
+4x04	yes	0
+4x04	okay, what if he buys his own desk	0
+4x04	yeah, what	0
+4x04	if i buy my own desk	0
+4x04	that's ridiculous	0
+4x04	why	0
+4x04	because	0
+4x04	yes	0
+4x04	it's my office	0
+4x04	sheldon	0
+4x04	all right, all right	0
+4x04	he can buy his own desk	0
+4x04	and i can put it in your office	0
+4x04	well, you really want to dot the i's and cross	0
+4x04	the t's, don't you	0
+4x04	why would you want a glowinthedark ant farm	0
+4x04	they do some of their best work at night	0
+4x04	ah, it's okay	0
+4x04	penny	0
+4x04	penny	0
+4x04	penny	0
+4x04	penny	0
+4x04	would you have opened the door	0
+4x04	if you knew it was me not since i found out the teddy bear you gave me had a webcam in it	0
+4x04	i just have a question	0
+4x04	does bernadette	ever talk about me	0
+4x04	oh, absolutely	0
+4x04	she does	0
+4x04	yeah, sure	0
+4x04	just yesterday, she asked,	0
+4x04	"why is howard hiding under the table"	0
+4x04	she saw that, huh	0
+4x04	oh, no, not at first	0
+4x04	right after i pointed it out	0
+4x04	let me ask you something else	0
+4x04	is she seeing anybody	0
+4x04	oh, not that i know of	0
+4x04	hey, while we're on the subject,	0
+4x04	why did you guys break up	0
+4x04	anyway	0
+4x04	oh, i'd rather not say	0
+4x04	howard, if you want my help, i've got to know what happened	1	1	nf
+4x04	but it's embarrassing	0
+4x04	yeah, that's what	0
+4x04	i'm counting on	0
+4x04	spill	1	1	nf
+4x04	okay well, you know world of warcraft	0
+4x04	um, the online game sure	0
+4x04	well, did you know that the characters in the game can have sex with each other	0
+4x04	oh, god i think	0
+4x04	i see where this is going	0
+4x04	her name was glissinda the troll	0
+4x04	bernadette walked in on me	0
+4x04	while we were doing the cybernasty under the bridge of souls	0
+4x04	oh, you're right	0
+4x04	that is so embarrassing	0
+4x04	would you talk to her	1	1	nf
+4x04	bernadette or the troll	0
+4x04	bernadette she was so mad at me,	0
+4x04	she wouldn't even listen to my side of the story	0
+4x04	well, what was your side	0
+4x04	well, for all we know,	0
+4x04	glissinda the troll wasn't even a real woman	0
+4x04	i mean, she could've been a yearold truck driver in new jersey	0
+4x04	really and that didn't make her feel better	0
+4x04	will you talk to her, see if there's any chance at all we could get back together	1	1	nf
+4x04	oh, gee, howard,	0
+4x04	i really don't want to get in the middle of this	0
+4x04	no why would you	0
+4x04	i'm just another lonely	nerd, living with his mother, trying to find any scrap of happiness he can	0
+4x04	you know, maybe to make up for the fact that his dad left him when he was	0
+4x04	okay, i will think about it	0
+4x04	you know, i've always blamed myself for him leaving	0
+4x04	i always thought it was because	i wasn't the son he wanted	0
+4x04	yeah, i said i'd	0
+4x04	think about it	1	1	nf
+4x04	i wasn't athletic,	0
+4x04	yeah, i was kind of sickly	0
+4x04	okay, fine look, look,	1	1	nf
+4x04	i'm calling her now see	0
+4x04	thank you	0
+4x04	so anyway,	0
+4x04	howard asked penny to talk to bernadette,	0
+4x04	and she did,	0
+4x04	and bernadette agreed to meet him for a cup of coffee	0
+4x04	one question	0
+4x04	yeah	0
+4x04	why on earth are you telling me all this	0
+4x04	i don't know	0
+4x04	sometimes your movements are so lifelike,	0
+4x04	i forget you're	not a real boy	0
+4x04	you said i could buy a desk	0
+4x04	this isn't a desk	0
+4x04	this is a brobdingnagian monstrosity	0
+4x04	is that the american idiom for "giant, bigass desk"	0
+4x04	it's actually british	0
+4x04	can you say it again for me	1	1	nf
+4x04	brobdingnagian	0
+4x04	one more time	1	1	nf
+4x04	brobdingnagian	0
+4x04	now three times fast	1	1	nf
+4x04	brobdingnagian, brobdingna	0
+4x04	how did you even	0
+4x04	get it in here	0
+4x04	that's for me, ramon, julio,	0
+4x04	jesus and rodrigo to know	0
+4x04	and you to find out	0
+4x04	all right, you've made your point	0
+4x04	a fine prank, very amusing	0
+4x04	now get it out	1	1	nf
+4x04	no	0
+4x04	yes	0
+4x04	yes	0
+4x04	no	0
+4x04	yes	0
+4x04	i have three brothers	0
+4x04	and two sisters, sheldon	0
+4x04	i can do this all day	0
+4x04	all right, if you're not going to remove it,	0
+4x04	i'll remove it for you	0
+4x04	knock yourself out	1	1	nf
+4x04	help me move my desk	1	1	nf
+4x04	no	0
+4x04	yes	0
+4x04	no	0
+4x04	yes	0
+4x04	no it's too brobdingnagian	0
+4x04	why do you even want this here	0
+4x04	its size is completely disproportionate	to its purpose	0
+4x04	well, seeing as its purpose was to piss you off,	0
+4x04	i'd say it's spoton	0
+4x04	all right, i see	0
+4x04	what's going on	0
+4x04	this is the opening	0
+4x04	salvo in what will be an escalating series of juvenile titfortat exchanges	0
+4x04	well titted	0
+4x04	thank you	0
+4x04	stand by for my upcoming tat	1	1	nf
+4x04	hey, sheldon	0
+4x04	yes	0
+4x04	no	0
+4x04	see what i did there	0
+4x04	i turned it around	0
+4x04	sorry,	0
+4x04	i had to clock out	0
+4x04	oh, no, that's okay	0
+4x04	how have you been	0
+4x04	okay you know,	0
+4x04	busy, schoolwork you	0
+4x04	same i took a scubadiving course over the summer,	0
+4x04	but it turns out i'm terrified of the ocean	0
+4x04	too bad	0
+4x04	you wouldn't know anybody	0
+4x04	who wants to buy a wet	0
+4x04	suit, boy's large	0
+4x04	yeah, forget it	1	1	nf
+4x04	not important	0
+4x04	so, are you	0
+4x04	seeing anyone	0
+4x04	well, to be honest, i	0
+4x04	hey, how are we	0
+4x04	doing over here can i	0
+4x04	get you something to drink	0
+4x04	not for me, thanks	0
+4x04	i'm okay	0
+4x04	are you gonna want to order food	0
+4x04	maybe later	0
+4x04	okay	0
+4x04	so, are you seeing anybody	0
+4x04	no	0
+4x04	that's what i told him	0
+4x04	when he asked me	0
+4x04	i hope that's not out of line	0
+4x04	no, it's fine	0
+4x04	penny, can we have a little privacy	1	1	nf
+4x04	oh i'm sorry	0
+4x04	what about you,	0
+4x04	have you been seeing anybody	0
+4x04	well, you know	0
+4x04	how it is with guys	0
+4x04	i mean, we have needs and	0
+4x04	so you've been seeing other girls	0
+4x04	well, not real girls	0
+4x04	does that mean slutty trolls	0
+4x04	you know, you look thirsty	0
+4x04	i brought you some iced tea	0
+4x04	thank you	0
+4x04	it's passion fruit,	0
+4x04	new on the menu	0
+4x04	i know i work here	0
+4x04	oh, sorry	0
+4x04	yeah, you're right doy	0
+4x04	so, howard,	0
+4x04	yay or nay	0
+4x04	isn't there somewhere else	1	1	ni
+4x04	you can be	0
+4x04	not where i can hear you guys	0
+4x04	okay, fine	0
+4x04	i'll admit, there are dark,	0
+4x04	sordid little corners of the internet	0
+4x04	where the name wolowizard is whispered in hushed tones	0
+4x04	the only reason i go there,	0
+4x04	the only reason	i've ever gone there	0
+4x04	is because i don't have	0
+4x04	a real woman in my life	0
+4x04	you happy	0
+4x04	yeah, that'll hold me for a while	0
+4x04	howard, you did have a real woman	0
+4x04	i was right there in the next room	0
+4x04	while you were clicking	0
+4x04	that troll's brains out	0
+4x04	yeah, but we weren't	0
+4x04	ii mean, you	0
+4x04	and i never had sex	0
+4x04	yeah	0
+4x04	well, whose fault was that	0
+4x04	complimentary nachos	0
+4x04	you enjoy	1	2	nf
+4x04	never had sex wow	0
+4x04	what do you mean,	0
+4x04	whose fault was that	0
+4x04	well, we could've	0
+4x04	been having sex,	0
+4x04	but you never made the move	0
+4x04	i didn't think you wanted me to make the move	0
+4x04	howard, a girl doesn't go out with a man like you,	0
+4x04	with your looks,	0
+4x04	your fancy patter	0
+4x04	and your tight hoochie pants	0
+4x04	if she's not expecting him to eventually make the move	0
+4x04	really	0
+4x04	really	0
+4x04	son of a bitch	0
+4x04	hey, this is a little awkward,	0
+4x04	but my manager says	0
+4x04	i can't actually give nachos away	0
+4x04	so just take that when you're ready	1	1	nf
+4x04	yeah, we had a really great talk,	0
+4x04	and we're gonna start seeing each other again	0
+4x04	oh, congratulations	0
+4x04	have you broken it to the troll yet	0
+4x04	did penny tell you about that	0
+4x04	no steve patterson told me	0
+4x04	the greasy old fat guy in facilities management	0
+4x04	yeah	0
+4x04	how'd he know about it	0
+4x04	he's glissinda the troll	0
+4x04	sorry, dude,	0
+4x04	the thermostat's on my side of the room,	0
+4x04	so it stays mumbai hot in here until you turn off	0
+4x04	that stupid indian music	0
+4x04	i'll turn off the music	0
+4x04	when you get rid of that	0
+4x04	salmonellaridden parakeet	0
+4x04	oh, too bad sheldon's pathologically afraid of birds	0
+4x04	hey, look, sheldon	0
+4x04	birdie, birdie, birdie	0
+4x04	that's it prepare for marshmallow death	0
+4x04	eat flaming nerf	1	2	nf
+4x04	so anyway	0
+4x04	that's great news about you and bernadette	0
+4x04	yeah i think i'm gonna take her to miniature golf	0
+4x04	ah well, i guess for you guys that's like regular golf short jokes really	0
+4x04	you're, like, a quarter of an inch taller than me	0
+4x04	yeah, and don't	you forget it	1	1	ni
+4x04	i had a good time	0
+4x04	me, too	0
+4x04	kiss her good night	1	1	nf
+4x04	all right, now a little tongue	1	1	nf
+4x04	george takei	0
+4x04	hold on there	1	1	nf
+4x04	we've only just rekindled	0
+4x04	the romance	0
+4x04	let's not sully the moment	0
+4x04	with the exchange of saliva	0
+4x04	don't listen to him	1	1	ni
+4x04	she wants it	0
+4x04	tongue	1	1	nf
+4x04	la, la, la, la, la	0
+4x04	see	0
+4x04	now make the move	1	1	nf
+4x04	mmmmm	0
+4x04	too soon	0
+4x04	trust me, she's ready	1	1	nf
+4x04	make the move	1	1	nf
+4x04	no, no, no	0
+4x04	a lady wants to be wooed,	0
+4x04	courted slowly	0
+4x04	how would you know	0
+4x04	i read	0
+4x04	listen to me, howard, it's time	1	1	nf
+4x04	make the move, now	1	1	nf
+4x04	mm what are you doing	0
+4x04	you said well,	0
+4x04	the "move," remember	0
+4x04	oh, not now	0
+4x04	we're starting a	0
+4x04	new relationship	0
+4x04	i need to get to	0
+4x04	know you again	0
+4x04	no, you don't	0
+4x04	it's me	0
+4x04	the lusty charmer with the fancy patter	0
+4x04	and the hoochie pants	0
+4x04	be patient	1	1	nf
+4x04	we'll get there	0
+4x04	told you	0
+4x04	oh, god, what's that smell	0
+4x04	ohhohoo	0
+4x04	yes	0
+4x04	what are you	0
+4x04	doing in there	0
+4x04	i'm making	0
+4x04	hydrogen sulfide	0
+4x04	and ammonia gas	0
+4x04	just a little experiment	0
+4x04	in pest control	0
+4x04	it's not gonna work, dude	0
+4x04	i grew up in india	0
+4x04	an entire subcontinent	0
+4x04	where cows walk in the street,	0
+4x04	and nobody has ever had	a solid bowel movement	0
+4x04	well, we'll just see	0
+4x04	how long you can hold out	0
+4x04	well, we'll just see how your noxious gas fares	against my cinnamon applescented	0
+4x04	aroma therapy candles	0
+4x04	didn't you say you're	0
+4x04	making hydrogen sulfide gas	0
+4x04	yes	0
+4x04	isn't that flammable	0
+4x04	highly	0
+4x04	oh, dear	0
+4x04	this is not over	0

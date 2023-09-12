@@ -1,0 +1,393 @@
+﻿2x16	that was close	0
+2x16	god, i love the smell of paintballs in the morning	0
+2x16	yeah, still funny	0
+2x16	we can't get to the ridge	0
+2x16	the chemistry department has us completely cut off	0
+2x16	and the creek bed he pharmacology department controls that,	0
+2x16	and they're all hopped up on experimental steroids	0
+2x16	that's it then	0
+2x16	we're doomed	0
+2x16	the time has come to acknowledge	0
+2x16	that we are paying the price for some of us failing to attend my physics department paintball strategy meeting	0
+2x16	i told you my mom has spider veins	0
+2x16	i had to take her to the laser clinic	0
+2x16	and i told you i wanted	to see a doctor's note	1	1	nf
+2x16	we need a plan	0
+2x16	how about operation hammer of the gods	0
+2x16	which one is hammer of the gods	0
+2x16	we hide behind the dumpsters in the parking lot and ambush people when they come to pee	0
+2x16	no go the dumpsters are deep	1	1	ni
+2x16	in astronomy department territory hat shouldn't be a problem	0
+2x16	venus is up during the day	0
+2x16	they're probably just all staring at the sky	0
+2x16	what we need now is a tactical retreat	0
+2x16	did you see the episode of stargate	0
+2x16	where they found themselves on a planet with a culture based loosely on earth's athens and sparta	0
+2x16	not important	0
+2x16	leonard, raj and i are going to burst out the door and run away	1	1	nf
+2x16	howard will cover us	1	1	nf
+2x16	why don't i run away	0
+2x16	and you cover me	0
+2x16	because you chose your mother's veins over victory	0
+2x16	on three	1	1	nf
+2x16	one, two, three, go	1	1	nf
+2x16	i had to take her	0
+2x16	it's almost bathing suit weather	0
+2x16	i surrender don't shoot	1	1	ni
+2x16	they went that way	0
+2x16	howard, i'm on your team	0
+2x16	leslie, thank god	0
+2x16	where's the rest of your squad	0
+2x16	they left me here to die	0
+2x16	what about yours	0
+2x16	dead, all of them	0
+2x16	sorry	0
+2x16	don't be	1	1	ni
+2x16	it was friendly fire	0
+2x16	they just wouldn't listen	0
+2x16	well, we're surrounded,	0
+2x16	so i guess there's nothing for us to do	0
+2x16	but wait to be captured or killed	0
+2x16	that's the worst part, the waiting	0
+2x16	all the while knowing that there's a paint pellet out there with your name on it	0
+2x16	the big wet ball of death kind of makes you feel more alive, doesn't it	0
+2x16	it kind of does	0
+2x16	i say we make every moment count	1	1	nf
+2x16	i agree	0
+2x16	how exactly do we do that	0
+2x16	why aren't you covering us	0
+2x16	we're getting slaughtered out here	0
+2x16	war is hell	0
+2x16	did you guys see the budget nemo hat went out this morning	0
+2x16	more cutbacks	0
+2x16	unacceptable	0
+2x16	it baffles me	0
+2x16	why they don't simply let some of you go	0
+2x16	so that there's money available for my research	0
+2x16	you know what baffles me based on your academic record,	0
+2x16	any number of things, i imagine	0
+2x16	hey, guys	0
+2x16	hey	0
+2x16	i got the approval for the rapid prototyper you wanted	0
+2x16	that's great, leslie thanks	0
+2x16	you scratch my back,	1	3	nf
+2x16	i scratch yours	0
+2x16	what was all that about	0
+2x16	no big deal	0
+2x16	they gave leslie control of some unrestricted grant money	0
+2x16	yeah, okay, but what's with the backscratching and the meow	0
+2x16	i believe the backscratching metaphor generally describes a quid pro quo situation	0
+2x16	where one party provides goods or services to the second party in compensation for a similar action	0
+2x16	thank you	0
+2x16	the meow, that sounded to me like an african civet cat	0
+2x16	are you done	0
+2x16	despite what the name suggests, the civet cat is not a true cat	0
+2x16	now i'm done	0
+2x16	you know what i'm thinking	0
+2x16	i'm thinking howard wasn't making a backscratching metaphor	0
+2x16	i'm thinking there was some actual scratching involved	0
+2x16	what about it	0
+2x16	i didn't want to say anything	0
+2x16	'cause i know you and leslie have a little history	0
+2x16	i don't care about that	0
+2x16	great, i've been dying to say something	0
+2x16	you and leslie n the paintball shed twice	0
+2x16	is that why you didn't cover our escape and let us get cut down like animals	0
+2x16	oh, yeah, sorry about that	0
+2x16	my good man, dereliction of duty in the face of the enemy is a courtmartial offense	1	1	nf
+2x16	courtmartial, schmortmartial,	0
+2x16	leslie winkle is the fifth girl 	i mean, for free	0
+2x16	plus, you got a rapid prototyper	0
+2x16	that's an expensive piece of equipment	0
+2x16	and the rest of us have had our budgets cut to the bone	0
+2x16	one way to look at this	0
+2x16	is that i'm getting new equipment,	0
+2x16	and you're not,	0
+2x16	and that's unfair	0
+2x16	but a better way to look at this is that i'm getting sex and you're not,	0
+2x16	and that's delightful	0
+2x16	the whole thing froze	0
+2x16	i don't know what happened	0
+2x16	calm down we'll figure it out	1	1	nf
+2x16	how can i calm down	0
+2x16	i'm gonna lose my whole shopping cart	0
+2x16	that's three hours of picking out shoes	0
+2x16	just shot to hell	0
+2x16	hello, penny	0
+2x16	hello, sheldon	0
+2x16	you're in my spot	1	1	nf
+2x16	are you planning on sitting here	0
+2x16	no, i'm going to the comic book store	0
+2x16	then what difference does it make	0
+2x16	what difference does it make	0
+2x16	here we go	0
+2x16	that is my spot	0
+2x16	in an everchanging world, it is a single point of consistency	0
+2x16	if my life were expressed as a function on a fourdimensional cartesian coordinate system,	0
+2x16	that spot at the moment	0
+2x16	i first sat on it	0
+2x16	would be zerozerozerozero	0
+2x16	what	0
+2x16	don't sit in his spot	1	1	ni
+2x16	fine	0
+2x16	happy	0
+2x16	i'm not unhappy	0
+2x16	boy, i love him, but he is one serious wackadoodle	0
+2x16	okay, that should do it	0
+2x16	thank you you are a lifesaver	0
+2x16	that's a lot of shoes you ordered	0
+2x16	yeah, you know the sad thing is,	0
+2x16	it's really not	0
+2x16	is this one of those paintball guns	0
+2x16	you ought to come out with us sometime	1	2	nf
+2x16	no, thanks i'm from nebraska	0
+2x16	when we shoot things,	0
+2x16	it's because we want to eat them or make them leave	0
+2x16	our boyfriends alone	0
+2x16	boy, your heart's racing	0
+2x16	i must've really gotten you going	0
+2x16	well, it's partly you,	0
+2x16	partly my transient idiopathic arrhythmia	0
+2x16	sexy	0
+2x16	can i assume that you've likewise found the experience satisfactory	0
+2x16	that wasn't quite the word i was looking for,	0
+2x16	but sure, i'll do this passfail	0
+2x16	are you enjoying that prototyper i got you	0
+2x16	it's great	0
+2x16	everybody in the engineering department is eating their hearts out	0
+2x16	isn't it nice when your good fortune makes others miserable	0
+2x16	you know, most people don't get that	0
+2x16	howard, i'm home	0
+2x16	oh, great	0
+2x16	book club was cancelled	0
+2x16	that thing on phyllis's neck opened up again	0
+2x16	i'm busy, ma	0
+2x16	too busy to help your mother with her zipper	1	1	nf
+2x16	don't come in, ma	1	1	ni
+2x16	why not	0
+2x16	he's got company	0
+2x16	there's the arrhythmia	0
+2x16	is she jewish	0
+2x16	are you jewish	0
+2x16	no	0
+2x16	yes	0
+2x16	okay, then you kids have fun	0
+2x16	use protection	0
+2x16	you think he'll notice	0
+2x16	there's a chance	0
+2x16	what are we gonna do	0
+2x16	"we"	0
+2x16	no, you had your chance to be "we" for, like, a year and a half now	0
+2x16	right now, you are "you," and you are screwed	0
+2x16	why do we have to tell him i did it	0
+2x16	we're not gonna tell him i did it	0
+2x16	okay, okay, how about this	0
+2x16	we tell him somebody broke in	1	1	nf	
+2x16	just to shoot the couch with a paintball gun	0
+2x16	i'm sorry, i buy it	1	1	nf
+2x16	all those people are on drugs	0
+2x16	we could tell him they wanted the couch	0
+2x16	to stay away from their boyfriend	0
+2x16	okay, fine	0
+2x16	what if we just flip it over	0
+2x16	there looks fine, right	0
+2x16	butt print	0
+2x16	there's no discernible butt print	0
+2x16	oh, come on	0
+2x16	there, butt print	0
+2x16	it's too small and too	0
+2x16	perfect	0
+2x16	thank you	0
+2x16	you're welcome	0
+2x16	act normal	1	1	nf
+2x16	how was the comic book store	0
+2x16	fine the new issue of flash is out	0
+2x16	great, great	0
+2x16	did you walk the whole way	0
+2x16	it's a little chilly	0
+2x16	koothrappali picked me up	0
+2x16	isn't that terrific	0
+2x16	he is such a good friend	0
+2x16	you know what the best thing about friends is	0
+2x16	they don't talk incessantly for no particular reason	0
+2x16	no, friends forgive the little things	0
+2x16	i gotta go home and wash my hair	0
+2x16	don't you dare, missy	1	1	ni
+2x16	hello, fastest man alive want to see me read your entire comic book	0
+2x16	want to see it again	0
+2x16	something's wrong	0
+2x16	what do you mean	0
+2x16	i'm not sure	0
+2x16	it doesn't feel right	1	1	ni
+2x16	i don't know	0
+2x16	what you're talking about	0
+2x16	oh, that penny did that	0
+2x16	excuse me	0
+2x16	why don't you just eat in your desk chair	0
+2x16	why don't i just eat in my desk chair	0
+2x16	here we go	0
+2x16	that is my desk chair	0
+2x16	that is where i work	0
+2x16	i don't eat in my desk chair	1	1	ni
+2x16	and i don't work in my spot	1	1	ni
+2x16	i work in my desk chair	0
+2x16	and eat in my spot	0
+2x16	wackadoodle	0
+2x16	you know, there's kind of an obvious solution here	0
+2x16	get up	1	1	nf
+2x16	there problem solved	0
+2x16	nobody cares where you're going to sit	0
+2x16	you're not crazy	0
+2x16	excuse me,	0
+2x16	but the problem is not solved	0
+2x16	if your head had been accidentally amputated,	0
+2x16	and we transplanted a dog's head in its place, would that be "problem solved"	0
+2x16	if it were your head, it would be	0
+2x16	i am really, really sorry,	0
+2x16	but it's only for a week	0
+2x16	can't you be a little bit flexible	0
+2x16	yeah, sorry	0
+2x16	i didn't really think that through	0
+2x16	you claimed it's going to be a week,	0
+2x16	but i have no faith in your dry cleaner	0
+2x16	why not	0
+2x16	did you notice the sign on his counter	0
+2x16	he's not a fulltime dry cleaner	0
+2x16	he also makes keys for god's sake, sheldon	0
+2x16	focus is important	0
+2x16	was michael debakey a wedding planner	0
+2x16	in between heart transplants	0
+2x16	did alexander fleming moonlight	0
+2x16	as a hairdresser	0
+2x16	"thanks for discovering penicillin	0
+2x16	now how about we try a bouffant"	0
+2x16	looks like i'm gonna have sex tonight	0
+2x16	hey, baby	0
+2x16	his right hand is calling him	0
+2x16	no, it's leslie winkle	0
+2x16	it's a long story	0
+2x16	i'll pick you up in ten minutes	1	1	nf
+2x16	gentlemen, adieu	0
+2x16	i thought we were going	to play halo tonight	1	1	nf
+2x16	what am i supposed to do	0
+2x16	there's a woman out there anxious to have sex with me	0
+2x16	you understand, right	0
+2x16	no not at all	1	1	ni
+2x16	nevertheless, i must depart	1	1	nf
+2x16	by the way, did i tell you leslie pulled some strings and got me on the research trip to geneva to check out the cern supercollider	0
+2x16	that's not fair	0
+2x16	you're not even a physicist	0
+2x16	there are two ways of looking at this	0
+2x16	get out	1	1	nf
+2x16	bye	0
+2x16	you're improving	0
+2x16	thank you	0
+2x16	it helps when i get to practice	0
+2x16	with a real woman	0
+2x16	listen	1	1	nf
+2x16	saturday my sister's getting married	0
+2x16	i want you to come with me	1	3	nf
+2x16	it's black tie	0
+2x16	yeah, gee	0
+2x16	i'd really rather not	0
+2x16	why not	0
+2x16	when i go to weddings,	0
+2x16	it's to scam on chunky bridesmaids	0
+2x16	i don't know what i would do with a date	0
+2x16	all right i understand	0
+2x16	thanks	0
+2x16	i'm really sorry about that geneva trip	0
+2x16	what about it	0
+2x16	didn't you hear i reduced the number of people going,	0
+2x16	and you didn't make the cut	0
+2x16	when did that happen	0
+2x16	about  seconds ago	0
+2x16	well, hold on	0
+2x16	are you saying if i don't go to the wedding, i can't go to geneva	0
+2x16	actually, i'm trying not to say it	1	3	nf
+2x16	okay, i'm sorry,	0
+2x16	but that makes me a little uncomfortable	0
+2x16	how so	0
+2x16	'cause it's like you're controlling me with new equipment and research trips	0
+2x16	if i weren't controlling you with new equipment and research trips, then i'd be uncomfortable	0
+2x16	how so	0
+2x16	'cause we'd be in a real relationship with feelings and all that crap	0
+2x16	so, bottom line, i'm just a boughtandpaidfor sex toy	0
+2x16	no, not at all	0
+2x16	you're also arm candy	1	1	nf
+2x16	so	0
+2x16	what do you think	0
+2x16	hey, ma, you got to rent me a tux	1	1	nf
+2x16	right now	0
+2x16	what kind of sex are you having up there	0
+2x16	why are you crouching there	0
+2x16	this is my spot	0
+2x16	where else am i supposed to crouch	0
+2x16	i don't know texas	0
+2x16	here you go fresh from the cleaners,	1	1	nf
+2x16	good as new	0
+2x16	really great	0
+2x16	sheldon, look good as new from that key maker,	0
+2x16	i highly doubt it	0
+2x16	come on, sheldon	0
+2x16	just give it a try	1	1	nf
+2x16	all right	0
+2x16	there, nice and comfy cozy	0
+2x16	zero, zero, zero	0
+2x16	there's one more zero	0
+2x16	you forgot the time parameter	0
+2x16	sit on the damn couch	1	1	nf
+2x16	what do you mean, "nope"	0
+2x16	what's wrong with it	0
+2x16	nothing, it's what's wrong with him	0
+2x16	it's exactly the same	0
+2x16	penny, i think i know what to do	0
+2x16	sheldon, i have some bad news	0
+2x16	more	0
+2x16	i'm afraid so	0
+2x16	you know the cashew chicken i get you monday nights	0
+2x16	yes from szechuan palace	0
+2x16	szechuan palace closed two years ago	0
+2x16	what	0
+2x16	where did my cashew chicken come from	0
+2x16	golden dragon	0
+2x16	no, this isn't right	0
+2x16	our food always comes in szechuan palace containers	0
+2x16	yeah, well,	0
+2x16	before they went out of business,	0
+2x16	i bought , containers	0
+2x16	i keep them in the trunk of my car	0
+2x16	but this changes everything	0
+2x16	i thought that might take his mind off the cushion	0
+2x16	what's real what isn't	0
+2x16	how can i know	0
+2x16	you did make that up, right	0
+2x16	oh, god, i wish i had	0
+2x16	leonard	0
+2x16	yeah, buddy	0
+2x16	i still don't like this cushion	0
+2x16	okay, first of all,	0
+2x16	penny, thank you for coming	0
+2x16	thanks for the shoes	0
+2x16	penny is an amazing shot	0
+2x16	we have a real chance to win this week	0
+2x16	what's the plan	0
+2x16	now, we all run out	1	1	nf
+2x16	sheldon and i will cut	to the left behind these trees	1	1	nf
+2x16	raj, howard and leslie flank to the right behind the rocks	1	1	nf
+2x16	we'll have a great view as penny runs out and kills everyone else in sight	0
+2x16	just one thing before we start	0
+2x16	what is it, sheldon	0
+2x16	what the hell	0
+2x16	that was for my cushion	0
+2x16	sheldon, penny was our only hope	0
+2x16	i'm sorry	0
+2x16	but revenge is a dish best served cold	0
+2x16	screw that	0
+2x16	she can't shoot me	1	1	ni
+2x16	she's dead	0
+2x16	he's right you can't	1	1	ni
+2x16	well, if we're going to descend into anarchy	0
+2x16	see you	0
+2x16	where are you going	0
+2x16	surrender, then denny's	0

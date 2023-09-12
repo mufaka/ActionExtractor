@@ -1,0 +1,447 @@
+﻿2x13	gentlemen, i put it to you	0
+2x13	the worst tapioca pudding	0
+2x13	is better than the best pudding of any other flavor	0
+2x13	first off, that is axiomatically wrong	0
+2x13	because the best pudding is chocolate	0
+2x13	secondly, the organic structure of tapioca makes it a jiggling bowl	0
+2x13	of potential death	0
+2x13	it is extracted from the plant	0
+2x13	i'm thinking of growing a mustache	0
+2x13	no kidding fu manchu,	0
+2x13	a handlebar, pencil	0
+2x13	it's extracted from	0
+2x13	i'm not sure yet	0
+2x13	george clooney has one now	0
+2x13	really	0
+2x13	i once saw him shopping at ralph's	0
+2x13	he was buying tequila	0
+2x13	you'd thinka guy like that would have some kind of booze lackey	0
+2x13	this is cruel	0 
+2x13    we'd better let him finish before his head explodes	1	1	nf
+2x13	all right, why is tap	0
+2x13	tapioca is extracted from the root of the plant manihot esculenta	0
+2x13	due to a high concentration of cyanide, it is poisonous in its raw form	0
+2x13	and lethal if prepared improperly	0
+2x13	feel better now	0
+2x13	it is also indigenous to brazil	0
+2x13	as is the cocoa bean,	0
+2x13	from which we get chocolate, the best pudding	0
+2x13	you promised	0
+2x13	you wouldn't do that anymore	0
+2x13	hey, hofstadter	0
+2x13	hey, kripke	0
+2x13	heard about your latest antiproton decay experiment	0
+2x13	, data runs	0
+2x13	and no statistically significant results very impressive	0
+2x13	what a jerk	0
+2x13	don't feel bad	1	1	ni
+2x13	negative results are still results	0
+2x13	even , of them	0
+2x13	all right	0
+2x13	please don't cheer me up anymore	1	1	ni
+2x13	don't let him get to you	1	1	ni
+2x13	it's kripke	0
+2x13	he's a ginormous knob	0
+2x13	that's why he eats by himself instead of sitting here at the cool table for shizzle	0
+2x13	it's true kripke lacks the basic social skills that we take for granted	0
+2x13	but he also controls the new open science grid computer	0
+2x13	that i need to use to run some simulations of structure formation	0
+2x13	in the early universe	0
+2x13	good luck getting time on it	0
+2x13	the only people he lets use it are his friends	0
+2x13	then the solution is simple	0
+2x13	i shall befriend him	0
+2x13	what would you say to the idea of you and i becoming friends	1	3	nf
+2x13	i would say i have no interest in becoming your friend	0
+2x13	really	0
+2x13	that seems rather shortsighted	0
+2x13	coming from someone who is generally considered altogether unlikable	0
+2x13	why don't you take some time to reconsider	0
+2x13	yeah, i'll do that	0
+2x13	i think we're off to a terrific start	0
+2x13	there you go	0
+2x13	now any email from wolowitz	0
+2x13	will go right into your spam folder	0
+2x13	thanks	0
+2x13	the email doesn't bother me as much as the vacation pictures of him	0
+2x13	in a bathing suit	0
+2x13	yeah, i got the same one,	0
+2x13	and that's not a bathing suit	0
+2x13	it's a tan line	0
+2x13	hello,	0
+2x13	this is sheldon cooper	0
+2x13	i am leaving a message for barry kripke	0
+2x13	it was pleasant	0
+2x13	seeing you today in the cafeteria	0
+2x13	i saw that you purchased the chef's salad	0
+2x13	apparently, you did not know	0
+2x13	that the chef's salad is kitchen trickery to utilize scrap meat	0
+2x13	nevertheless,	0
+2x13	i hope you enjoyed it	0
+2x13	i'm following up on our pending friendship	0
+2x13	and i look forward to hearing from you regarding its status	0
+2x13	sheldon cooper	0
+2x13	what's up with ichabod	0
+2x13	he's trying to make a new friend	0
+2x13	really	0
+2x13	well, good for him	0
+2x13	unless he makes one out of wood like geppetto,	0
+2x13	i don't think it's gonna happen	0
+2x13	how did you guys become friends	0
+2x13	there was a flyer on the bulletin board at the university	0
+2x13	"roommate wanted whistlers need not apply"	0
+2x13	and you moved in anyway	0
+2x13	i assumed he was joking	0
+2x13	you'd be surprised how many particle physicists have a whimsical side	0
+2x13	what about howard and raj	0
+2x13	how did he become friends with them	0
+2x13	i don't know	0
+2x13	how do carbon atoms form a benzene ring	0
+2x13	proximity and valence electrons	0
+2x13	well, sure,	0
+2x13	when you put it that way	0
+2x13	but it all worked out, right	0
+2x13	i suppose	0
+2x13	i do miss whistling, though	0
+2x13	oh, come on really	0
+2x13	first warning	1	1	nf
+2x13	this is for you	1	1	nf
+2x13	hello, sheldon	0
+2x13	hi	0
+2x13	what is this	0
+2x13	it's a questionnaire i devised	0
+2x13	i'm having some difficulty bonding with a colleague at work	0
+2x13	so i'm doing a little research	0
+2x13	to better understand why my current friends like me	0
+2x13	yes, well, that is a good question	0
+2x13	but is this really the best way to figure it out	0
+2x13	i agree	0
+2x13	the social sciences are largely hokum but short of putting electrodes in your brain and monitoring your response	0
+2x13	to my companionship,	0
+2x13	this is the best i can do	0
+2x13	okay, "question one	0
+2x13	"rank the following aspects of sheldon cooper "in order of appeal	0
+2x13	intelligence	0
+2x13	"ruthless attention to hygiene	0
+2x13	playfulness	0
+2x13	java applet writing"	0
+2x13	i know, i may have started out with a fairly obvious one	0
+2x13	an aspect of my most appealing trait	0
+2x13	playfulness	0
+2x13	go ahead and rank that number one	1	1	nf
+2x13	i'm afraid you're on your own for the rest	0
+2x13	it should take you no more than three hours	0
+2x13	wait how many questions	0
+2x13	are on this thing	0
+2x13	only	0
+2x13	don't worry	1	1	ni
+2x13	in deference to you, i kept them all	0
+2x13	at a high school graduate	0
+2x13	reading level	0
+2x13	thanks, pal	0
+2x13	you got it buddy	0
+2x13	honey, did you ever consider	0
+2x13	making friends by being,	0
+2x13	i don't know, pleasant	0
+2x13	that's certainly a thoughtprovoking hypothesis	0
+2x13	may i suggest it as the topic for your essay	1	3	nf
+2x13	your questionnaire,	0
+2x13	very disappointing	0
+2x13	i answered every question	0
+2x13	you answered the multiple choice questions in a pattern	0
+2x13	abbac	0
+2x13	abbac	0
+2x13	oh, you picked up on that	0
+2x13	how could i not	0
+2x13	come on	1	1	nf
+2x13	there's over  questions	0
+2x13	and look at some of these things	0
+2x13	"sheldon is to camaraderie as the space shuttle is to blank"	0
+2x13	there are a number of acceptable answers	0
+2x13	for example,	0
+2x13	"c nearearth transport"	0
+2x13	but certainly not	0
+2x13	"b avocado rancher"	0
+2x13	and your essay suggesting that i'd have better luck	0
+2x13	making friends if i wait till the cylons take over	0
+2x13	please	1	1	nf
+2x13	hold on	1	1	nf
+2x13	i put some real work into that	1	1	nf
+2x13	yes, well, it's better than what wolowitz did	0
+2x13	he drew a raccoon with what appears to be  distended scrotum	0
+2x13	it's kinda cute	0
+2x13	until you get to the scrotum	0
+2x13	what hope do i have	0
+2x13	for establishing new relationships	0
+2x13	given that my current friends	0
+2x13	apparently could not take a few hours out of their lives to help me	0
+2x13	i'm not going to defend	a bigballed raccoon	1	1	ni
+2x13	i don't see how you could	0
+2x13	what i'm trying to say is that maybe you can't approach this s a purely intellectual exercise	0
+2x13	what do you mean	0
+2x13	remember when you tried to learn how to swim using the internet	0
+2x13	i did learn how to swim on the floor	0
+2x13	the skills are transferable	0
+2x13	i just have no interest in going in the water	0
+2x13	then why learn how to swim	0
+2x13	the ice caps are melting	0
+2x13	in the future, swimming isn't going to be optional	0
+2x13	but you do bring up	0
+2x13	an interesting point	0
+2x13	i don't have to break new ground here	0
+2x13	i'm sure much of the research already exists	0
+2x13	no, no, my point is,	0
+2x13	if you want to learn how to make friends,	0
+2x13	then just go out to a coffee shop or a museum	0
+2x13	meet people talk to them	1	1	nf
+2x13	take an interest in their lives	1	1	nf
+2x13	that's insane on the face of it	0
+2x13	where are we going	0
+2x13	you're driving me to the mall	1	1	nf
+2x13	i'm going to acquire a book that summarizes the current theories	0
+2x13	in the field of friendmaking	0
+2x13	why don't you just lie down on the floor and swim there	0
+2x13	coping with the death of a loved one	0
+2x13	my condolences	0
+2x13	thank you	0
+2x13	family or friend	0
+2x13	family	0
+2x13	too bad	0
+2x13	if it had been a friend,	0
+2x13	i'm available to fill the void	0
+2x13	it's just as well	0
+2x13	she smelled like mothballs	0
+2x13	if you're gonna start sniffing people,	0
+2x13	i'm gonna go get a hot pretzel	0
+2x13	excuse me	0
+2x13	do you have any books about making friends	0
+2x13	yeah, but they're all for little kids	0
+2x13	i assume the skills can be extrapolated and transferred	0
+2x13	i guess	0
+2x13	they're right over there by the wooden train set	1	4	nf
+2x13	i love trains	0
+2x13	i bet you do	0
+2x13	my, that's awfully sticky	0
+2x13	all right, let's see	0
+2x13	bernie bunny has two daddies now	0
+2x13	that's probably about homosexual rabbits	0
+2x13	gerry the gerbil	0
+2x13	and the bullies on the bus	0
+2x13	read it not helpful	0
+2x13	here we go	0
+2x13	stu the cockatoo is new at the zoo	0
+2x13	"author sarah carpenter	0
+2x13	lives in fort wayne, indiana	0
+2x13	"with her husband	0
+2x13	and best friend, mark,	0
+2x13	and their cockatoo stu" hardly makes her an expert in making friends, wouldn't you agree	0
+2x13	i don't like birds they scare me	0
+2x13	me, too	0
+2x13	most people don't see it	0
+2x13	what are you reading	0
+2x13	curious george	0
+2x13	i do like monkeys	0
+2x13	curious george is a monkey	0
+2x13	somewhat anthropomorphized, but yes	0
+2x13	say,	0
+2x13	maybe sometime you and i could go see monkeys together	1	2	nf
+2x13	would you like that	0
+2x13	okay	0
+2x13	what are you doing	0
+2x13	i'm making friends with this little girl	0
+2x13	what's your name	0
+2x13	rebecca	0
+2x13	hi, rebecca	0
+2x13	i'm your new friend, sheldon	0
+2x13	no, you're not	1	1	ni
+2x13    let's go	1	1	nf
+2x13	we were really hitting it off	0
+2x13	don't look up there's cameras	1	1	ni
+2x13	i'm curious in the "how well do you know sheldon" section,	0
+2x13	what did you put for his favorite amino acid	0
+2x13	lysine	0
+2x13	damn it, i had lysine and changed it	0
+2x13	good, you're just in time	0
+2x13	i believe i've isolated the algorithm for making friends	0
+2x13	sheldon, there is no algorithm for making friends	0
+2x13	hear him out	1	1	nf
+2x13	if he's really onto something,	0
+2x13	we could open a booth at comiccon	0
+2x13	make a fortune	0
+2x13	see, my initial approach to kripke had the same deficiencies	0
+2x13	as those that plagued stu the cockatoo	0
+2x13	when he was new at the zoo	0
+2x13	stu the cockatoo	0
+2x13	he's new at the zoo	0
+2x13	it's a terrific book	0
+2x13	i've distilled its essence into a simple flow chart	0
+2x13	that will guide me through the process	0
+2x13	have you thought about putting him in a crate	0
+2x13	while you're out of the apartment	0
+2x13	hello, kripke sheldon cooper here	0
+2x13	it occurred to me you hadn't returned any of my calls	0
+2x13	because i hadn't offered any concrete suggestions	0
+2x13	for pursuing our friendship	0
+2x13	perhaps the two of us might share a meal together	1	3	nf
+2x13	i see	0
+2x13	well, then perhaps you'd have time for a hot beverage	1	3	nf
+2x13	popular choices include	0
+2x13	tea, coffee, cocoa	0
+2x13	i see	0
+2x13	no, wait don't hang up yet	1	1	ni
+2x13	what about a recreational activity	0
+2x13	i bet we share	0
+2x13	some common interests	0
+2x13	tell me an interest of yours	1	1	nf
+2x13	really	0
+2x13	on actual horses	0
+2x13	tell me another interest of yours	1	1	nf
+2x13	i'm sorry i have no desire to get in the water till i absolutely have to tell me another interest of yours	1	1	nf
+2x13	he's stuck in an infinite loop	0
+2x13	i can fix it	0
+2x13	interesting, but isn't ventriloquism	0
+2x13	by definition a solo activity	0
+2x13	tell me another interest of yours	1	1	nf
+2x13	is there any chance you like monkeys	0
+2x13	what is wrong with you	0
+2x13	everybody likes monkeys	0
+2x13	hang on, kripke	0
+2x13	a loop counter and an escape to the least objectionable activity	0
+2x13	howard, that's brilliant	0
+2x13	i'm surprised you saw that	0
+2x13	gee, why can't sheldon make friends	0
+2x13	all right, kripke, that last interest	0
+2x13	strikes me as the least objectionable,	0
+2x13	and i would like to propose that we do that together	0
+2x13	tomorrow	0
+2x13	yes, i'll pay	0
+2x13	all right, goodbye	0
+2x13	all right	0
+2x13	time to learn rock climbing	0
+2x13	you know, i am a fan of ventriloquism	0
+2x13	maybe you, me and your dummy could go get a hot beverage	0
+2x13	he could talk while you drink	0
+2x13	nope i wanna climb some rocks	0
+2x13	this appears significantly more monolithic than it did on my laptop	0
+2x13	one expects to see hominids	0
+2x13	learning to use bones as weapons	0
+2x13	you afraid of heights, cooper	0
+2x13	hardly	0
+2x13	a fear of heights is illogical	0
+2x13	a fear of falling, on the other hand, is prudent and evolutionary	0
+2x13	what would you say is	0
+2x13	the minimum altitude i need to achieve to cement our newfound friendship	0
+2x13	they have birthday parties here	0
+2x13	little kids climb this	0
+2x13	little kid hominids perhaps	0
+2x13	so is this your entire job	0
+2x13	your parents must be so proud	0
+2x13	let's go, cooper	1	1	nf
+2x13	i'm coming, kripke	0
+2x13	the harness seems to be secure	0
+2x13	a small amount of incontinence	0
+2x13	just now,	0
+2x13	but the web site said that's to be expected	0
+2x13	this isn't so bad	0
+2x13	it's like vertical swimming	0
+2x13	look at you	0
+2x13	you're almost halfway to the top	0
+2x13	i am	0
+2x13	i was wrong	0
+2x13	it is a fear of heights	0
+2x13	you all right there, cooper	0
+2x13	not really	0
+2x13	i feel somewhat like an inverse tangent function	0
+2x13	that's approached an asymptote	0
+2x13	are you saying you're stuck	0
+2x13	what part of inverse tangent function approaching an asymptote did you not understand	0
+2x13	i understood all of it	0
+2x13	i'm not a moron	0
+2x13	just keep going	1	1	nf
+2x13	yeah, i don't think i can	0
+2x13	well, then climb back down	1	1	nf
+2x13	no, that doesn't seem any more likely	0
+2x13	what's your plan	0
+2x13	well, it's not exactly a plan,	0
+2x13	but i think i'm going to pass out	0
+2x13	sorry, can we please just do it one more time	0
+2x13	one, two, one, two, three, and	0
+2x13	it's a little thing,	0
+2x13	but you really do miss it	0
+2x13	hello, everyone	0
+2x13	i brought my new friend	0
+2x13	barry kripke home for dinner	0
+2x13	hello to you, too	0
+2x13	how was rock climbing	0
+2x13	he passed out	0
+2x13	just hung there like a big salami	0
+2x13	that's where i sit	0
+2x13	you have a special spot	0
+2x13	what kind of wacko are you	0
+2x13	how much time you got	0
+2x13	you want some chinese food	0
+2x13	terrific got any dental floss in the bathroom	1	4	nf
+2x13	be right back	0
+2x13	i got to floss the indian food out of my teeth	0
+2x13	if i'm gonna eat chinese	0
+2x13	sheldon, are you okay	0
+2x13	yes, i pass out all the time,	0
+2x13	but it was worth it	0
+2x13	i've made substantial progress in bonding with kripke,	0
+2x13	which brings me to an awkward moment	0
+2x13	what's that	0
+2x13	maintaing five friendships promises to be a herculean task, so	0
+2x13	i'm going to have to let one of you go	0
+2x13	me, me, let it be me	1	2	nf
+2x13	leonard, you are my roommate,	0
+2x13	my source of transportation,	0
+2x13	and you help me fold my sheets	0
+2x13	when they come out of the dryer	0
+2x13	you are safe	0
+2x13	can i whistle	0
+2x13	don't be silly	1	1	ni
+2x13	you do not have a phd	0
+2x13	your cologne is an assault on the senses	0
+2x13	and you're not available for video games	0
+2x13	during the jewish high holidays	0
+2x13	guilty as charged i'm out	0
+2x13	you too are safe	1	1	nf
+2x13	come on what do i have to do	0
+2x13	okay, you know what	0
+2x13	i see where this is going	0
+2x13	i'm not one of you guys	0
+2x13	i'm not a scientist, so just tell me	0
+2x13	everything you're saying is true,	0
+2x13	but please allow me to continue	0
+2x13	you're out	0
+2x13	that's a good question	0
+2x13	while you do provide a certain cultural diversity to an otherwise homogenous group,	0
+2x13	your responses to the questionnaire were truly disturbing	0
+2x13	how could you for a moment think my favorite amino acid is glutamine	0
+2x13	he had lysine, but changed it	0
+2x13	shoulda, woulda, coulda, raj	0
+2x13	i like to floss before i eat	0
+2x13	so my gum pockets are open	0
+2x13	for new food	0
+2x13	how did i walk past you	0
+2x13	i'm barry	0
+2x13	that's not a very hot name	0
+2x13	i'm going to call you roxanne	1	1	nf
+2x13	pot stickers	0
+2x13	suddenly, i'm looking pretty good, huh	0
+2x13	so, kripke, i was wondering	0
+2x13	if there's any chance you could get me some time on the open science grid computer	0
+2x13	but we're friends	0
+2x13	i'm sorry	0
+2x13	no, my friend	0
+2x13	i'm confused	0
+2x13	i was given to understand that you allow your friends time on the machine	0
+2x13	no, that's wrong	0
+2x13	there's an official schedule	0
+2x13	i have no control over it	0
+2x13	this entire endeavor seems to have been an exercise in futility	0
+2x13	raj, you're back in	1	1	nf
+2x13	he likes monkeys	0
+2x13	you've got to give him credit for sticking with it	0
+2x13	i didn't think he had it in him	0
+2x13	and he almost made it to the top this time	0

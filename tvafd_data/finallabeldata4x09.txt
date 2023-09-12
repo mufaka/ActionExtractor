@@ -1,0 +1,615 @@
+﻿4x09	you know who's got to	0
+4x09	be the bravest person	0
+4x09	in the marvel universe	0
+4x09	whoever has to give	0
+4x09	shehulk a bikini wax	0
+4x09	you want to talk brave,	0
+4x09	how about captain america's	0
+4x09	undocumented mexican gardener	0
+4x09	he's not braver than	0
+4x09	whoever uses the	0
+4x09	bathroom after the thing	0
+4x09	as usual, you're all wrong	0
+4x09	the bravest person	0
+4x09	in the marvel universe	0
+4x09	is the doctor who gives	0
+4x09	wolverine his prostate exam	0
+4x09	how about the guy who gets	0
+4x09	a prostate exam from wolverine	0
+4x09	now you just being silly	0
+4x09	wolverine's never displayed	0
+4x09	the slightest interest in helping others	0
+4x09	prevent prostate cancer	0
+4x09	hello	0
+4x09	yes, the elevator's out of order£¬	0
+4x09	you'll have to use the stairs	1	1	nf
+4x09	of course you can	0
+4x09	pizza dates back to the th century,	0
+4x09	while the first elevator	0
+4x09	was not installed until	0
+4x09	that means that for over  years,	0
+4x09	people carried pizzas up stairs	0
+4x09	be part of that proud tradition	1	1	nf
+4x09	i'll go get penny while	0
+4x09	that guy spits on our food	0
+4x09	do you think they gave	0
+4x09	wolverine an adamantium prostate	0
+4x09	that's a stupid question	0
+4x09	we're having a conversation about	0
+4x09	probing the heinies of superheroes	0
+4x09	there are no stupid questions	0
+4x09	yes	0
+4x09	oh, um, is penny here	0
+4x09	you're leonard, right	0
+4x09	yeah	0
+4x09	damn, it's good to finally meet you, son	0
+4x09	okay, i think a bit of context here might help	0
+4x09	oh, hey, leonard i see you met my dad	0
+4x09	oh, good	0
+4x09	context	0
+4x09	come on in, buddy	1	1	nf
+4x09	take a load off	1	1	nf
+4x09	oh, gee, dad, leonard can't stay	0
+4x09	he just dropped by to say hello	0
+4x09	thanks for stopping by, sweetie	0
+4x09	i'll see you later	0
+4x09	bye	0
+4x09	that was odd	0
+4x09	are you sure you have enough comics	0
+4x09	you're going to be monitoring	0
+4x09	the telescope for  hours,	0
+4x09	and by my estimate, you've only selected	0
+4x09	seven hours of reading material	0
+4x09	that's even factoring in	0
+4x09	your difficulty in parsing	0
+4x09	american comic book idioms	0
+4x09	like "bamf" and "snikt"	0
+4x09	is that racist	0
+4x09	it feels racist	0
+4x09	don't be oversensitive	1	1	ni	
+4x09	he's calling you	0
+4x09	illiterate, not your race	0
+4x09	oh, okay good	0
+4x09	i don't need more comics	0
+4x09	howard's gonna stop by, we're gonna play	0
+4x09	intergalactic battleship	0
+4x09	and indian monopoly	0
+4x09	i don't care for novelty	0
+4x09	editions of monopoly	0
+4x09	i prefer the classics	0
+4x09	regular and klingon	0
+4x09	actually, indian monopoly's	0
+4x09	just like regular, except	0
+4x09	the money's in rupees,	0
+4x09	instead of hotels you build call centers,	0
+4x09	and when you pick a chance	0
+4x09	card, you might die of dysentery	0
+4x09	just fyi,	0
+4x09	that was racist	0
+4x09	you'll never guess what just happened	0
+4x09	you went out in the hallway,	0
+4x09	stumbled into an interdimensional portal	0
+4x09	which brought you ,	0
+4x09	years into the future,	0
+4x09	where you took advantage	0
+4x09	of the advanced technology	0
+4x09	to build a time machine,	0
+4x09	and now you're back	0
+4x09	to bring us all with	0
+4x09	you to the year	0
+4x09	where we are transported	0
+4x09	to work at the thinkatorium	0
+4x09	by telepathically	0
+4x09	controlled flying dolphins	0
+4x09	no	0
+4x09	aw	0
+4x09	penny kissed me	0
+4x09	well, who would ever guess that	0
+4x09	what what kind of a kiss	0
+4x09	a big kiss on the mouth	0
+4x09	is it possible that she	0
+4x09	was going for your cheek	0
+4x09	and you moved and she	0
+4x09	accidentally got lip	0
+4x09	that happens with me	0
+4x09	and my mom all the time	0
+4x09	she introduced me to her father,	0
+4x09	kissed me and then shut	0
+4x09	the door in my face	0
+4x09	maybe she was trying	0
+4x09	to send you a message	0
+4x09	you think	0
+4x09	yeah "this man is not my father	0
+4x09	i'm being held hostage	0
+4x09	so i'm going to do	0
+4x09	something insane in the hopes	0
+4x09	that you'll call "	0
+4x09	penny kissing me is not insane	0
+4x09	she used to kiss me all the time	0
+4x09	einstein defined insanity	0
+4x09	as "doing the same thing	0
+4x09	over and over again and	0
+4x09	expecting different results "	0
+4x09	by that standard,	0
+4x09	penny is cuckoo for cocoa puffs	0
+4x09	i'm just saying,	0
+4x09	it felt like it may	0
+4x09	have meant something	0
+4x09	ah, this takes me back	0
+4x09	leonard obsessing about penny	0
+4x09	i mean, don't get me wrong,	1	1	ni
+4x09	i love your new stuff,	0
+4x09	but once in a while it's	0
+4x09	nice to hear the hits	0
+4x09	ooh, ooh	0
+4x09	do "our babies will be smart and beautiful "	1	1	nf
+4x09	that one always makes me laugh	0
+4x09	why do i bother talking to you people	0
+4x09	if it'll make you feel	0
+4x09	better, we rarely listen	0
+4x09	hey, can i talk to you out here for a sec	1	1	nf
+4x09	yeah, sure	0
+4x09	i'm starting to think we're	0
+4x09	never going to see that pizza	0
+4x09	so you're probably wondering	0
+4x09	what that was all about	0
+4x09	what, uh, the kissing and everything	0
+4x09	nah, women do that to me all the time	0
+4x09	yeah, okay the thing is, i kind of	0
+4x09	told my father we got	0
+4x09	back together again	0
+4x09	what why	0
+4x09	well, you're the first guy	0
+4x09	he's ever really approved of, you know	0
+4x09	you're a scientist who went to college	0
+4x09	and you don't have a neck tattoo	0
+4x09	or outstanding warrants or or a baby	0
+4x09	what kind of guys did	0
+4x09	you used to go out with	0
+4x09	just guys	0
+4x09	anyway, when i told him we	0
+4x09	split up, he was heartbroken,	0
+4x09	and he kept bugging me "how's leonard	0
+4x09	why can't you get back	0
+4x09	together with leonard	0
+4x09	i bet leonard never tipped	0
+4x09	a cow over on himself "	0
+4x09	so to get him off my back,	0
+4x09	i told him we worked things out	0
+4x09	really	0
+4x09	how how'd we manage that	0
+4x09	what	0
+4x09	i mean, did you apologize	0
+4x09	did you have to woo me	0
+4x09	get over yourself	1	1	nf
+4x09	i whistled, you came running	0
+4x09	yeah, no, i don't think so	0
+4x09	okay, why are you arguing about this	0
+4x09	i'm just saying,	0
+4x09	if we fake got back together,	0
+4x09	that's totally not how it fake happened	0
+4x09	oh	0
+4x09	okay, whatever	0
+4x09	will you please just play along until my dad leaves	1	1	nf
+4x09	hold on, you actually want me	1	1	nf
+4x09	to deceive your father with some sort of	0
+4x09	sham playacting and kissing	0
+4x09	cause i'm good with that	0
+4x09	penny, you out here	0
+4x09	come on, honey, not in front of my dad	1	1	ni
+4x09	relax, i've seen you do a lot worse with a lot stupider	0
+4x09	see	0
+4x09	he doesn't mind	0
+4x09	so, leonard, i'm taking your gal out for a steak dinner,	0
+4x09	you want to join us	1	3	nf
+4x09	oh, dad, that's nice,	0
+4x09	but leonard has to work	0
+4x09	right, leonard	0
+4x09	uh, i do, i have to work	0
+4x09	but i'm gonna blow that	0
+4x09	off to spend the evening	0
+4x09	with my sweetie and her	0
+4x09	father, 'cause, you know,	0
+4x09	just the kind of boyfriend i am	0
+4x09	oh	0
+4x09	come here, you	1	1	nf
+4x09	c	0
+4x09	miss	0
+4x09	how could that be a miss	0
+4x09	c was a hit,	0
+4x09	c was a hit	0
+4x09	part of your starship has to be on c	0
+4x09	not if it has a hole in the middle	0
+4x09	what kind of spaceship	0
+4x09	has a hole in the middle	0
+4x09	a romulan battle bagel	0
+4x09	knockknock	0
+4x09	oh, great, you made it	0
+4x09	come on in	1	1	nf
+4x09	i invited her	0
+4x09	so where's the telescope	0
+4x09	it's in hawaii, but raj	0
+4x09	controls it from here	0
+4x09	he's hoping to see epsilon	0
+4x09	eridani dim, which would be	0
+4x09	evidence of a planet orbiting it	0
+4x09	so we just sit and stare at the screen,	0
+4x09	waiting for something to happen	0
+4x09	i did it with you when	0
+4x09	we rented "the notebook"	0
+4x09	yes, gena rowlands is a treasure	0
+4x09	you'd better open up that bottle of wine or i'm gonna end up with swimmer's ear	1	1	nf
+4x09	excuse me	0
+4x09	i can't be drinking, i'm about to make	0
+4x09	an important scientific discovery here	0
+4x09	what galileo did his best	0
+4x09	work while drinking wine	0
+4x09	how do you know that	0
+4x09	well, he was italian	0
+4x09	it's a reasonable assumption	0
+4x09	dude, can you even open your mouth without spewing a cultural stereotype	1	nf
+4x09	oh, i i'm sorry,	0
+4x09	galileo drank diet sprite	0
+4x09	look, you're my best friend, she's my girlfriend,	0
+4x09	you should bond	0
+4x09	you know, like you and my mom did	0
+4x09	your mom creeps the hell out of me	0
+4x09	yes, but she's stopped calling	0
+4x09	you slumdog millionaire	0
+4x09	i do appreciate that	0
+4x09	here we go	0
+4x09	i'd like to propose a toast	0
+4x09	to science and friendship	0
+4x09	hold on wait	1	1	nf
+4x09	no, it's okay,	0 
+4x09	go ahead	1	1	nf
+4x09	what	0
+4x09	oh, i was working with	0
+4x09	penicillinresistant	0
+4x09	gonorrhea in the lab today	0
+4x09	and i was just trying to	0
+4x09	remember if i washed my hands	0
+4x09	thanks for the steak, wyatt	0
+4x09	my pleasure	0
+4x09	it's nice to have dinner	0
+4x09	with a boyfriend of penny's	0
+4x09	that knows how to use a napkin	0
+4x09	so not funny, dad	0
+4x09	let me tell you about this one	0
+4x09	genius she was going out with,	0
+4x09	this this fella donnie	0
+4x09	oh, will you please let it go	1	1	nf
+4x09	donnie was gonna make	0
+4x09	millions turning farm waste	0
+4x09	into biofuel and selling	0
+4x09	it to the government	0
+4x09	a lot of people are doing that	0
+4x09	oh, see	0
+4x09	yeah, but all donnie did was	0
+4x09	mix pig poop with a little water	0
+4x09	and pump it into his mom's camry	0
+4x09	yeah, that's great	0
+4x09	it's a funny story	0 
+4x09	moving on	1	4	nf
+4x09	and donnie was a rocket	0
+4x09	scientist compared to that boy	0
+4x09	who wanted to get beer	0
+4x09	pong into the olympics	0
+4x09	what was his name, sweetheart	0
+4x09	curtis, and i'm pretty	0
+4x09	sure he was joking	0
+4x09	i don't know	0
+4x09	that petition looked real to me	0
+4x09	yeah, okay, i think this ends he ex-boyfriend portion of our evening	1	1	nf
+4x09	well, i'm just glad you	0
+4x09	finally found yourself a keeper	0
+4x09	thanks, wyatt	0
+4x09	i'm a keeper	0
+4x09	leonard, you want to come in for a nightcap	1	3	nf
+4x09	oh, gee, dad, he'd love to,	0
+4x09	but leonard has to work in the morning	0
+4x09	maybe i could go in a little late	0
+4x09	no, no, no, you can't	0
+4x09	your career is far too important	0
+4x09	behind every great	0
+4x09	man is a nagging woman	0
+4x09	who won't let him have any	0
+4x09	fun, am i right, leonard	0
+4x09	don't i know it	0
+4x09	well, good night, son	0
+4x09	good night, wyatt	0
+4x09	oh, good night, honey	0
+4x09	good night	0
+4x09	i love you	0
+4x09	love you, too	0
+4x09	oh, friggetyfrak	0
+4x09	not this again	0
+4x09	three, four, five pass	0
+4x09	go, get , rupees	1	1	nf
+4x09	six, seven	0
+4x09	whoops can't go any further	0
+4x09	there's a sacred cow in my way	0
+4x09	bernadette, please tell your boyfriend to cool it with the cow jokes	1	1	nf
+4x09	it won't help	0
+4x09	once he finds a joke he	0
+4x09	likes, he sticks with it	0
+4x09	yeah	0
+4x09	like his haircut material	0
+4x09	oh, right did you get your hair cut	0
+4x09	"no i got them all cut "	0
+4x09	which is still so funny	0
+4x09	and when you go to a chinese restaurant,	0
+4x09	he always gets the same	0
+4x09	fortune in his fortune cookie	0
+4x09	right "help, i'm a prisoner	0
+4x09	in a chinese fortune cookie factory "	0
+4x09	okay, i think that's enough about me	0
+4x09	he's right	0
+4x09	let's make fun of his mother	1	1	nf
+4x09	"howard, come rub my feet	0
+4x09	my corns are killing me"	0
+4x09	"howard, help me out of the tub	0
+4x09	i'm stuck again"	0
+4x09	coming	0
+4x09	hey, lovebug	0
+4x09	shut up	1	1	nf
+4x09	you know what i've been	0
+4x09	doing for the last hour	0
+4x09	mm, dreamily doodling	0
+4x09	"mrs leonard hofstadter"	0
+4x09	in a notebook	0
+4x09	listening to my father go on and on	0
+4x09	about what a great guy you are	0
+4x09	you got to admit, i	0
+4x09	am i'm delightful	0
+4x09	why are you making this so difficult	0
+4x09	it's not difficult for me	0
+4x09	i'm having fun	0
+4x09	leonard	0
+4x09	what do you want me to	0
+4x09	do you started this	0
+4x09	do you want to go over and	0
+4x09	tell him we're broken up	0
+4x09	no	0
+4x09	well, then, what do you want	0
+4x09	i don't know	0
+4x09	don't you think that's	0
+4x09	something you should	0
+4x09	have figured out before	0
+4x09	you stomped over here	0
+4x09	maybe	0
+4x09	leonard, penny, excellent	0
+4x09	i'd like to say i'm very happy	0
+4x09	that you're back together,	0
+4x09	and if i can figure out a way to do so	0
+4x09	and sound sincere, i will	0
+4x09	in the meantime,	0
+4x09	i'd like to go over	0
+4x09	some proposed changes	0
+4x09	to the roommate agreement	0
+4x09	specifically to address	0
+4x09	penny's annoying personal habits	0
+4x09	oh, my god	0
+4x09	what personal habits	0
+4x09	i have a list	0
+4x09	fyi, overuse of the phrase	0
+4x09	"oh, my god" is number	0
+4x09	okay, sheldon, you don't have to do this	1	1	ni
+4x09	because leonard and i	0
+4x09	are not  babababa	0
+4x09	are you sure you want	0
+4x09	to include him in this	0
+4x09	include me in what	0
+4x09	is there a plot afoot	0
+4x09	i'll have no truck with plots	0
+4x09	no, you're right	0
+4x09	no, there's there's no	0
+4x09	plots, no trucks, no feet	0
+4x09	so what other annoying	0
+4x09	habits shall we discuss	0
+4x09	uh, we don't discuss anything	0
+4x09	leonard is the signatory	0
+4x09	to the roommate agreement	0
+4x09	as such, he bears responsibility	0
+4x09	for all your infractions	0
+4x09	and must pay all fines	0
+4x09	fines	0
+4x09	yes	0
+4x09	if penny's going to be	0
+4x09	spending nights here again,	0
+4x09	you'll need to set up an escrow account	0
+4x09	sign here	1	1	nf
+4x09	hello, hawaii	0
+4x09	this is dr koothrappali in pasadena	0
+4x09	i'd like you to reposition the telescope, please	1	1	nf
+4x09	scarlett johansson's house	0
+4x09	i'm kidding, hawaii	0
+4x09	mahalo	0
+4x09	whoo	0
+4x09	it might have been a mistake	0
+4x09	to open that second bottle of wine	0
+4x09	well, live and learn	0
+4x09	so, raj, do you think this planet you're looking for	0
+4x09	could have an atmosphere	0
+4x09	that supports life	0
+4x09	maybe	0
+4x09	if it did, i'd be famous	0
+4x09	i'd be on the cover of magazines	0
+4x09	and then, instead of living alone	0
+4x09	in my tiny apartment,	0
+4x09	i'd have a big mansion	0
+4x09	that sounds great	0
+4x09	it is	0
+4x09	if you like wandering	0
+4x09	around a big, empty house	0
+4x09	with no one to love you	0
+4x09	we'd come visit you	0
+4x09	no, you wouldn't	0
+4x09	you'd be intimidated	0
+4x09	by my wealth and fame	0
+4x09	my only friends would be	0
+4x09	my genetically engineered monkey butler	0
+4x09	and the little people i hired	0
+4x09	to be my living chess set	0
+4x09	he's taking a turn to	0
+4x09	the dark side, isn't he	0
+4x09	hold on he could come back	1	1	nf
+4x09	oh, what's the point of everything	0
+4x09	nope he's gone	0
+4x09	you know it's been more than a year	0
+4x09	since i've even kissed a girl	0
+4x09	what about that hookup at	0
+4x09	comiccon you told me about	0
+4x09	oh, grow up	1	1	nf 
+4x09	i was lying	0
+4x09	i lie all the time	0
+4x09	nobody wants to kiss me	0
+4x09	oh, you poor, poor thing	0
+4x09	raj, you have to know	0
+4x09	you're a wonderful man	0
+4x09	there are a lot of girls out	0
+4x09	there who'll want to kiss you	0
+4x09	where	0
+4x09	you just have to look	0
+4x09	no	0
+4x09	well, this was fun	0
+4x09	oh i think i got a nibble	0
+4x09	oh, be careful	1	1	nf
+4x09	give him some line	1	1	nf
+4x09	okay, now reel him in	1	1	nf
+4x09	oh, look at that baby	1	1	nf
+4x09	they're really biting, huh	0
+4x09	yeah they do that	0
+4x09	when you set it on easy	0
+4x09	oh, that's me	0
+4x09	hello	0
+4x09	oh, hi, sweetie	0
+4x09	yeah, i got up early and	0
+4x09	didn't want to wake you,	0
+4x09	so i went out for coffee and ran into leonard on the way back	0
+4x09	guess what we're fishing	0
+4x09	yeah right here on his couch	0
+4x09	hey, baby i love you	0
+4x09	that's leonard	0
+4x09	says he loves you	0
+4x09	what	0
+4x09	i see	0
+4x09	the whole thing's bull squirt, huh	0
+4x09	well, that's very disappointing	0
+4x09	bye	0
+4x09	oh, hey	0
+4x09	there's been something i've	0
+4x09	been meaning to tell you	0
+4x09	i can't believe you	0
+4x09	would lie to me like that	0
+4x09	just for the record, i did not want to be a part of this	0
+4x09	i'll get to you in a minute	0
+4x09	no hurry	1	1	ni
+4x09	that my own daughter thinks	0
+4x09	i don't love her enough	0
+4x09	to support her no matter	0
+4x09	what choices she makes	0
+4x09	well, that hurts me deeply	0
+4x09	i'm sorry, daddy	0
+4x09	let me finish	1	1	nf
+4x09	oh	0
+4x09	i thought we were past the days	0
+4x09	when you would try to	0
+4x09	pull the wool over my eyes	0
+4x09	telling me the baggie in your	0
+4x09	underwear drawer is potpourri	0
+4x09	and the pee stick in your bathroom	0
+4x09	is to check for diabetes	0
+4x09	you know, i'm sorry	0
+4x09	you're a grown woman,	0
+4x09	and i respect your right	0
+4x09	to make your own	0
+4x09	decisions, but all i ask	0
+4x09	is you respect me enough	0
+4x09	to be honest about them	0
+4x09	you're right look, from now	0
+4x09	on, i will tell you the truth	0
+4x09	thank you now,	0
+4x09	why don't you go and put some clothes on and we'll grab a bite to eat before i head for the airport	1	1	ni
+4x09	now you	0
+4x09	daddy, he had nothing to do	0
+4x09	keep walking	1	1	nf
+4x09	okay	0
+4x09	please, please, please don't give up on her	1	1	ni
+4x09	what	0
+4x09	i can't go back to	0
+4x09	the skateboard idiots,	0
+4x09	the white rappers and all those	0
+4x09	sweaty dumbasses with	0
+4x09	their backwards hats	0
+4x09	gee, i don't know if	0
+4x09	it's in the cards, sir	0
+4x09	then, stack the deck	1	1	nf
+4x09	cheat	1	4	nf
+4x09	lie	1	4	nf
+4x09	i don't care	0
+4x09	i want grandkids before i die,	0
+4x09	and i want them to grow up	0
+4x09	in a house without wheels	0
+4x09	i'll give it a shot	0
+4x09	thank you	0
+4x09	now i'm going to do something	0
+4x09	here to help you along	0
+4x09	excuse me	0
+4x09	just don't panic	1	1	ni
+4x09	now, get your sorry,	0
+4x09	lying ass out of my face	0
+4x09	and make sure i never see it again	0
+4x09	oh, the reverse psychology thing	0
+4x09	i see that's very clever	0
+4x09	don't yap	1	1	ni
+4x09	just get out	1	1	nf
+4x09	i'll friend you on facebook	0
+4x09	oh, there you are	0
+4x09	just so you know, i was up all night,	0
+4x09	but i have finally completed	0
+4x09	the pennyspecific section	0
+4x09	of the new roommate agreement	0
+4x09	yeah, well, not necessary	0
+4x09	we broke up again	0
+4x09	do you even think about	0
+4x09	other people, leonard	0
+4x09	do you	0
+4x09	hey	0
+4x09	oh, how'd it go last night	0
+4x09	oh, you know	0
+4x09	same old, same old	0
+4x09	looked through a	0
+4x09	telescope, saw some stars	0
+4x09	big whoop	0
+4x09	really	0
+4x09	you waited months for	0
+4x09	time with that telescope	0
+4x09	what happened	0
+4x09	why you writing a book	0
+4x09	i'm going to propose a hypothesis	0
+4x09	last night, raj	0
+4x09	accidentally made contact	0
+4x09	with an alien civilization	0
+4x09	and has been ordered by	0
+4x09	the united states government	0
+4x09	to keep it a secret	0
+4x09	nothing happened	0
+4x09	can we please just change the subject	1	1	nf
+4x09	that sounds rehearsed	0
+4x09	we are not alone	0
+4x09	hey	0
+4x09	hey	0
+4x09	hello	0
+4x09	hey	0
+4x09	hey	0
+4x09	you get to play with raj's	0
+4x09	big telescope last night	0
+4x09	whoa	0
+4x09	where did that come from	0
+4x09	he never touched my telescope	0
+4x09	way to go shutting up	1	1	nf
+4x09	i did shut up	0
+4x09	now you shut up	1	1	nf
+4x09	fine	0
+4x09	thank you	0

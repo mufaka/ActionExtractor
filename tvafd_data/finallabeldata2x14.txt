@@ -1,0 +1,428 @@
+﻿2x14	the problem appears to be unsolvable	0
+2x14	maybe we could run some computer simulations	1	3	nf
+2x14	there are too many variables	0
+2x14	it would take forever	0
+2x14	we've got to be missing something	0
+2x14	let's start again	1	1	nf
+2x14	the movie is playing here at , here at , here at  and here at	0
+2x14	these theaters have to be eliminated	1	1	nf
+2x14	why they're stateoftheart digital projection, channel surround sound	0
+2x14	yes, but they have no icee machines despite my aggressive letterwriting campaign, i might add	0
+2x14	what about the multiplex here	0
+2x14	the seats are terrific	0
+2x14	they have twizzlers nstead of red vines	0
+2x14	no amount of lumbar support	 can compensate for that	0
+2x14	it's gonna take at least an hour to eat,	0
+2x14	and i don't see a sheldonapproved restaurant proximate to a sheldonapproved theater	0
+2x14	we could eat after the movie	1	3	nf
+2x14	unacceptable	0
+2x14	the delay would result in tomorrow's bowel movement occurring at work	0
+2x14	hang on, hang on	0
+2x14	there's a eleven here	0
+2x14	we smuggle slurpees,	0
+2x14	which are essentially icees, in under our coats,	0
+2x14	after having a pleasant meal either here, here or here	0
+2x14	i don't see how we missed that	0
+2x14	excuse me, in what universe are slurpees icees	0
+2x14	that's how we missed it	0
+2x14	sheldon, would you be prepared, on a nonprecedential basis, to create an emergency ad hoc slurpeeicee equivalency	0
+2x14	you know i can't do that	0
+2x14	i guess we only have one option	0
+2x14	i don't see any way around it	0
+2x14	bye, sheldon	0
+2x14	see ya	0
+2x14	they're right,	0
+2x14	it was the only option	0
+2x14	shut the door	1	1	nf
+2x14	why	0
+2x14	just do it	1	1	nf
+2x14	get inside and shut the door	1	1	nf
+2x14	well, you didn't specify	0
+2x14	is leonard around	0
+2x14	he went to the movies without me	0
+2x14	it was the only option	0
+2x14	i'm sorry, i don't understand	0
+2x14	which social situation this is	0
+2x14	could you give me some guidance as to how to proceed	0
+2x14	the building manager's showing an apartment downstairs,	0
+2x14	and i haven't paid my rent	0
+2x14	oh, i see	0
+2x14	i'm not sure i'm comfortable harboring a fugitive	0
+2x14	from the  north	0
+2x14	los robles corporation	0
+2x14	it's no big deal	0
+2x14	i'm just a little behind on my bills	0
+2x14	because they cut back my hours at the restaurant and my car broke down	0
+2x14	if you recall, i pointed out the "check engine" light	0
+2x14	to you several months ago	0
+2x14	the "check engine" light is fine	0
+2x14	it's still blinking away	0
+2x14	it's the stupid engine	0
+2x14	that stopped working	0
+2x14	it cost me like $, to fix it	0
+2x14	it occurs to me you could solve all	0
+2x14	your problems by obtaining more money	0
+2x14	yes, it occurs to me, too	0
+2x14	hang on a moment	1	1	nf
+2x14	here take some	1	1	nf
+2x14	pay me back when you can	1	1	nf
+2x14	you got a lot of money in there	0
+2x14	that's why it's guarded by snakes	0
+2x14	take some	1	1	nf
+2x14	don't be silly	1	1	ni
+2x14	i'm never silly	0
+2x14	here	0
+2x14	no, i can't	0
+2x14	don't you need money	0
+2x14	yeah, but	0
+2x14	this is money i'm not using	0
+2x14	but what if you need it	0
+2x14	my expenses account for % of my aftertax income	0
+2x14	the rest is divvied up between a small savings account,	0
+2x14	this deceptive container of peanut brittle and the hollowedout buttocks of a superhero action figure	0
+2x14	who shall remain nameless	0
+2x14	for his own protection	0
+2x14	or her own protection	0
+2x14	take some	1	1	nf
+2x14	really i mean, are you sure	0
+2x14	i see no large upcoming expenditures	0
+2x14	unless they develop an affordable technology to fuse my skeleton	0
+2x14	with adamantium like wolverine	0
+2x14	are they working on that	0
+2x14	i sincerely hope so	0
+2x14	well, thank you	0
+2x14	no, i can't	0
+2x14	honey, i don't want things to be weird between us	0
+2x14	won't it also be weird if i have to say hello to you every morning on my way to work	0
+2x14	and you're living in a refrigerator box and washing your hair with rain water	0
+2x14	i'll pay you back as soon as i can	0
+2x14	of course you will	0
+2x14	it's impossible to pay me back	0
+2x14	sooner than you can	0
+2x14	assuming you subscribe to a linear understanding of time and causality	0
+2x14	i'm regretting this already	0
+2x14	i've given the matter some thought,	0
+2x14	and i think i'd be willing to be a house pet to a race of superintelligent aliens	0
+2x14	interesting	0
+2x14	ask me why	1	1	nf
+2x14	do i have to	0
+2x14	of course that's how	0
+2x14	you move a conversation forward	0
+2x14	why	0
+2x14	the learning opportunities would be abundant	0
+2x14	additionally, i like having my belly scratched	0
+2x14	hey, penny how was work	0
+2x14	great	0
+2x14	i hope i'm a waitress at the cheesecake factory for my whole life	0
+2x14	was that sarcasm	0
+2x14	was that sarcasm	0
+2x14	was that sar	0
+2x14	stop it	1	1	nf
+2x14	you appear to have a package here	0
+2x14	oh, thanks	0
+2x14	this must be the beret i ordered a couple of months ago	0
+2x14	it was backordered	0
+2x14	did you know the beret is an example of a piece of women's fashion adapted from male military uniforms	0
+2x14	another fascinating example is the epaulet	0
+2x14	he's not lying	0
+2x14	he does find that fascinating	0
+2x14	whatever it's not like i'm running up and down the streets just buying myself berets	0
+2x14	i bought one a month ago,	0
+2x14	and it was backordered	0
+2x14	look, it finally arrived, all right	0
+2x14	all right	0
+2x14	oh, my god, would you just get off my case	0
+2x14	weird	0
+2x14	good, that was an unusual interaction	0
+2x14	i wasn't sure	0
+2x14	did you guys have an argument	0
+2x14	no	0
+2x14	you clearly did something to aggravate her	0
+2x14	i'm at a loss	0
+2x14	if you like, you can review	0
+2x14	my daily log of social interactions and see if there's a blunder i overlooked	0
+2x14	here you go	0
+2x14	you owe me another two dollars	0
+2x14	the price of moo shu pork went up	0
+2x14	it's getting tougher and tougher to be a bad jew	0
+2x14	here you go, penny	0
+2x14	shrimp with lobster sauce	0
+2x14	thank you what's my share	0
+2x14	don't worry about it it's my treat	0
+2x14	really, how much	0
+2x14	whatever $, $	0
+2x14	which is it, $ or $	0
+2x14	$ but it's no biggie	0
+2x14	you'll get the next one	1	1	nf
+2x14	what	0
+2x14	he was just wondering if he wore skintight jeans and a tank top	0
+2x14	if he'd get his shrimp lo mein for free	0
+2x14	what are you saying	0
+2x14	that i'm using my body to get dinner	0
+2x14	that i'm some kind of chinese food prostitute	0
+2x14	yeah, raj, what are you saying	0
+2x14	let me tell you something	1	1	nf
+2x14	i pay my own way in this world, okay	0
+2x14	i don't rely on anybody	1	1	ni
+2x14	what was that about	0
+2x14	he has a nervous bladder when he's stressed out kind of like a puppy	0
+2x14	here, leonard	0
+2x14	$, $, $ $	0
+2x14	it was $, but it's okay	0
+2x14	oh, good	0
+2x14	dinner's here	0
+2x14	yes, and i'm having some	0
+2x14	i'm having takeout food	0
+2x14	you're damn right it's okay i've been having leftovers at the restaurant for like four days,	1	1	nf
+2x14	and i wanted something different so sue me	0
+2x14	forgive me, but that would be the very definition of a frivolous lawsuit	0
+2x14	i will pay you back as soon as i can	0
+2x14	you just have to give me more time	0
+2x14	you lent her money	0
+2x14	she need money	0
+2x14	you seem under pressure	0
+2x14	did i not lend you a sufficient amount	0
+2x14	because i can give you more	0
+2x14	you know, you would just	0
+2x14	love that, wouldn't you	0
+2x14	you would just love to open up your little snake can and throw some money at the girl who can't pay her bills	0
+2x14	where are you going	0
+2x14	going home,	0
+2x14	where i won't be interrogated like a criminal	0
+2x14	i forgot my fortune cookie	0
+2x14	in case either of you have larceny in your heart,	0
+2x14	you should know that i've moved	0
+2x14	my money out of the snake can	0
+2x14	but if you're ever short, there's always a couple of s in green lantern's ass	0
+2x14	hey	0
+2x14	hey	0
+2x14	a little mood lighting, huh	0
+2x14	when i didn't pay my bill,	0
+2x14	the department of water and power thought i would enjoy the ambience	0
+2x14	yeah, they're very considerate	0
+2x14	that way	0
+2x14	i used sheldon's money to pay my rent	0
+2x14	then i had like $ left over	0
+2x14	$, huh	0
+2x14	put it back in your pocket,	1	1	nf
+2x14	or i'll find some other place to put it	0
+2x14	back in the pocket it goes	0
+2x14	you do understand	0
+2x14	sheldon really doesn't care	0
+2x14	when he gets the money back	0
+2x14	it's actually	0
+2x14	one of the few idiosyncrasies	0
+2x14	that doesn't make you want to kill him	0
+2x14	yeah, well, that's not really	0
+2x14	my big problem	0
+2x14	so you're a little behind on your bills	0
+2x14	everybody gets behind on their bills	0
+2x14	i know, it's just	0
+2x14	this wasn't the plan	0
+2x14	it wasn't supposed to go this way	0
+2x14	what was the plan	0
+2x14	waitress for six months	0
+2x14	and then become a movie star	0
+2x14	was there a plan b	0
+2x14	tv star	0
+2x14	it's probably not as bad as you think	0
+2x14	let's take a look	1	1	nf
+2x14	maybe we can find	0
+2x14	some corners to cut	0
+2x14	here's something	0
+2x14	if you don't have electricity,	0
+2x14	then you probably don't need cable	0
+2x14	just a suggestion	0
+2x14	$ dollars for acting classes	0
+2x14	no, i can't give up my acting classes	0
+2x14	i'm a professional actress	0
+2x14	you've had an acting job	0
+2x14	where you got paid	0
+2x14	that is not the definition of professional	0
+2x14	actually, it kind of	0
+2x14	let's keep looking	0
+2x14	what's $, to the los angeles county superior court	0
+2x14	that's nothing	0
+2x14	nothing	0
+2x14	it sounds like you got caught speeding going , miles an hour	0
+2x14	remember kurt	0
+2x14	your exboyfriend	0
+2x14	he got arrested for taking a whiz on a cop car	0
+2x14	what	0
+2x14	he was drunk	0
+2x14	i would hope so	0
+2x14	he had a bunch of outstanding tickets	0
+2x14	and a bench warrant,	0
+2x14	so i, you know, i paid his fines	0
+2x14	did he pay you back	0
+2x14	no, but he will	0
+2x14	and that's based on the inherent creditworthiness of people who get drunk and urinate on police vehicles	0
+2x14	leonard, i'm not gonna call up kurt and ask him for money	0
+2x14	what are you gonna do	0
+2x14	i don't know,	0
+2x14	but i may have to find a cheaper place to live	0
+2x14	you don't want to do that	0
+2x14	why not	0
+2x14	moving is a big deal	0
+2x14	you have to go to the supermarket and get boxes,	0
+2x14	and if they're not clean,	0
+2x14	your books smell like melons,	0
+2x14	and it's like	0
+2x14	why don't you just get a roommate and stay here	0
+2x14	do you know anybody	0
+2x14	i'm sure the guy living with sheldon wouldn't mind moving in with you	0
+2x14	leonard, honey,	0
+2x14	if we started living together,	0
+2x14	i wouldn't be able to keep my hands off you	0
+2x14	really	0
+2x14	and you thought my acting lessons were a waste of money	0
+2x14	this moo shu pork's burning	0
+2x14	a hole through my duodenum	0
+2x14	leviticus	0
+2x14	"only that which parteth the hoof and cheweth the cud among the beasts shall ye eat"	0
+2x14	do i mock you with the bhagavadgita	0
+2x14	every time you scarf down a whopper	0
+2x14	what's going on	0
+2x14	we're on a quest through the valley of fire to acquire the sacred crown	0
+2x14	you want the valley of fire	0
+2x14	it's right here	0
+2x14	you guys want to go on a real live quest	0
+2x14	outside i just made cocoa	0
+2x14	come on it'll be fun	0
+2x14	what is it	0
+2x14	do you guys remember penny's exboyfriend kurt	0
+2x14	yeah, that's him	0
+2x14	turns out he owes penny a lot of money,	0
+2x14	and i'm gonna go get it from him	0
+2x14	who's with me	0
+2x14	double sixes	0
+2x14	really you're just gonna	0
+2x14	let me go by myself	0
+2x14	cool, i got a sword	0
+2x14	i could use some help	1	1	nf
+2x14	here	0
+2x14	you guys are unbelievable	0
+2x14	you play a game	to simulate adventure,	0
+2x14	but when there's real adventure out there in the real world, you just wimp out	0
+2x14	do you not recall the last time we visited this gentleman,	0
+2x14	we returned home without pants	0
+2x14	i do	0
+2x14	are you sure	0
+2x14	because your proposal suggests that you don't	0
+2x14	i'm not afraid of him	0
+2x14	all right	0
+2x14	leonard fairly calls the question	0
+2x14	who is in favor of abandoning our game	0
+2x14	and confronting penny's steroidinfused exboyfriend in a suicidal mission to extract money from him	0
+2x14	say hi to kurt for us	1	1	nf
+2x14	excuse me	0
+2x14	when frodo left the shire to take the one ring to mordor,	0
+2x14	didn't samwise, pippin and merry go with him	0
+2x14	they did	0
+2x14	well	0
+2x14	they had a terrible time of it	0
+2x14	plus, no one stole their pants	0
+2x14	fine	0
+2x14	enjoy your little game	1	1	nf
+2x14	i'll make this quest on my own	0
+2x14	wait	1	1	nf
+2x14	take a jacket	1	1	nf
+2x14	it's shpritzing a little	0
+2x14	you guys suck	0
+2x14	come on, please he's so big	0
+2x14	is everyone clear on the plan	0
+2x14	koothrappali's going to wet himself,	0
+2x14	i'm gonna throw up,	0
+2x14	sheldon's gonna run away,	0
+2x14	and you're going to die	0
+2x14	shall we synchronize our watches	0
+2x14	guys, there are four of us and one of him	0
+2x14	which means his triumph will be even larger	0
+2x14	minstrels will write songs about him	0
+2x14	how about this i'll do the talking	0
+2x14	you just stand behind me and try to look formidable	1	1	nf
+2x14	i should've peed before we left	0
+2x14	hi, kurt	0
+2x14	lenny, right	0
+2x14	i don't really go by lenny,	0
+2x14	but that's okay	0
+2x14	you remember sheldon, howard and raj	0
+2x14	what do you want	0
+2x14	you don't remember me	0
+2x14	how could he not rember me	0
+2x14	not now	0
+2x14	i remember him	0
+2x14	here it is	0
+2x14	penny's in kind of a financial jam,	0
+2x14	and the money that you owe her would go a long way to solving her problems	0
+2x14	she sent you to get it from me	0
+2x14	no, no, she's too proud to ask for the money	0
+2x14	i, on the other hand, feel you should honor your debt	0
+2x14	you do	0
+2x14	"feel" is a kind of a	0
+2x14	it's a strong word	0
+2x14	i just think it would be a nice gesture on your part	0
+2x14	she'll get it when she gets it	0
+2x14	well, there you go	0
+2x14	problem solved	0
+2x14	a successful quest now let's go find a gas station with a clean bathroom	0
+2x14	no, the problem isn't solved	0
+2x14	he just blew us off	0
+2x14	i've got it	0
+2x14	he didn't remember me	0
+2x14	because the last time we met, i was in a halloween costume	0
+2x14	come on, leonard, let's go	1	1	nf
+2x14	you can leave if you want to	0
+2x14	i'm gonna see this through	0
+2x14	i guess, technically, that was my fault	0
+2x14	i'm not leaving here without penny's money	1	1	ni
+2x14	what happened to your backup	0
+2x14	i don't need backup	0
+2x14	i have right on my side	0
+2x14	and i'm wearing cargo shorts under my pants	0
+2x14	congratulations	0
+2x14	you may not have succeed in getting cash,	0
+2x14	but you did secure a formal acknowledgment of the debt	0
+2x14	maybe we should have your head notarized	0
+2x14	if anybody cares,	0
+2x14	i still have to pee	0
+2x14	is sheldon here	0
+2x14	hang on	0
+2x14	nice hat	0
+2x14	it's kind of a fashionable look these days	0
+2x14	maybe if you're working	0
+2x14	on a tuna boat	0
+2x14	hello, penny	0
+2x14	sheldon, here is your money	0
+2x14	thank you very much	0
+2x14	it helped a lot	0
+2x14	sarcasm	0
+2x14	darn i can't seem to get the hang of that	0
+2x14	i know it's none of my business,	0
+2x14	but where did the money come from	0
+2x14	well, i cut back my expenses	0
+2x14	like you said and picked up a few more hours at the restaurant,	0
+2x14	but the biggest thing was,	0
+2x14	out of the blue, kurt shows up and gives me the money he owes me	0
+2x14	really	0
+2x14	did he say why	0
+2x14	he said he was feeling guilty	0
+2x14	and wanted to do what was right	0
+2x14	that's it	0
+2x14	did he give any reason as to why he came to this moral epiphany	0
+2x14	i just think he's really changed	0
+2x14	we're having dinner tomorrow night,	0
+2x14	and i get to wear my new beret	0
+2x14	bye, guys	0
+2x14	well done, leonard	0
+2x14	the true hero doesn't seek adulation	0
+2x14	he fights for right and justice simply because it's his nature	0
+2x14	penny's hooking up with her jerk of an exboyfriend,	0
+2x14	and i have indelible ink on my forehead	0
+2x14	that's your badge of honor	0
+2x14	your warrior's wound, if you will	0
+2x14	i was wrong	0
+2x14	minstrels will write songs about you	0
+2x14	great	0
+2x14	there once was a brave lad named leonard with a fifi fiddle deedee	0
+2x14	he faced a fearsome giant while raj just wanted to pee	0

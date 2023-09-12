@@ -1,0 +1,365 @@
+﻿2x20	problem	0
+2x20	this is thai food	0
+2x20	here we go	0
+2x20	we don't have thai food on thursday	0
+2x20	we have pizza on thursday	0
+2x20	yes, but we all agreed that the third thursday of every month would be anything can happen thursday	0
+2x20	apparently the news didn't reach my digestive system,	0
+2x20	which, when startled, has it's own version of anything can happen thursday	0
+2x20	come on, the whole idea behind	0
+2x20	anything can happen thursday is to get out of this rut	0
+2x20	we've been in lately	0
+2x20	"rut"	0
+2x20	i think you mean "consistency"	0
+2x20	and if we're going to abandon that,	0
+2x20	then why even call it thursday	0
+2x20	let's call it "quonko day" and divide it into  hours of  minutes apiece, and celebrate it by sacrificing a goat to the mighty god ra	0
+2x20	i could go for some goat	0
+2x20	sheldon, we agreed	0
+2x20	we'd do something different tonight	0
+2x20	all right	0
+2x20	let's go to the comic book store	1	1	nf
+2x20	we went there last night	0
+2x20	last night was wednesday	0
+2x20	wednesday is comic book night	0
+2x20	tonight, we'll be going on thursday,	0
+2x20	because it's anything can happen thursday	0
+2x20	way to think outside but pressed right up against the box	0
+2x20	so what are we going to do tonight	0
+2x20	if i may proffer a suggestion, in bars all across	0
+2x20	this great nation of ours,	0
+2x20	thursday night is ladies' night	0
+2x20	which means,	0
+2x20	as the evening progresses,	0
+2x20	we will get better looking	0
+2x20	courtesy of  cent margaritas	0
+2x20	and twoforone jello shots	0
+2x20	come on, howard, the odds of us picking up girls in a bar are practically zero	0
+2x20	really are you familiar with the drake equation	0
+2x20	the one that estimates the odds of making contact with extraterrestrials by calculating the product of an increasingly restrictive series of fractional values such as those stars with planets,	0
+2x20	and those planets likely to develop life n equals r times fp times ne times fl times fi times fc times l	0
+2x20	yeah, that one	0
+2x20	you can modify it to calculate our chances of having sex by changing the formula to use the number of single women in los angeles, the number of those who might find us attractive,	0
+2x20	and what i call	0
+2x20	the wolowitz coefficient	0
+2x20	"the wolowitz coefficient"	0
+2x20	neediness times dress size squared crunching the numbers,	0
+2x20	i come up with a conservative , potential sex partners within a mile radius	0
+2x20	you're joking	0
+2x20	i'm a horny engineer, leonard	0
+2x20	i never joke about math or sex	0
+2x20	what are we waiting for	0
+2x20	let's bounce, bitches	1	1	nf
+2x20	you're right	0
+2x20	it's anything can happen thursday	0
+2x20	let's hit the clubs and meet hot women	1	1	nf
+2x20	here we go	0
+2x20	lock up your daughters	0
+2x20	we're going to hit it and quit it	0
+2x20	or we could finish eating and go to the comic book store	1	3	nf
+2x20	also a good plan	0
+2x20	but next anything can happen thursday, we're definitely going to a bar	1	1	nf
+2x20	absolutely	0
+2x20	you heard that, ladies' night ladies	0
+2x20	we're eventually coming for you	0
+2x20	fascinating	0
+2x20	hey, guys where're you headed to the comic book store	0
+2x20	you're probably thinking, "the comic book store on a thursday why, i've fallen down the rabbit hole and into a land of madness"	0
+2x20	what you have failed to take into account,	0
+2x20	is that this is anything can happen thursday	0
+2x20	you got me	0
+2x20	while you're there, could pick me up a few comics for my nephew's birthday	0
+2x20	i think you mean comic books	0
+2x20	"comics" are feeble attempts at humor featuring talking babies and anthropomorphized pets found traditionally in the optimisticallynamed "funny pages"	0
+2x20	could you pick me up a few comics	0
+2x20	for my nephew's birthday	0
+2x20	sure what does he like	0
+2x20	i don't know, he's	0
+2x20	just pick out anything	1	4	nf
+2x20	"just pick out anything"	0
+2x20	maybe we can pick out a new suit for him without knowing his size	0
+2x20	or pick out his career for him without knowing his aptitude	0
+2x20	or pick out a new breakfast cereal without knowing his fiber requirements	0
+2x20	or his feelings about little marshmallows	0
+2x20	spiderman get him spiderman	1	1	nf
+2x20	amazing spiderman, ultimate spiderman，spectacular spiderman, the marvelous adventures of spiderman, spiderman	0
+2x20	you know this can go on all night	0
+2x20	why don't you just come with us	1	3	ni
+2x20	that's what i was trying to avoid	0
+2x20	i forgot sensational spiderman	0
+2x20	what a cute, little store	0
+2x20	everybody's staring at me	0
+2x20	don't worry, they're more scared of you	1	1	ni
+2x20	than you are of them	0
+2x20	unlikely	0
+2x20	here, what about this one for my nephew	0
+2x20	a superb choice	0
+2x20	oh, great	0
+2x20	provided he has already read infinite crisis and , and is familiar with the reestablishment of the dc multiverse	0
+2x20	what's a "multiverse"	0
+2x20	get her out of here	1	1	nf
+2x20	come on, i'll help you pick something	0
+2x20	that's right she's with us	0
+2x20	guys like that are so pathetic	0
+2x20	tell me about it	0
+2x20	look, a new batman belt buckle	1	1	nf
+2x20	hey, leonard	0
+2x20	can i help you find something	0
+2x20	hey, stuart this is penny	0
+2x20	she's looking for some comic books	0
+2x20	oh, really	0
+2x20	blink twice if you're here against your will	1	1	nf
+2x20	i think we're fine, stuart	0
+2x20	let me know if you need anything	1	3	nf
+2x20	thanks	0
+2x20	he seems like a nice guy	0
+2x20	you mean for someone who's into comic books	0
+2x20	i just meant for yeah	0
+2x20	just because people appreciate comic books doesn't make them weirdos	0
+2x20	stuart's a terrific artist	0
+2x20	he went to the rhode island school of design	0
+2x20	what about the guy over there in the superhero tshirt tucked into his sweatpants	0
+2x20	yeah, that's captain sweatpants	0
+2x20	he doesn't really help	0
+2x20	the point i'm trying to make	0
+2x20	got it got it	0
+2x20	got it got it	0
+2x20	need it	0
+2x20	let it go	1	1	nf
+2x20	why i saw it first	0
+2x20	yes, but i saw it from the front a far less impressive feat	0
+2x20	come on i need this for my batman collection	0
+2x20	i need it for my robin collection rockpaperscissorslizardspock	0
+2x20	why would i gamble	0
+2x20	it's mine let go	1	1	nf
+2x20	you let go	1	1	nf
+2x20	no, you	0
+2x20	problem	0
+2x20	he won't let go of my comic book	0
+2x20	it's my comic book	0
+2x20	we need a ruling	0
+2x20	cut it in half	0
+2x20	excuse me	1	1	nf
+2x20	hello again	0
+2x20	hi what would you recommend as a present for a yearold boy a yearold girl	0
+2x20	but if you're dead set on a comic book, try this	1	3	nf
+2x20	hellblazer	0
+2x20	what's this about	0
+2x20	a morally ambiguous confidence man who smokes, has lung cancer and is tormented by the spirits of the undead	0
+2x20	if it doesn't make me the favorite aunt, i don't know what will	0
+2x20	is this me	0
+2x20	depends do you like it	0
+2x20	it's really good	0
+2x20	yes, that's you	0
+2x20	that's so sweet,	0
+2x20	but what if i didn't like it	0
+2x20	it'd still be you,	0
+2x20	but i'd feel like an idiot	0
+2x20	i don't believe it	0
+2x20	stuart's putting the moves on penny	0
+2x20	i have got to learn how to draw	0
+2x20	once again, defeated by your own prurient interests	0
+2x20	guys, have you seen stuart	0
+2x20	all up in penny's business over there	0
+2x20	nobody's up in anybody's business	0
+2x20	let's just buy our stuff and go	1	1	nf
+2x20	okay, you've got my number	0
+2x20	now, give me the picture	0
+2x20	you drive a hard bargain	0
+2x20	but here	0
+2x20	all right	0
+2x20	so, just give me a call	0
+2x20	so, leonard, how are you enjoying anything can happen thursday	0
+2x20	look at that	1	1	nf
+2x20	that's a dent	0
+2x20	thank you,	0
+2x20	howard "hamfisted" wolowitz	0
+2x20	did you just shut the tv off in the middle of the classic	0
+2x20	deep space nine/star trek	0
+2x20	the original series	0
+2x20	"trouble with tribbles"	0
+2x20	crossover episode	0
+2x20	apparently so	0
+2x20	are you ill all right	0
+2x20	then is it fair to say that you're experiencing some sort of emotional turmoil over the events involving penny earlier this evening	0
+2x20	when did you pick up on that	0
+2x20	a moment ago, when you turned off the tv	0
+2x20	during the classic deep space nine/star trek	0
+2x20	the original series	0
+2x20	"trouble with tribbles"	0
+2x20	crossover episode	0
+2x20	would you like some advice	0
+2x20	sure, why not	0
+2x20	then, this is the perfect time to launch a blog	with an interactive comments section	1	3	nf
+2x20	thanks a lot	0
+2x20	would you rather i offer my personal insight	0
+2x20	i don't need any insights	0
+2x20	i just want to know why penny's more interested in stuart than me	0
+2x20	we're practically the same guy	0
+2x20	i disagree	0
+2x20	stuart is taller, artistic, selfemployed and, most significantly, he gets  percent off comic books	0
+2x20	you're right i really should be asking strangers on the internet	0
+2x20	my original point	0
+2x20	chinese food, vintage video games	0
+2x20	after the nightmare of anything can happen thursday,	0
+2x20	this is friday night	0
+2x20	the way it was meant to be	0
+2x20	who's up for sheldonfree saturday	0
+2x20	hey, penny and stuart	0
+2x20	hey, guys	0
+2x20	so what are you kids up to	0
+2x20	stuart has a piece in an art show that's opening tonight	0
+2x20	and you guys are going together	0
+2x20	great	0
+2x20	it is great	0
+2x20	really great	0
+2x20	freaking awesome	0
+2x20	what are you guys doing	0
+2x20	it's friday night,	0
+2x20	chinese food and vintage video games, right	0
+2x20	vintage doesn't even begin to describe what we have planned	0
+2x20	tonight, we are playing the classic interactive text adventure, zork	0
+2x20	it's the buggy beta version	0
+2x20	zork well, you guys have fun	1	2	nf
+2x20	see you guys	0
+2x20	see you, stuart	0
+2x20	hey, howard take me to a bar with women	1	1	nf
+2x20	really	0
+2x20	yeah	0
+2x20	let me just go inside	0
+2x20	and slip off my underwear	0
+2x20	why	0
+2x20	well, if i get lucky, i don't want to be caught in my aquaman briefs	0
+2x20	do you let's go	0
+2x20	may i have a grasshopper with a little umbrella, please	1	1	nf
+2x20	no, he may not	0
+2x20	why	0
+2x20	i'm not sitting here with a guy drinking a grasshopper with a little umbrella	0
+2x20	fine i'll have a chocolate martini	1	1	nf
+2x20	wrong again	0
+2x20	you know i can't talk to women	0
+2x20	unless i'm lit up like the hindu festival of devali	0
+2x20	there are plenty of bars in los angeles where you can order grasshoppers and chocolate martinis,	0
+2x20	but you wouldn't have to	0
+2x20	because there are no women in them	0
+2x20	gotcha	0
+2x20	i'll have a brandy alexander	0
+2x20	all right, the three musketeers just became the dynamic duo	0
+2x20	should we talk to some of these women	0
+2x20	it's way too early	0
+2x20	in the night for that	0
+2x20	first we let the lawyers and the jocks thin the herd, and then we go after the weak and the old and the lame	0
+2x20	that's your system	0
+2x20	that's my system	0
+2x20	and if you spot a chick with a seeing eye dog, she's mine	0
+2x20	come on i think it's nice that captain sweatpants showed up to your art opening	0
+2x20	yeah, it would have been nicer	0
+2x20	if he hadn't touched all the cheese	0
+2x20	you know, it's kind of early	0
+2x20	do you want to maybe come in for some coffee	1	3	nf
+2x20	gee, it's a little late for coffee, isn't it	0
+2x20	you think "coffee," means coffee	0
+2x20	that is so sweet	0
+2x20	come on i think i have decaf	1	1	nf
+2x20	good, stuart	0
+2x20	i thought i heard your voice	0
+2x20	do you have a moment	0
+2x20	yeah, i guess	0
+2x20	sheldon, we're a little busy, so	0
+2x20	what are you doing	0
+2x20	we're having coffee	0
+2x20	isn't it a little late for coffee	0
+2x20	it's okay she thinks she has decaf	0
+2x20	i'll just go look for it	0
+2x20	what's up	0
+2x20	i've spent the last three hours in an online debate in the dc comics batman chatroom, and i need your help	0
+2x20	yeah those guys can be very stubborn	0
+2x20	what's the topic	0
+2x20	i am asserting,	0
+2x20	in the event that batman's death proves permanent, the original robin, dick grayson, is the logical successor o the bat cowl	0
+2x20	sheldon, i'm afraid you couldn't be more wrong	0
+2x20	more wrong	0
+2x20	wrong is an absolute state	0
+2x20	and not subject to gradation	0
+2x20	of course it is it's a little wrong to say a tomato is a vegetable	0
+2x20	it's very wrong to say	0
+2x20	it's a suspension bridge	0
+2x20	but returning to the original issue,	0
+2x20	dick grayson became nightwing,	0
+2x20	a superhero in his own right	0
+2x20	batman  has to be the second robin, jason todd has to be has to be	0
+2x20	i hope you're being deliberately provocative	0
+2x20	i found the decaf	0
+2x20	great	0
+2x20	herbal tea for me, please	1	1	nf
+2x20	barkeep	0
+2x20	alexander me	1	1	nf
+2x20	how about those two	0
+2x20	they're eating peanuts	0
+2x20	and my allergies, one kiss would put me in cedarssinai for a week	0
+2x20	what about the ones in the corner	0
+2x20	possible very possible	0
+2x20	you want the one in the whiplash collar or the one who keeps blinking	0
+2x20	i think blinky's cute	0
+2x20	you got it, sir	0
+2x20	wait, so we just go over there	1	1	nf
+2x20	we have a little prep work to do	0
+2x20	put this in your mouth	1	1	nf
+2x20	we walk past them, you stumble a bit	0
+2x20	i say, sorry,	0
+2x20	my friend's had a little too much	0
+2x20	and then i start to pull it out of your mouth	0
+2x20	and say, "a little too much fun"	0
+2x20	get it	0
+2x20	they're laughing, we're laughing	0
+2x20	then we get them up to about a  blood alcohol level, and tell them we're millionaires	1	1	nf
+2x20	what else you got	0
+2x20	depends are you willing to sit on my lap and pretend to be a ventriloquist dummy	0
+2x20	i can't sit on your lap	0
+2x20	you don't know the routine	0
+2x20	i'm sorry, but you're obviously stuck in a prezero hour dc universe	0
+2x20	of course i am	0
+2x20	removing joe chill as the killer of batman's parents effectively deprived him of his raison d'être	0
+2x20	throw all the french around you want,	0
+2x20	it doesn't make you right	0
+2x20	au contraire	0
+2x20	plus, you're forgetting that the infinite crisis storyline restored joe chill to the batman mythology	0
+2x20	i am forgetting nothing	0
+2x20	and i resent your tone	0
+2x20	look, sheldon, it's late	0
+2x20	i've got to get some sleep	0
+2x20	so, i win	0
+2x20	no, i'm tired	0
+2x20	so, i win	0
+2x20	fine you win	0
+2x20	darn tootin', i win	0
+2x20	penny, i really had a terrific time	0
+2x20	no, don't wake her	1	1	ni
+2x20	she'll maul you like a rabid wolverine	0
+2x20	you know, i don't think	0
+2x20	that was decaf	0
+2x20	wait	1	1	nf 
+2x20	is this your card or isn't it	0	
+2x20	trust me this was their card	1	1	nf
+2x20	i thought you were good at this	0
+2x20	you're always talking about how you go to bars and meet women	0
+2x20	i do, all the time	0
+2x20	well, what happened	0
+2x20	we've been sitting here all night and the longest conversation you've had with a woman was when your mom called	0
+2x20	you're just going to make me come out and say it	0
+2x20	say what	0
+2x20	you're weighing me down	0
+2x20	i'm a falcon who hunts better solo	0
+2x20	fine i'll sit here	0
+2x20	you take flight and hunt	1	1	nf
+2x20	don't be ridiculous	1	1	ni
+2x20	you can't tell a falcon when to hunt	0
+2x20	actually, you can	0
+2x20	there's a whole sport built around it	0
+2x20	falconry	0
+2x20	shut up	1	1	nf
+2x20	let's just get koothrappali and go	1	1	nf
+2x20	lucky bastard	0
+2x20	it's got to be that stupid accent of his	0
+2x20	hello i am sanjay wolowitz from bombay	0
+2x20	okay, i'm stumped	0

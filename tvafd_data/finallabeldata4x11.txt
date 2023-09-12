@@ -1,0 +1,591 @@
+﻿4x11	water demon	0
+4x11	ice dragon	0
+4x11	lesser warlord	0
+4x11	of ka'a	0
+4x11	not so fast	1	1	ni
+4x11	infinite sheldon	0
+4x11	infinite sheldon	0
+4x11	yes, infinite sheldon	0
+4x11	defeats all other cards	0
+4x11	and does not violate the	0
+4x11	rule against homemade cards	0
+4x11	because i made	0
+4x11	it at work	0
+4x11	do you understand why people	0
+4x11	don't want to play with you	0
+4x11	no	0
+4x11	although it's a question i've	0
+4x11	been pondering since preschool	0
+4x11	hey	0
+4x11	hey	0
+4x11	hey	0
+4x11	hey, your copy of science	0
+4x11	magazine was in my mailbox	0
+4x11	oh, thanks	0
+4x11	mmhmm	0
+4x11	check it out	1	1	nf
+4x11	all about planets this month	0
+4x11	that's an atom	0
+4x11	agree to disagree	0
+4x11	that's what i love	0
+4x11	about science	0
+4x11	there's no	0
+4x11	one right answer	0
+4x11	so	0
+4x11	you and zack again, huh	0
+4x11	yeah, yeah, me	0
+4x11	and zack again	0
+4x11	were we here earlier	0
+4x11	okay, we should,	0
+4x11	we should go	1	1	nf
+4x11	ah, not yet	0
+4x11	i want to talk science	0
+4x11	with the science dudes	0
+4x11	oh, and the science dudes want	0
+4x11	to talk science with you	0
+4x11	what do you want	0
+4x11	to talk about	0
+4x11	rocks, dinosaurs, our	0
+4x11	friend the beaver	0
+4x11	you know, i saw this great thing	0
+4x11	on the discovery channel	0
+4x11	turns out	0
+4x11	that if you kill a starfish,	0
+4x11	it'll just come back to life	0
+4x11	was the starfish	0
+4x11	wearing boxer shorts	0
+4x11	because you might have	0
+4x11	been watching nickelodeon	0
+4x11	no, i'm almost sure that	0
+4x11	it was the discovery channel	0
+4x11	it was a great show	0
+4x11	they also said dolphins	0
+4x11	might be smarter than people	0
+4x11	they might be smarter	0
+4x11	than some people	0
+4x11	maybe we can do an	0
+4x11	experiment to find out	0
+4x11	that's easy enough	0
+4x11	we'd need a large tank of	0
+4x11	water, a hoop to jump through,	0
+4x11	and a bucket of whatever	0
+4x11	bitesized treats	0
+4x11	you find tasty	0
+4x11	i don't get it	0
+4x11	a dolphin might	0
+4x11	oh, i see	0
+4x11	you guys are inferring	0
+4x11	that i'm stupid	0
+4x11	that's not correct	0
+4x11	we were implying it	0
+4x11	you then inferred it	0
+4x11	let's go	1	1	nf
+4x11	you know, for a group of guys	0
+4x11	who claim they spent most	0
+4x11	of their lives being bullied,	0
+4x11	you can be real jerks	0
+4x11	shame on all of you	0
+4x11	what the hell did i do	0
+4x11	you laughed	0
+4x11	do you think	0
+4x11	penny's right	0
+4x11	were we bullying zack	0
+4x11	no,	0
+4x11	i know bullying	0
+4x11	he left here unswirlied and his	0
+4x11	ass crack was underpantsfree	0
+4x11	and nobody drew	0
+4x11	a penis on his forehead	0
+4x11	that happened to you	0
+4x11	first day of cricket camp	0
+4x11	they drew it	0
+4x11	so the testicles were my eyes	0
+4x11	i don't know, i think	0
+4x11	we might owe the guy an apology	0
+4x11	so go apologize	1	1	nf
+4x11	why me	0
+4x11	you started it,	0
+4x11	we just piled on	0
+4x11	what would i even say	0
+4x11	zack, i'm sorry you're stupid	0
+4x11	have a milk dud	0
+4x11	a milk dud	0
+4x11	yeah,	0
+4x11	milk duds,	1	3	nf
+4x11	with their selfdeprecating name	0
+4x11	and remarkably mild flavor,	0
+4x11	are the most apologetic	0
+4x11	of the boxed candies	0
+4x11	i got a better idea	0
+4x11	we're all responsible	0
+4x11	i say we all go	1	1	nf
+4x11	come on, who's with me	0
+4x11	free comic books	0
+4x11	to anyone who comes with me	0
+4x11	i might get punched	0
+4x11	you really want to miss that	0
+4x11	junior mints are	0
+4x11	pretty apologetic	0
+4x11	you're embarrassing	0
+4x11	yourself	0
+4x11	penny	0
+4x11	what	0
+4x11	yeah,	0
+4x11	we came to talk to zack	0
+4x11	hey, zack	0
+4x11	what do you want	0
+4x11	listen,	0
+4x11	the stuff	0
+4x11	we were saying before	0
+4x11	we were just kidding around	0
+4x11	no, you weren't	0
+4x11	you were making fun	0
+4x11	of me	0
+4x11	come on, that's what we do	0
+4x11	we give each other a hard time	0
+4x11	hey, sheldon,	0
+4x11	you look	0
+4x11	like a praying mantis	0
+4x11	that's very hurtful	0
+4x11	see	0
+4x11	i don't know,	0
+4x11	it still wasn't very nice	0
+4x11	milk dud	1	3	nf
+4x11	oh, i love milk duds	0
+4x11	okay, we're cool	0
+4x11	junior mints	0
+4x11	you guys want to come in and have a beer	1	3	nf
+4x11	uh, we're on our way	0
+4x11	to the comic book store	0
+4x11	leonard's buying	0
+4x11	really	0
+4x11	i haven't been	0
+4x11	to a comic book store	0
+4x11	in literally	0
+4x11	a million years	0
+4x11	literally	0
+4x11	literally a	0
+4x11	million years	0
+4x11	don't you want to go with 'em	0
+4x11	no	0
+4x11	okay, see you later	1	1	nf
+4x11	wait,	0
+4x11	wwwwait, you're ditching me	0
+4x11	to go look at comic books	0
+4x11	are you mad at me	0
+4x11	i'm not happy	0
+4x11	milk dud	1	3	nf
+4x11	wow, this place	0
+4x11	is awesome	0
+4x11	where do they keep	0
+4x11	the archies	0
+4x11	in the bedrooms of tenyear	0
+4x11	old girls, where they belong	0
+4x11	oh, no, you're thinking	0
+4x11	oldschool archie	0
+4x11	it's much more	0
+4x11	sophisticated now	0
+4x11	like, there's	0
+4x11	two universes,	0
+4x11	and archie's married	0
+4x11	to betty in one	0
+4x11	and veronica	0
+4x11	in the other	0
+4x11	midge is even breaking	0
+4x11	up with moose	0
+4x11	no	0
+4x11	about time, right	0
+4x11	hey	0
+4x11	hey	0
+4x11	you guys finally chip in	0
+4x11	for a bodyguard	0
+4x11	uh, no oh,	0
+4x11	this is zack	0
+4x11	he's a friend	0
+4x11	of ours	0
+4x11	zack, this is stuart	0
+4x11	he owns	0
+4x11	the store	0
+4x11	wow, lucky you	0
+4x11	yeah, i work	0
+4x11	hours a week	0
+4x11	and average	0
+4x11	$ an hour	0
+4x11	sweet	0
+4x11	is that sarcasm	0
+4x11	no, it's an indictment of the	0
+4x11	american education system	0
+4x11	the archies are over here	0
+4x11	yippee	0
+4x11	so are you guys coming to my new year's eve costume party	1	3	nf
+4x11	of course	0
+4x11	we're coming as the	0
+4x11	justice league of america	0
+4x11	switching it up from last year	0
+4x11	when we came as	0
+4x11	the justice league of america	0
+4x11	to that point,	0
+4x11	it occurs to me that we	0
+4x11	might have an opportunity	0
+4x11	to finally snare	0
+4x11	best group costume	0
+4x11	if we shore up	0
+4x11	our weak link,	0
+4x11	which is clearly	0
+4x11	leonard as superman	0
+4x11	hey, i got	0
+4x11	new boots this year	0
+4x11	guaranteed to add	0
+4x11	three inches	0
+4x11	that's sad	0
+4x11	is there anyone we know	0
+4x11	who would make a more manly	0
+4x11	and convincing son of krypton	0
+4x11	than leonard	0
+4x11	in highheeled boots	0
+4x11	howard's mother	0
+4x11	in highheeled boots	0
+4x11	i was thinking specifically	0
+4x11	of the gentleman over there	0
+4x11	moving his lips	0
+4x11	as he enjoys	0
+4x11	the latest exploits	0
+4x11	of betty and veronica	0
+4x11	zack	0
+4x11	he is the only person we know	0
+4x11	with actual muscles	0
+4x11	you can't replace	0
+4x11	me with zack	0
+4x11	why not	1	1	ni
+4x11	penny did it	0
+4x11	yeah, she seems happier	0
+4x11	why wouldn't we be	0
+4x11	score	0
+4x11	i got an archie,	0
+4x11	betty and veronica,	0
+4x11	and a jughead	0
+4x11	all set	0
+4x11	for my weekend number twos	0
+4x11	congratulations	0
+4x11	zack, how would you	0
+4x11	like to be superman	0
+4x11	i don't know, sounds like	0
+4x11	a lot of responsibility	0
+4x11	fine, if zack's going	0
+4x11	to be superman,	0
+4x11	i want to be	0
+4x11	green lantern	0
+4x11	but i'm green lantern	0
+4x11	you can be aquaman	0
+4x11	i don't want to be aquaman	0
+4x11	he sucks	0
+4x11	he sucks	0
+4x11	underwater	0
+4x11	he sucks	0
+4x11	fish pee	0
+4x11	excuse me,	0
+4x11	i believe aquaman uses	0
+4x11	his telepathic powers	0
+4x11	to request the fish do	0
+4x11	their business elsewhere	0
+4x11	hey, babe	0
+4x11	i'm still mad at you	0
+4x11	well, you won't be	0
+4x11	when you hear the great news	0
+4x11	what great news	0
+4x11	we're going to	0
+4x11	a costume party	0
+4x11	at the comic book store	0
+4x11	on new year's eve,	0
+4x11	and you get to be wonder woman	1	1	nf
+4x11	complete with bulletproof	0
+4x11	bracelets and lasso of truth	0
+4x11	invisible plane sold separately	0
+4x11	wait, why me	1	1	nf
+4x11	whwhy can't your girlfriend	0
+4x11	be wonder woman	0
+4x11	she and her lab team	0
+4x11	are under quarantine	0
+4x11	seems at the christmas party	0
+4x11	they were doing jello shots	0
+4x11	out of petri dishes that used	0
+4x11	to contain yellow fever	0
+4x11	okay, what about	0
+4x11	your friend amy	0
+4x11	amy farrah fowler doesn't believe in wearing costumes	0
+4x11	she isn't the free spirit i am	0
+4x11	okay, well, forget it	1	1	nf
+4x11	i'm not spending	0
+4x11	my new year's eve	0
+4x11	at a comic book store	0
+4x11	wearing a wonder woman costume	0
+4x11	he says he'll wear it	0
+4x11	if you'll be aquaman	0
+4x11	what are you doing	0
+4x11	we're going	0
+4x11	to be late	0
+4x11	i'm pacing nervously	0
+4x11	you're jogging	0
+4x11	this is how the	0
+4x11	flash paces	0
+4x11	just chill out, sheldon	1	1	nf
+4x11	i'm not sheldon	0
+4x11	i'm the flash	0
+4x11	and now i'm going	0
+4x11	to the grand canyon	0
+4x11	to scream in frustration	0
+4x11	i'm back	0
+4x11	i'm batman	0
+4x11	oh, i hardly think so	0
+4x11	the real caped crusader calls	0
+4x11	his crimefighting cohorts	0
+4x11	when he's running late	0
+4x11	i had to walk	0
+4x11	i couldn't get raj	0
+4x11	on the back of my scooter	0
+4x11	i've said this before,	0
+4x11	and i'll say it again	0
+4x11	aquaman sucks	0
+4x11	look up in the sky	0
+4x11	it's a bird it's a plane	0
+4x11	i forget the rest	0
+4x11	all right let's get this thing over with	1	1	nf
+4x11	i'm sorry	0
+4x11	but in what universe	0
+4x11	is wonder woman blonde	0
+4x11	relax	1	1	nf
+4x11	no one's going to	0
+4x11	be looking at her hair	0
+4x11	ow	0
+4x11	i mean,	0
+4x11	ow	0
+4x11	hold on	0
+4x11	the costume came with a black wig	0
+4x11	where is it, babe	0
+4x11	no i'm not wearing	0
+4x11	it it looks stupid	0
+4x11	come on we're trying	0
+4x11	to win a contest here	0
+4x11	forget it	0
+4x11	i'm not wearing the wig	0
+4x11	honey, there's no "i"	0
+4x11	in "justice league"	0
+4x11	well, actually	0
+4x11	don't	1	1	ni
+4x11	he's making our case	0
+4x11	okay, babe uh	0
+4x11	kind of embarrassing me	0
+4x11	in front of my friends	0
+4x11	okay	0
+4x11	you know what	0
+4x11	i changed my mind	0
+4x11	i'm not going	0
+4x11	looks like someone	0
+4x11	else is going	0
+4x11	to have to be wonder woman	0
+4x11	babe, open up	1	1	nf
+4x11	i'm not talking to you	0
+4x11	then who are you talking to	0
+4x11	babe	0
+4x11	penny, penny, penny, penny,	0
+4x11	penny, penny, penny,	0
+4x11	penny, penny, penny,	0
+4x11	penny, penny, penny, penny,	0
+4x11	penny, penny, penny, penny	0
+4x11	penny, penny	0
+4x11	what the hell	0
+4x11	is wrong with you	0
+4x11	i'm the flash	0
+4x11	i just knocked , times	0
+4x11	okay what do you want, sheldon	0
+4x11	i understand	0
+4x11	why you're upset	0
+4x11	really	0
+4x11	yes	0
+4x11	you're afraid that costume	0
+4x11	makes you look fat	0
+4x11	no	0
+4x11	whwhat	0
+4x11	does it	0
+4x11	don't worry	1	2	ni
+4x11	wonder woman	0
+4x11	was an amazon	0
+4x11	and amazons tend to	0
+4x11	be very beefy gals	0
+4x11	goodbye, sheldon	0
+4x11	but they're not blonde,	0
+4x11	so put on your wig	1	1	nf
+4x11	hello	0
+4x11	stupid aquaman	0
+4x11	if it makes you	0
+4x11	feel any better,	0
+4x11	when i was dating penny,	0
+4x11	she used to flip out	0
+4x11	on me all the time	0
+4x11	whoa you dated penny	0
+4x11	she didn't tell you	0
+4x11	she told me she dated	0
+4x11	a guy named leonard	0
+4x11	who would have	0
+4x11	thought it was you	0
+4x11	who else would it be	0
+4x11	i don't know somebody	0
+4x11	bigger and	0
+4x11	yeah, sure	0
+4x11	why not you	0
+4x11	i may have failed	0
+4x11	okay, i guess we just go	0
+4x11	without a wonder woman	0
+4x11	i don't want to go	0
+4x11	without penny	0
+4x11	oh, great no superman,	0
+4x11	no wonder woman	0
+4x11	all we've got is a skinny flash,	0
+4x11	an indian aquaman,	0
+4x11	a nearsighted	0
+4x11	green lantern,	0
+4x11	and a teeny, tiny	0
+4x11	dark knight	0
+4x11	obviously, we're no longer	0
+4x11	a justice league	0
+4x11	we have no choice but to switch	0
+4x11	to our muppet baby costumes	0
+4x11	ooh, i call kermit	0
+4x11	i'm kermit	0
+4x11	you're scooter	0
+4x11	oh, man	0
+4x11	scooter sucks	0
+4x11	he's the aquaman	0
+4x11	of the muppet babies	0
+4x11	no, we can still	0
+4x11	make this work	0
+4x11	leonard,	0
+4x11	you talk to penny	1	1	nf
+4x11	what makes you think	0
+4x11	i can convince her	0
+4x11	you got her	0
+4x11	to have sex with you	0
+4x11	obviously, your superpower is brainwashing	0
+4x11	okay, let me see	0
+4x11	if i understand this	0
+4x11	you want me to convince my exgirlfriend	0
+4x11	to go to a costume party	0
+4x11	with her new boyfriend	0
+4x11	just so we can win	0
+4x11	a stupid prize	0
+4x11	yes and make her wear the black wig	1	1	nf 
+4x11	good luck	1	2	nf
+4x11	go away, sheldon	1	1	nf
+4x11	it's leonard	0
+4x11	oh	0
+4x11	go away, leonard	1	1	nf
+4x11	come on, let me	just talk to you	0
+4x11	it's open	0
+4x11	hey	0
+4x11	i'm not going	0
+4x11	to that party, leonard	0
+4x11	okay, listen	0
+4x11	you don't have to wear the wig	1	1	ni
+4x11	at this party,	0
+4x11	we're gonna win first prize	0
+4x11	just by showing up with a girl	0
+4x11	it's not the wig	0
+4x11	did i do something	0
+4x11	i mean, i tried to be	0
+4x11	friends with zack,	0
+4x11	like you said, which believe me,	1	1	nf
+4x11	was difficult,	0
+4x11	given how you and me	0
+4x11	used to be	0
+4x11	you know, "you and	0
+4x11	me," and now you	0
+4x11	and him are	0
+4x11	"you and him"	0
+4x11	okay, look	0
+4x11	we're not really "me and him"	0
+4x11	then what are you	0
+4x11	i don't know	0
+4x11	i only started seeing zack again	0
+4x11	so i wouldn't be alone	0
+4x11	on new year's eve	0
+4x11	how pathetic is that	0
+4x11	not as pathetic	0
+4x11	as dressing up like this	0
+4x11	and going to a comic book store	0
+4x11	on new year's eve	0
+4x11	you make a cute green arrow	0
+4x11	green lantern	0
+4x11	like there's a difference	0
+4x11	there's a big difference	0
+4x11	arrow	0
+4x11	lantern	0
+4x11	whatever look,	0
+4x11	if zack and i had just gone	0
+4x11	to a regular club or a party,	0
+4x11	it would have been fine,	0
+4x11	but this, with the costumes,	0
+4x11	and you	0
+4x11	what about me	0
+4x11	nothing	0
+4x11	let's go to the party	1	1	nf
+4x11	how do i look	0
+4x11	um	0
+4x11	i guarantee you'll be	0
+4x11	the prettiest girl there	0
+4x11	okay, the good news is,	0
+4x11	we have a wonder woman	0
+4x11	oh	0
+4x11	yes	0
+4x11	what's the bad news	0
+4x11	superman probably isn't	0
+4x11	getting laid tonight	0
+4x11	aw, damn	0
+4x11	and the award	0
+4x11	for best group costume	0
+4x11	goes to	0
+4x11	justice league of america	0
+4x11	number three	0
+4x11	thank you	0
+4x11	thank you so much	0
+4x11	okay okay, ten	0
+4x11	seconds to midnight	0
+4x11	ten, nine, eight	0
+4x11	no, wait	1	1	ni
+4x11	i have a speech	0
+4x11	seven, six	0
+4x11	stop counting	1	1	nf
+4x11	five, four, three	0
+4x11	this is my moment, dag nab it	0
+4x11	two, one	0
+4x11	happy new year	1	2	nf
+4x11	i'm not going	0
+4x11	to say another word	0
+4x11	until you people settle down	0
+4x11	i'm waiting	0
+4x11	that was a	0
+4x11	great party	0
+4x11	we should dress like	0
+4x11	this all the time	0
+4x11	are you high	0
+4x11	you're being	0
+4x11	a bully	0
+4x11	check it out	1	1	nf
+4x11	those guys are breaking	0
+4x11	into that car	0
+4x11	what should we do	0
+4x11	we're the justice league	0
+4x11	of america	0
+4x11	there's only one thing	0
+4x11	we can do	0
+4x11	turn around and slowly walk away	1	4	nf
+4x11	nah	0
+4x11	hold up	1	1	nf
+4x11	look, i know our winter	0
+4x11	thermostat setting	0
+4x11	is  degrees,	0
+4x11	but i'm a little warm,	0
+4x11	so i'm going	0
+4x11	to turn it down	0
+4x11	good lord,	0
+4x11	how you frustrate me,	0
+4x11	leonard hofstadter	0

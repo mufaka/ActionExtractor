@@ -1,0 +1,323 @@
+﻿3x03	going out tonight, i'm feeling all right	0
+3x03	going to let it all hang out	0
+3x03	wanna make some noise, even raise my voice	0
+3x03	yeah, i wanna scream and shout	0
+3x03	morning, sheldon come dance with me	1	3	nf
+3x03	no	0
+3x03	why not	0
+3x03	penny, while i subscribe to the "many worlds" theory	0
+3x03	which posits the existence of an infinite number of sheldons	0
+3x03	in an infinite number of universes, i assure you that in none of them am i dancing	0
+3x03	are you fun in any of them	0
+3x03	the math would suggest that in a few i'm a clown made of candy	0
+3x03	but i don't dance	0
+3x03	alright, want some french toast	1	3	nf
+3x03	it's oatmeal day	0
+3x03	tell you what, next french toast day, i’ll make you oatmeal	0
+3x03	dear lord, are you still going to be here on french toast day	0
+3x03	morning	0
+3x03	look, leonard, penny made french toast	1	1	nf
+3x03	sorry, i haven't given her your schedule yet	0
+3x03	it's an ical download she can put it right in her phone	0
+3x03	and i thought we agreed that you'd have your conjugal visits in her apartment	0
+3x03	we did, but there were extenuating circumstances	0
+3x03	i see did her abysmal housekeeping skills finally trump her perkiness	0
+3x03	no, her bed kind of broke	0
+3x03	that doesn't seem likely	0
+3x03	her bed's of sturdy construction	0
+3x03	even the addition of a second normal size human being wouldn't cause a structural failure, much less a homunculus such as yourself	0
+3x03	a homunculus	0
+3x03	perfectly formed miniature human being	0
+3x03	oh, you're my little homunculus	0
+3x03	don't do that	1	1	ni
+3x03	sorry	0
+3x03	okay, who wants syrup and who wants cinnamon sugar	0
+3x03	i want oatmeal	0
+3x03	yes, well, i want a boyfriend whose roommate isn't a giant pain in the ass	0
+3x03	i'm sure that will happen soon enough	0
+3x03	but in the meantime, i still want oatmeal	0
+3x03	you know what, i give up he's impossible	0
+3x03	i can't be impossible, i exist	0
+3x03	i believe what you meant to say is, "i give up, he's improbable"	0
+3x03	sheldon, you really need to find a better way of dealing with penny	1	3	nf
+3x03	what am i supposed to doeat french toast on a monday	0
+3x03	now, that would be impossible	0
+3x03	i'm just saying, you can catch more flies with honey than with vinegar	0
+3x03	you can catch even more flies with manure  what's your point	0
+3x03	it's a	0
+3x03	boy, that does smell good	0
+3x03	too bad it's monday	0
+3x03	okay, kim the night manager went on maternity leave,	0
+3x03	and her husband's name is sandy, right	0
+3x03	so get this her replacement is a woman named sandy whose husband's name is kim	0
+3x03	i know what are the odds	0
+3x03	easily calculable we begin by identifying a set of married couples with unisex names	0
+3x03	we then eliminate those unqualified for restaurant work	0
+3x03	the aged, the imprisoned and the limbless, for example look at	0
+3x03	sheldon it's an amazing coincidence can we leave it at that	1	1	nf
+3x03	i'm sorry	0
+3x03	ooh, penny, it's just if the cheese cake factory is run by witches	0
+3x03	sheldon, it's as if you don't think i'll punch you	0
+3x03	come on, you guys, let it go	1	3	nf
+3x03	fine, whatever	0
+3x03	are you finished	0
+3x03	well, thank you how thoughtful	0
+3x03	would you like a chocolate	1	3	nf
+3x03	um, yeah, sure	0
+3x03	thanks	0
+3x03	what was that	0
+3x03	you said be nice to penny	0
+3x03	i believe offering chocolate to someone falls within the definition of nice	0
+3x03	it does but in my experience, you don't	0
+3x03	there are more things in heaven and earth, horatio,	0
+3x03	than are dreamt of in your philosophy	0
+3x03	now that's you, obnoxious and insufferable	0
+3x03	what's going on, day dwellers	0
+3x03	oh, man, did the kiss army repeal "don't ask, don't tell"	0
+3x03	no raj and i are going to a goth club in hollywood to hang with the night people	0
+3x03	anybody want to come along	0
+3x03	oh, wow, you're actually going out like that	0
+3x03	no, no i'm going out like this	0
+3x03	howard, what did you do	0
+3x03	they're called tattoo sleeves look	1	1	nf
+3x03	i got them online raj got a set, too	0
+3x03	fantastic, right	0
+3x03	put them on, have hot sex with some freaky girl with her business pierced, take them off, and i can still be buried in a jewish cemetery	0
+3x03	you know, i've always wanted to go to a goth nightclub	0
+3x03	really	0
+3x03	bazinga	0
+3x03	none of you ever see my practical jokes coming, do you	0
+3x03	okay, how about you two look, i've got some extra tat sleeves	0
+3x03	why are you carrying extras	0
+3x03	in case i snag one on someone's nipple ring	0
+3x03	uh, yeah, i think we'll pass	0
+3x03	oh, is the missus speaking for the couple now	0
+3x03	in this case, you bet she is	0
+3x03	yes, she's pushy, and yes, he's whipped, but that's not the expression	0
+3x03	come on, i want to stop at walgreens and pick up some more eyeliner	0
+3x03	they're gonna get beaten up at that club	0
+3x03	they're gonna get beaten up at walgreens	0
+3x03	oh, sorry, sheldon i almost sat in your spot	0
+3x03	did you i didn't notice	0
+3x03	have a chocolate	1	1	nf
+3x03	thank you	0
+3x03	i think we're fitting in quite nicely	0
+3x03	it'd help if you weren't drinking light beer	0
+3x03	what's so gothic about vodka and cranberry juice	0
+3x03	hello it looks like blood	0
+3x03	did you even read the "wiki how" link i sent you on being goth	0
+3x03	no, i'm behind on my wikireading	0
+3x03	i'm kind of on a john grisham kick right now	0
+3x03	what	0
+3x03	i finished reading the pelican brief and loved it so much, i dived right into the client	0
+3x03	he was a lawyer himself, so his novels are accurate as well as entertaining	0
+3x03	just remember we are lost boys, children of the night	1	1	nf
+3x03	great lost boys, children of the night got it	0
+3x03	can you pass the chex mix, please	1	1	nf
+3x03	thank you	0
+3x03	we are lost boys	0
+3x03	good for you	0
+3x03	i'm actually much more lost than he is	0
+3x03	nice ink	0
+3x03	thanks	0
+3x03	can we buy you ladies a drink	0
+3x03	two light beers	1	1	nf
+3x03	light beers well, wikihow about that	0
+3x03	what’s your names	0
+3x03	i’m howard	0
+3x03	raj  i’m bethany	0
+3x03	nice to meet you, bethany	0
+3x03	yes, very nice	0
+3x03	nice to meet you, too	0
+3x03	i’m sarah not that anyone cares	0
+3x03	do either of you ladies enjoy the novels of john grisham	0
+3x03	what's this cartoon called again	0
+3x03	demon samurai	0
+3x03	it’s not a cartoon it's anime	0
+3x03	anime you know, i knew a girl in high school named anna may	0
+3x03	anna may fletcher	0
+3x03	she was born with one nostril	0
+3x03	then she had this bad nose job and basically wound up with three	0
+3x03	you're here a lot now	0
+3x03	oh, am i talking too much i’m sorry zip	0
+3x03	thank you chocolate	1	3	nf
+3x03	yes, please	1	1	nf
+3x03	hey, kim yeah, i	0
+3x03	you know what, hold on let me take this in the hall	1	1	nf
+3x03	you'll never guess who they got to replace you at work	0
+3x03	okay, i know what you're doing	0
+3x03	really	0
+3x03	yes, you're using chocolates as positive reinforcement for what you consider correct behaviour	0
+3x03	very good	0
+3x03	chocolate	1	3	nf
+3x03	no, i don't want any chocolate	0
+3x03	sheldon, you can't train my girlfriend like a lab rat	1	1	ni
+3x03	actually, it turns out i can	0
+3x03	well, you shouldn't	0
+3x03	there's just no pleasing you, is there, leonard	0
+3x03	you weren't happy with my previous approach to dealing with her,	0
+3x03	so i decided to employ operant conditioning techniques,	0
+3x03	building on the works of thorndike and b f skinner	0
+3x03	by this time next week, i believe i can have her jumping out of a pool,	0
+3x03	balancing a beach ball on her nose	0
+3x03	no, this has to stop now	0
+3x03	i'm not suggesting we really make her jump out of a pool	0
+3x03	i thought the "bazinga" was implied	0
+3x03	we're just tweaking her personality	0
+3x03	sanding off the rough edges, if you will	0
+3x03	no you’re not sanding penny	0
+3x03	are you saying that i am forbidden from applying a harmless,	0
+3x03	scientifically valid protocol that will make our lives better	0
+3x03	yes you’re forbidden	0
+3x03	bad leonard	0
+3x03	so, what do you guys do	0
+3x03	oh, you know, goth stuff goth magazines, goth music	0
+3x03	goth food	0
+3x03	what's goth food	0
+3x03	blackened salmon	0
+3x03	no, i meant what do you do for jobs	0
+3x03	oh, we're scientists	0
+3x03	yeah, you know, the dark sciences	0
+3x03	what are the dark sciences	0
+3x03	well, i am an astrophysicist, and a lot of that takes place at night	0
+3x03	when there are vampires and miscellaneous undead out and about	0
+3x03	oy vay	0
+3x03	that sounds really cool	0
+3x03	does it okay if you like space stuff,	0
+3x03	i design components for the international space station, which is in space	0
+3x03	where, as i'm sure you know, no one can hear you scream	0
+3x03	so, what do you gals do	0
+3x03	i work at the gap	0
+3x03	really	0
+3x03	how about that i've been to the gap	0
+3x03	i've been there, as well	0
+3x03	i like your tshirts with the little pocket	0
+3x03	i work there, too not that anyone cares	0
+3x03	you know, this place is boring	0
+3x03	yeah, why don't we go somewhere else and have some fun	1	3	ni
+3x03	okay	0
+3x03	sure, we like fun	0
+3x03	we are fun people	0
+3x03	dark and fun	0
+3x03	come on  i know a place you'll really dig	1	1	nf
+3x03	did you bring the black condoms	0
+3x03	in my fanny pack	0
+3x03	let's go	1	1	nf
+3x03	are you happy now	0
+3x03	not particularly	0
+3x03	my god, she didn't	0
+3x03	what could she possibly be talking about for so long	0
+3x03	obviously, waitressing at the cheese cake factory is a complex socioeconomic activity	0
+3x03	that requires a great deal of analysis and planning	0
+3x03	"bazinga "	0
+3x03	you know, using positive reinforcement techniques,	0
+3x03	i could train that behaviour out of her in a week	0
+3x03	no	0
+3x03	if you let me use negative reinforcement, i can get it done before we go to bed	0
+3x03	you're not squirting her in the face with water	1	1	ni
+3x03	no, of course not	0
+3x03	we're talking very mild electric shocks	0
+3x03	no tissue damage whatsoever	0
+3x03	forget it	1	1	nf
+3x03	oh, come on you can't tell me	0
+3x03	that you're not intrigued about the possibility of building a better girlfriend	0
+3x03	i'm not	0
+3x03	well, and penny's qualities, both good and bad, are what make her what she is	0
+3x03	you mean, like that highpitched, irritating laugh	0
+3x03	yes	0
+3x03	you wouldn't prefer a throaty chuckle	0
+3x03	you're not changing how penny laughs	1	1	ni
+3x03	no, that would be incongruous	0
+3x03	i was going to lower the whole voice to a more pleasing register	0
+3x03	sorry, guys that girl is freaky	0
+3x03	come again	1	1	nf
+3x03	freaky	0
+3x03	freaky	0
+3x03	yeah, freaky	0
+3x03	have a chocolate	1	3	nf
+3x03	thank you	0
+3x03	are you seriously going to deface your body just for the possibility you could have cheap sex with a strange girl you met in a bar	0
+3x03	yeah	0
+3x03	what is your mother going to say	0
+3x03	she's not going to see it	0
+3x03	she takes my temperature orally now	0
+3x03	what are you going to get, howard	0
+3x03	well, i can't really decide between a screaming devil,	0
+3x03	this mean little skull, or kermit the frog	0
+3x03	kermit the frog	0
+3x03	you know i’m on howard’s butt	0
+3x03	get the mean little skull, and i'll see if i can make him smile	1	1	nf
+3x03	yeah, i'd like the mean little skull, please	0
+3x03	what are you going to get, raj	0
+3x03	with my luck, hepatitis	0
+3x03	okay, here we go	0
+3x03	that's just rubbing alcohol	0
+3x03	i know, but it was cold	0
+3x03	i'm putting on the stencil	0
+3x03	what comes after the stencil	0
+3x03	this	0
+3x03	okay, that's it no needle no pain no tattoo	0
+3x03	what's the big deal you’ve done this before	0
+3x03	no, i haven't look	0
+3x03	i'm sorry i’m a fraud he’s a fraud	0
+3x03	we're both frauds	0
+3x03	yeah, i think i covered that	0
+3x03	but i was summing up	0
+3x03	we're not goth	0
+3x03	we're just guys	0
+3x03	very, very smart guys	0
+3x03	so you were totally scamming us	0
+3x03	yes	0
+3x03	and i wouldn't blame you if you walked out of here and never wanted to see us again	0
+3x03	unless, of course, our bold honesty has suddenly made us attractive, huh anything	0
+3x03	i'm leaving	0
+3x03	i'm leaving, too not that anyone cares	0
+3x03	when we tell this story, let's end it differently	1	1	nf
+3x03	what are you thinking maybe a big musical number	0
+3x03	well, i’m going to make some warm milk and then turn in	0
+3x03	i trust if you two are planning on engaging in amorous activities,	0
+3x03	you'll keep the decibel level to a minimum	0
+3x03	of course	0
+3x03	thank you	0
+3x03	these are so good	0
+3x03	unbelievable	0
+3x03	what	0
+3x03	ii was just thinking we should probably turn in, too	0
+3x03	well, you know, my new bed got delivered	0
+3x03	if you come over and put it together, you can stay at my place	0
+3x03	really that’s a lot of work, and it's kind of late	0
+3x03	yeah, but if we stay there, we won't have to be quiet	0
+3x03	let’s go	1	1	nf
+3x03	interesting	0
+3x03	sex works even better than chocolate to modify behaviour	0
+3x03	i wonder if anyone else has stumbled onto that	0
+3x03	okay, wait  how about this	0
+3x03	we say there were four goth girls	0
+3x03	the two girls in the club had two friends	0
+3x03	i like it, i like it	0
+3x03	did they smell good despite their gothlike nature	0
+3x03	what's that got to do with the story	0
+3x03	engaging my olfactory sense helps make it real for me	0
+3x03	fine, they smelled good	0
+3x03	oh, they did like jasmine and honeysuckle	0
+3x03	whatever	0
+3x03	and then they held hands and did a sexy, demonic, hokey pokey for us	0
+3x03	no, no look, let me just say my story all the way through	0
+3x03	and then you can say yours, and then we'll pick	0
+3x03	i’m sorry go on	1	1	nf
+3x03	okay	0
+3x03	we got tattoos, and then the four girls took us to their place	0
+3x03	but we don't have tattoos what if someone asks to see our tattoos	0
+3x03	we say they're in a very intimate area	0
+3x03	oh, we are bad boys, aren't we	0
+3x03	right, right	0
+3x03	so, we go back to their place and then the six of us end up in a hot tub	0
+3x03	but we just got tattoos wouldn’t we be concerned about bacterial infection	0
+3x03	true okay forget the hot tub	1	1	nf
+3x03	the point is, we each had a menage with sexy goth girls	0
+3x03	what a great night	0
+3x03	yeah	0
+3x03	hey, want to try a country bar tomorrow night	1	3	nf
+3x03	maybe we'll get lucky with some sexy cowgirls	0
+3x03	could happen	0
+3x03	i wonder how they smell	0

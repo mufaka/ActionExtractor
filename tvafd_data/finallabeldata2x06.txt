@@ -1,0 +1,476 @@
+﻿2x06	so, if any of you are considering	0
+2x06	going into experimental physics,	0
+2x06	my door is always open	0
+2x06	once again, i'm sorry	0
+2x06	the demonstration didn't quite work out,	0
+2x06	but now we know what happens	0
+2x06	when you accidentally spill	0
+2x06	peach snapple	0
+2x06	into a helium neon laser	0
+2x06	short answer is don't	1	1	ni
+2x06	and now to tell you	0
+2x06	about the theoretical physics department	0
+2x06	is dr sheldon cooper	0
+2x06	forget it	0
+2x06	excuse me	0
+2x06	sheldon, we both agreed to do this	1	1	nf
+2x06	it's a waste of time	0
+2x06	i might as well explain	0
+2x06	the laws of thermodynamics to a bunch of labradoodles	0
+2x06	if you don't do this, i won't take you to the comic book store	1	1	ni
+2x06	nice work with the laser,	0
+2x06	by the way	0
+2x06	looking out	0
+2x06	at your fresh young faces,    0
+2x06	i remember when i too was	0
+2x06	deciding my academic future    0
+2x06	as a lowly graduate student	   0
+2x06	of course, i was	0
+2x06	and i'd already achieved more	0
+2x06	than most of you could ever hope to,	0
+2x06	despite my  bedtime	0
+2x06	now, there may be one or two of you in this room	0
+2x06	who has what it takes to succeed	0
+2x06	in theoretical physics	0
+2x06	it's more likely that you'll spend	0
+2x06	your scientific careers teaching	0
+2x06	th graders	0
+2x06	how to make papier mache	0
+2x06	volcanoes with baking soda lava	0
+2x06	good god	0
+2x06	in short	0
+2x06	any one who told you	0
+2x06	that you would someday be able to make any significant	0
+2x06	contribution to physics,	0
+2x06	played a cruel trick on you,	0
+2x06	a cruel trick indeed	0
+2x06	any questions	0
+2x06	of course not	0
+2x06	i weep for the future of science	0
+2x06	now if you'll excuse me,	0
+2x06	the latest issue of batman is out	0
+2x06	come, leonard	1	1	nf
+2x06	laser demonstration's looking	0
+2x06	pretty good now, huh	0
+2x06	i love this time of the year	0
+2x06	the leaves are turning,	0
+2x06	there's a bracing chill in the air	0
+2x06	plus there's a whole new crop of female grad students	0
+2x06	about to put on just enough winter weight to make them needy	0
+2x06	and vulnerable	0
+2x06	that's right, honey,	0
+2x06	have another calzone	1	1	nf
+2x06	daddy can wait	0
+2x06	isn't there a university policy	0
+2x06	against dating graduate students	0
+2x06	no, if you can talk to them,	0
+2x06	you can ask them out	0
+2x06	damn, there's always a catch	0
+2x06	hey, guys	0
+2x06	hey, leslie	0
+2x06	so, dumbass, i heard you made	0
+2x06	a grad student throw up last night	0
+2x06	the truth can indeed	0
+2x06	be a finger down the throat	0
+2x06	of those unprepared to hear it	0
+2x06	but why should i cater to secondrate minds	0
+2x06	because firstrate minds	0
+2x06	call you "dumbass"	0
+2x06	oh, yeah well	0
+2x06	you're a mean person	0
+2x06	excuse me, dr cooper,	0
+2x06	i'm ramona nowitzki	0
+2x06	i was at your talk last night	0
+2x06	i think you're just brilliant	0
+2x06	that is the prevailing opinion	0
+2x06	now i'm gonna	0
+2x06	throw up	0
+2x06	howard wolowitz,	0
+2x06	department of engineering,	0
+2x06	codesigner of the	0
+2x06	international space station's	0
+2x06	liquid waste disposal system	0
+2x06	i've read	0
+2x06	everything you've published	0
+2x06	i liked your paper on grand unification	0
+2x06	using stringnetwork condensates	0
+2x06	and was wondering how you determined	0
+2x06	that dimensional stringnets	0
+2x06	provided a unified picture of ferrnions	0
+2x06	and gauge bosons	0
+2x06	amazing,	0
+2x06	an intelligent labradoodle	0
+2x06	the fact is i'm quite	0
+2x06	close to a breakthrough	0
+2x06	in showing how neutrinos emerge	0
+2x06	from a stringnet condensate	0
+2x06	my god, that would change the way	0
+2x06	we view the entire physical universe	0
+2x06	it's what i do	0
+2x06	you know, the pishkinwolowitz	0
+2x06	liquid waste disposal system	0
+2x06	is turning a few heads as well	0
+2x06	again, ew	0
+2x06	i'd love to hear more	0
+2x06	about how you intend to add neutrinos	0
+2x06	could we get a cup of coffee sometime	1	1	nf
+2x06	i don't drink coffee	0
+2x06	i do i love me a cup of joe	0
+2x06	it doesn't have to be coffee	0
+2x06	how about dinner	0
+2x06	i do eat dinner	0
+2x06	great	0
+2x06	i know a terrific italian place	0
+2x06	i never eat in strange restaurants	0
+2x06	one runs the risk	0
+2x06	of nonstandard cutlery	0
+2x06	excuse me	0
+2x06	sheldon lives in fearr of the threetined fork	0
+2x06	three tines is not a fork	0
+2x06	three tines is a trident	0
+2x06	forks are for eating,	0
+2x06	tridents are for ruling the seven seas	0
+2x06	what if i brought food to your place	1	1	nf
+2x06	that would be acceptable	0
+2x06	on mondays, i eat thai food	0
+2x06	mee krob and chicken sate with extra peanut sauce	1	1	nf
+2x06	from siam palace	0
+2x06	you got it	0
+2x06	i already have your address	0
+2x06	what a nice girl	0
+2x06	do you have any idea	0
+2x06	what just happened	0
+2x06	yes apparently i'm getting	0
+2x06	a free dinner	0
+2x06	oh, yeah, no, this thing's	0
+2x06	majorly out of order	0
+2x06	see sorry	0
+2x06	that's okay	0
+2x06	guess i'm taking the stairs	0
+2x06	where you going	0
+2x06	a	0
+2x06	you here to see leonard	0
+2x06	no, dr cooper	0
+2x06	dr sheldon cooper	0
+2x06	we're having dinner	0
+2x06	sheldon cooper	0
+2x06	tall, thin,	0
+2x06	looks a little like	0
+2x06	a giant praying mantis	0
+2x06	he is cute, isn't he	0
+2x06	hi, leonard	0
+2x06	hey, ramona come on in	1	1	nf
+2x06	thanks where should i put this	0
+2x06	the kitchen's fine	0
+2x06	hey, what are you doing	0
+2x06	i need to see this	0
+2x06	the viewing area's right over there	0
+2x06	sheldon, your girl date person	0
+2x06	ramona's here	0
+2x06	hello	0
+2x06	sorry i'm late	0
+2x06	i just got so caught up reading	0
+2x06	the draft of your latest paper	0
+2x06	did you enjoy the humorous footnote	0
+2x06	where i illustrate mirrorsymmetry	0
+2x06	by likening it to the flash	0
+2x06	playing tennis with himself	0
+2x06	so funny	0
+2x06	but the idea that you might be able to incorporate gravity,	0
+2x06	i have to tell you,	0
+2x06	i found it physically exhilarating	0
+2x06	my hypotheses tend to have that effect	0
+2x06	i'm sorry i didn't bring enough	0
+2x06	for your friends	0
+2x06	i assumed we were going to be alone	0
+2x06	no, we were just going to watch, right	0
+2x06	no, come on, now, we're going out	1	1	ni
+2x06	come on, we'll be quiet	0
+2x06	let's go	1	1	nf
+2x06	okay, you two	0
+2x06	have a nice	0
+2x06	whatever this is	0
+2x06	okay, you guys, look,	0
+2x06	i know this is none of my business,	0
+2x06	but i just i have to ask	0
+2x06	what's sheldon's deal	0
+2x06	what do you mean "deal"	0
+2x06	you know, like what's his deal	0
+2x06	is it girls guys	0
+2x06	sock puppets	0
+2x06	honestly, we've been operating	0
+2x06	under the assumption	0
+2x06	that he has no deal	0
+2x06	come on, everybody has a deal	0
+2x06	not sheldon	0
+2x06	over the years,	0
+2x06	we've formulated many theories	0
+2x06	about how he might reproduce	0
+2x06	i'm an advocate of mitosis	0
+2x06	i'm sorry	0
+2x06	i believe one day sheldon will eat	0
+2x06	an enormous amount of thai food	0
+2x06	and split into two sheldons	0
+2x06	on the other hand, i think sheldon	0
+2x06	might be the larval form of his species,	0
+2x06	and someday he'll spin a cocoon	0
+2x06	and emerge two months later with moth wings and an exoskeleton	0
+2x06	okay, well, thanks	0
+2x06	for the nightmares	0
+2x06	hey, do you want to	0
+2x06	hang out with us	0
+2x06	what are you guys gonna do	0
+2x06	my mom's making a brisket tonight	0
+2x06	the one with the little onions	0
+2x06	yeah, i'm busy, so	0
+2x06	good night	0
+2x06	her loss let's go	1	1	nf
+2x06	brisket party	0
+2x06	b tothertotheisk	0
+2x06	totheetothet	0
+2x06	don't	1	1	ni
+2x06	aren't you having breakfast	0
+2x06	yes	0
+2x06	are you experimenting with	0
+2x06	nutritional suppositories again	0
+2x06	not in these pants	0
+2x06	so how'd it go with ramona last night	0
+2x06	great	0
+2x06	she's smart, insightful	0
+2x06	and she has a very unique way	0
+2x06	of, you know, revering me	0
+2x06	here's your spinach mushroom omelet	0
+2x06	thank you	0
+2x06	did anyone touch it	0
+2x06	gloves were worn by everyone involved	0
+2x06	i was vigilant	0
+2x06	ramona pointed out	0
+2x06	that i've been wasting  minutes a day	0
+2x06	standing on cafeteria lines	0
+2x06	time which would be better spent	0
+2x06	tackling the great physics	0
+2x06	problems of our day	0
+2x06	you don't tackle the big issues	1	1	ni
+2x06	you fence with them	0
+2x06	en garde riposte	0
+2x06	touche	0
+2x06	morning	0
+2x06	hey, lesly	0
+2x06	so i see you're organizing	0
+2x06	your papers	0
+2x06	for the smithsonian museum of dumbassery	0
+2x06	there won't be any room	0
+2x06	until they get rid the permanent leslie winkle exhibit	0
+2x06	good one	0
+2x06	i see you got a grad student to fight your battles for you	0
+2x06	i'll let you keep	0
+2x06	your lunch money today	0
+2x06	dr cooper is on the verge of a breakthrough	0
+2x06	if you're going to stay,	0
+2x06	you'll have to be respectful and quiet	0
+2x06	wait for me	1	1	nf
+2x06	have you worked out	0
+2x06	the neutrino issue	0
+2x06	well, to paraphrase mozart,	0
+2x06	all the subatomic particles are there	0
+2x06	i just have to put them	0
+2x06	in the right order	0
+2x06	you're so witty	0
+2x06	aren't i	0
+2x06	hey, guys,	0
+2x06	this package came for	0
+2x06	dr cooper is working	1	1	nf
+2x06	yes, i'm close to a breakthrough	0
+2x06	it tickles	0
+2x06	sorry	0
+2x06	holy crap on a cracker	0
+2x06	you probably don't want to go in there	1	1	ni
+2x06	why what are they doing	0
+2x06	the only way i could explain it would be	0
+2x06	in a therapist's office with dolls	0
+2x06	boy	0
+2x06	dr cooper's working	0
+2x06	yeah, i can see that	0
+2x06	sheldon, halo night, koothrappali's	0
+2x06	you coming	0
+2x06	yes, it's halo night	0
+2x06	let me just dry my tootsies	0
+2x06	you're not going to halo night	1	1	ni
+2x06	yes, i am	0
+2x06	it's wednesday	0
+2x06	wednesday's halo night	0
+2x06	didn't a great man once say,	0
+2x06	"science demands nothing less	0
+2x06	"than the fervent and	0
+2x06	unconditional dedication	0
+2x06	"of our entire lives"	0
+2x06	he did	0
+2x06	and who was that great man	0
+2x06	me	0
+2x06	sorry, leonard	0
+2x06	seriously you're not coming	0
+2x06	you heard her	0
+2x06	how can i argue with me	0
+2x06	okay, well, once again,	0
+2x06	you guys have a good	0
+2x06	whatever this is	0
+2x06	dr cooper, i have to tell you	0
+2x06	your friends are holding you back	0
+2x06	i prefer to think of it	0
+2x06	as "i'm pulling them forward"	0
+2x06	halo night	0
+2x06	a man with your intellectual gifts doesn't waste an evening playing video games	1	1	ni
+2x06	he does on wednesdays	0
+2x06	not if he wants a nobel prize	1	1	ni
+2x06	he does want that	0
+2x06	does a man with my intellectual gifts	0
+2x06	play paintball on weekends	0
+2x06	what do you think	0
+2x06	drat	0
+2x06	now shall we get back to work	0
+2x06	i suppose	0
+2x06	battlestar galactica	0
+2x06	comes on tonight	0
+2x06	i guess i can wait for the dvd	0
+2x06	and then, never ever watch it	0
+2x06	sheldon, honey, i've told you,	0
+2x06	it's a small apartment	0
+2x06	you only have to knock one time	1	1	nf
+2x06	i don't have a lot of time	0
+2x06	ramona finally dozed off,	0
+2x06	and i need you to help me get rid of her	1	1	nf
+2x06	get rid of her how	0
+2x06	i don't know,	0
+2x06	but apparently	0
+2x06	i'm in some kind of relationship,	0
+2x06	and you seem to be an expert	0
+2x06	at ending them	0
+2x06	excuse me	0
+2x06	i see man after man	0
+2x06	leaving this apartment never to return	0
+2x06	okay, first of all, it is not man after man	1	1	nf
+2x06	hide me	1	1	nf
+2x06	hide you	0
+2x06	i formally request sanctuary	1	1	nf
+2x06	why aren't you working	0
+2x06	she distracted me	0
+2x06	i told you, penny,	0
+2x06	i don't have time for your nonsense	1	1	ni
+2x06	i have important things to do	0
+2x06	oh, man	0
+2x06	i know what's going on here	0
+2x06	really	0
+2x06	then will you explain it to me	0
+2x06	you're in love with dr cooper	0
+2x06	yeah, no, that's not it	0
+2x06	don't try to deny it	0
+2x06	he's a remarkable man,	0
+2x06	but you have to let him go	1	1	nf
+2x06	gee, okay	0
+2x06	i know it's hard,	0
+2x06	but he's a gift to the whole world,	0
+2x06	and we can't be selfish	0
+2x06	yeah, he's a gift all right	0
+2x06	sisters	0
+2x06	sure	0
+2x06	sisters	0
+2x06	holy crap on a cracker	0
+2x06	what are you doing	0
+2x06	it's morse code	0
+2x06	why	0
+2x06	so we can communicate	0
+2x06	through the wall	0
+2x06	we are communicating	0
+2x06	through the wall	0
+2x06	yes, but the communication	0
+2x06	is not encrypted	0
+2x06	i don't know morse code	0
+2x06	it's very simple this is a	0
+2x06	this is b	0
+2x06	this is c	0
+2x06	i'm not going to learn morse code	0
+2x06	at  in the morning	0
+2x06	all right	0
+2x06	don't come in here,	0
+2x06	don't come in here	0
+2x06	what's going on	0
+2x06	ramona's sleeping on the couch	0
+2x06	i know	0
+2x06	when is she going home	0
+2x06	never that's the problem	0
+2x06	i need your help	1	1	nf
+2x06	what are you talking about	0
+2x06	i'm invoking the skynet clause of our friendship agreement	0
+2x06	that only applies if you need to help you destroy	0
+2x06	an artificial intelligence	0
+2x06	you've created that's taking	0
+2x06	over the earth	0
+2x06	come on don't nitpick	1	1	ni
+2x06	good night	0
+2x06	all right	0
+2x06	i'm invoking	0
+2x06	our body snatchers clause	0
+2x06	the body snatchers clause requires me to help you destroy	0
+2x06	someone we know	0
+2x06	who's been replaced with an alien pod	0
+2x06	she's in the living room	0
+2x06	go i'll wait here	1	1	nf
+2x06	sheldon,	0
+2x06	what are you doing out of bed	0
+2x06	now do it	1	1	nf
+2x06	you know you need your sleep	0
+2x06	in order for your cognitive processing perform at optimum levels	0
+2x06	now come on	1	1	nf
+2x06	godzilla clause	0
+2x06	not unless she destroys tokyo	0
+2x06	rats	0
+2x06	i've got it	0
+2x06	i finally reconciled	0
+2x06	the black hole information paradox with my theory of stringnetwork condensates	0
+2x06	it's unbelievable	0
+2x06	it's paradigmaltering	0
+2x06	i could not have done it without you	0
+2x06	please, i just offered	0
+2x06	a little encouragement	0
+2x06	it was a lot more than that	0
+2x06	you helped me work out	0
+2x06	the masses of all the fermions	0
+2x06	and you pumiced my hammer toe	0
+2x06	how can i ever repay you	0
+2x06	would you consider naming it	0
+2x06	the coopernowitzki theorem	0
+2x06	who's nowitzki	0
+2x06	i'm nowitzki	0
+2x06	you want me to share credit	0
+2x06	get out	1	1	nf
+2x06	bite me	0
+2x06	sisters	0
+2x06	excuse me, dr cooper	0
+2x06	i'm kathy o'brien	0
+2x06	i just finished reading your paper	0
+2x06	reconciling the black hole	0
+2x06	information paradox with your theory of stringnetwork condensates,	0
+2x06	and it just took my breath away	0
+2x06	maybe when i publish it,	0
+2x06	i'll include an inhaler	0
+2x06	would you possibly have any time for me to pick your brain	1	1	nf
+2x06	let's see today's thursday	0
+2x06	thursday nights, i eat pizza	0
+2x06	from giacomo's	0
+2x06	sausage, mushrooms, light olives	0
+2x06	great	0
+2x06	i'll bring it to your place	0
+2x06	i have the address	0
+2x06	what a nice girl	0
+2x06	sheldon, do you see	0
+2x06	what just happened here	0
+2x06	yes, i'm getting a free pizza	0
+2x06	i'm on a roll	0
+2x06	more pad thai, please	1	1	nf
+2x06	sheldon, you've already had	four servings	0
+2x06	you might want to slow down a bit	0
+2x06	just one more bite	0
+2x06	are you okay	0
+2x06	i'm just so	0
+2x06	full	0
+2x06	that's it no more thai food	0

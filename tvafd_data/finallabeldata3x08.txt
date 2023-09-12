@@ -1,0 +1,497 @@
+﻿3x08	how much time do we have	0
+3x08	uh, tminus five hours,	minutes	to onset of meteor shower	0
+3x08	okay, our position is  degrees north,	0
+3x08	west	0
+3x08	that means the azimuth should be degrees relative to magnetic north with an elevation of	0
+3x08	anything yet	0
+3x08	uh, we have a signal,	0
+3x08	but there's no frame lock	0
+3x08	ha how about now	0
+3x08	we did it	0
+3x08	we have the west	0
+3x08	coast feed of hbo	0
+3x08	ooh, real sex	0
+3x08	big deal every time	0
+3x08	i watch that show	0
+3x08	all right, let's see	0
+3x08	what's on the east coast feed	0
+3x08	oh, hey dune	0
+3x08	not a great movie,	0
+3x08	but look	0
+3x08	at that beautiful desert	0
+3x08	too bad sheldon	0
+3x08	couldn't come with us	0
+3x08	oh it's just not the same without him	0
+3x08	oh, this sucks	0
+3x08	i'm switching back to real sex	0
+3x08	sheldon's log	0
+3x08	star date	0
+3x08	while my colleagues are off observing the leonid meteor shower,	0
+3x08	i have remained behind to complete my paper on the decays of highly excited massive string states	0
+3x08	although my research is going well	0
+3x08	i do miss the warmth of human companionship	0
+3x08	hahaha	0
+3x08	and good evening to you,	0
+3x08	siam palace	0
+3x08	this is sheldon cooper	0
+3x08	yeah, i'm going to be	0
+3x08	dining alone this evening,	0
+3x08	so i'll be reducing	0
+3x08	my usual order	0
+3x08	i'd like to start	0
+3x08	with one quarter of the assorted appetizers plate	0
+3x08	and, uh, one half of the golden treasure for two	0
+3x08	oh, for heaven's sake	0
+3x08	in the midth century,	0
+3x08	king rama iv of siam divided a huge empire amongst the colonial powers of europe	0
+3x08	in order to preserve his throne	0
+3x08	surely, you,	0
+3x08	his cultural descendant,	0
+3x08	can handle pad thai and dumplings	0
+3x08	sheldon help	1	1	nf
+3x08	i need to go	0
+3x08	but you keep in mind that my sharply worded comments on yelp.com recently took down	1	1	nf
+3x08	a local muffin store	0
+3x08	penny penny penny	0
+3x08	come in hurry	1	3	nf
+3x08	penny	0
+3x08	i'm back here	0
+3x08	penny penny penny	0
+3x08	oh, for god's sakes,	0
+3x08	i'm in the bathroom	0
+3x08	shall i come back	0
+3x08	at a better time	0
+3x08	get in here hurry	1	1	nf
+3x08	don't you dare knock	1	1	ni
+3x08	hello	0
+3x08	i slipped in the shower,	0
+3x08	and i think i dislocated my shoulder	0
+3x08	not surprising	0
+3x08	you have no safety mat	0
+3x08	or adhesive stickers	0
+3x08	to allow for purchase on a surface	0
+3x08	with a low coefficient of static friction	0
+3x08	what	0
+3x08	tubs are slippery	0
+3x08	i know i slipped	0
+3x08	i have a series of whimsical duck stickers on the bottom of my tub	0
+3x08	yeah, okay, whatever	0
+3x08	will you just turn the water off	0
+3x08	and help me up	0
+3x08	they're holding	0
+3x08	umbrellas	0
+3x08	what	0
+3x08	the ducks in my tub	0
+3x08	uhhuh	0
+3x08	they're whimsical because ducks	0
+3x08	have neither the need for	0
+3x08	nor the ability to use umbrellas	0
+3x08	oh, my god i got to go to the emergency room	0
+3x08	well, assuming you're correct	0
+3x08	that your right humerus	is no longer seated in the glenoid socket,	0
+3x08	i would certainly think so	0
+3x08	okay, can you drive me	0
+3x08	i don't drive	0
+3x08	well, i can't drive	0
+3x08	well, it seems we've reached	0
+3x08	an impasse	0
+3x08	ow	0
+3x08	i could call you a cab	0
+3x08	or an ambulance	0
+3x08	no, no, no	0
+3x08	i can't wait that long	0
+3x08	you got to help me, please	1	1	nf
+3x08	all right let it never be said	0
+3x08	that sheldon lee cooper	ignored the pleas of a damsel in distress	0
+3x08	no one's saying that	0
+3x08	let's go	1	1	nf
+3x08	well, it does seem rather ironic	0
+3x08	that for want of cent adhesive ducks,	0
+3x08	we both might die	0
+3x08	in a fiery car crash	0
+3x08	i wish penny didn't for want	0
+3x08	didn't have to work	0
+3x08	she loves camping	0
+3x08	yeah, that would	0
+3x08	have been great	0
+3x08	you and penny having sex	0
+3x08	in the tent	0
+3x08	while i sit out here	0
+3x08	and watch howard hump a cactus	0
+3x08	okay, the best i can tell,	0
+3x08	there are eight other campsites nearby	0
+3x08	mostly science nerds like us,	0
+3x08	but just over yon	0
+3x08	ridge are two	0
+3x08	not unattractive	0
+3x08	middle school teachers	0
+3x08	who reek of desperation	0
+3x08	wow wonderful	0
+3x08	how old are they	0
+3x08	oh i don't know ,	0
+3x08	oh, menopause	0
+3x08	nature's birth control	0
+3x08	come on	0
+3x08	you guys can't be that hard up	0
+3x08	i am	0
+3x08	yeah, me, too	0
+3x08	look they gave me homemade cookies	0
+3x08	of course, they did	0
+3x08	that's what grandmothers do	0
+3x08	so, what are we waiting for	0
+3x08	relax	1	1	nf
+3x08	i said we'd stop by a little later	0
+3x08	after they have their nap	0
+3x08	good idea	0
+3x08	they'll be refreshed	0
+3x08	cookie	1	3	nf
+3x08	yeah thank you	0
+3x08	not bad	0
+3x08	yeah, very tasty	0
+3x08	well, so tell me more	1	1	nf
+3x08	about these teachers	0
+3x08	not much to tell	0
+3x08	they had a vw microbus	0
+3x08	and were wearing tiedyed	0
+3x08	grateful dead shirts	0
+3x08	huh	0
+3x08	mmm	0
+3x08	good cookies	0
+3x08	i see no organizational	0
+3x08	system in here whatsoever	0
+3x08	which panties do you wear on mondays	0
+3x08	i don't need panties	0
+3x08	i just need shorts	0
+3x08	and a shirt	0
+3x08	my mother always told me one	0
+3x08	should wear clean underpants	0
+3x08	in case one is in an accident	0
+3x08	one was already in an accident	0
+3x08	that doesn't mean one	0
+3x08	won't be in another,	0
+3x08	especially if i'm driving	0
+3x08	clothes, sheldon	1	1	nf
+3x08	i need clothes	0
+3x08	okay	0
+3x08	here	0
+3x08	seriously	0
+3x08	those shorts with that top	0
+3x08	all right	0
+3x08	no	0
+3x08	no	0
+3x08	oh, that's cute	0
+3x08	we should have you checked for a concussion	0
+3x08	okay	0
+3x08	now, you got to help me put these on	1	2	nf
+3x08	all right	0
+3x08	but don't look	0
+3x08	don't look	1	1	ni
+3x08	i don't want you	0
+3x08	to see me naked	0
+3x08	oh	0
+3x08	well, that's understandable	0
+3x08	you may be interested to know	0
+3x08	that a prohibition against looking is well established	0
+3x08	in heroic mythology	0
+3x08	uh, lot and his wife,	0
+3x08	perseus and medusa,	0
+3x08	orpheus and eurydi	0
+3x08	yeah, great	0
+3x08	they always look it never ends well	0
+3x08	ok, now you gotta help me get my arm into the sleeve	1	1	nf
+3x08	ok	0
+3x08	is that my arm	1	1	nf
+3x08	it doesn't feel	0
+3x08	like an arm	0
+3x08	then, maybe you should let it go	1	1	nf
+3x08	all righty	0
+3x08	stars are pretty, aren't they	0
+3x08	up above the world so high,	0
+3x08	like little diamonds in the sky	0
+3x08	that's beautiful, dude	0
+3x08	you should	0
+3x08	you should write that down	1	3	nf
+3x08	before someone steals it	0
+3x08	so, when do the meteors get here	0
+3x08	the meteors don't get here	0
+3x08	the earth is moving into their path	0
+3x08	i can feel it	0
+3x08	i can feel	0
+3x08	the earth moving	0
+3x08	it's moving too fast	0
+3x08	raj, slow it down	1	1	nf
+3x08	okay, how's that	0
+3x08	better thanks	0
+3x08	stars are pretty,	0
+3x08	aren't they	0
+3x08	what's so funny	0
+3x08	it's your american accent	0
+3x08	everything you say sounds stupid	0
+3x08	"stars are pretty, aren't they"	0
+3x08	for the record, i should let you know	0
+3x08	this is my first time driving an actual motor vehicle	0
+3x08	you have your learner's permit, right	0
+3x08	yes, and i have logged a considerable number of hours on a simulator	0
+3x08	good	0
+3x08	didn't work out well	0
+3x08	all right,	0
+3x08	can we please go	1	3	nf
+3x08	one moment	0
+3x08	according to my driver's ed book,	0
+3x08	a side mirror is properly adjusted	0
+3x08	when a portion of the is	0
+3x08	driver's door handle is visible in the lower right corner	0
+3x08	there's the handle	0
+3x08	oh, no, too far	0
+3x08	bringing it back	0
+3x08	optimized	0
+3x08	now, where is the switch to adjust	0
+3x08	the passenger side mirror	0
+3x08	it's right there	0
+3x08	where is the passenger	0
+3x08	side mirror	0
+3x08	in a parking lot in hollywood	0
+3x08	now, can we please go	1	1	nf
+3x08	yes as soon as i adjust my seat	0
+3x08	whee	0
+3x08	oh, dear	0
+3x08	i'm going to have	0
+3x08	start again	0
+3x08	if i could speak the language of rabbits,	0
+3x08	they would be amazed,	0
+3x08	and i would be their king	0
+3x08	i hate my name	0
+3x08	it has "nerd" in it	0
+3x08	lennerd	0
+3x08	i lost my virginity to my cousin jeanie	0
+3x08	i would be kind to my rabbit subjects	0
+3x08	at first	0
+3x08	you know what's a cool name	0
+3x08	angelo	0
+3x08	that has angel and jello in it	0
+3x08	it was my uncle murray's	0
+3x08	funeral	0
+3x08	we were all back at my aunt barbara's house	0
+3x08	our eyes locked	0
+3x08	over the pickled herring	0
+3x08	we never meant for it to happen	0
+3x08	one day, i hold a great ball	0
+3x08	for the president of france,	0
+3x08	but the rabbits	0
+3x08	they hate me and don't come	0
+3x08	i am embarrassed, so i eat	0
+3x08	all the lettuce in the world	0
+3x08	and make them watch	0
+3x08	people could call me angie	0
+3x08	yo, angie, how's it goin'	0
+3x08	to this day, i can't look at pickled herring without being aroused that is a shame	0
+3x08	oh cousin jeanie	0
+3x08	could you please drive a little faster	1	1	nf
+3x08	oh, i think we're going sufficiently fast	0
+3x08	what's that	0
+3x08	nothing the engine does that	0
+3x08	sometimes	0
+3x08	it can't be nothing	0
+3x08	the check engine light is on	0
+3x08	we need	to find a service station	0
+3x08	no the light has been on	0
+3x08	since i bought the car	0
+3x08	all the more reason to consult with a mechanic	0
+3x08	before it explodes	0
+3x08	it's not going to explode	0
+3x08	just keep driving	1	1	nf
+3x08	warp speed ahead, mr spock	0
+3x08	mr spock did not pilot the enterprise	0
+3x08	he was the science officer,	0
+3x08	and i guarantee you that	0
+3x08	if he ever saw the enterprise's    0
+3x08	check engine light blinking,	0
+3x08	he would pull the ship over	0
+3x08	immediately	0
+3x08	oh, god, i'm gonna lose the arm	0
+3x08	oh, oh, red light	0
+3x08	release accelerator	1	1	nf
+3x08	and slowly apply the brake	1	1	nf
+3x08	nailed it	0
+3x08	while we have a moment,	0
+3x08	may i ask you a question	0
+3x08	what	0
+3x08	why do you have the chinese character for soup	0
+3x08	tattooed on your	0
+3x08	right buttock	0
+3x08	it's not soup	0
+3x08	it's courage	0
+3x08	no, it isn't	0
+3x08	but i suppose	0
+3x08	it does take courage	0
+3x08	to demonstrate that kind of commitment to soup	0
+3x08	how did you see it	0
+3x08	you said you wouldn't look	0
+3x08	sorry	0
+3x08	as i told you, the hero always peeks anything	0
+3x08	no that was the last	0
+3x08	pudding cup	0
+3x08	no	0
+3x08	what about slim jim's	0
+3x08	that's what he used to eat his pudding, remember	0
+3x08	right that was so good	0
+3x08	sweety and meaty	0
+3x08	at the same time	0
+3x08	wait wait, wait	0
+3x08	so you're saying	0
+3x08	we're out of food	0
+3x08	the only thing in here are blue ice packs	0
+3x08	i know they're poison,	0
+3x08	but they look like big,	0
+3x08	yummy otter pops	0
+3x08	oh, god, i am so hungry	0
+3x08	me, too	0
+3x08	check and see	1	1	nf
+3x08	if we have any more pudding	0
+3x08	all right, there's no need to bark at me	0
+3x08	according to the inexplicably	0
+3x08	irritable nurse behind the desk,	0
+3x08	you'll be seen after the man	0
+3x08	who claims to be having a heart attack,	0
+3x08	but appears to be well enough to play doodle jump on his iphone	0
+3x08	we have to fill these out	0
+3x08	"describe illness or injury"	0
+3x08	i dislocated	0
+3x08	my shoulder	0
+3x08	all right	0
+3x08	and how did the accident occur	0
+3x08	you ready know that	0
+3x08	"cause of accident"	0
+3x08	"lack of adhesive ducks"	0
+3x08	okay, medical history	0
+3x08	"have you ever been diagnosed	0
+3x08	with diabetes"	0
+3x08	no	0
+3x08	kidney disease	0
+3x08	no	0
+3x08	migraines	0
+3x08	getting one	0
+3x08	"are you currently	0
+3x08	pregnant"	0
+3x08	no	0
+3x08	are you sure	0
+3x08	you look a bit puffy	0
+3x08	change migraine to yes	0
+3x08	"when was your last menstrual period"	0
+3x08	oh next question	0
+3x08	i'll put, "in progress"	0
+3x08	okay, moving to psychiatric disorders	1	1	nf
+3x08	"list all major	0
+3x08	behavioural diagnoses,	0
+3x08	"eg depression,	0
+3x08	anxiety, etcetera"	0
+3x08	oh, my god, what the	0
+3x08	hell does this have to do with my stupid shoulder	0
+3x08	"episodes of sub psychotic	0
+3x08	rage"	0
+3x08	ass	0
+3x08	"possible tourette's"	0
+3x08	all right "moles, lesions	0
+3x08	or other skin conditions"	0
+3x08	"soup tattoo on right buttock"	0
+3x08	hey, sheldon,	0
+3x08	sheldon, look,	0
+3x08	i am scared and	in a lot of pain	0
+3x08	could you please just take a break from being you and try being	1	3	nf
+3x08	i don't know	0
+3x08	comforting	0
+3x08	i'm sorry	0
+3x08	there, there	0
+3x08	every thing's going to be fine	1	2	nf
+3x08	sheldon's here	0
+3x08	thanks	0
+3x08	that's much better	0
+3x08	oh, i'm so hungry	0
+3x08	will you shut up	1	1	nf
+3x08	we're all hungry	0
+3x08	okay, our objective is the boy scout	0
+3x08	campsite to the east	0
+3x08	easy target	0
+3x08	big doughy scout master,	0
+3x08	couple of cubs, most webelos	0
+3x08	what kind of score	0
+3x08	we looking at	0
+3x08	hot dogs, buns, s'mores	0
+3x08	i mean, it's a freaking	0
+3x08	all right,	0
+3x08	everyone grab flash lights	1	1	nf
+3x08	oh, my god, could it be	0
+3x08	yes	0
+3x08	my mother put an "i love you" brisket in my backpack	0
+3x08	quick, get forks	1	1	nf
+3x08	you don't need forks	1	1	ni
+3x08	it's so tender,	0
+3x08	it falls apart in your hands	0
+3x08	he's right	0
+3x08	i feel like we're forgetting something important	0
+3x08	me, too	0
+3x08	but what	0
+3x08	maybe a tupperware bowl	of roasted potatoes and carrots	0
+3x08	yes	0
+3x08	yes	0
+3x08	now remember, you were given powerful pain medication	0
+3x08	and a muscle relaxer,	0
+3x08	so, uh, don't operate heavy machinery	1	1	ni
+3x08	try not to choke on your own drool	1	3	ni
+3x08	wait you have	1	1	nf
+3x08	to help me get into bed	1	1	nf
+3x08	sheldon has to get me into bed	0
+3x08	bet you never thought	0
+3x08	i'd say that	0
+3x08	yes	0
+3x08	the charm of your drug addled	0
+3x08	candour knows no bounds	0
+3x08	you know, people think	0
+3x08	you're this weird robot man	0
+3x08	who's so annoying all the time,	0
+3x08	and you totally are	0
+3x08	but then it's like that movie walle at the end	0
+3x08	you're so full of love,	0
+3x08	and you can save a plant	0
+3x08	and get fat people	0
+3x08	out of the floaty chairs	0
+3x08	that's a fairly laboured metaphor,	0
+3x08	but i appreciate the sentiment behind it	0
+3x08	sing "soft kitty" to me	1	1	nf
+3x08	"soft kitty" is for	0
+3x08	when you're sick	0
+3x08	you're not sick	0
+3x08	injured and drugged	0
+3x08	is a kind of sick	0
+3x08	soft kitty, warm kitty,	0
+3x08	little ball of fur	0
+3x08	wait, wait	1	1	nf
+3x08	let's sing it as a round	1	1	nf
+3x08	i'll start	0
+3x08	soft kitty, warm kitty,	0
+3x08	little ball of fur	0
+3x08	i'll start over	0
+3x08	soft kitty, warm kitty, little ball of fur	0
+3x08	soft kitty, warm kitty, little ball of fur	0
+3x08	soft kitty, warm kitty,	0
+3x08	little ball of fur	0
+3x08	happy kitty,	0
+3x08	sleepy kitty	0
+3x08	happy kitty,	0
+3x08	sleepy kitty	0
+3x08	happy kitty,	0
+3x08	purr, purr, purr	0
+3x08	purr, purr, purr	0
+3x08	and the next morning	0
+3x08	when he woke up,	0
+3x08	he rolled over and realized	0
+3x08	duhduhduh	0
+3x08	she was his cousin	0
+3x08	that's still not funny	0
+3x08	that's still not funny	0
+3x08	and she was my second cousin	0
+3x08	and she was my	0
+3x08	second cousin	0
+3x08	you're a real douche	0
+3x08	who cares	0
+3x08	you slept with your cousin	0

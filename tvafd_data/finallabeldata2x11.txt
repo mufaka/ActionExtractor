@@ -1,0 +1,476 @@
+﻿2x11	your argument is lacking on all scientific merit	0
+2x11	and it is well established,	0
+2x11	superman cleans his uniform by flying into earth yellow sun,	0
+2x11	which incinerate any contaminate matter	0
+2x11	and leaves the unvulnerable kryptonian	0
+2x11	fabric unharmed and daisy fresh	0
+2x11	what if he gets something kryptonian on it	0
+2x11	like what	0
+2x11	i don't know kryptonian mustard	0
+2x11	i think we can safely assume	0
+2x11	that all kryptonian condiments were destroyed	0
+2x11	when the planet krypton exploded	0
+2x11	or it turned nto mustard kryptonite,	0
+2x11	the only way to destroy a rogue	0
+2x11	kryptonian hotdog threatening earth	0
+2x11	raj, please,	0
+2x11	let's stay serious here	1	1	nf
+2x11	superman's body is kryptonian,	0
+2x11	therefore his sweat is kryptonian	0
+2x11	what about kryptonian pit stains	0
+2x11	superman doesn't sweat on earth	0
+2x11	he's invited for dinner	in the bottle city of kandor	0
+2x11	he miniaturizes himself, enters the city	0
+2x11	where he loses his superpowers	0
+2x11	before dinner, his host says,	0
+2x11	"who's up for a little kryptonian tetherball"	0
+2x11	superman says "sure," works up a sweat, comes back to earth,	0
+2x11	his uniform now stained with indestructible kryptonian perspiration	0
+2x11	boo ya	0
+2x11	superman would have taken his uniform to a kandorian dry cleaner	0
+2x11	before he left the bottle	0
+2x11	"kandorian dry cl" i give up	0
+2x11	you can't have a rational argument with this man	0
+2x11	isn't that the guy who won	0
+2x11	the macarthur genius grant last year	0
+2x11	no, not all at once	1	1	ni
+2x11	then how	0
+2x11	leonard	1	1	nf
+2x11	now, raj	1	1	nf
+2x11	now, sheldon	1	1	nf
+2x11	i didn't get a good look	0
+2x11	can i go again	0
+2x11	it's david underhill so what	0
+2x11	so what	0
+2x11	his observation of highenergy positrons has provided the first conclusive evidence for the existence of galactic dark matter	0
+2x11	i have two words for you	0
+2x11	the first is "big," the other's "whoop"	0
+2x11	it is a big whoop	0
+2x11	it made almost all the work	0
+2x11	you've done completely useless	0
+2x11	did not	0
+2x11	did, too	0
+2x11	okay, maybe some of it, but	0
+2x11	the guy was just in the right place,	0
+2x11	at the right time with the right paradigmshifting	0
+2x11	reinterpretation of the universe	0
+2x11	he got lucky in more ways than one	0
+2x11	he's a very handsome man	0
+2x11	doesn't do anything for me	0
+2x11	if i was gonna go that way,	0
+2x11	i'm more of a zac efron kinda guy	0
+2x11	yeah, like you have	0
+2x11	a shot with zac efron	0
+2x11	excuse me	0
+2x11	are you leonard hofstadter	0
+2x11	i'm david underhill	0
+2x11	dr gablehauser said if i wanted to set something up in the photomultiplier lab,	0
+2x11	that you'd be able to give me a hand	0
+2x11	you want to work with me	0
+2x11	if you have a little time	0
+2x11	sure	0
+2x11	yeah, no problem	0
+2x11	here's my home number	0
+2x11	here's my cell	0
+2x11	here's my office	0
+2x11	here's my parents' number up in new jersey	0
+2x11	they always know how to reach me	0
+2x11	congratulations on the macarthur grant,	0
+2x11	by the way big fan	0
+2x11	thanks i'll call you	0
+2x11	byebye	0
+2x11	what are you looking at	0
+2x11	you've never seen a hypocrite before	0
+2x11	trailing badly,	0
+2x11	wolowitz needs a strike	0
+2x11	if he has any hopes of catching up with sheldon cooper,	0
+2x11	who is dominating in the ninth frame with a careerbest	0
+2x11	hey, guys	0
+2x11	that doesn't count	0
+2x11	do over do over	1	1	nf
+2x11	there are no doovers	0
+2x11	in wii bowling	0
+2x11	there are always doovers	0
+2x11	when my people play sports	0
+2x11	where were you that's more important than wii bowling night	0
+2x11	actually	0
+2x11	it's rhetorical	0
+2x11	there is nothing more important than wii bowling night	0
+2x11	come on, it's just a video game	0
+2x11	and we suck at it	0
+2x11	nice motivational speech	0
+2x11	from the team captain	0
+2x11	where were you	0
+2x11	i was working with dave underhill	0
+2x11	"dave" sounds like	0
+2x11	leonard's got a new bff	0
+2x11	actually, he's pretty cool	0
+2x11	not only is he a brilliant scientist,	0
+2x11	but it turns out	0
+2x11	he's a black diamond skier	0
+2x11	he collects vintage motorcycles	0
+2x11	he plays in a rock band	0
+2x11	so we're in a rock band	0
+2x11	no	0
+2x11	we play rock band on our xbox	0
+2x11	nice motivational speech	0
+2x11	from our lead guitarist	0
+2x11	he's funny, too	0
+2x11	he does this hysterical impersonation of stephen hawking having phone sex	0
+2x11	what are you wearing	0
+2x11	that's not he does it better	0
+2x11	he said he was gonna	0
+2x11	take me to the gym tomorrow,	0
+2x11	so i'm gonna go practice my situps	0
+2x11	humongous man crush,	0
+2x11	dude	0
+2x11	yeah	0
+2x11	it's officially a bromance	0
+2x11	are you and leonard putting up a christmas tree	0
+2x11	no, because we don't celebrate the ancient pagan festival of saturnalia	0
+2x11	saturnalia	0
+2x11	gather round, kids,	1	1	nf
+2x11	it's time for sheldon's	0
+2x11	beloved christmas special	0
+2x11	in the prechristian era,	0
+2x11	as the winter solstice approached and the plants died,	0
+2x11	pagans brought evergreen boughs	into their homes	0
+2x11	as an act of sympathetic magic,	0
+2x11	intended to guard the life essences of the plants until spring	0
+2x11	this custom was later appropriated	0
+2x11	by northern europeans	0
+2x11	and eventually it becomes the socalled christmas tree	0
+2x11	and that, charlie brown, is what boredom is all about	0
+2x11	thank you for that,	0
+2x11	but i got you and leonard	0
+2x11	a few silly neighbor gifts,	0
+2x11	so i'll just put them under my tree	0
+2x11	wait	1	1	nf
+2x11	you bought me a present	0
+2x11	why would you do such a thing	0
+2x11	'cause it's christmas	0
+2x11	i know you think	0
+2x11	you're being generous,	0
+2x11	but the foundation of giftgiving is reciprocity	0
+2x11	you haven't given me a gift	0
+2x11	you've given me an obligation	0
+2x11	don't feel bad, penny,	0
+2x11	it's a classic rookie mistake	0
+2x11	my first hanukah with sheldon,	0
+2x11	he yelled at me for eight nights	0
+2x11	you don't have to get me anything in return	0
+2x11	of course i do	0
+2x11	the essence of the custom	0
+2x11	is that i now have to go out and	0
+2x11	purchase a gift of commensurate value	0
+2x11	and representing the same	0
+2x11	perceived level of friendship	0
+2x11	as that represented	0
+2x11	by the gift you've given me	0
+2x11	it's no wonder suicide rates	0
+2x11	skyrocket this time of year	0
+2x11	forget it	1	1	nf
+2x11	i'm not giving you a present	0
+2x11	it's too late i see it	0
+2x11	that elf sticker says, "to sheldon"	0
+2x11	the die has been cast	0
+2x11	the moving finger has writ,	0
+2x11	hannibal has crossed the alps	0
+2x11	i know it's funny	0
+2x11	when it's not happening to us	0
+2x11	sheldon, i am very, very sorry	0
+2x11	no, i brought this on myself	0
+2x11	by being such an endearing	0
+2x11	and important part of your life	0
+2x11	i'm going to need a ride to the mall	1	1	nf
+2x11	it's happening to us	0
+2x11	are you gonna make it	0
+2x11	yeah, i guess	0
+2x11	thanks for letting me try out	0
+2x11	your motorcycle	0
+2x11	no problem	0
+2x11	i had no idea it was so heavy	0
+2x11	the thing just fell right	0
+2x11	over on me, didn't it	0
+2x11	yeah	0
+2x11	lucky for you it wasn't moving	0
+2x11	hey, leonard are you okay	0
+2x11	it's just a little	0
+2x11	motorcycle accident	0
+2x11	my god, how fast were you going	0
+2x11	i don't know it's all such a blur	0
+2x11	good one	0
+2x11	he couldn't even get it started	0
+2x11	hi dave	0
+2x11	hi	0
+2x11	penny	0
+2x11	so it's your motorcycle	0
+2x11	is it okay	0
+2x11	it's fine	0
+2x11	lucky for the bike	0
+2x11	it landed on my leg	0
+2x11	you mind giving me a hand with speed racer here	1	1	nf
+2x11	how do you know leonard	0
+2x11	i'm a physicist	0
+2x11	no, you're not	0
+2x11	why is that so surprising	0
+2x11	well, it's just that	0
+2x11	the physicists i know are indoorsy and pale	0
+2x11	i'm not indoorsy	0
+2x11	i just wear the appropriate sun block	0
+2x11	because i don't take	0
+2x11	melanoma lightly	0
+2x11	so, are you and leonard	0
+2x11	working on an experiment together	0
+2x11	actually we are	0
+2x11	we're examining the radiation levels of photomultiplier tubes	0
+2x11	for a new dark matter detector	0
+2x11	sweetie, sweetie, dave was talking	0
+2x11	you know, i love science	0
+2x11	since when	0
+2x11	since always	0
+2x11	call me a geek, but i am just nuts	1	4	nf
+2x11	for the whole subatomic	0
+2x11	particle thing	0
+2x11	the last thing i would	0
+2x11	ever call you is a geek	0
+2x11	well, that's what i am	0
+2x11	queen of the nerds	0
+2x11	if you like, i could show you	0
+2x11	the lab we're working in	0
+2x11	we've got some cool toys,	0
+2x11	you know, lasers and stuff	0
+2x11	you know, i have always wanted to see a big science lab	0
+2x11	since when	0
+2x11	since always	0
+2x11	leonard, are you okay here	0
+2x11	i guess	0
+2x11	how about we go see it now	0
+2x11	maybe afterwards we take the bike, we grab a little bite to eat	1	3	nf
+2x11	yeah, that sounds great	0
+2x11	let me just get my jacket	0
+2x11	boy, she'll do, huh	0
+2x11	yeah, if you like that type	0
+2x11	so, you and her	0
+2x11	no, just neighbors	0
+2x11	really	0
+2x11	i don't know how you live next door to that	0
+2x11	without doing something about it	0
+2x11	actually	0
+2x11	science is my lady	0
+2x11	okay let's go	0
+2x11	all right	0
+2x11	see you tomorrow, leonard	0
+2x11	see ya	0
+2x11	have fun	0
+2x11	did you forget your key	0
+2x11	i don't see anything in here	0
+2x11	a woman would want	0
+2x11	you're kidding	0
+2x11	you've got lotions	0
+2x11	and bath oils and soaps	0
+2x11	that's the estrogen hat trick	0
+2x11	what it is is a cacophonous assault of eucalyptus, bayberry,	0
+2x11	cinnamon and vanilla	0
+2x11	it's as if my head were trapped	0
+2x11	in the pajamas of a sultan	0
+2x11	if you don't like this stuff,	0
+2x11	let's go next door and build her a bear	1	1	nf
+2x11	i told you before,	0
+2x11	bears are terrifying	0
+2x11	come on,	0
+2x11	bath stuff it's perfect	0
+2x11	you got a scented candle,	0
+2x11	a cleansing buff,	0
+2x11	spearmint and green tea scented	0
+2x11	bath oil, promotes relaxation	0
+2x11	that presupposes penny is tense	0
+2x11	she knows you she's tense	0
+2x11	we all are	0 
+2x11    buy a basket	1	1	nf
+2x11	excuse me, we're ready	0
+2x11	no, we're not	0
+2x11	let's say for a moment that i accept the bath item gift hypothesis,	1	3	nf
+2x11	i now lay the following	0
+2x11	conundrum at your feet	0
+2x11	which size	0
+2x11	this one let's go	0
+2x11	you put no thought into that	0
+2x11	i'm sorry	0
+2x11	this one	0 
+2x11    let's go	1	1	nf
+2x11	i have insufficient data to proceed	0
+2x11	excuse me, miss	0
+2x11	if i were to give you	0
+2x11	this gift basket,	0
+2x11	based on that action alone	0
+2x11	and no other data,	0
+2x11	infer and describe the hypothetical relationship that exists between us	1	1	nf
+2x11	excuse me	0
+2x11	here	0
+2x11	now, are we friends	0
+2x11	colleagues lovers	0
+2x11	are you my grandmother	0
+2x11	i don't understand	0
+2x11	what you're talking about	0
+2x11	and you're making me	0
+2x11	a little uncomfortable	0
+2x11	see sounds just like you and penny	0
+2x11	we'll take it	0
+2x11	leonard come, join us	1	1	nf
+2x11	hey, dave	0
+2x11	and penny, what a surprise	0
+2x11	dave was just showing me	0
+2x11	around the university	0
+2x11	this place is unbelievable	0
+2x11	i know, i've been offering to show	0
+2x11	you around for a year and a half	0
+2x11	you always said you had yoga	0
+2x11	i never said that	0
+2x11	maybe i heard you wrong	0
+2x11	a lot of words sound like "yoga"	0
+2x11	this is an amazing woman	0
+2x11	she has a curious and agile mind,	0
+2x11	not to mention being curious and agile	0
+2x11	in other respects	0
+2x11	shut up	1	4	nf
+2x11	yes, please shut up	1	1	nf	
+2x11	so dave,	0
+2x11	don't you think you and i should get back to the lab	1	1	ni
+2x11	you know, that dark matter	0
+2x11	isn't going to detect itself	0
+2x11	actually, i was thinking about	0
+2x11	taking the afternoon off	0
+2x11	so i could work on another	0
+2x11	experiment with penny	0
+2x11	really we're going to do an experiment	0
+2x11	we're going to explore	0
+2x11	the effects of tequila shots	0
+2x11	on a gorgeous yearold woman	0
+2x11	it's not an experiment	0
+2x11	you saw what happened last night	0
+2x11	you ready to go	0
+2x11	yeah	0
+2x11	can i drive the motorcycle	0
+2x11	yeah, why not	0
+2x11	you can't do any worse than leonard	0
+2x11	that's funny	0
+2x11	by the way, my leg is killing me	0
+2x11	thanks for asking	0
+2x11	great news, leonard	0
+2x11	i've solved my penny gift dilemma	0
+2x11	yippee	0
+2x11	you see, the danger was	0
+2x11	that i might under or overreciprocate,	0
+2x11	but i have devised a foolproof plan	0
+2x11	see, i will open	0
+2x11	her gift to me first	0
+2x11	and then excuse myself,	0
+2x11	feigning digestive distress	0
+2x11	then	0
+2x11	i'll look up the price of her gift online, choose the basket closest to that value,	give it to her	0
+2x11	and then i'll return the others	0
+2x11	for a full refund	0
+2x11	brilliant	0
+2x11	it is, isn't it	0
+2x11	is it okay if i hide them	0
+2x11	in your room	0
+2x11	the smell makes me nauseated	0
+2x11	do whatever you want	1	4	nf
+2x11	thank you, that's very gracious	0
+2x11	gentlemen	0
+2x11	why couldn't you have just done what leonard did and get penny a new boyfriend	0
+2x11	my leg is killing me	0
+2x11	thanks for asking	0
+2x11	i have just one question for you	0
+2x11	while i am perfectly happy with the way	0
+2x11	things are between us,	0
+2x11	you said you didn't want to go out with me	0
+2x11	because i was too smart for you	0
+2x11	news flash, lady	0
+2x11	david underhill is ten times smarter than me	0
+2x11	you'd have to drive a railroad spike into his brain	0
+2x11	for me to beat him at checkers	0
+2x11	next to him, i'm like one of those signlanguage gorillas	0
+2x11	who knows how to ask for grapes	0
+2x11	so, my question is	0
+2x11	what's up with that	0
+2x11	why are you yelling at me	0
+2x11	sorry, i'm sorry, i'm sorry	0
+2x11	never mind, we're cool	0
+2x11	dave is not smarter than you	0
+2x11	he's an idiot	0
+2x11	really why would you say that	0
+2x11	because a smart guy takes	0
+2x11	the nude photos of his wife	0
+2x11	off his cell phone	0
+2x11	before he tries to take nude photos of his girlfriend	0
+2x11	he tried to take nude photos of you	0
+2x11	that's what you took from that	0
+2x11	the guy is married	0
+2x11	i'm so oh, that's terrible	0
+2x11	and you, if you are so okay with the way things are between us,	0
+2x11	why are you so jealous	0
+2x11	the important thing is	0
+2x11	he's married and that's terrible	0
+2x11	nice save, genius	0
+2x11	eggnog	0
+2x11	lactose	0
+2x11	it's just rum it stopped being eggnog	0
+2x11	like half an hour ago	0
+2x11	smooth	0
+2x11	smoother than you	0
+2x11	come on, it's christmas,	0
+2x11	just give me this one	1	2	nf
+2x11	merry christmas	0
+2x11	by the way, my leg is killing me	0
+2x11	thanks for asking	0
+2x11	merry christmas	0
+2x11	how's your leg	0
+2x11	very good, thanks for asking	0
+2x11	come on in	1	3	nf
+2x11	good, penny,	0
+2x11	you're here to exchange gifts	0
+2x11	you'll be pleased to know i'm prepared	0
+2x11	for whatever you have to offer	0
+2x11	okay, here	0
+2x11	i should note i'm having	0
+2x11	some digestive distress,	0
+2x11	so, if i excuse myself abruptly,	0
+2x11	don't be alarmed	1	1	ni
+2x11	a napkin	0
+2x11	turn it over	1	1	nf
+2x11	"to sheldon,	0
+2x11	live long and prosper	1	2	nf
+2x11	"leonard nimoy"	0
+2x11	he came into the restaurant	0
+2x11	sorry the napkin's dirty	0
+2x11	he wiped his mouth with it	0
+2x11	i possess the dna of leonard nimoy	0
+2x11	yeah, i guess	0
+2x11	but look, he signed it	1	1	nf
+2x11	do you realize what this means	0
+2x11	all i need is a healthy ovum	0
+2x11	and i can grow my own leonard nimoy	0
+2x11	all i'm giving you is the napkin, sheldon	0
+2x11	be right back	0
+2x11	here open it	0
+2x11	a gift cerficate	0
+2x11	for motorcycle lessons	0
+2x11	very thoughtful	0
+2x11	yeah, and i checked	0
+2x11	not letting the bike fall on you	0
+2x11	while standing still is lesson one	0
+2x11	then, i think you'll appreciate	0
+2x11	what i got you	0
+2x11	" totally cool science	0
+2x11	experiments for kids"	0
+2x11	you know,	0
+2x11	'cause you're so into science	0
+2x11	sheldon what did you do	0
+2x11	i know	0
+2x11	it's not enough, is it	0
+2x11	here	0
+2x11	leonard, look	1	1	nf
+2x11	sheldon's hugging me	0
+2x11	it's a saturnalia miracle	0

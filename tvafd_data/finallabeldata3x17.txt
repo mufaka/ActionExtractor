@@ -1,0 +1,275 @@
+﻿3x17	why do i always have to carry the heavy stuff	0
+3x17	well, it's very simple in our ragtag band of scientists with nothing to lose, i'm the smart one, wolowitz is the funny one, and koothrappali is the lovable foreigner who struggles to understand our ways and fails that leaves you, default, as the muscle	0
+3x17	oh	0
+3x17	one more floor, and i'd be the pulled muscle	0
+3x17	oh, it's about time i'm starving	0
+3x17	um, well, we didn't get chinese food	0
+3x17	why not	0
+3x17	don't panic	1	1	ni
+3x17	this is better	0
+3x17	oh, no you didn't trade the food	 for magic beans, did you	0
+3x17	of course not	0
+3x17	and technically magic beans would be food although eating them would be quite a waste, since you could plant them, and overnight, have a giant beanstalk, which would provide enough roughage for a small city	0
+3x17	yeah, sometimes i don't listen sometimes i just watch jaw go up and down	0
+3x17	we were on our way to the chinese restaurant when we thought we saw adam west, so we followed him	0
+3x17	who's adam west	0
+3x17	who's adam west	0
+3x17	leonard, what do the two of you talk about after the coitus	0
+3x17	my guess is, "hey, four minutes new record" that's why i'm the funny one	0
+3x17	anyway, we followed the guy to this garage sale, and they had the coolest stuff they were closing up we got this whole box for  bucks	0
+3x17	we didn't even get to go through it all there could be anything in here	0
+3x17	there a new girlfriend in there 'cause you might need one	0
+3x17	no	0
+3x17	but there is an original final draft ghostbusters script with actual	 slime stains	0
+3x17	oh, you're right	0
+3x17	it's ghostbusters	0
+3x17	never mind	1	1	ni
+3x17	oh, my God an alf doll when i was , my mother got me one to help me sleep after my dad left i used to pretend that my dad had moved to the planet melmac, and alf was going to bring him back to me but he never did where's my daddy, puppet where is he	0
+3x17	that is so sad	0
+3x17	no, what's sad is that you don't know adam west was tv's batman	0
+3x17	here's spock's head with no body	0
+3x17	here's mr t's body with no head	0
+3x17	oh, yeah, here's spock's body with mr t's head	0
+3x17	i pity the fool who's illogical	0
+3x17	okay, i'm just gonna go home and make a grilled cheese and windowshop on eharmony	0
+3x17	okay, bye	0
+3x17	okay	0
+3x17	ooh, look, an indiana jones connectthedots and an aquaman action figure	0
+3x17	looks like someone drew a penis on him	0
+3x17	ooh, that'll come off	0
+3x17	you see what you're doing	0
+3x17	stop that	1	1	nf
+3x17	fascinating	0
+3x17	what	0
+3x17	it appears to be a lord of the rings ring	0
+3x17	oh	0
+3x17	it's even got the elvish engraving on it	0
+3x17	it's not elvish	0
+3x17	it's the language of mordor written in elvish script	0
+3x17	"one ring torule them all"	0
+3x17	"one ring to find them"	0
+3x17	"one ring to bring them all"	0
+3x17	"and in the darkness bind them"	0
+3x17	holy crap, are we nerdy	0
+3x17	so, i was doing some checking on the ring	0
+3x17	hold on	1	1	nf 
+3x17	sheldon, is there ketchup on that table	1	1	nf
+3x17	yes, there is	0
+3x17	oh, here's a fun fact ketchup started out	 as a general term for sauce, typically made of mushrooms or fish brine with herbs and spices some popular early main ingredients included blueberry, anchovy, oyster, kidney bean and grape	0
+3x17	no, that's okay i'll get it	0
+3x17	listen, i was looking at that ring	1	1	nf
+3x17	and it seemed a little weird no copyright notice on it so, i took it down to this buddy of mine who deals with shall we say the seedy underbelly of the collectibles world seedy underbelly you know, your black market phasers, your screenworn lieutenant uhura panties, that kind of stuff	0
+3x17	who's this mysterious buddy you suddenly have	0
+3x17	just a guy i know a guy	0
+3x17	is it eddie crispo	0
+3x17	no, i can't tell you who it is	0
+3x17	stop asking	1	1	nf
+3x17	who else could it be it has to be eddie crispo	0
+3x17	i know lots of dangerous people, okay	0
+3x17	name one	1	1	nf
+3x17	eddie crispo	0
+3x17	anyway, he said this isn't a replica it's the real deal	0
+3x17	if you're suggesting that	 that is the actual ring of power	forged by sauron in mount do i look at you with an expression of exhaustion and ever so slight amusement	0
+3x17	he's not saying it's a magic ring	0
+3x17	you're not, are you	0
+3x17	no, but it's close	0
+3x17	look at the markings inside	1	1	nf
+3x17	those are production markings nine rings were made for use in the lord of the rings movies	three were given to members of the cast the rest were destroyedexcept one one was stolen	gentlemen this is the one ring	0
+3x17	mine	1	1	nf
+3x17	no, it is not yours	0
+3x17	we all went in on the box together	0
+3x17	well, yes, but I found it in the box, and the laws of maritime salvage clearly state that the finder of a sunken treasure is the owner of the treasure	0
+3x17	how is this maritime salvage	0
+3x17	other than the lack of water, how is it not	0
+3x17	wait, wait	1	1	nf
+3x17	Sheldon, stop being crazy for a second	1	1	nf
+3x17	how much is something like this worth	0
+3x17	well, it's tough to say since it's hot, but on the underground market, my guy figures	0
+3x17	your guy eddie crispos	0
+3x17	he figures ten, maybe  thousand	0
+3x17	okay, that's a lot of money	0
+3x17	the wise thing to do is invest it in something practical like a jet ski	0
+3x17	why do you want a jet ski	0
+3x17	all the wealthy and beautiful people in movies ride jet skis that can't just	 a coincidence	0
+3x17	we can't sell it	1	1	ni
+3x17	we have to keep it and love it and polish it,	1	1	nf
+3x17	and only take it out occasionally	 when we go to the park and reenact our favorite scenes from the movies	0
+3x17	it's sad how great that sounds	0
+3x17	guys, it's stolen	it should go back to peter jackson	1	1	nf
+3x17	he made the movies it belongs to him	0
+3x17	fine he can have it back	as long as he promises to make me a hobbit in his next movie	0
+3x17	there are no jewish hobbits	0
+3x17	clearly, you've never been to my house for dinner	0
+3x17	on rosh hashanah	0
+3x17	we are not blackmailing peter j	1	1	ni
+3x17	all right, where's the ring	0
+3x17	you mean my ring	0
+3x17	what are you doing the ring was unguarded it was just sitting on the table anyone could have taken it	0
+3x17	proof i did	0
+3x17	give me that	1	1	nf
+3x17	look, let's be reasonable	1	1	nf
+3x17	we all want to do different things with the ring, but your ideas are stupid, and i want a jet ski	0
+3x17	i found it the ring is mine	0
+3x17	i don't understand why in this group I never get my way	0
+3x17	you always get your way	0
+3x17	i'll stipulate to that if you give me the ring	0
+3x17	hey, guys enjoying your food that i actually brought you instead of promising food, but bringing you a box of random crap	0
+3x17	yeah, it's delicious	0
+3x17	the sarcasm's a little stale, though	0
+3x17	hey, how about this until we figure out what to do with the ring, penny holds on to it	0
+3x17	what ring	0
+3x17	this ring	0
+3x17	looking for something	0
+3x17	will you hold on to this for a couple of days	1	1	nf
+3x17	why	0
+3x17	it's a prop from a movie, and we're kind of fighting over it	0
+3x17	okay, just to be clear, the first piece of jewelry my boyfriend gives me is a prop from a movie, and i don't even get to keep it	0
+3x17	if you had gone out with me three years ago, by now, you'd have my great aunt ida's brooch	that she smuggled out of occupied belgium in a cat how am i looking now	0
+3x17	ow	0
+3x17	oh	0
+3x17	you hit me i'm bleeding	0
+3x17	what was that	0
+3x17	sheldon tried to take the ring and i punched him	0
+3x17	that's my girl	0
+3x17	so, sheldon, how's it feel to get beaten up by a girl	0
+3x17	it's not the first time	0
+3x17	i have a twin sister whose assaults began in utero if only i'd had the presence of mind to reabsorb her, then i'd have a mole with hair in it instead of a tedious yearly Christmas letter	0
+3x17	gentlemen, have you come to the realization that the only reasonable course of action is to sell the ring	 and divide the money	0
+3x17	no	0
+3x17	i was afraid of that	0
+3x17	go ahead	1	1	nf
+3x17	greetings from Mumbai i am raj's attorney, venkatesh koothrappali	0
+3x17	also my cousin	0
+3x17	you brought a lawyer	0
+3x17	don't answer that	1	1	ni
+3x17	i'll get straight to the point my client's prepared to surrender any interest he has in the ring in exchange for two kawasaki jet skis	0
+3x17	we're not giving him two jet skis	0
+3x17	look, we're big boys,	1	1	nf
+3x17	why don't we just cut to the chase and meet in the middle	1	1	ni	
+3x17	one kawasaki jet ski	0
+3x17	done and done	0
+3x17	no jet skis	0
+3x17	all right, forget the jet skis	0
+3x17	forget the jet skis	1	1	nf
+3x17	that was our line in the sand what happened to "tear them a new one"	0
+3x17	what can i say they played hardball we lost	0
+3x17	you're useless	0
+3x17	i told you that when you hired me	0
+3x17	i'm signing off now	0
+3x17	call your mother	1	1	nf
+3x17	she worries	0
+3x17	okay, just so you know, if we're bringing in cousins who are lawyers,	0
+3x17	prepare for shock and awe	1	3	nf
+3x17	you know what i am ending this penny didn't want to hold the ring anymore she gave it to me	0
+3x17	i have it	0
+3x17	i'm sending it back	0
+3x17	where's the ring	0
+3x17	you mean this ring	0
+3x17	next time be aware of your surroundings	while urinating	in a public men's room	1	3	nf
+3x17	give me that	1	1	nf
+3x17	no, it's mine	0
+3x17	it's all of ours	0
+3x17	okay, now, this is ridiculous	1	1	nf
+3x17	then let go	1	1	nf
+3x17	i'm not letting go	0
+3x17	you let go	1	1	nf
+3x17	i say this ring belongs to the last person who can hold on	0
+3x17	fine but can't we go home and start this	1	1	ni
+3x17	sure let go of the ring	1	1	nf
+3x17	all right, it starts now	0
+3x17	you do realize there's a giant bug movie marathon tonight on the syfy channel	0
+3x17	wait, my laptop	1	1	nf
+3x17	you know, there's a point when this becomes idiotic and it wasn't when we were driving like this	0
+3x17	i would advise the three of you	that resistance	is futile	1	1	nf
+3x17	i have endless patience i once spent twoandahalf hours on hold with hewlettpackard customer service just to complain about their customer service	0
+3x17	you want to talk about endless patience penny made me watch all five seasons of sex and the city	0
+3x17	there are six seasons, dude	0
+3x17	oh, crap	0
+3x17	no, no, no, the sixth season is great we go to paris with carrie and get our heart broken, and then mr big shows up, we don't know if we can trust him again it's a wild ride	0
+3x17	door	1	1	nf
+3x17	okay, everybody, and plié and relevé	0
+3x17	whatcha doin'	0
+3x17	last one holding the ring decides its fate	0
+3x17	i know, it sounds silly	0
+3x17	no, no, no, no, no,	0
+3x17	you are my boyfriend nothing you do is silly to me	0
+3x17	thank you	0
+3x17	fyi this is a bag from victoria's secret	0
+3x17	i'm out	0
+3x17	i'm sorry, ma, i have to stay late at the office	0
+3x17	no, he's doesn't he's lying to you	0
+3x17	will you be quiet	1	1	nf
+3x17	well, if you want privacy	0
+3x17	let go of the ring	1	1	nf
+3x17	i'm so glad we came to this gentile strip club	0
+3x17	howard, here's more bacon to tuck into the shiksa's gstring	0
+3x17	i'll call you back	0
+3x17	i think it's lovely you call your mommy and let her know you're going to be late for dinner from what i know about these things, if a woman doesn't breastfeed on time,it's very uncomfortable for her boobies	0
+3x17	don't you talk about my mother's boobies	1	1	ni
+3x17	if you're offended,	0
+3x17	let go of the ring and go on home to your mother's boobies	1	1	nf
+3x17	excellent, excellent	0
+3x17	tire each other out,	1	1	nf
+3x17	the ring will be mine	0
+3x17	howard, why don't you go after raj's mother	1	1	ni
+3x17	why don't we go	after your mother	1	1	ni
+3x17	go ahead	1	1	nf
+3x17	i have no illusions about my mother she is a kind, loving,	 religiously fanatical rightwing Texan with a slightly outofscale head and a mild dr pepper addiction	0
+3x17	anything you'd like to add	0
+3x17	that's not gonna get you anywhere better pull out the big gun	0
+3x17	you're right	0
+3x17	let's talk about your grandmother	1	1	nf
+3x17	no	1	1	ni
+3x17	i call no meemaws	0
+3x17	think about this	1	1	nf
+3x17	the only way your mother was born was your meemaw had sex	0
+3x17	i don't want to hear this	0
+3x17	then let go of the ring	and walk away	1	1	nf
+3x17	never	0
+3x17	all right	0
+3x17	i'll bet your meemaw didn't just have sex to have your mother i bet she had sex because she liked it	0
+3x17	stop it	1	1	nf
+3x17	yeah, meemaw did the nasty	0
+3x17	i said stop it	0
+3x17	we're getting to him	0
+3x17	waterfalls	0
+3x17	what	0
+3x17	waterfalls crashing waves babbling brooks	0
+3x17	what are you doing	0
+3x17	subliminal messaging i'm going to make you want to pee dripping faucets leaky gutter peeing	0
+3x17	it's, it's not working, dude	0
+3x17	ohhoho,	0
+3x17	it's working all right i have to pee	0
+3x17	then let go of the ring and go	1	1	nf
+3x17	no, actually, i wouldn't mind going, too	0
+3x17	fine um, on the count of three	0
+3x17	one, two	0
+3x17	wait, just to clarify when you get to three, do we stand up or do we pee	0
+3x17	we stand up	0
+3x17	excellent choice	0
+3x17	three	0
+3x17	something tells me this was a bad day to wear suede shoes	0
+3x17	i've done it i've won the ring is mine it's mine	1	1	nf
+3x17	we're going to clean it up and make it pretty	0
+3x17	my own my love my precious	0
+3x17	where's the ring	0
+3x17	it's in a fedex box on its way back to where it came from	0
+3x17	the fires of mount doom	0
+3x17	peter jackson's office in new Zealand it wasn't ours	0
+3x17	you quit the game you had no right to take it	0
+3x17	i came in here, you guys were all sleeping the ring was on the floor no one was touching it	0
+3x17	well, so then we start the game	over until there's a winner	1	1	nf
+3x17	there wasn't ever going to be a winner there was going to be a selfish, petty person with a ring and three people who used to be his friend is that really what you guys want 'cause if it is, fine i don't want anything to do with you and i don't know what happened in that bathroom, but i am not cleaning it up	0
+3x17	my precious	0
+3x17	i knew it	0
+3x17	give us	the precious	1	1	nf
+3x17	give me give me	1	1	nf
+3x17	get off of me	1	1	nf
+3x17	give me the ring	1	1	nf
+3x17	it's mine	1	1	nf
+3x17	ugh, gotta go back to dating dumb guys from the gym	0
+3x17	just give me the ring	0
+3x17	give it to me	1	1	nf
+3x17	give me the ring	1	1	nf
+3x17	i said give it to me	1	1	nf
+3x17	it's mine	1	1	nf

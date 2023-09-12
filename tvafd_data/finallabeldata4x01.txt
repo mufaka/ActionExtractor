@@ -1,0 +1,560 @@
+﻿4x01	and now the	0
+4x01	kung pao chicken	0
+4x01	ah, yeah	0
+4x01	wow	0
+4x01	smooth	0
+4x01	and finally,	0
+4x01	my moo shu pork	0
+4x01	whoohoo	0
+4x01	wolowitz	0
+4x01	oh, there you have it, gentlemen	0
+4x01	our entire dinner unpacked by robot	0
+4x01	and it only took  minutes	0
+4x01	impressive,	0
+4x01	but we must be cautious	1	1	nf
+4x01	why	0
+4x01	today, it's a chinese food retrieval robot	0
+4x01	tomorrow,	0
+4x01	it travels back in time	0
+4x01	and tries to kill sarah connor	0
+4x01	i don't think that's	0
+4x01	going to happen, sheldon	0
+4x01	no one ever does	0
+4x01	that's why it happens	0
+4x01	hey is the food here	0
+4x01	ooh what's that	0
+4x01	that, dear lady,	0
+4x01	is the wolowitz	0
+4x01	programmable hand,	0
+4x01	designed for extravehicular repairs on the international space station	0
+4x01	ah, cool	0
+4x01	ask me to pass the soy sauce	1	1	nf
+4x01	oh, does that come up much	0
+4x01	on the space station	0
+4x01	mostly with asian and jewish astronauts	0
+4x01	all right pass the soy sauce	1	1	nf
+4x01	coming up	0
+4x01	so how's work	0
+4x01	oh, it's not bad	0
+4x01	kind of hungry	0
+4x01	yeah, we all are	0
+4x01	just wait	1	1	nf
+4x01	you realize, penny, that the technology	0
+4x01	that went into this arm	will one day make unskilled food servers	0
+4x01	such as yourself obsolete	0
+4x01	really	0
+4x01	they're going to make a robot	0
+4x01	that spits on your hamburger	0
+4x01	i thought you broke up with her	0
+4x01	why is she here	0
+4x01	okay, here we go	0
+4x01	passing the soy sauce	0
+4x01	put out your hand	1	1	nf
+4x01	oh	0
+4x01	that's amazing	0
+4x01	i wouldn't say amazing	0
+4x01	at best,	0
+4x01	it's a modest leap forward rom the basic technology	0
+4x01	that gave us	0
+4x01	country bear jamboree	0
+4x01	hey, sheldon	0
+4x01	yes	0
+4x01	peace	0
+4x01	no, not peace	0
+4x01	hang on	1	1	nf
+4x01	does nasa know you're using	0
+4x01	that thing as a napkin holder	0
+4x01	you kidding they still think	0
+4x01	it's in a secure locker at jpl	0
+4x01	you stole it	0
+4x01	borrowed	0
+4x01	the trick is to carry it out to your car like you own it	0
+4x01	excuse me	0
+4x01	oh	0
+4x01	amy's at the dry cleaners,	0
+4x01	and she's made a very	0
+4x01	amusing pun	0
+4x01	"i don't care for perchloroethylene,	0
+4x01	and i don't like glycol ether"	0
+4x01	get it	0
+4x01	she doesn't like glycol ether	0
+4x01	sounds like "either"	0
+4x01	"lol"	0
+4x01	who's amy	0
+4x01	his girlfriend	0
+4x01	sheldon has a girlfriend	0
+4x01	she's not my girlfriend	0
+4x01	how long	0
+4x01	has this been going on	0
+4x01	four months	0
+4x01	she's not my girlfriend	0
+4x01	are you telling me, for	0
+4x01	the past four months	0
+4x01	i have been asking you,	0
+4x01	"what's new"	0
+4x01	and you never thought to go with,	0
+4x01	"sheldon has a girlfriend"	0
+4x01	she's not my girlfriend	0
+4x01	ah dddd	0
+4x01	how did they meet	0
+4x01	raj and i entered sheldon's	0
+4x01	information on a dating site,	0
+4x01	and it spit out	0
+4x01	amy farrah fowler	0
+4x01	oh, my god	0
+4x01	sheldon and amy	0
+4x01	or, as we	0
+4x01	call them, "shamy"	0
+4x01	shamy	0
+4x01	i am so digging the shamy	0
+4x01	all right,	0
+4x01	everyone pay attention	1	1	nf
+4x01	yes, i have a friend named amy farrah fowler	0
+4x01	yes, she is female	0
+4x01	yes, we communicate	0
+4x01	on a daily basis,	0
+4x01	but no, she is not my girlfriend	0
+4x01	okay, well, what do	0
+4x01	you communicate about	0
+4x01	well, my work in physics,	0
+4x01	her work in neurobiology,	0
+4x01	and most recently,	0
+4x01	the possibility of our having a child together	0
+4x01	thank you	0
+4x01	wait a minute	1	1	nf
+4x01	a child you never see this girl	0
+4x01	you just email	0
+4x01	and text and twitter	0
+4x01	now you're considering having a baby	0
+4x01	amy pointed out	0
+4x01	that between the two of us,	0
+4x01	our genetic material has the potential of producing the first in a line of intellectually superior,	0
+4x01	benign overlords to guide humanity to a brighter tomorrow	0
+4x01	i'm guessing	0
+4x01	that future historians will condemn us	0
+4x01	for not taking this opportunity	0
+4x01	to kill sheldon	0
+4x01	okay, i have a question	0
+4x01	yes, penny	0
+4x01	you don't even like people touching you	0
+4x01	how are you going to have sex	0
+4x01	why on earth would we have sex	0
+4x01	oh, honey, did your mom	0
+4x01	not have the talk with you	0
+4x01	you know, when your private parts started growing	0
+4x01	i'm quite aware of the way	0
+4x01	humans usually reproduce,	0
+4x01	which is messy,	0
+4x01	unsanitary,	0
+4x01	and based on living next	0
+4x01	to you for three years,	0
+4x01	involves loud and unnecessary	0
+4x01	appeals to a deity	0
+4x01	oh, god	0
+4x01	yes, exactly	0
+4x01	consequently,	0
+4x01	if amy and i choose to bring new life into this world,	0
+4x01	it will be accomplished	0
+4x01	clinically,	0
+4x01	with fertility experts in a lab	0
+4x01	with petri dishes	0
+4x01	which reminds me	0
+4x01	you have broad hips	0
+4x01	and a certain cornfed vigor	0
+4x01	is your womb available for rental	0
+4x01	still digging the shamy	0
+4x01	look, sheldon,	0
+4x01	before you race off to	0
+4x01	the fertility clinic,	0
+4x01	you might want to think about	1	3	nf
+4x01	uh, gee, i don't know	0
+4x01	maybe actually spending	some time with her	0
+4x01	you mean dating	0
+4x01	yeah	0
+4x01	i can't date amy	0
+4x01	why not	0
+4x01	she's not my girlfriend	0
+4x01	okay, look, don't think of it as dating a girlfriend	1	1	ni
+4x01	think of it as, uh getting to know the future mother of your child	1	3	nf
+4x01	oh	0
+4x01	i hadn't considered that	0
+4x01	i suppose she will have	to have access to our progeny	0
+4x01	and you don't think	0
+4x01	i can achieve the required intimacy via text messaging	0
+4x01	probably not	0
+4x01	huh	0
+4x01	it would appear as if the phone companies	0
+4x01	have been lying to me	0
+4x01	penny	0
+4x01	penny penny	0
+4x01	you do realize i stand	0
+4x01	on the other side of the door	0
+4x01	waiting for you to finish	0
+4x01	knocking three times	0
+4x01	i know i can see the shadow of your feet under the door	0
+4x01	yeah, my point is	0
+4x01	it's a waste of time	0
+4x01	if you're looking for an example of a waste of time,	0
+4x01	i would refer you to the conversation	0
+4x01	we're having right now	0
+4x01	what do you want	0
+4x01	i've decided to take your advice	0
+4x01	and have arranged to go on a date with amy farrah fowler	0
+4x01	oh, that's great	0
+4x01	have fun	1	2	nf
+4x01	wait	1	1	nf
+4x01	you have to drive me	1	1	nf
+4x01	what	0
+4x01	you know i don't drive	0
+4x01	well, go ask leonard	1	1	nf
+4x01	i did	0
+4x01	he said and i quote	0
+4x01	"ask penny	0
+4x01	it was her cockamamy idea"	0
+4x01	leonard said "cockamamy"	0
+4x01	actually, i'm paraphrasing having been raised in a christian household,	0
+4x01	i'm uncomfortable with the language he used	0
+4x01	and to be honest,	0
+4x01	i'm not entirely comfortable with "cockamamy"	0
+4x01	okay, fine when's the date	0
+4x01	now	0
+4x01	now	0
+4x01	hurry we're going to be late	1	1	nf
+4x01	sheldon,	0
+4x01	did it ever occur to you	0
+4x01	that i might have other plans	0
+4x01	i'm sorry	0
+4x01	do you have other plans	0
+4x01	well, no, not per se, but	0
+4x01	so this conversation is as pointless	0
+4x01	as your doorknocking soliloquy	0
+4x01	let me get my cockamamy keys	0
+4x01	wolowitz	0
+4x01	oh, god, that feels so good	0
+4x01	yeah, that's the spot	0
+4x01	oh, baby	0
+4x01	mrs wolowitz	0
+4x01	howard, dinner's ready	0
+4x01	i'll eat later	0
+4x01	i'm busy	0
+4x01	oh, yeah	0
+4x01	just like a real hand	0
+4x01	hmm	0
+4x01	thank you for driving me	0
+4x01	you're welcome	0
+4x01	i wish you weren't wearing flipflops	0
+4x01	it's dangerous to drive in flipflops	0
+4x01	sheldon	0
+4x01	sorry	0
+4x01	i just don't want to be	0
+4x01	yet another flipflop fatality	0
+4x01	can i ask you a question	0
+4x01	given your community college education,	0
+4x01	i encourage you to ask me	0
+4x01	as many as possible	0
+4x01	yeah	0
+4x01	well, my question is	0
+4x01	and i'm pretty sure	0
+4x01	i know the answer	0
+4x01	is this your first date	0
+4x01	that depends	0
+4x01	does squaredancing with my sister at a teens for jesus fourth of july hoedown count as a date	0
+4x01	no	0
+4x01	then, this is my first date	0
+4x01	okay well, then,	0
+4x01	there's a couple of things	0
+4x01	you should probably know	0
+4x01	i have a master's degree	0
+4x01	and two doctorates	0
+4x01	the things i should know,	0
+4x01	i do know	0
+4x01	my point is, i know more	0
+4x01	about dating than you,	0
+4x01	and if you were as smart	0
+4x01	as you think you are,	0
+4x01	you would listen to me	0
+4x01	if you know so much,	0
+4x01	how come i have a date tonight	0
+4x01	and you have nothing better to do than drive me to it	0
+4x01	fair point	0
+4x01	you know,	0
+4x01	there's something	0
+4x01	i've always wondered about aquaman	0
+4x01	yeah	0
+4x01	where does he poop	0
+4x01	what	0
+4x01	what would a toilet	0
+4x01	look like in atlantis	0
+4x01	how would you flush it	0
+4x01	and when you did flush it,	0
+4x01	where would the poop go	0
+4x01	hold that thought	1	1	nf
+4x01	hey, howard	0
+4x01	what's going on	0
+4x01	what	0
+4x01	hold on	1	1	nf
+4x01	howard, howard, slow down	1	1	nf
+4x01	the robot hand	0
+4x01	is stuck on your what	0
+4x01	you're not going to believe this	0
+4x01	so, um, amy,	0
+4x01	sheldon tells me	0
+4x01	you're a neuro somethingorother	0	
+4x01	neurobiologist	0
+4x01	your "check engine" light is on	0
+4x01	yeah, it's okay	0
+4x01	but the light indicates	0
+4x01	don't bother	1	1	ni
+4x01	i've wasted many an hour tilting at that particular windmill	0
+4x01	uh, what is that	0
+4x01	scent you're wearing	0
+4x01	it smells great	0
+4x01	dandruff shampoo	0
+4x01	i have dry scalp	0
+4x01	ah	0
+4x01	well, your hair	looks very nice	0
+4x01	are you a homosexual	0
+4x01	no, no, i'm just giving	0
+4x01	you a compliment	0
+4x01	hmm	0
+4x01	would have been more flattered	0
+4x01	if you were a homosexual	0
+4x01	guys, how 'bout	0
+4x01	some music	0
+4x01	oh, no, i wouldn't care for that	0
+4x01	amy	0
+4x01	no, thank you	0
+4x01	okay	0
+4x01	uncomfortable	0
+4x01	silence it is	0
+4x01	hey, sheldon, have you told amy	0
+4x01	what it was like for you growing up in texas	0
+4x01	no	0
+4x01	well, why don't	you tell her	1	3	ni
+4x01	all right	0
+4x01	it was hell	0
+4x01	any follow up, amy	0
+4x01	no	0
+4x01	i myself grew up in nebraska	0
+4x01	small town outside of omaha	0
+4x01	nice place, mostly family farms,	0
+4x01	a few meth labs	0
+4x01	i'm sorry, how is this better than uncomfortable silence	0
+4x01	i don't know	0
+4x01	i was just trying something	0
+4x01	muggles	0
+4x01	you slipped and fell into a robot hand	0
+4x01	yes	0
+4x01	penis first	0
+4x01	yes now, help me	1	1	nf
+4x01	i'd suggest a lubricant,	0
+4x01	but i have a feeling	0
+4x01	you fell on some of that as well	0
+4x01	not funny, leonard	0
+4x01	really a robot hand's got a death grip on your junk, dude	0
+4x01	that's funny, ask anyone	1	1	nf
+4x01	plea before my mother	0
+4x01	walks in, get this off me	0
+4x01	okay, let's see	0
+4x01	no, no	1	1	ni
+4x01	don't touch	1	1	ni
+4x01	the program is paused	0
+4x01	well, then let's	0
+4x01	unpause it	0
+4x01	no, no i loaded	1	1	ni
+4x01	the wrong program	0
+4x01	the hand thinks it's holding a screwdriver in outer space	0
+4x01	if you continue the program,	0
+4x01	it's gonna start twisting	0
+4x01	aall right	0
+4x01	um, how about this	0
+4x01	when winnie the pooh got his head stuck in the honey tree,	0
+4x01	his friends all grabbed onto him	0
+4x01	and pulled and pulled	0
+4x01	you do what you want,	1	4	nf
+4x01	i'm not touching another man's honey tree	0
+4x01	all right, uh,	0
+4x01	forget pulling	0
+4x01	how about we get an electric saw and cut it off	0
+4x01	what	0 
+4x01	no saws	1	1	ni
+4x01	one circumcision was enough	0
+4x01	how about an acetylene torch	0
+4x01	okay, i can't believe	0
+4x01	this needs to be said out loud	0
+4x01	no pulling, no saws, no torches	1	1	ni
+4x01	well, then what do	0
+4x01	you want us to do	0
+4x01	mrs wolowitz	0
+4x01	howard, i made cookies for you	0
+4x01	and your little friends	0
+4x01	that's great, mom, thanks	0
+4x01	i'll bring them up with some hawaiian punch	0
+4x01	don't come up here	1	1	ni
+4x01	why not are you	ashamed of your mother	0
+4x01	yes, but that's not the point	0
+4x01	get me out of here	1	1	nf
+4x01	you have any ideas, raj	0
+4x01	right now, all i can think about	0
+4x01	is cookies and hawaiian punch	0
+4x01	hey, here's another possible	0
+4x01	topic of conversation	0
+4x01	this is a big night for sheldon	0
+4x01	right, sheldon	0
+4x01	big night	0
+4x01	the winter solstice is a big night	0
+4x01	it's over  hours	0
+4x01	in southern california	0
+4x01	that's an amusing factoid	0
+4x01	thank you	0
+4x01	no, no	0
+4x01	my point is, uh, tonight is	0
+4x01	sheldon's first official date	0
+4x01	discuss	1	3	nf
+4x01	is this true	0
+4x01	apparently, a semiincestuous teens for jesus fourth of july hoedown didn't count	0
+4x01	so, um, amy, what about you	0
+4x01	do you date much	0
+4x01	once a year	0
+4x01	it's a deal i made	0
+4x01	with my mother in exchange for her silence on the matter,	0
+4x01	as well as the occasional use of her george foreman grill	0
+4x01	that seals in the flavor without the fat	0
+4x01	how about you, penny	0
+4x01	do you go on many dates	0
+4x01	uh, yeah, i wouldn't say many	0
+4x01	a few	0
+4x01	what's your characterization of	approximately  different men as "a few"	0
+4x01	what	0
+4x01	where did you get  men	0
+4x01	simple extrapolation	0
+4x01	in the three years	0
+4x01	that i've known you,	0
+4x01	you were single for two	0
+4x01	during that time,	0
+4x01	i saw  different suitors	0
+4x01	if we work backwards,	0
+4x01	correcting for observation bias	0
+4x01	and postulate an initial dating age of	0
+4x01	whoa, wait,	1	1	nf
+4x01	wait, wait	1	1	nf
+4x01	i did not start dating at	0
+4x01	i'm sorry sixteen	0
+4x01	fourteen	0
+4x01	my mistake	0
+4x01	now, assuming the left side of a bell curve	0
+4x01	peaking around the present,	0
+4x01	that would bring the total	0
+4x01	up to  men	0
+4x01	plus or minus eight men	0
+4x01	remarkable	0
+4x01	did you have sexual intercourse	with all of these men	0
+4x01	no	0
+4x01	although that number would be fairly easy to calculate	0
+4x01	oh	0
+4x01	based on the number of awkward encounters i've had with strange men leaving her apartment in the morning,	0
+4x01	plus the number of times	0
+4x01	she's returned home wearing the same clothes she wore the night before	0
+4x01	okay, sheldon, i think	0
+4x01	you've made your point	0
+4x01	so we multiply	minus  men	0
+4x01	before the loss of virginity	0
+4x01	so	0
+4x01	times  gives us	sexual partners	0
+4x01	let's round that up to	0
+4x01	okay, sheldon, you are so wrong	0
+4x01	that is not even close to the real number	0
+4x01	i'm gonna need a drink over here	1	1	nf
+4x01	this is very interesting	0
+4x01	cultural perceptions are subjective	0
+4x01	penny, to your mind,	0
+4x01	are you a slut	0
+4x01	no no	0
+4x01	no	0
+4x01	let's just all finish our dinners, okay	1	1	nf
+4x01	this is	an interesting topic	0
+4x01	how many sexual encounters have you had	0
+4x01	does volunteering for a scientific experiment in which orgasm was achieved by electronically stimulating the pleasure centers of the brain count	0
+4x01	i should think so	0
+4x01	then	0
+4x01	okay, come on	1	1	nf
+4x01	almost there	0
+4x01	don't tug	1	1	ni
+4x01	no tugging	1	1	ni
+4x01	next time, take your own advice	1	1	nf
+4x01	excuse me,	0
+4x01	could you help us out	1	1	nf
+4x01	my, my, my	0
+4x01	what do we have here	0
+4x01	i slipped and fell	0
+4x01	yeah, we get that a lot	0
+4x01	what is this	0
+4x01	it's a robot arm	0
+4x01	where's the rest of the robot	0
+4x01	i only built the arm	0
+4x01	'cause that's all	0
+4x01	you needed, right	0
+4x01	can you please just help me	1	1	nf
+4x01	all right, all right	0
+4x01	hang on, stay calm	1	1	nf
+4x01	i need an orderly with a wheelchair	0
+4x01	i got a robot hand grasping	0
+4x01	a man's penis out here	0
+4x01	you think you could be a little more discreet	1	1	nf
+4x01	i'm sorry,	0
+4x01	we don't have a code for	0
+4x01	"robot hand	0
+4x01	grasping a man's penis"	0
+4x01	why is it hooked up to a computer	0
+4x01	uh, it's what controls the arm	0
+4x01	but it's frozen	0
+4x01	did you try turning it off	0
+4x01	and back on again	0
+4x01	no, you see, it's more complicated than that	0
+4x01	no, wait	1	1	ni
+4x01	winnie the pooh is out of the honey tree	0
+4x01	now can we have cookies	and hawaiian punch	0
+4x01	you were right	0
+4x01	this was a very	productive evening	0
+4x01	i saw a whole new side of	0
+4x01	amy farrah fowler tonight	0
+4x01	i did not have sex with  guys	0
+4x01	i'll be happy to check the math,	0
+4x01	but numbers	0
+4x01	don't lie, penny	1	1	ni
+4x01	in any event,	0
+4x01	now that amy and i have	spent quality time together,	0
+4x01	i feel much more confident proceeding to the next stage of our relationship	0
+4x01	and that is	0
+4x01	using in vitro fertilization	0
+4x01	and a surrogate uterus to gift humanity with our progeny	0
+4x01	you're still	0
+4x01	on that	0
+4x01	in these uncertain times,	0
+4x01	doesn't humanity deserve a gift	0
+4x01	okay, you know what	0
+4x01	i'm gonna come at this	0
+4x01	in a whole new way	0
+4x01	sheldon, if you try to make	0
+4x01	a baby with amy in a petri dish,	0
+4x01	i'm gonna tell	0
+4x01	your mother on you	0
+4x01	that's no threat	0
+4x01	my mother's always wanted a grandchild	0
+4x01	really your deeply religious bornagain christian mother	wants a testtube grandbaby born out of wedlock	0
+4x01	curses	0
+4x01	if i'd thought of that	0
+4x01	in the first place,	0
+4x01	i could've saved myself	0
+4x01	this whole night	0
+4x01	well, it's not that late	0
+4x01	you could still go out	0
+4x01	and look for number	0
+4x01	good night	0
+4x01	hey, howard,	0
+4x01	what's up	0
+4x01	i've decided	0
+4x01	not to procreate	0
+4x01	yeah, yeah, great	0
+4x01	howard, uh, slow down	1	1	nf
+4x01	what do you mean it happened again	0

@@ -1,0 +1,419 @@
+﻿2x10	i don't see anything at all	0
+2x10	you're the doctor, but i am constantly	0
+2x10	hearing this annoying sound	0
+2x10	me, too	0
+2x10	is it a highfrequency whistle	0
+2x10	no, it's more of a relentless,	0
+2x10	narcissistic drone	0
+2x10	there's no inflammation at all	 0
+2x10	then it must be a tumor	0
+2x10	seriously doubt it	0
+2x10	maybe it's a lingering bacterial infection	from all those childhood toilet swirlies	0
+2x10	is that possible	0
+2x10	i used to get those all the time	0
+2x10	even in church	0
+2x10	if it is from a swirly,	0
+2x10	there something i can do	0
+2x10	circle, circle, dot, dot,	0
+2x10	now you have a cootie shot	0
+2x10	i'm going to bed	0
+2x10	okay, i'll be right in	0
+2x10	it's not enough that she mocks me,	0
+2x10	but that isn't even	the correct procedure for a cootie shot	0
+2x10	do you understand that stephanie's not here to treat your imaginary ailments	0
+2x10	how is it imaginary that i keep hearing	an octave above middle c	0
+2x10	is that imaginary	0
+2x10	i don't think so	0
+2x10	good night	0
+2x10	one more thing	0
+2x10	under article one, section three of our roommate agreement,	0
+2x10	i'm calling an emergency meeting	0
+2x10	you're not	0
+2x10	leonard moves the meeting not occur	0
+2x10	is there a second	0
+2x10	none heard, the motion fails	0
+2x10	i'd like to begin the meeting by congratulating you on the progress in your relationship with dr stephanie	0
+2x10	thank you	0
+2x10	that being said,	0
+2x10	we have to discuss the implementation of the agreed upon "cohabitation" rider which has been activated now the two of you are living together	1	1	nf
+2x10	we're not living together	0
+2x10	i beg to disagree	0
+2x10	"a girlfriend shall be deemed	0
+2x10	quote living with unquote leonard	0
+2x10	when she has stayed over for a ten consecutive nights,	0
+2x10	or b more than nine nights	0
+2x10	in a three week period,	0
+2x10	or c all the weekends of a given month	0
+2x10	plus three weeknights	0
+2x10	that's absurd	0
+2x10	you initialed it	0
+2x10	see lh, lh, lh	0
+2x10	wait, i only initialed it	1	1	nf
+2x10	because i never thought it would happen	0
+2x10	i initialed another clause naming you	0
+2x10	my sidekick in case i get superpowers	0
+2x10	yes, you did	0
+2x10	now, to review, the following provisions	0
+2x10	are hereby activated	0
+2x10	in the refrigerator, as opposed to us having two separate shelves and one communal shelf, the three of us now get	individual shelves and the door becomes communal	1	1	nf
+2x10	next, apartment vacuuming shall be increased from two to three times a week to accommodate the increased accumulation of dead skin cells third	1	1	nf
+2x10    the bathroom schedule	0
+2x10	i'm given to understand	0
+2x10	women have different needs,	0
+2x10	so, we'll have to discuss that	1	1	nf
+2x10	i'm going to bed	0
+2x10	at least take this with you	1	1	nf
+2x10	and have stephanie initial here, here, here, here and here	1	1	nf
+2x10	this states that she does not now nor does she intend to play	0
+2x10	a percussive or brass instrument sure sounds like a tumor	0
+2x10	pressing on the auditory nerve	0
+2x10	no, absolutely not	0
+2x10	it's not a big deal	0
+2x10	we have latex gloves	0
+2x10	i don't care what the symptoms are,	0
+2x10	my girlfriend is not going to give you a prostate exam	0
+2x10	hi, sheldon	0
+2x10	good morning, dr stephanie	0
+2x10	i trust leonard satisfied	0
+2x10	you sexually last night	0
+2x10	we don't ask questions like that	1	1	ni
+2x10	i heard you ask it over and over	0
+2x10	how is it inappropriate for me to ask it once	0
+2x10	he did very nicely	0
+2x10	see she's not offended	0
+2x10	and now you finally have an answer	0
+2x10	out of coffee need coffee	0
+2x10	hi stephanie, right	0
+2x10	andand you are	0
+2x10	penny, i live across the hall	0
+2x10	i've heard a lot about you	0
+2x10	really	0
+2x10	i haven't heard a thing about you	0
+2x10	why haven't i heard a thing about	0
+2x10	this woman who lives across the hall and comes into your apartment in the morning in her underwear	0
+2x10	she's heard about you because we're,	0
+2x10	you know, involved and you haven't heard about her because	0
+2x10	i never slept with her,	0
+2x10	i swear	0
+2x10	in leonard's defense,	0
+2x10	it wasn't for lack of trying	0
+2x10	thank you	0
+2x10	you're welcome	0
+2x10	look, i'm just saying	0
+2x10	penny is one of our many neighbors,	0
+2x10	and in our building,	0
+2x10	neighbors come and go,	0
+2x10	it's very casual,	0
+2x10	no dress code	0
+2x10	in fact, some mornings	0
+2x10	i'll just mosey down to the third floor	0
+2x10	in my pajamas and have cereal	0
+2x10	with mrs vartabedian	0
+2x10	really	0
+2x10	i have never once been invited to have cereal with mrs vartabedian	0
+2x10	she doesn't like you	0
+2x10	you have a gall bladder to remove and i have to get in the shower and penny has clothes to put on, so it was very nice meeting you	0
+2x10	nice to finally meet you, too	0
+2x10	and i'll see you tonight	0
+2x10	okay, byebye	0
+2x10	what could i possibly have done	to offend mrs vartabedian	0
+2x10	so, that's stephanie, huh	0
+2x10	why do i feel like i'm the one that just got the prostate exam	0
+2x10	you know, she seems very nice	0
+2x10	oh, she is she's terrific	0
+2x10	and she's proving to be a valuable roommate	0
+2x10	you guys are living together	0
+2x10	like hippies	0
+2x10	we're not living together	0
+2x10	do i have to pull out the paperwork again	0
+2x10	we're not living together	0
+2x10	are you sure	0
+2x10	how could i not be sure	0
+2x10	well, let's find out	1	3	nf
+2x10	don't you think if a woman was living with me	0
+2x10	i'd be the first one to know about it	0
+2x10	sweetie, you'd be the last one	0
+2x10	to know about it	0
+2x10	cute dresses	0
+2x10	i bet this looks great on you	0
+2x10	we're not living together	0
+2x10	scented candles, fuzzy slippers,	0
+2x10	floral bed sheets	0
+2x10	we're not living together	0
+2x10	okay, moving on	0
+2x10	now, who are these guys	at disney world	0
+2x10	the big dog is goofy,	0
+2x10	and the older couple	0
+2x10	with the mouse ears, i have no idea	0
+2x10	we're not living together	0
+2x10	you're going	0
+2x10	to go down swinging, huh	0
+2x10	all right, well,	0
+2x10	we got your body lotion,	0
+2x10	your instyle magazine,	0
+2x10	your jewelry box	0
+2x10	we're not	0
+2x10	where's my bat signal	0
+2x10	you have a bat signal	0
+2x10	i did	0
+2x10	it was right here	0
+2x10	she must've	0
+2x10	oh, my god, we're living together	0
+2x10	really what was your first clue	0
+2x10	new pants	0
+2x10	yeah, stephanie got them for me	0
+2x10	nice cotton	0
+2x10	actually, i think it's more of a wool, fire ant blend	0
+2x10	so, the girlfriend's buying	0
+2x10	clothes for you sounds serious	0
+2x10	it is actually	0
+2x10	in fact, i gave it a lot of thought	0
+2x10	and i decided it was time or us to live together	0
+2x10	leonard, huge mistake	0
+2x10	there's a whole buffet of women out there	0
+2x10	and you're just	standing in the corner eating the same deviled egg	0
+2x10	over and over again	0
+2x10	at least i have an egg	0
+2x10	what do you have	0
+2x10	a veritable smorgasbord of potential sexual partners	0
+2x10	see the blonde over there	0
+2x10	i can hit on her and you can't	0
+2x10	so, go hit on her	1	1	nf
+2x10	she's not my type	0
+2x10	too bad, 'cause she was	0
+2x10	checking you out before	0
+2x10	she was	0
+2x10	of course not look at her	1	1	nf
+2x10	i don't care what you guys think	0
+2x10	stephanie and i	are very happy living together	0
+2x10	i will give either of you  dollars,	0
+2x10	right now to trade pants with me	0
+2x10	what are you doing here	0
+2x10	hang on	1	1	nf
+2x10	over	0
+2x10	it's a little high	0
+2x10	we can attribute that to the stress of sneaking past the security desk	0
+2x10	where did you get the stethoscope	0
+2x10	and the blood pressure cuff	0
+2x10	my aunt marion gave them	0
+2x10	to me for my th birthday	0
+2x10	she thought if i failed	0
+2x10	at theoretical physics	0
+2x10	that i should have	0
+2x10	a trade to fall back on	0
+2x10	and by the way, the blood pressure cuff	0
+2x10	is called a sphygmomanometer	0
+2x10	thank you	0
+2x10	didn't they teach you that	0
+2x10	in medical school	0
+2x10	i'm busy here, sheldon	0
+2x10	i understand	0
+2x10	all i need is for you to authorize these tests	1	1	nf
+2x10	a cardiac stress test,	0
+2x10	a full body mri, an electromyogram,	0
+2x10	a cbc, baseline glucose	0
+2x10	upper gi	0
+2x10	and an exploratory laparoscopy	0
+2x10	last time i had hiccups,	0
+2x10	it felt like my diaphragm was just going through the motions	0
+2x10	go home	1	1	nf
+2x10	can i at least have the upper gi	0
+2x10	i already drank the barium	0
+2x10	good do you have	0
+2x10	any fabric softener	0
+2x10	yeah, sure	0
+2x10	what are you washing	0
+2x10	a crocodile	0
+2x10	no, the pants that stephanie got me	0
+2x10	sweetie, you can't machine wash these	0
+2x10	they'll be ruined	0
+2x10	are you sure	0
+2x10	absolutely	0
+2x10	i wish you'd told me that sooner	0
+2x10	are you guys having problems	0
+2x10	no, everything's fine	0
+2x10	really	0
+2x10	yeah, it's wonderful	0
+2x10	maybe this whole living together	0
+2x10	happened kind of suddenly,	0
+2x10	but it's fine, it's great	0
+2x10	you know, if you're uncomfortable with the way things are going, you're allowed to say something	1	3	nf
+2x10	are you sure	0
+2x10	that doesn't sound right	0
+2x10	believe me, your feelings	1	1	nf
+2x10	are just as important as hers	0
+2x10	no, that doesn't sound right either	0
+2x10	just tell her you need the relationship to move at a pace that you both are comfortable with	1	4	nf
+2x10	yeah, i could say	0
+2x10	something like that to her	0
+2x10	i'll go do that	0
+2x10	thank you	0
+2x10	sure	0
+2x10	you have a really	0
+2x10	good grasp on this	0
+2x10	maybe you could talk to her	1	1	nf
+2x10	you're kidding, right	0
+2x10	no, but that's okay	0
+2x10	i'll go talk to her	0
+2x10	want to come with	0
+2x10	go	1	1	nf
+2x10	what	0
+2x10	you were right	0
+2x10	your larynx is terribly inflamed	0
+2x10	i've never seen anything like it	0
+2x10	i knew it	0
+2x10	what do i do	0
+2x10	you're going to need to stop talking immediately	1	1	nf
+2x10	for how long	0
+2x10	immediately	0
+2x10	what's going on	0
+2x10	i just performed a "sheldonectomy"	0
+2x10	careful, if you don't get it all,	1	4	nf
+2x10	it'll only come back worse	0
+2x10	gotcha	0
+2x10	we need to talk	1	1	nf
+2x10	do we need to talk	0
+2x10	or "do we need to talk"	0
+2x10	i don't know what that means	0
+2x10	why don't you just tell me	1	1	ni
+2x10	what it is you have to tell me	0
+2x10	look, it's just that	0
+2x10	things between you and me	0
+2x10	have been going pretty quick	0
+2x10	and	0
+2x10	it's just a little scary	0
+2x10	well, yeah, but scary good, right	0
+2x10	sure	0
+2x10	when is scary not good	0
+2x10	but	0
+2x10	i have feelings, right	0
+2x10	okay, and it's perfectly okay to express those feelings, right	0
+2x10	of course, honey, why don't you tell me	1	1	ni
+2x10	what it is you're feeling	0
+2x10	okay, well, i think	0
+2x10	it's important to remember	0
+2x10	that we move at a pace	0
+2x10	that is our speed and	0
+2x10	oh, shoot, i had it	0
+2x10	how about this	0
+2x10	how about i tell you what i'm feeling	0
+2x10	what's that	0
+2x10	really right now	0
+2x10	why not	1	1	ni
+2x10	i just ate, aren't you supposed to wait an hour	0
+2x10	i think that's for swimming	0
+2x10	i just hope i don't get cramps	0
+2x10	i put your clothes in the dryer	0
+2x10	thank you	0
+2x10	your pants are ruined	0
+2x10	good	0
+2x10	so, how did the talk with stephanie go	0
+2x10	on one level, really	0
+2x10	really well	0
+2x10	so, you told her you wanted	0
+2x10	to slow things down	0
+2x10	not specifically,	0
+2x10	but i did tell her	0
+2x10	that i had feelings	0
+2x10	good, good	0
+2x10	and then what	0
+2x10	and then	0
+2x10	the subject got changed somehow	0
+2x10	you had sex, didn't you	0
+2x10	little bit	0
+2x10	what	0
+2x10	nothing	0
+2x10	okay, well, it sounds	0
+2x10	like things are going to work out	0
+2x10	it's all good	0
+2x10	everything's going to work out	0
+2x10	one way or another	0
+2x10	god, come on, leonard,	0
+2x10	you are entitled to try and make	0
+2x10	things go the way you want them to	0
+2x10	really	0
+2x10	yes	0
+2x10	you don't always have to go along with what the woman wants	1	3	ni
+2x10	what	0
+2x10	nothing just	0
+2x10	rethinking my whole life	0
+2x10	here's the thing	0
+2x10	i'm afraid that if i ask her	0
+2x10	to move out,	0
+2x10	she'll just dump me	0
+2x10	it's a chance you have to take	0
+2x10	i mean, look,	0
+2x10	if it's meant to be, it'll be	0
+2x10	very comforting	0
+2x10	what do i say to her	0
+2x10	i don't know	0
+2x10	what have women said to you	0
+2x10	when they wanted to slow	0
+2x10	a relationship down	0
+2x10	i really like you, but i want	0
+2x10	to see how things go with mark	0
+2x10	yeah, that'll slow it down	0
+2x10	i'm sorry, i totally interrupted you	0
+2x10	what were you saying	0
+2x10	right, yeah	0
+2x10	here's the thing	0
+2x10	i really like you	0
+2x10	god, here comes the speech	0
+2x10	what speech	0
+2x10	"i really like you,	0
+2x10	"but maybe we should spend	0
+2x10	a little less time together	0
+2x10	"'cause i need my space	0
+2x10	"but i'll call you on tuesday"	0
+2x10	and then you never call me,	0
+2x10	so i call you,	0
+2x10	but you don't call me back	0
+2x10	and then when i run into you	0
+2x10	at the coffee shop, you pretend	0
+2x10	like you've been having problems	0
+2x10	with your voice mail	0
+2x10	and i know that you're lying,	0
+2x10	but i pretend like i don't care	0
+2x10	even though i'm dying inside	0
+2x10	i wasn't going to say any of that	0
+2x10	i was just going to say	0
+2x10	i really like you	0
+2x10	oh, good	0
+2x10	'cause i really like you, too	0
+2x10	terrific	0
+2x10	nice sweater	0
+2x10	stephanie got it for me	0
+2x10	it's kind of fun	0
+2x10	it's got a big bird on it, dude	0
+2x10	yeah, yeah, that's the fun part	0
+2x10	we're also getting	new curtains for my bedroom,	0
+2x10	and a dust ruffle, and a duvet,	0
+2x10	and i don't even know what a duvet is,	0
+2x10	but i'm pretty sure if i did i wouldn't want one,	0
+2x10	but every time i talk to her about moving out,	0
+2x10	she cries and we have sex	0
+2x10	you're lucky with me,	0
+2x10	it's usually the other way around	0
+2x10	you know, if you can't talk to her,	0
+2x10	why don't you just text her	0
+2x10	isn't that kind of cowardly	0
+2x10	yeah, it's beyond contemptible	0
+2x10	true,	0
+2x10	but on the other hand you are wearing a bird sweater	0
+2x10	sold	0
+2x10	"i think it would be better	0
+2x10	for our relationship	0
+2x10	"if you moved back to your place"	0
+2x10	there	0
+2x10	it's done	0
+2x10	good for you	0
+2x10	good for me	0
+2x10	i'll never have sex again	0
+2x10	i was wrong see ya	0
+2x10	i have an inflamed larynx	0
+2x10	we are out of herbal tea	0
+2x10	do you have any	0
+2x10	okay, let me check	0
+2x10	some hiney would be nice, too	0
+2x10	hiney	0
+2x10	honey	0

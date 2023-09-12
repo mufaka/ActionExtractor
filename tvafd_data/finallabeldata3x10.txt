@@ -1,0 +1,318 @@
+﻿3x10	hey, leonard, check this out	1	1	nf
+3x10	leonard, she's doing it again	0
+3x10	i think it upsets Sheldon when you play with the food	0
+3x10	no	0
+3x10	it upsets sheldon when she willynilly takes it from the containers without regard for its equitable distribution	0
+3x10	this is essentially why you have famine in india	0
+3x10	you want me to put it back	0
+3x10	leonard	0
+3x10	it upsets sheldon when you play with the sheldon	0
+3x10	what's up, my nerdizzles	0
+3x10	raj, sheldon, i want you to meet my girlfriend bernadette	0
+3x10	hello leonard, penny, you know my girlfriend bernadette	0
+3x10	yeah hey	0
+3x10	bernadette, say fo'shizzle to my nerdizzles	1	1	nf
+3x10	i don't think i can i don't have howard's street cred	0
+3x10	i hope it's all right i told my girlfriend Bernadette she could join us for dinner	0
+3x10	sure the more, the merrier wa no, that's a false equivalency more does not equal merry if there were , people in this apartment right now, would we be celebrating	0
+3x10	no, we'd be suffocating	0
+3x10	sheldon	0
+3x10	don't "sheldon" me	1	1	ni
+3x10	we ordered for five people, not six	0
+3x10	oh, come on, it's fine	0
+3x10	we'll just put it all on the table, you know, family style	1	1	nf
+3x10	oh, sure and while we're at it,	0
+3x10	why don't we put our hands behind our backs, have an old fashioned eating contest	0
+3x10	relax, it'll be fine	1	1	nf
+3x10	sit down, you guys	1	1	nf
+3x10	no no no	1	1	ni
+3x10	what	0
+3x10	oh, yeah, you can't sit there	1	1	ni
+3x10	why not	0
+3x10	that's where sheldon sits	0
+3x10	he can't sit somewhere else	0
+3x10	no, no, no you see, in the winter,	0
+3x10	that seat is close enough to the radiator so that he's warm, yet not so close that he sweats in the summer, it's directly in the path of a crossbreeze created by opening windows there and there it faces the television at an angle that isn't direct, so he can still talk to everybody, yet not so wide that the picture looks distorted	0
+3x10	perhaps there's hope for you after all	0
+3x10	ooh, i love your shoes	0
+3x10	oh, thanks	0
+3x10	they are cute, aren't they	0
+3x10	where'd you get them shoes for less i've been meaning to go over there	0
+3x10	oh, great selection, great prices	0
+3x10	my mother was right hell is real	0
+3x10	come on, sheldon	0
+3x10	let the womenfolk chat	0
+3x10	womenfolk	0
+3x10	gals	0
+3x10	chicks	0
+3x10	uteroamericans	0
+3x10	just eat your dinner	1	1	nf
+3x10	don't take him too seriously	1	1	ni
+3x10	a lot of what he says is intended as humor	0
+3x10	yeah, well, i don't think it's very funny	0
+3x10	me neither, but he just lights up when i laugh	0
+3x10	howard, never let her go	1	1	ni
+3x10	so, leonard, howard says you're working on fundamental tests of quantum mechanics	0
+3x10	i am	0
+3x10	are you interested in physics	0
+3x10	oh, i find it fascinating	0
+3x10	if i hadn't gone into microbiology, i probably would have gone into physics or ice dancing	0
+3x10	actually, my tests of the aharonovbohm quantum interference effect have reached an interesting point right now, we're testing the phase shift due to an electric potential	0
+3x10	that's amazing	0
+3x10	sheldon yes	0
+3x10	leonard's work is nearly as amazing as third graders growing lima beans in wet paper towels	0
+3x10	while i appreciate the "oh, snap," i'm uncomfortable having your moist breath in my ear	0
+3x10	are you going to try to set up the voltages using tunnel junctions	0
+3x10	yes, i am	0
+3x10	you want to see a simulation on my laptop	0
+3x10	oh, yeah, show me	1	1	nf
+3x10	in microbiology, the most exciting thing i get to work with is yeast	0
+3x10	howard	0
+3x10	yeah	0
+3x10	your shoes are delightful	0
+3x10	where did you get them	0
+3x10	what	0
+3x10	bazinga i don't care	0
+3x10	ha eat my dust,	0
+3x10	racially stereotypical plumber	0
+3x10	that's not fair	0
+3x10	i got stuck behind a tree	0
+3x10	and a cow and a penguin	0
+3x10	face it, dude,	1	1	nf
+3x10	whether it's a real car or a virtual cartoon car, you can't drive	0
+3x10	just need a little more practice	0
+3x10	what you need is cheat codes, motor skills and a magic genie who grants wishes to little boys who suck at mario kart	0
+3x10	hey, sheldon, can i talk to you for a second	1	1	nf
+3x10	it's not about shoes, is it i don't think i could go through that again	0
+3x10	it's not about shoes	0
+3x10	then speak	0
+3x10	um, actually, can we do it in private	1	1	nf
+3x10	all right	0
+3x10	go away	1	1	nf
+3x10	i agree, it's rude, but she asked for privacy	0
+3x10	thanks, raj	0
+3x10	okay, so here's the thing	0
+3x10	i was wondering if you could maybe teach me a little physics	1	1	nf
+3x10	a little physics	0
+3x10	there's no such thing	0
+3x10	physics encompasses the entire universe, from quantum particles to supernovas, from spinning electrons to spinning galaxies	0
+3x10	yeah, okay, cool i don't need the pbs special	0
+3x10	i just want to know enough so i can talk to leonard about his job you know, like bernadette does	0
+3x10	why can't leonard teach you	0
+3x10	'cause i want to surprise him	0
+3x10	can't you surprise him in some other way for example, i'm sure he'd be delightfully taken aback if you cleaned your apartment	0
+3x10	come on, sheldon, this is important to me	0
+3x10	penny, this would be a massive undertaking, and my time is both limited and valuable	0
+3x10	you're sitting here playing video games all day	0
+3x10	okay, point	0
+3x10	what sort of foundation do you have did you take any science classes in school	0
+3x10	sure i did the one with the frogs	0
+3x10	the one with the frogs	0
+3x10	yeah, actually, it was pretty cool a lot of the girls threw up, but i gutted that thing like a deer	0
+3x10	i'm sorry, penny i don't think so	0
+3x10	oh, come on a smart guy like you, it'll be a challenge	0
+3x10	you can make it like an experiment	1	3	nf
+3x10	interesting i suppose if someone could teach sign language to koko the gorilla i could teach you some rudimentary physics	0
+3x10	great it's a little insulting, but great i'll be koko	0
+3x10	not likely koko learned to understand over , words, not one of which had anything to do with shoes	0
+3x10	hey, fellas this is my girlfriend Bernadette my girlfriend bernadette	0
+3x10	who are all those people	0
+3x10	have no idea	0
+3x10	hey, leonard	0
+3x10	hi hey, look, it's howard and his girlfriend bernadette	0
+3x10	thought i'd give the little woman a tour of the old salt mines	0
+3x10	he doesn't mean salt mines	0
+3x10	he means where he works	0
+3x10	yeah, no, i got it	0
+3x10	so, how's your experiment going	0
+3x10	ah, terrific	0
+3x10	we're getting the electron accelerator set up we should be ready to go day after tomorrow	0
+3x10	boy, i'd love to see that	0
+3x10	you're welcome to come	0
+3x10	really oh, that'd be great	0
+3x10	how exciting is that	0
+3x10	like hanukkah in july	0
+3x10	do they have that	0
+3x10	no	0
+3x10	oh	0
+3x10	you got me again	0
+3x10	this isn't nonfat yogurt this is fatty fat fat	0
+3x10	excuse me could you grab me another napkin, sweetie	1	1	nf
+3x10	sure thanks, honey	0
+3x10	all right, what is your deal	0
+3x10	excuse me	0
+3x10	inviting my girlfriend to come see your electron accelerator	0
+3x10	yeah so	0
+3x10	wow you really are a piece of work	0
+3x10	it's not enough you get the prom queen, you have to get the head of the decorating committee, too	0
+3x10	what are you talking about	0
+3x10	don't play innocent with me	1	1	ni
+3x10	i practically invented using fancy lab equipment to seduce women	0
+3x10	has it ever worked	0
+3x10	not so far, but that's not the point	0
+3x10	howard, relax	1	1	nf
+3x10	i'm not interested in your girlfriend	0
+3x10	i hope not because you don't want to mess with me i'm crazy	0
+3x10	i believe you	0
+3x10	research journal, entry one i'm about to embark on one of the great challenges of my scientific career teaching penny physics i'm calling it project gorilla	0
+3x10	hey, sheldon	0
+3x10	come in take a seat	1	1	nf
+3x10	subject has arrived i've extended a friendly casual greeting ready to get started	0
+3x10	one moment	1	1	nf
+3x10	subject appears well rested and enthusiastic apparently, ignorance is bliss all right, let us begin where's your notebook	0
+3x10	um, i don't have one	0
+3x10	how are you going to take notes without a notebook	0
+3x10	i have to take notes	0
+3x10	how else are you gonna study for the tests	0
+3x10	there's gonna be a test	0
+3x10	testsss	0
+3x10	here it's collegeruled i hope that's not too intimidating	0
+3x10	thank you	0
+3x10	you're welcome	0
+3x10	now, introduction to physics what is physics physics comes from the ancient greek word "physika "	0
+3x10	it's at this point that you'll want to start taking notes	1	1	nf
+3x10	"physika" means the science of natural things and it is there, in ancient greece, that our story begins	0
+3x10	ancient greece hush	0
+3x10	if you have questions,	0
+3x10	raise your hand	1	1	nf
+3x10	it's a warm summer evening, circa  bc you've finished your shopping at the local market, or agora and you look up at the night sky there you notice some of the stars seem to move, so you name them "planetes," or "wanderer " yes, penny	0
+3x10	um, does this have anything to do with leonard's work	0
+3x10	this is the beginning of a ,year journey we're going to take together from the ancient greeks through isaac newton to niels bohr to erwin schrodinger to the dutch researchers that leonard is currently ripping off	0
+3x10	, years	0
+3x10	yeah, give or take	0
+3x10	as i was saying, it's a warm summer evening in ancient greece	0
+3x10	yes, penny	0
+3x10	i have to go to the bathroom	0
+3x10	can't you hold it	0
+3x10	not for , years	0
+3x10	project gorilla, entry two i am exhausted	0
+3x10	howard huh	0
+3x10	it unhooks in the front	0
+3x10	oh, that explains a lot	0
+3x10	howard, i'm home	0
+3x10	of course	0
+3x10	senior fitness was cancelled	0
+3x10	it turns out you can forget how to ride a bike	0
+3x10	i'm fine, but, oy, did sam harpootian eat gravel	0
+3x10	that's great, ma	0
+3x10	what's great about an yearold armenian man with half his chin scraped off	0
+3x10	i guess i should go	0
+3x10	no, no, don't move	1	1	ni
+3x10	hey, ma, can i have lamb stew for dinner	1	1	nf
+3x10	lamb stew i'd have to go to the supermarket	0
+3x10	please	0
+3x10	i got a real hankering	0
+3x10	oh, i can't say no to my little tushy face i'll be back soon	0
+3x10	thanks, ma	0
+3x10	do you want the regular peas or the le seur	0
+3x10	always le seur peas with lamb stew	0
+3x10	you're right when you're right, you're right	0
+3x10	what if they're out of the le seur	0
+3x10	then get the regular	1	4	nf
+3x10	all right you don't have to yell	0
+3x10	sorry about that	0
+3x10	let me just put that on vibrate	0
+3x10	i'm already on vibrate	0
+3x10	you know, that one i got	0
+3x10	howard, did you say something to leonard about me	0
+3x10	uh, what do you mean	0
+3x10	he says if i go see his experiment tomorrow it might weird you out	0
+3x10	really he said that	0
+3x10	you're not jealous of leonard, are you	0
+3x10	me no	0
+3x10	i may have mentioned that it's a little inappropriate to be asking another man's girlfriend to his experiment without first discussing it with said man	0
+3x10	are you saying i need to ask your permission to hang out with leonard	0
+3x10	i didn't say anything like that i said leonard has to ask my permission	0
+3x10	come on, i don't want to eat lamb stew with my mother	0
+3x10	damn, i was this close on the bra	0
+3x10	now, remember, newton realized that aristotle was wrong	1	1	nf
+3x10	and force was not necessary to maintain motion so let's plug in our meters per second squared	0
+3x10	as "a" and we get force earth gravity equals mass times meters per second per second so we can see that "ma" equals "mg" and what do we know from this	0
+3x10	uh, we know that newton was a really smart cookie oh is that where fig newtons come from	0
+3x10	no, fig newtons are named after a small town in massachusetts	0
+3x10	don't write that down sorry	1	1	ni
+3x10	now, if "ma" equals "mg," what does that imply	0
+3x10	i don't know	0
+3x10	how can you not know	0
+3x10	i just told you	0
+3x10	have you suffered a recent blow to the head	0
+3x10	hey you don't have to be so mean	0
+3x10	i'm sorry	0
+3x10	have you suffered a recent blow to the head	0
+3x10	no, you just suck at teaching really	0
+3x10	of those two explanations, which one seems the most likely	0
+3x10	oh, god	0
+3x10	sheldon, i'm trying to understand, but you're going too fast	0
+3x10	can you just back up a little bit	1	1	nf
+3x10	all right	0
+3x10	it's a warm summer evening in ancient greece	0
+3x10	not that far back	1	1	ni
+3x10	okay	0
+3x10	at what point did you begin to feel lost	0
+3x10	i don't know	0
+3x10	where were we looking up at the night sky	0
+3x10	greece damn it	0
+3x10	there's no need to get frustrated people learn at different rates	0
+3x10	unlike objects falling in a vacuum, which "ma" equals "mg" squared	0
+3x10	no	0
+3x10	aristotle	0
+3x10	no	0
+3x10	five	0
+3x10	oh	0
+3x10	then i don't know	0
+3x10	why are you crying	0
+3x10	because i'm stupid	0
+3x10	that's no reason to cry one cries because one is sad for example, i cry because others are stupid and it makes me sad	0
+3x10	okay, look, can we just please forget about all this extra stuff and can you just tell me what leonard does	1	1	nf
+3x10	all right	0
+3x10	leonard is attempting to learn why subatomic particles move the way they do	0
+3x10	really that's it well, that doesn't sound so complicated	0
+3x10	it's not that's why leonard does it	0
+3x10	okay, i just have one question what exactly are subatomic particles	0
+3x10	a good question	0
+3x10	thank you	0
+3x10	and to answer it, we first must ask ourselves "what is physics"	0
+3x10	oh, balls	0
+3x10	it's a warm summer evening in ancient greece	0
+3x10	okay, i got a bone to pick with you	0
+3x10	what did i do now	0
+3x10	i was in bed with bernadette, and you text blocked me	0
+3x10	what	0
+3x10	we were completely naked, about to devour each other when, you text her that i have a problem with her hanging out with you	0
+3x10	you do have a problem with her hanging out with me	0
+3x10	yeah, but that's not what you tell her	0
+3x10	what was i supposed to tell her	0
+3x10	i don't know something that doesn't make me come off as a petty, jealous douche	0
+3x10	and what would that be	0
+3x10	come on, do i have to think of everything	0
+3x10	hey, leonard am i too late to see the experiment	0
+3x10	oh, hi hi	0
+3x10	what are you doing here	0
+3x10	same thing you're doing here	0
+3x10	i came to see leonard's experiment	0
+3x10	no, you didn't	0
+3x10	you said leonard's experiment was stupid	0
+3x10	you told her my experiment was stupid	0
+3x10	i was just repeating what sheldon said	0
+3x10	let's not get off topic	1	3	ni
+3x10	bernadette, i need to apologize i was wrong to tell you who you should be friends with	0
+3x10	should i, um, leave you two alone	0
+3x10	no, leonard, you should hear this	1	1	nf
+3x10	okay, good, 'cause i wasn't really gonna go	0
+3x10	look, i know i come off as confident and worldly, but the truth is i'm not	0
+3x10	we're shocked	0
+3x10	which is why i tend to feel threatened by other guys or loud noises, clowns and nuns but i now realize how foolish that is	0
+3x10	he had a panic attack once when he got his head stuck in a sweater	0
+3x10	it was a full turtleneck	0
+3x10	why aren't you helping me	0
+3x10	i don't know maybe because i'm crazy	0
+3x10	bernadette, please, i'm asking you to give me another chance	1	1	nf
+3x10	what do you think, leonard should i give him another chance	0
+3x10	it's up to you	0
+3x10	he didn't call your experiment stupid	0
+3x10	come here, tushy face	1	1	nf
+3x10	"tushy face "	0
+3x10	raj, you should've seen leonard's experiment the interference pattern was so cool when the electron beam was on	0
+3x10	glad you enjoyed it most people aren't that interested in what i do	0
+3x10	actually, that's not true, leonard in fact, recently i've been thinking that given the parameters of your experiment, the transport of electrons through the aperture of the nanofabricated metal rings is qualitatively no different than the experiment already conducted in the netherlands	0
+3x10	their observed phase shift in the diffusing electrons inside the metal ring already conclusively demonstrated the electric analogue of the aharonovbohm quantuminterference effect that's it that's all i know oh, wait fig newtons were named after a town in massachusetts,	0

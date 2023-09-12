@@ -1,0 +1,490 @@
+﻿2x12	all right, that's the last servo	0
+2x12	behold	1	1	nf
+2x12	the mobile omnidirectional neutralization	0
+2x12	and termination eradicator	0
+2x12	or	0
+2x12	monte	0
+2x12	featuring one articulated	0
+2x12	razorsharp killing saw,	0
+2x12	one polycarbonate grinding	0
+2x12	and flipping wheel,	0
+2x12	steelarmor plate exoskeleton	0
+2x12	top and bottom,	0
+2x12	and enough horsepower to drive	0
+2x12	a  pounds of mechanized death	0
+2x12	from zero to holy crap	0
+2x12	in  seconds	0
+2x12	is it wrong to say	0
+2x12	i love our killer robot	0
+2x12	as with my father,	0
+2x12	i both love and fear it	0
+2x12	all right, enough chitchat	1	1	nf
+2x12	let's destroy something	1	1	nf
+2x12	one, two, three	0
+2x12	what shall be first to taste	0
+2x12	the wrath of monte	0
+2x12	maybe we should start small	0
+2x12	perhaps today is the day	0
+2x12	we finally find out	0
+2x12	what's inside the magic eight ball	0
+2x12	did it when i was four	0
+2x12	it's an icosahedral die	0
+2x12	floating in tinted blue water	0
+2x12	man, call "spoiler alert" before you say things like that	1	1	nf
+2x12	how about the toaster oven	0
+2x12	what did the toaster oven	0
+2x12	ever do to you	0
+2x12	what did i ever do to jimmy mullins	0
+2x12	in the third grade	0
+2x12	he still punched me in the face	0
+2x12	with my own fists	0
+2x12	sorry, little nerd,	0
+2x12	you were just in the wrong boys' room	0
+2x12	at the wrong time	0
+2x12	gentlemen, goggles	0
+2x12	this is an auspicious moment	0
+2x12	like robert oppenheimer	0
+2x12	or neil armstrong,	0
+2x12	we need the appropriate words	0
+2x12	to mark this historic scientific event	0
+2x12	how about "die, toaster, die"	0
+2x12	that'll do it	0
+2x12	all right, what's next	0
+2x12	no, i think i'm just going	0
+2x12	to stay in tonight and do laundry	0
+2x12	this door got the full monte	0
+2x12	what the hell	0
+2x12	killer robot	0
+2x12	we built it	0
+2x12	yeah, well, it almost killed me	0
+2x12	if it wanted to kill you,	0
+2x12	you'd be dead	0
+2x12	so, who exactly	0
+2x12	does it want to kill	0
+2x12	i'm sorry, are you	0
+2x12	unaware of the upcoming	0
+2x12	southern california	0
+2x12	robot fighting league	0
+2x12	round robin invitational	0
+2x12	you know, since i moved last year,	0
+2x12	not all my mail has been forwarded	0
+2x12	it's a big deal	0
+2x12	there's an awards banquet	0
+2x12	and a dance afterward	0
+2x12	perhaps you'd like to come with me	1	3	nf
+2x12	i know the other fellas would be	0
+2x12	really excited to see a girl there	0
+2x12	how is it supposed to be a dance	0
+2x12	if i'm the only girl	0
+2x12	well, that may be	0
+2x12	a slight exaggeration	0
+2x12	you'd be the only doable girl	0
+2x12	you are a pig, howard	0
+2x12	how is "doable" anything	0
+2x12	but a compliment	0
+2x12	why don't we just work on the robot	1	3	ni
+2x12	please, not now	1	1	ni
+2x12	once again, penny and i	0
+2x12	have begun our little tango	0
+2x12	our tango	0
+2x12	the carnal repartee,	0
+2x12	the erotic to and fro	0
+2x12	but as delicious	0
+2x12	as the appetizer might be,	0
+2x12	at some point	0
+2x12	we will have to succumb	0
+2x12	and eat the entrée	0
+2x12	while it's still	0
+2x12	hot	0
+2x12	i'm begging you, stop talking	1	1	nf
+2x12	look, normally	0
+2x12	i can just ignore you	0
+2x12	i get it you're a little peculiar	0
+2x12	like sheldon	0
+2x12	excuse me, penny, but in this room,	0
+2x12	you're the one who's peculiar	0
+2x12	you might be right	0
+2x12	but back to you	0
+2x12	i know you think you're some sort	0
+2x12	of smoothtalking ladies' man,	0
+2x12	but the truth is,	0
+2x12	you are just pathetic and creepy	0
+2x12	so what are you saying	0
+2x12	i am saying it is not a compliment	0
+2x12	to call me "doable"	0
+2x12	it's not sexy to stare	0
+2x12	at my ass and say,	0
+2x12	"it must be jelly 'cause	0
+2x12	jam don't shake like that"	0
+2x12	and most important,	0
+2x12	we are not dancing a tango,	0
+2x12	we're not to'ing and fro'ing	0
+2x12	nothing is ever going	0
+2x12	to happen between us ever	0
+2x12	wait a minute	1	1	nf
+2x12	this isn't flirting	0
+2x12	you're serious	0
+2x12	flirting	0
+2x12	you think i'm flirting with you	0
+2x12	i am not flirting with you	0
+2x12	no woman is ever gonna flirt with you	0
+2x12	you're just gonna grow old and die alone	1	2	nf
+2x12	thanks for the heads up	0
+2x12	where you going	0
+2x12	i'm going home to live	0
+2x12	my creepy, pathetic life	0
+2x12	someone had to say it	0
+2x12	what	0
+2x12	he said maybe we should enter you	0
+2x12	in the killer robot competition	0
+2x12	howard, the phone is ringing	1	1	nf
+2x12	here's a crazy idea, ma answer it	1	1	nf
+2x12	all right, hold on	0
+2x12	it's your friend, leonard	0
+2x12	he wants to know why	0
+2x12	you're not at school today	0
+2x12	i don't go to school, ma	0
+2x12	i work at a university	0
+2x12	that's a school	0
+2x12	now pick up the phone	1	1	nf
+2x12	i don't want to talk to anybody	0
+2x12	should i ask leonard to bring	0
+2x12	over your homework	0
+2x12	i don't have homework	0
+2x12	i'm a grown man with a master's	0
+2x12	degree in engineering	0
+2x12	excuse me, mr fancypants	0
+2x12	want me to get you a popsicle	0
+2x12	cherry, please	1	1	nf
+2x12	i ate the cherry	0
+2x12	all that's left is green	0
+2x12	you make me want to kill myself	0
+2x12	what's going on	0
+2x12	i don't know,	0
+2x12	now they're just yelling	0
+2x12	about popsicles	0
+2x12	sounds like penny really got to him	0
+2x12	i'm not surprised	0
+2x12	despite his hard and crusty shell,	0
+2x12	howard is a very sensitive man	0
+2x12	do you know he writes poetry	0
+2x12	mostly about men from nantucket	0
+2x12	and hermits named dave,	0
+2x12	but he does it	0
+2x12	with real sensitivity	0
+2x12	hey, hofstadter	0
+2x12	word around the pwasma wab	0
+2x12	is you built a wobot	0
+2x12	yes, we did, kripke	0
+2x12	his name is monte	0
+2x12	well, if you have any dewusions	0
+2x12	about entering him	0
+2x12	against my wobot,	0
+2x12	the kwipke kwippler	0
+2x12	in the southern california	0
+2x12	robot fighting league	0
+2x12	wound wobin invitational,	0
+2x12	aka the scrflrri,	0
+2x12	his name is gonna be scwap metal	0
+2x12	come on, is that really necessary	0
+2x12	leonard, i believe it is	0
+2x12	this is trash talk,	0
+2x12	and trash talk is a traditional	0
+2x12	component in all sporting events	0
+2x12	kripke,	0
+2x12	your robot is inferior	0
+2x12	and it will be defeated by ours	0
+2x12	because ours exceeds yours	0
+2x12	in both design and execution	0
+2x12	also, i'm given to understand	0
+2x12	that your mother is overweight	0
+2x12	oh, snap	0
+2x12	of course, if that is the result of a glandular condition	0
+2x12	and not sloth and gluttony,	0
+2x12	i withdraw that comment	0
+2x12	what difference does it make	0
+2x12	fat is fat	0
+2x12	there are boundaries	0
+2x12	tell you what,	0
+2x12	forget the scrflrri	1	1	nf
+2x12	wet's settle this woboto a woboto	0
+2x12	what do you mean	0
+2x12	there's no guarantee	0
+2x12	we're gonna go against each other	0
+2x12	in the wound wobin,	0
+2x12	so let's throw down	1	3	nf
+2x12	you know,	0
+2x12	unless you're afwaid	0
+2x12	we accept your challenge	0
+2x12	name a time and place	1	1	nf
+2x12	tomorrow, , the kinetics wab	0
+2x12	make it so	1	1	nf
+2x12	no, don't make it so	1	1	ni
+2x12	barry, we can't fight you tomorrow	0
+2x12	our engineer is incapacitated	0
+2x12	what's wrong with him	0
+2x12	he's depressed because he's pathetic and creepy and can't get girls	0
+2x12	we're all pathetic and cweepy and can't get girls	0
+2x12	that's why we fight wobots	0
+2x12	if you're not there,	0
+2x12	you'll be exposed to widicule	0
+2x12	i'm curious, what part of america is that accent from	0
+2x12	you got a minute	0
+2x12	yeah, come on in	1	1	nf
+2x12	what's up	0
+2x12	i need you to apologize to howward	1	1	nf
+2x12	get out	1	1	nf
+2x12	come on he won't come out of his house	0
+2x12	and we need him for a robot battle	0
+2x12	well, then have the robot go and get him	1	4	nf
+2x12	the robot didn't hurt his feelings	0
+2x12	his feelings needed to be hurt	0
+2x12	he's been in bed for two days	0
+2x12	probably with a blowup doll	0
+2x12	he's not with a	0
+2x12	does it really matter who or what he's with	0
+2x12	the guy is devastated	0
+2x12	please, how could i possibly devastate howard	0
+2x12	okay, don't take this as a criticism,	1	1	ni
+2x12	but you kind of have that overexposedtogammarays	0
+2x12	thing going on	0
+2x12	what does that mean	0
+2x12	you know, like, most of the time,	0
+2x12	you're the easygoing bruce banner,	0
+2x12	but then, when you get angry,	0
+2x12	you kind of turn into, like, you know	0
+2x12	i turn into a bear	0
+2x12	seriously gamma rays bruce banner	0
+2x12	you didn't get the incredible hulk	0
+2x12	never mind	0
+2x12	just, please go talk to him	1	1	nf
+2x12	and say what	0
+2x12	that i didn't mean it,	0
+2x12	because i meant it	0
+2x12	maybe you can go at it	0
+2x12	from a different angle,	0
+2x12	like, you see a	0
+2x12	glimmer of goodness in him	0
+2x12	and you only said what you said	0
+2x12	because you want to	0
+2x12	nurture it and make it shine	0
+2x12	okay, let's try it this way	1	3	nf
+2x12	remember the day	0
+2x12	we met and you asked me to go to your boyfriend's apartment to get your tv back	0
+2x12	and he was nine feet tall and he took my pants off and you said	0
+2x12	what was that	0
+2x12	what did you say	0
+2x12	oh, yes	0
+2x12	you said you owed me one	0
+2x12	okay, come on, that's not fair	0
+2x12	i came home with no pants	0
+2x12	fine, i'll go over there tomorrow	0
+2x12	thank you	0
+2x12	i should probably give you	0
+2x12	a heads up about his mother	0
+2x12	what about her	0
+2x12	she's a delightful woman	0
+2x12	you'll love her	0
+2x12	howard, there's a blonde girl,	0
+2x12	patsy, here to see you	0
+2x12	who	0
+2x12	okay, now she's saying it's penny	0
+2x12	i don't wanna talk to her	0
+2x12	ma	0
+2x12	she ran past me	0
+2x12	was i supposed to tackle her	0
+2x12	so, i just came by	0
+2x12	to see how you were doing	0
+2x12	i'm fine	0
+2x12	good	0
+2x12	your mom seems nice	0
+2x12	people move away from her on the bus	0
+2x12	what do you want	0
+2x12	i just want to apologize	0
+2x12	for some things that i have said about you	0
+2x12	i've been informed that you have feelings	0
+2x12	and apparently, i have hurt them	0
+2x12	so, i'm sorry	0
+2x12	fine you're sorry	0
+2x12	goodbye	0
+2x12	so you're okay	0
+2x12	hey, i'm a big boy	0
+2x12	i'm not traumatized by some random comment from some random woman	0
+2x12	i mean, get over yourself	1	1	nf
+2x12	bye	0
+2x12	so close	0
+2x12	oh, my god	0
+2x12	that's kripke's robot	0
+2x12	as you can see, the kwippler is weducing the chevy cavawier to wubble	0
+2x12	i can't watch anymore	0
+2x12	sheldon, we have to call it off	1	1	nf
+2x12	we don't have that option	0
+2x12	we've accepted the challenge	0
+2x12	we can't run away from a fight	0
+2x12	please, we've spent our whole lives running away from fights	0
+2x12	personally, i can squeeze through a hole in a fence half my size	0
+2x12	impressive as that may be,	0
+2x12	monte is not us	0
+2x12	monte has no fear	0
+2x12	didn't we watch the same video	0
+2x12	kripke's robot just had angry sex with a midsized automobile	0
+2x12	you are overlooking the fact	0
+2x12	we know what we're up against	0
+2x12	and we can modify monte	0
+2x12	so that he's prepared	0
+2x12	you wanna prepare him	0
+2x12	install a bladder and a pair of shorts	0
+2x12	so he can wet himself	0
+2x12	excuse me, but how are we gonna make any modifications without wolowitz	0
+2x12	have you heard from penny	0
+2x12	not yet	0
+2x12	have faith, gentlemen	0
+2x12	we don't need wolowitz	0
+2x12	engineering is merely	0
+2x12	the slow younger brother of physics	0
+2x12	watch and learn	1	1	nf
+2x12	do either of you know	0
+2x12	how to open the toolbox	0
+2x12	and then, when i was ,	0
+2x12	i met marcy grossman	0
+2x12	she was so beautiful	0
+2x12	she just got her braces off	0
+2x12	but they left a little of the overbite	0
+2x12	it was so hot like a sexy little chipmunk	0
+2x12	i didn't have the courage to ask her out,	0
+2x12	but i dedicated a song to her at the ninth grade talent show	0
+2x12	that sounds sweet	0
+2x12	marcy grossman is sunshine	0
+2x12	on a cloudy day	0
+2x12	when it's cold outside	0
+2x12	marcy grossman is the month of may	0
+2x12	it's cute	0
+2x12	i guess	0
+2x12	you'd say	0
+2x12	what can make me feel this way	0
+2x12	marcy grossman,	0
+2x12	marcy grossman, marcy grossman	0
+2x12	talkin' 'bout marcy	0
+2x12	that's great	0
+2x12	grossman	0
+2x12	it's fun	0
+2x12	and then she came up	0
+2x12	with that sexy little chipmunk mouth	0
+2x12	and spit in my hair	0
+2x12	which brings us to tenth grade	0
+2x12	do you think maybe sometimes	0
+2x12	you try too hard	0
+2x12	look at me	1	4	nf
+2x12	what chance do i have	0
+2x12	if i don't try too hard	0
+2x12	you'd have a terrific chance	0
+2x12	i mean, you're smart, you're funny	0
+2x12	you have a cool job	0
+2x12	you build stuff that goes into outer space	0
+2x12	i guess	0
+2x12	i'm telling you,	0
+2x12	i've known you for a year and a half and this is the first time i feel like i'm talking to a real person	0
+2x12	and you know what i like him	0
+2x12	he's a nice guy	0
+2x12	you really think so	0
+2x12	i don't know	0
+2x12	i do	0
+2x12	nice little bot you've got here	0
+2x12	i'm aware	0
+2x12	what's this do, spin	0
+2x12	yep at  rpm	0
+2x12	it can cut through steel	0
+2x12	like it was wubber	0
+2x12	neat	0
+2x12	good work	0
+2x12	sheldon, we've gotta call this off	1	1	nf
+2x12	no, leonard	0
+2x12	for years,	0
+2x12	merciless thugs like kripke have made my life	0
+2x12	a series of painful noogies	0
+2x12	and humiliating wedgies	0
+2x12	and the insensitively named	0
+2x12	indian burns	0
+2x12	that stops now	0
+2x12	but we don't have a chance	0
+2x12	the only improvement you were able to make was to put fresh batteries in the remote	0
+2x12	what you fail to realize is	kripke suffers from a fatal flaw	0
+2x12	overconfidence	0
+2x12	from his robot's massive size and its overwhelming power	0
+2x12	that's not overconfidence	0
+2x12	that's observation	0
+2x12	trust me, kripke will fall easy prey to my psychological warfare	0
+2x12	observe	1	1	nf
+2x12	i would ask if your robot is prepared to meet its maker,	0
+2x12	but as you are its maker,	0
+2x12	clearly the two of you have met	0
+2x12	what is his pwoblem	0
+2x12	way to bust out	0
+2x12	the jedi mind tricks, dude	0
+2x12	i just wanna make sure	0
+2x12	we're all clear	0
+2x12	standard robotic fighting	0
+2x12	league rules apply	0
+2x12	are you cwazy	0
+2x12	this is a stweet fight	0
+2x12	the stweet has no rules	0
+2x12	he's right, leonard	0
+2x12	the paradigm is to the death	0
+2x12	i will, however,	0
+2x12	give you the opportunity to concede my superiority now and offer me your robot	0
+2x12	as the spoils of war	0
+2x12	never	0
+2x12	i'd rather see monte dead	0
+2x12	than in your hands	0
+2x12	that could be easily arranged	0
+2x12	ready, set, go	1	1	nf
+2x12	do it	1	1	nf
+2x12	all right then	0
+2x12	weady set go	1	1	nf
+2x12	come on, sheldon, you got this	0
+2x12	indeed	0
+2x12	we are prepared for anything	0
+2x12	he can throw at us	0
+2x12	that's new	0
+2x12	run, monte, run	1	1	nf
+2x12	run, monte	1	1	nf
+2x12	go, go, go, go	1	1	nf
+2x12	don't hurt us, don't hurt us,	1	1	ni
+2x12	don't hurt us	1	1	ni
+2x12	well, so much for making up for the emotional wounds of childhood	0
+2x12	i did this	0
+2x12	monte was killed by my hubris and my pride	0
+2x12	no matter what anybody says,	0
+2x12	this is my fault	0
+2x12	no one's arguing with you, dude	0
+2x12	i got your text how bad is	0
+2x12	forget the robot	1	1	nf
+2x12	what happened to you	0
+2x12	he slipped and fell	0
+2x12	yes,	0
+2x12	i slipped and fell in the bathroom bounced right off the tub	0
+2x12	now he knows what bathtubs are capable of doing	0
+2x12	when you don't treat them with respect	0
+2x12	they sucker punch you	0
+2x12	when your eyes are closed	0
+2x12	so what do you think, howard	0
+2x12	it's not that bad, right	0
+2x12	a little electrical tape,	0
+2x12	some solder	0
+2x12	are you insane	0
+2x12	i've seen space probes	0
+2x12	that crashed into the desert	0
+2x12	that were in better shape than this	0
+2x12	you're right	0
+2x12	monte's gone	0
+2x12	we'll bury him in the morning	0
+2x12	a simple ceremony i'll speak	0
+2x12	leonard, you'll play your cello	1	1	nf
+2x12	honey, aren't you getting a little carried away	0
+2x12	i mean, it's just a toy robot	0
+2x12	"just a toy robot"	0
+2x12	i know, i got it	0
+2x12	sheldon, i'm sorry	0
+2x12	don't get the wrong idea	1	1	ni
+2x12	the way i see it,	0
+2x12	i'm halfway to pity sex	0

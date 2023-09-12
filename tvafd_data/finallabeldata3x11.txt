@@ -1,0 +1,284 @@
+﻿3x11	oh, i always tear up when the grinch's heart grows three sizes	0
+3x11	tears seem appropriate	0
+3x11	enlargement of the heart muscle, or hypertrophic cardiomyopathy, is a serious disease which could lead to congestive heart failure	0
+3x11	you really didn't like it, sheldon	0
+3x11	no, on the contrary i found the grinch to be a relatable, engaging character and i was really with him right up to the point that he succumbed to social convention and returned the presents and saved Christmas what a buzz kill that was	0
+3x11	when we watch frosty the snowman, he roots for the sun	0
+3x11	excuse me, but the sun is essential for all life on earthvfrosty is merely a bit of frozen supernatural ephemera in a stolen hat a crime, by the way, for which he is never brought to account	0
+3x11	i just love decorating the christmas tree	0
+3x11	help you find the perfect gift	0
+3x11	it makes me feel like a little girl again	0
+3x11	we didn't have a tree when i was growing up	0
+3x11	really why not	0
+3x11	mmm, in my family, holidays weren't so much celebrated as studied for their anthropological psychological implications on human society	0
+3x11	oh, sounds festive	0
+3x11	did you at least give presents	0
+3x11	mmm, in a way we presented papers and then broke off into focus groups and critiqued each other	0
+3x11	sheldon, what about you did you have a christmas tree	0
+3x11	oh, yes we had a tree, we had a manger, we had an inflatable santa claus with plastic reindeer on the front lawn and to make things even more jolly, there were so many blinking lights on the house they induced neighborhood wide	0
+3x11	so i take it you don't want to help us trim the tree	0
+3x11	i do not but if you insist on decorating a spider infested fire hazard in my home i would request that you add this	0
+3x11	what is it	0
+3x11	you're kidding, right it's a bust of sir isaac newton	0
+3x11	oh, sure, sure	0
+3x11	very christmasy	0
+3x11	wait, excuse me,	1	1	nf
+3x11	but it's much more "christmasy" than anything you've put on the tree	0
+3x11	here we go	0
+3x11	december ,julian calendar, sir isaac newton is born Jesus, on the other hand, was actually born in the summer his birthday was moved to coincide with a traditionalpagan holiday that celebrated the winter solstice with lit fires and slaughtered goats which, frankly, sounds like more fun than hours of church with my mother followed by a fruitcake	0
+3x11	merry newtonmas, everyone	0
+3x11	i sense that's not sincere, although i have no idea why	0
+3x11	no, it's fine	0
+3x11	look, sir issac can go	1	1	nf
+3x11	right next to this little candy cane	0
+3x11	no isaac goes at the top of the tree	0
+3x11	no, he doesn't	0
+3x11	i understand you dispute newton's claim that he invented calculus and you want to put Gottfried leibniz on the top	0
+3x11	yeah, you got me i'm a leibniz man	0
+3x11	well, perhaps when your mother gets here, she'll talk some sense into you	0
+3x11	what	0
+3x11	your your mother's coming when	0
+3x11	tomorrow	0
+3x11	when were you going to tell me	0
+3x11	um tomorrow	0
+3x11	why were you keeping this a secret	0
+3x11	well, i just i thought	0
+3x11	if i can interject here,	1	1	nf
+3x11	obviously leonard is concerned that his mother won't approve of you as his mate	0
+3x11	why wouldn't she approve of me i'm adorable	0
+3x11	you are, it's just	0
+3x11	if i can interject again	1	1	nf
+3x11	leonard comes from a remarkably high achieving family, who have all chosen high achieving partners he probably feels that it's doubtful that his mother will be overly impressed with his dating a woman whose most significant achievement is memorizing the cheesecake factory menu	0
+3x11	hey, it's a big menu	0
+3x11	there's two pages	0
+3x11	just for desserts	0
+3x11	i know	0
+3x11	and those specials they change every day okay, you know what it's lame when i say it	0
+3x11	it's just ridiculous when you pile on	0
+3x11	okay	0
+3x11	sorry	0
+3x11	so what did she say when you told her we were going out	0
+3x11	you didn't tell her we were going out, did you	0
+3x11	why not	1	1	ni
+3x11	leonard	0
+3x11	i'm no expert on meditation, but if you're trying to calm yourself down,	0
+3x11	i believe the word is "om"	1	3	nf
+3x11	it was so nice of you to come all the way down to the airport to pick me up	0
+3x11	no trouble at all	0
+3x11	i drove, mother i'm driving now	0
+3x11	yes, dear mommy's proud	0
+3x11	i've been meaning to thank you for your notes on my paper disproving quantum brain dynamic theory	0
+3x11	my pleasure	0
+3x11	for a nonphysicist, you have a remarkable grasp of how electric dipoles in the brain's water molecules could not possibly form a bose condensate	0
+3x11	wait, wait, wait	1	1	nf
+3x11	when did you send my mom notes on a paper	0
+3x11	august right after her carpal tunnel surgery	0
+3x11	oh, did i thank you for the flowers	0
+3x11	you did	0
+3x11	i don't really like flowers	0
+3x11	neither do i, but it's the social convention	0
+3x11	it is, isn't it	0
+3x11	wait, wait, wait	1	1	nf
+3x11	you had surgery	0
+3x11	yes, and Sheldon sent me flowers	0
+3x11	no, i heard that	0
+3x11	then what was all that "wait, wait, wait" about	0
+3x11	i just don't understand why he knows more about your life than i do	0
+3x11	well, i would assume it's because Sheldon and i stay in touch due to mutual interest and respect, while you avoid me, due to unresolved childhood issues it's what we think caused your narcissistic personality disorder	0
+3x11	we discussed it at length during our last video chat	0
+3x11	although how we got onto the subject of you is baffling	0
+3x11	yes, but we are on the subject, so i'm obliged to ask	0
+3x11	leonard, how are you	0
+3x11	fine, mom how are you	0
+3x11	mmm, menopausal	0
+3x11	now i'm less fine	0
+3x11	have you heard your brother has gotten engaged	0
+3x11	no	0
+3x11	sheldon, why didn't you tell me	0
+3x11	my bad i did send a gift from both of us	0
+3x11	she's a remarkable girl the youngest appeals court judge in new jersey and a two time Olympic bronze medalist	0
+3x11	you must be very happy	0
+3x11	why	0
+3x11	i'm not marrying her	0
+3x11	so, how about you are you seeing anyone interesting	0
+3x11	well, i'm not sure about interesting, but	0
+3x11	not the time, sheldon	1	1	ni
+3x11	very well shall we switch topics to isaac newton v gottfried leibniz	0
+3x11	it's all right, sheldon	0
+3x11	i will just pretend that leonard's not withholding information although, i will point out, leonard, that i am a trained psychiatrist and you are exhibiting the same secretive behavioral tics that accompanied your learning to masturbate	0
+3x11	isn't she brilliant,	0
+3x11	leonard	1	1	nf
+3x11	how i envy you	0
+3x11	so, howard, have you and rajesh finally summoned the courage to express your latent homosexual feelings toward one another	0
+3x11	what no	0
+3x11	why not	0
+3x11	because we don't have latent homosexual feelings toward one another	0
+3x11	i see	0
+3x11	no, really i have a girlfriend now	0
+3x11	and where is she this evening	0
+3x11	she had to go out of town her grandmother died	0
+3x11	i see her grandmother died	0
+3x11	honest to god	0
+3x11	leonard, tell her i have a girlfriend	1	1	nf
+3x11	i don't know what you're talking about	0
+3x11	what do you mean you don't know what i'm talking about	0
+3x11	tell her i have	a girlfriend	1	1	nf
+3x11	all right he "has" a "girlfriend" her name is Bernadette she's working as a waitress, but she's going to school to be a microbiologist	0
+3x11	howard, keep in mind that the more passionately	you stick to this construct,	1	3	nf
+3x11	the more you're hurting your partner	0
+3x11	do you really think your lips in my ear is helping	0
+3x11	hi sorry i'm late	0
+3x11	oh, glad you're here	0
+3x11	uh, sit down	1	1	nf
+3x11	i'll get you a plate	0
+3x11	mom, you remember penny	0
+3x11	oh, yes, the waitress	0
+3x11	slash actress	0
+3x11	with the unresolved father issues has he finally come to terms with his little slugger growing breasts	0
+3x11	well, he sent me a football and a catcher's mitt for christmas, so i'm going to say no	0
+3x11	if it helps, we're all good with your breasts	0
+3x11	classic overcompensation	0
+3x11	oh, speaking of fathers, leonard, that reminds me, i'm divorcing your father	0
+3x11	what	0
+3x11	yes he was cheating on me	0
+3x11	no	0
+3x11	yes, with some waitress from the university cafeteria can you believe it a waitress oh, no offense, dear	0
+3x11	no, it sounded like a compliment	0
+3x11	when did this happen	0
+3x11	mmm, well, let's see sheldon, when did I leave leonard's father	0
+3x11	september	0
+3x11	oh, yes, that's right the weekend after leonard's dog died	0
+3x11	mitzy's dead	0
+3x11	she was old and blind, leonard what choice did we have	0
+3x11	i don't believe this	0
+3x11	why am i the last to know	0
+3x11	excuse me, leonard, i am the one who's getting a divorce,	0
+3x11	mitzy is the one who is dead	0
+3x11	why are you the one making a fuss	0
+3x11	you're right i'mi'mi'mi'm sorry i'm way out of line	0
+3x11	so, penny, what's new in your life	0
+3x11	nothing not a damn thing	0
+3x11	thank you for driving me back to my hotel	0
+3x11	oh, it's not a problem	0
+3x11	i was going to ask leonard to do it, but he seemed a bit emotionally unstable and you don't want someone like that operating heavy machinery	0
+3x11	no, you do not	0
+3x11	your "check engine" light is on	1	3	nf
+3x11	yeah, i gotta put a sticker over that	0
+3x11	so, uh, you must be devastated about your divorce	0
+3x11	oh, not at all but i am a bit distressed to be in a vehicle that's not subjected to regular maintenance	0
+3x11	come on, i mean, you're not upset that your marriage is over	0
+3x11	well, initially i felt something akin to grief and perhaps anger, but that's the natural reaction of the limbic system to being betrayed by a loathsome son of a bitch	0
+3x11	sure, sure	0
+3x11	thankfully, my shock was somewhat mitigated by the fact that i haven't had intercourse with him in eight years	0
+3x11	eight years	0
+3x11	oh, that's nothing i'v e been responsible for my own orgasms since	0
+3x11	yikes	0
+3x11	what's so funny	0
+3x11	that's exactly what i say during orgasms "yikes"	0
+3x11	you know what i could use a drink do you want to stop for a drink	0
+3x11	oh, i don't drink	0
+3x11	i do, i'll teach you	0
+3x11	leonard leonard leonard	0
+3x11	what is it	0
+3x11	i made tea	0
+3x11	i don't want tea	0
+3x11	i didn't make tea for you this is my tea	0
+3x11	then why are you telling me	0
+3x11	it's a conversation starter	0
+3x11	that's a lousy conversation starter	0
+3x11	oh, is it we're conversing checkmate	0
+3x11	what do you want, sheldon	0
+3x11	what i want is to be departing the starship enterprise in a one man shuttle craft headed to the planetoid i rule known as sheldon alpha five	0
+3x11	i want that too	0
+3x11	why are you here	0
+3x11	to comfort you, of course	0
+3x11	no, that's not going to work at all	0
+3x11	i'll comfort you  over here	0
+3x11	leonard, what you're experiencing is a classic jungian crisis in which the aging individual mourns the loss of the nevertobe realized ideal family unit	0
+3x11	thank you, that's very comforting	0
+3x11	that's not the comforting part	0
+3x11	it's not	0
+3x11	no, no the comforting part is that the germans have a term for what you're feeling weltschmerz it means the depression that arises from comparing the world as it is to a hypothetical, idealized world	0
+3x11	you're right, i do feel better	0
+3x11	well, the germans have always been a comforting people	0
+3x11	just remember, leonard,	1	1	nf
+3x11	where your biological family has failed you, you always have me, your surrogate family	0
+3x11	you're my surrogate family	0
+3x11	if it's any consolation, i'm not happy about it either	0
+3x11	good night	0
+3x11	okay, now this time try drinking it all at once	0
+3x11	yikes	0
+3x11	i've been responsible for my own buzz since	0
+3x11	another round for me and my homegirl	1	1	nf
+3x11	i feel a spreading warmth through my extremities	0
+3x11	as long as you don't feel it running down your pants, you're fine	0
+3x11	oh, that is fascinating i'm noticing an immediate lowering of my inhibitions for example, i'm seriously considering asking that busboy to ravish me in the alleyway while i eat cheesecake what do you think	0
+3x11	well, we are known for our cheesecake	0
+3x11	hit us again	1	1	nf
+3x11	yes	0
+3x11	if a little is good, more must be better	0
+3x11	hey, bev, guess what	1	1	nf
+3x11	what	0
+3x11	i'm sleeping with your son	0
+3x11	really which one	0
+3x11	the one from whom i live across the hall from	0
+3x11	well, that's convenient how did his penis turn out	0
+3x11	oh, beverly, i can't talk to my boyfriend's mother about his penis	0
+3x11	oh, fair enough what can you tell me, if anything, about that busboy's penis	0
+3x11	actually, i've only had the cheesecake	0
+3x11	one more time	1	1	nf
+3x11	you know, leonard did not want to tell you we were dating	0
+3x11	really well, that means he's either embarrassed about the relationship or he doesn't care enough about his mother to tell her he's in one either way, one of us should be insulted	0
+3x11	well, let's go find out who	1	1	nf
+3x11	you go get a taxi	1	1	nf
+3x11	i'm gonna slip my business card into that busboy's back pocket, cupping his firm, right buttock as i do so leonard	0
+3x11	sonny boy	0
+3x11	get out here	1	1	nf
+3x11	your mommy wants to talk to you	0
+3x11	what the hell is going on	0
+3x11	you're in trouble why didn't you tell me you were tapping my homegirl did i say that right	0
+3x11	yeah, not bad, not bad	0
+3x11	are you guys drunk	0
+3x11	well, i hope so otherwise, why would we have stopped at del taco	0
+3x11	now, how could you not tell me you were in a relationship with this lovely, charming young woman	0
+3x11	oh, thank you	0
+3x11	you're welcome	0
+3x11	is it because she's uneducated, trapped in a menial service position	0
+3x11	what the hell happened to "lovely and charming"	0
+3x11	how come you didn't tell me that you and father were getting a divorce how come you didn't tell me you had surgery how come you didn't tell me my dog died	0
+3x11	wait, wait, wait, wait, wait	1	1	nf
+3x11	what i hear you saying is that you want a more intimate mother son relationship	0
+3x11	i do	0
+3x11	there it's late	0
+3x11	now, go to bed	1	1	nf
+3x11	i'm getting a warm feeling spreading through my heart	0
+3x11	that's the del taco	0
+3x11	why is leonard softly banging his head against his bedroom door	0
+3x11	speaking of warm feelings	0
+3x11	come here	1	1	nf
+3x11	no, i'd rather have the busboy	0
+3x11	thank you for taking me to the airport	0
+3x11	you're very welcome	0
+3x11	once again, i'm driving	0
+3x11	i'm right here	0
+3x11	please, i am very hungover and in no mood to satisfy your need for approval	0
+3x11	sheldon, i do hope you'll forgive me for my inappropriate behavior last night	1	2	nf
+3x11	i don't blame you you were intoxicated	0
+3x11	thank you	0
+3x11	i blame penny	0
+3x11	i blame penny, too	0
+3x11	bad penny	0
+3x11	wait a minute,	1	1	nf
+3x11	what are you talking about what inappropriate behavior	0
+3x11	i think it's best that you not know	0
+3x11	agreed	0
+3x11	agreed	0
+3x11	what the hell agreed	0
+3x11	and i want you to take very good care of this young woman	1	1	nf
+3x11	oh, thank you, beverly	0
+3x11	you're welcome	0
+3x11	she doesn't have much in the way of career prospects	0
+3x11	don't make her responsible for her own orgasms as well	1	1	ni
+3x11	mother, remember when i was complaining that you don't communicate with me enough	0
+3x11	yes, dear	0
+3x11	i'm over it	0

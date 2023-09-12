@@ -1,0 +1,446 @@
+﻿2x05	good morning	0
+2x05	we're gonna have to stop by pottery barn on the way to work	1	1	ni
+2x05	i bought these star wars sheets, but,	0
+2x05	they turned out to be	0
+2x05	much too stimulating to be compatible	0
+2x05	with a good night's sleep	0
+2x05	i don't like the way	0
+2x05	darth vader stares at me	0
+2x05	i'm not going to work	1	1	ni
+2x05	just because your career's	0
+2x05	been stagnant for a few years,	0
+2x05	that's no reason to give up	0
+2x05	i was up all night	0
+2x05	using the new freeelectron laser	0
+2x05	for my xray	0
+2x05	diffraction experiment	0
+2x05	did the laser accidentally	0
+2x05	burn out your retinas	0
+2x05	no	0
+2x05	then you can drive let's go	1	1	nf
+2x05	ddn't i tell you	0
+2x05	i'd be working nights and that	0
+2x05	you'd have to make	0
+2x05	other arrangements	0
+2x05	you did	0
+2x05	and	0
+2x05	i didn't	0
+2x05	let's go	1	1	nf
+2x05	good night	0
+2x05	but how am i going to get to work	0
+2x05	take the bus	1	1	nf
+2x05	i can't take the bus anymore	0
+2x05	they don't have seat belts,	0
+2x05	and they won't let you latch yourself to the seat with bungee cords	0
+2x05	you tried to latch yourself to the seat with bungee cords	0
+2x05	i didn't try i succeeded	0
+2x05	but for some reason,	0
+2x05	it alarmed the other passengers	0
+2x05	and i was asked to debus	0
+2x05	you're a big boy	0
+2x05	you'll figure it out	0
+2x05	don't talk to me like i'm a child	1	1	ni
+2x05	now, take me to return my star wars sheets	1	1	nf
+2x05	what is it	0
+2x05	leonard's asleep	0
+2x05	thanks for the update	0
+2x05	no wait	1	1	ni
+2x05	you have to drive me to work	1	1	nf
+2x05	yeah, i really don't think i do	0
+2x05	but i don't drive,	0
+2x05	and i can't take the bus	0
+2x05	you'll be fine as long as you don't do	0
+2x05	that bungee cord thing, okay	0
+2x05	didn't you recently state	0
+2x05	that you and i are friends	0
+2x05	yes, sheldon we are friends	0
+2x05	then i hereby invoke	0
+2x05	what i'm given to understand	0
+2x05	is an integral part	0
+2x05	of the implied covenant of friendship	0
+2x05	the favor	0
+2x05	oh, dear god	0
+2x05	i'm sorry, i didn't realize	0
+2x05	i was interrupting your morning prayers	0
+2x05	when you're done, we'll go	1	1	nf
+2x05	thank you for driving me to work	0
+2x05	you know this is my day off	0
+2x05	oh, good	0
+2x05	i'm not keeping you from anything	0
+2x05	your "check engine" light is on	0
+2x05	typically that's an indicator to, you know, check your engine	0
+2x05	it's fine	0
+2x05	it's been on for, like, a month	0
+2x05	actually, that would be	0
+2x05	all the more reason to	0
+2x05	you know, check your engine	0
+2x05	sheldon, it's fine	1	1	nf
+2x05	if it were fine,	0
+2x05	the light wouldn't be on	0
+2x05	that's why the manufacturer installed	0
+2x05	that light, to let you know it's not fine	0
+2x05	maybe the light's broken	0
+2x05	is there a "check the 'check	0
+2x05	engine light' light"	0
+2x05	what	0
+2x05	studies have shown	0
+2x05	that performing tasks	0
+2x05	such as eating, talking on a cell phone	0
+2x05	or drinking coffee while driving	0
+2x05	reduces one's reaction time	0
+2x05	by the same factor	0
+2x05	as an ounce of alcohol	0
+2x05	do you have any alcohol	0
+2x05	of course not	0
+2x05	too bad	0
+2x05	you're going up euclid avenue	0
+2x05	leonard takes los robles avenue	0
+2x05	good for leonard	0
+2x05	euclid avenue is shorter	0
+2x05	as the crow flies,	0
+2x05	but it has speed bumps,	0
+2x05	which appreciably increase	0
+2x05	pointtopoint drive time,	0
+2x05	making it the less efficient choice	0
+2x05	but you have the conn	0
+2x05	if you're not going to slow down for the speed bumps,	0
+2x05	i withdraw my previous objection	0
+2x05	here's a fun question	0
+2x05	do you know what the most	0
+2x05	common street name is	0
+2x05	no	1	1	ni
+2x05	the answer's tricky	0
+2x05	it's second street	0
+2x05	you'd think it would be first street,	0
+2x05	but in most towns,	0
+2x05	first street eventually	0
+2x05	gets renamed to something else	0
+2x05	you know,	0
+2x05	like main street,	0
+2x05	broad street	0
+2x05	michigan avenue	0
+2x05	leonard and i	0
+2x05	often use our commute time to exercise our minds	0
+2x05	with brainteasers like that	0
+2x05	we also play games	0
+2x05	would you like to play one	0
+2x05	no	0
+2x05	come on it's fun	1	1	nf
+2x05	another bump	0
+2x05	okay i'll say an element,	0
+2x05	and you say an element	0
+2x05	whose name starts with the last letter	0
+2x05	of the one i said, okay	0
+2x05	i'll start	0
+2x05	helium	0
+2x05	now, you could say "mercury"	0
+2x05	that would give me a "y"	0
+2x05	very clever that's a tough one	0
+2x05	so i go with "ytterbium,"	0
+2x05	which gets you back to "m"	0
+2x05	so you go "molybdenum,"	0
+2x05	and i say "magnesium"	0
+2x05	you say "manganese"	0
+2x05	i say "europium,"	0
+2x05	and, then, you're left	0
+2x05	with "mendelevium,"	0
+2x05	and there are no more m's	0
+2x05	because i believe that meitnerium	0
+2x05	should still be called ekairidium	0
+2x05	so, congratulations you win	0
+2x05	do you wanna go again	0
+2x05	why don't we just have	0
+2x05	a little quiet time now	0
+2x05	all right	0
+2x05	i'm sorry	0
+2x05	i'm finding your reckless nonchalance	0
+2x05	regarding the checkengine light to be very troubling	0
+2x05	get out	1	1	nf
+2x05	i have to tell you that while i do have	0
+2x05	a theoretical understanding	0
+2x05	of the workings	0
+2x05	of an internal combustion engine,	0
+2x05	i'm not sure i'm capable	0
+2x05	of performing diagnostics	0
+2x05	i said, "get out"	1	1	nf
+2x05	okay i'll give it a shot	0
+2x05	there you are	0
+2x05	i'm ready to go home	0
+2x05	i just got here	0
+2x05	good perfect timing	0
+2x05	i told you, i only have access to the freeelectron laser at night	0
+2x05	i can't drive you	0
+2x05	for the next few weeks	0
+2x05	no, you said you couldn't	0
+2x05	drive me to work	0
+2x05	this is from work	0
+2x05	howard, help me out here	1	1	nf
+2x05	no, just for the fun of it,	0
+2x05	i'm gonna take his side	0
+2x05	now,	0
+2x05	how do you propose i get home	0
+2x05	how did you get here	0
+2x05	in the first place	0
+2x05	penny	0
+2x05	but i sense	0
+2x05	that's no longer an option	0
+2x05	i need to get to the laser lab	0
+2x05	you're just gonna have to find someone else to take you home	0
+2x05	damn, i picked the wrong side	0
+2x05	god, not euclid avenue	0
+2x05	why did howard leave you	0
+2x05	in the middle of the road anyway	0
+2x05	we had a difference of opinion	0
+2x05	over what	0
+2x05	whether or not	0
+2x05	he was trying to kill me	0
+2x05	for the record,	0
+2x05	i maintain he was	0
+2x05	where are you going	0
+2x05	i'm taking you home	0
+2x05	but i'm not going home	0
+2x05	it's wednesday	0
+2x05	wednesday's new comic book day	0
+2x05	we have to go to the comic book store	1	1	nf
+2x05	then, we have to stop at souplantation	1	1	nf
+2x05	it's creamy tomato soup day	0
+2x05	and radio shack	1	1	nf
+2x05	there's a sale on triplea batteries	0
+2x05	plus, we have to go to pottery barn and return my star wars sheets	1	1	nf
+2x05	i have a better idea	0
+2x05	you want to go to pottery barn first	0
+2x05	can you drive me to pottery barn	1	1	nf
+2x05	maybe if i turn off the nightlight,	0
+2x05	i can keep the sheets	0
+2x05	good morning	0
+2x05	good morning	0
+2x05	sheldon, sit down	1	1	nf
+2x05	she's in my spot	0
+2x05	don't look at me like that	0
+2x05	everybody knows that's my spot	0
+2x05	you know that we care about you	0
+2x05	and it's because we care about you	0
+2x05	that we've decided we have to speak up	0
+2x05	you're hurting the people	0
+2x05	around you, sweetie	0
+2x05	so we made you an appointment,	0
+2x05	and we want you to keep it	0
+2x05	department of motor vehicles	0
+2x05	new driver handbook	0
+2x05	but i don't have a problem	0
+2x05	sheldon, you need to learn how to drive	1	1	nf
+2x05	this madness has to stop	1	1	ni
+2x05	penny's taking you to the dmv	0
+2x05	i'm going to bed	0
+2x05	why penny	0
+2x05	because rock breaks scissors	0
+2x05	good night	0
+2x05	all right, come on, sheldon	1	1	nf
+2x05	hold on	0
+2x05	i have one condition	0
+2x05	what	0
+2x05	we have to stop at pottery barn	0
+2x05	and radio shack	1	1	nf
+2x05	fine	0
+2x05	and the comic book store	0
+2x05	all right	1	1	nf
+2x05	i want to go to the comic book store	0
+2x05	i like comic books	0
+2x05	i still don't see	0
+2x05	why i need a driver's license	0
+2x05	albert einstein never had	0
+2x05	a driver's license	0
+2x05	yeah, but albert einstein	0
+2x05	didn't make me wet myself	0
+2x05	at  miles an hour	0
+2x05	yeah, and i never wanted to kick	0
+2x05	albert einstein in the nuts	0
+2x05	i gotta ask, why didn't you just get	0
+2x05	a license at  like everybody else	0
+2x05	i was otherwise engaged	0
+2x05	doing what	0
+2x05	examing perturbative amplitudes	0
+2x05	in n= supersymmetric theories	0
+2x05	leading to a reexamination of the ultraviolet properties of multiloop n= supergravity	0
+2x05	using modern twistor theory	0
+2x05	well, how about	0
+2x05	when you were	0
+2x05	take this to the testing area,	0
+2x05	put your name at the top,	0
+2x05	sign the bottom, answer the questions,	0
+2x05	bring it back next	0
+2x05	application	0
+2x05	i'm actually more of a theorist	0
+2x05	the application in your hand	0
+2x05	give it to her	1	1	nf
+2x05	take this to the testing area, put your name at the top, sign the bottom, answer the questions, bring it black	1	1	nf
+2x05    next	1	1	nf
+2x05	excuse me, but i have some concerns about these questions	0
+2x05	look at that sign up there	1	1	nf
+2x05	does it say "i give a damn"	0
+2x05	that's because i don't	0
+2x05	just look	1	1	nf
+2x05	this first question makes no sense	0
+2x05	"how many car lengths should you leave	0
+2x05	in front of you when driving"	0
+2x05	there's no possible way to answer that	0
+2x05	a "car length" is not	0
+2x05	a standardized unit of measure	0
+2x05	look at the sign	1	1	nf
+2x05	it's "c" just put down "c"	0
+2x05	i don't need your help, penny	0
+2x05	listen to that little girl, honey	1	1	nf
+2x05	put "c" next	1	1	nf
+2x05	wait hang on	1	1	nf
+2x05	look at this next question	1	1	nf
+2x05	why are you arguing with the dmv	0
+2x05	how else are they going to learn	0
+2x05	look question two	0
+2x05	"when are roadways most slippery"	0
+2x05	now, there are  answers,	0
+2x05	none of which are correct	0
+2x05	the correct answer is	0
+2x05	"when covered by a film of liquid	0
+2x05	"sufficient to reduce	0
+2x05	the coefficient of static friction	0
+2x05	"between the tire and the road to essentially zero,	0
+2x05	"but not so deep as to introduce	0
+2x05	a new source of friction"	0
+2x05	here's your learner's permit	0
+2x05	go away	1	1	nf
+2x05	but i'm not done	0
+2x05	i have many additional concerns	0
+2x05	about these questions	0
+2x05	don't make me climb over this counter	1	1	ni
+2x05	come on	1	1	nf
+2x05	next	0
+2x05	aced it	0
+2x05	that's it	0
+2x05	let's boot it up	1	1	nf
+2x05	booting	0
+2x05	this is a stateoftheart simulator	0
+2x05	i adapted it from something	0
+2x05	a friend of mine designed for the army	0
+2x05	is that why i appear to be	0
+2x05	in downtown fallujah	0
+2x05	behind the wheel	0
+2x05	of an uparmored humvee	0
+2x05	i haven't configured it yet	0
+2x05	let's see	0
+2x05	bradley tank	0
+2x05	transport truck	0
+2x05	batmobile	0
+2x05	here we go	0
+2x05	red  ford taurus	0
+2x05	on the streets of pasadena	0
+2x05	what	0
+2x05	statistically, red cars	0
+2x05	are stopped by police	0
+2x05	far more often	0
+2x05	than any other color	0
+2x05	i don't want any hassles	0
+2x05	with the fuzz	0
+2x05	fine, what color do you want	0
+2x05	you know the pale blue	0
+2x05	of luke skywalker's lightsaber	0
+2x05	before it was digitally remastered	0
+2x05	black, it is	0
+2x05	okay, now, what you want to do first is turn on the ignition and shift into drive	1	1	nf		
+2x05	i haven't fastened	0
+2x05	my seat belt yet	0
+2x05	okay, fasten your seat belt	1	1	nf
+2x05	now, are there air bags	0
+2x05	you don't need air bags	0
+2x05	what if a simulated van	0
+2x05	rearends me	0
+2x05	i'll hit you in the face	0
+2x05	with a pillow	0
+2x05	okay, now shift into drive	1	1	nf
+2x05	pull out slowly into traffic	1	1	nf
+2x05	watch out, watch, watch out	1	1	nf
+2x05	for the pedestrians	0
+2x05	wait slow	1	1	nf
+2x05	hit the brakes the brakes	1	1	nf
+2x05	thank you	0
+2x05	sorry excuse me	0
+2x05	my bad	0
+2x05	student driver	0
+2x05	how did you manage to get	0
+2x05	on the d floor	0
+2x05	of the glendale galleria	0
+2x05	i don't know	0
+2x05	i was on the pasadena freeway	0
+2x05	i missed my exit,	0
+2x05	flew off the overpass,	0
+2x05	and one thing led to another	0
+2x05	maybe you want to give it a rest and try again tomorrow	1	3	nf
+2x05	i quit	0
+2x05	the pet store	0
+2x05	remind me to compliment wolowitz	0
+2x05	on the software	0
+2x05	it's amazingly detailed	0
+2x05	so wait, you're just	0
+2x05	gonna give up	0
+2x05	no, i'm not giving up	0
+2x05	i never give up	0
+2x05	so, what is it you're doing	0
+2x05	i'm	0
+2x05	transcending the situation	0
+2x05	i'm clearly too evolved for driving	0
+2x05	what does that mean	0
+2x05	have you ever wondered	0
+2x05	why my little toes and lateral incisors	0
+2x05	are significantly smaller	0
+2x05	than the average for someone of my size	0
+2x05	i wonder a lot of things about you	0
+2x05	but notnot that	0
+2x05	well, those are indicators	0
+2x05	that i'm farther along	0
+2x05	the evolutionary scale	0
+2x05	than the average human	0
+2x05	no kidding	0
+2x05	hold on	1	1	nf
+2x05	i'm not gonna go so far as to say	0
+2x05	that i represent a distinct	0
+2x05	new stage in humankind	0
+2x05	you know, a homo novus,	0
+2x05	if you will	0
+2x05	that's for anthropologists to decide	0
+2x05	but i am convinced	0
+2x05	that the reason i cannot master	0
+2x05	the plebeian task of driving	0
+2x05	is because i'm not meant to	0
+2x05	yes, you are	1	1	nf
+2x05	you're meant to learn how to drive	0
+2x05	please learn how to drive	1	1	nf
+2x05	i'm meant for greater things,	0
+2x05	like unraveling the mysteries	0
+2x05	of the universe,	0
+2x05	not determing when it's safe to pass a stopped school bus	0
+2x05	on a country road	0
+2x05	it's never safe	0
+2x05	yeah, well, i know that now	0
+2x05	fine	0
+2x05	assuming that everything	0
+2x05	you say is true,	0
+2x05	how does the biologically superior	0
+2x05	homo novus get to work tomorrow morning	0
+2x05	homo novus doesn't know	0
+2x05	well, hang in there	0
+2x05	maybe you'll evolve	0
+2x05	into something with wings	0
+2x05	good morning, gentlemen	0
+2x05	good morning	0
+2x05	is there some new kind of casual friday	0
+2x05	i don't know about	0
+2x05	no, he lives here now	0
+2x05	really why	0
+2x05	since he won't take the bus	0
+2x05	and he's too evolved to drive,	0
+2x05	he decided it would be easier to sleep in his office	0
+2x05	and shower in the radiation lab	0
+2x05	until i'm finished	0
+2x05	with my experiment	0
+2x05	but you finished your experiment	0
+2x05	a week ago	0
+2x05	you saw nothing	0

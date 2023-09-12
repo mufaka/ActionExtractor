@@ -1,0 +1,739 @@
+﻿4x12	ma, ma, calm down	1	1	nf
+4x12	listen to me	1	1	nf
+4x12	i know it says click	0
+4x12	with the mouse,	0
+4x12	but on a laptop,	0
+4x12	the trackpad is the mouse	0
+4x12	now, put your finger on it	1	1	nf
+4x12	doesn't matter which finger	0
+4x12	good choice	0
+4x12	now move it down to your email icon	1	1	nf
+4x12	yeah, the little envelope	0
+4x12	what do you mean,	0
+4x12	"what does it look like "	0
+4x12	it looks like an envelope	0
+4x12	fine, you don't like	0
+4x12	the computer,	0
+4x12	don't use it	1	1	ni
+4x12	sure, we can exchange it	0
+4x12	for a salad spinner goodbye	0
+4x12	that's a hanukkah present	0
+4x12	you're regretting, hmm	0
+4x12	i won't say that	0
+4x12	all senior citizens	0
+4x12	who can't master technology	0
+4x12	should be publicly flogged,	0
+4x12	but if we made an	0
+4x12	example of one or two,	0
+4x12	it might give the others	0
+4x12	incentive to try harder	0
+4x12	i had a great idea	0
+4x12	you know how	0
+4x12	we're always having	0
+4x12	to stop and solve	0
+4x12	differential equations,	0
+4x12	like when you're doing	0
+4x12	fourier analysis,	0
+4x12	or using the	0
+4x12	schrodinger equation	0
+4x12	howard doesn't	0
+4x12	he's only an engineer	0
+4x12	i was thinking,	0
+4x12	we could write a little app	0
+4x12	that would use	0
+4x12	handwriting recognition,	0
+4x12	and then run it through a	0
+4x12	symbolic evaluation engine	0
+4x12	you just use your smartphone, take a picture of the equation and bam	0
+4x12	you know what's a great app	0
+4x12	the one that makes fart noises	0
+4x12	you know, leonard,	0
+4x12	that's actually	0
+4x12	a valid idea	0
+4x12	very good	0
+4x12	can you say that and not	0
+4x12	make it sound like i'm a cat	0
+4x12	who learned	0
+4x12	how to use the toilet	0
+4x12	no	0
+4x12	the two achievements	0
+4x12	are equally surprising	0
+4x12	and equally admirable,	0
+4x12	though if pressed,	0
+4x12	i'd have to give	0
+4x12	a slight edge to the cat	0
+4x12	i'll save you the pain	0
+4x12	and nervousness	0
+4x12	of waiting for the answer	0
+4x12	i agree to be part of	0
+4x12	your project congratulations	0
+4x12	oh, yay for me	0
+4x12	what about you guys	0
+4x12	i can't promise anything,	0
+4x12	but people do make money	0
+4x12	off stuff like this	0
+4x12	a few extra bucks	0
+4x12	would be nice	0
+4x12	i could finally move out	0
+4x12	of my mother's house	0
+4x12	where would you go	0
+4x12	i always dreamed about building	0
+4x12	a little place of my own	0
+4x12	over the garage	0
+4x12	you know, if i made more money,	0
+4x12	i could take time off from work	0
+4x12	and give pretty girls	0
+4x12	submarine rides	0
+4x12	what's that	0
+4x12	some weird sex thing	0
+4x12	no	0
+4x12	you take pretty girls underwater	0
+4x12	in your private submarine,	0
+4x12	and you show them fish	0
+4x12	why does everything	0
+4x12	have to be dirty with you	0
+4x12	i was thinking we could work	0
+4x12	on this at night,	0
+4x12	and then maybe	0
+4x12	in a couple of weeks,	0
+4x12	we'll have ourselves an app	0
+4x12	to sell	0
+4x12	sounds like	0
+4x12	we're in business	0
+4x12	i think we should take a picture to capture this moment	1	1	nf
+4x12	yeah	0
+4x12	oh	0
+4x12	was that the best  cents	0
+4x12	i ever spent, or what	0
+4x12	i checked the	0
+4x12	app store	0
+4x12	no one is doing	0
+4x12	handwritingrecognition	0
+4x12	differential equation solving	0
+4x12	oh, dear lord, shush	1	1	nf
+4x12	what	0
+4x12	you have so few good ideas,	0
+4x12	leonard	1	1	nf
+4x12	and you're just going	0
+4x12	to spill the beans	0
+4x12	in front of an outsider	0
+4x12	who, me	0
+4x12	sheldon, i don't think	0
+4x12	penny cares	0
+4x12	about handwritingrecognition	0
+4x12	based differential	0
+4x12	the stars at night	0
+4x12	are big and bright 	0
+4x12	deep in the heart	0
+4x12	of texas 	0
+4x12	she's not going	0
+4x12	to steal our idea	0
+4x12	what idea	0
+4x12	we're gonna write an application	0
+4x12	the prairie sky	0
+4x12	is wide and high 	0
+4x12	deep in the heart 	0
+4x12	okay, stop, stop	1	1	nf
+4x12	of texas 	0
+4x12	whatever your secret is,	0
+4x12	i'm sure it's boring,	0
+4x12	so i'm not interested	0
+4x12	it's not boring at all	0
+4x12	you see,	0
+4x12	in higher order mathematics,	0
+4x12	there are certain sets	0
+4x12	of equations that	0
+4x12	bored	0
+4x12	satisfied	0
+4x12	hardly	0
+4x12	consider this unlikely	0
+4x12	but very plausible scenario	0
+4x12	a young woman alone	0
+4x12	in the big city	0
+4x12	her ridiculous dream	0
+4x12	of becoming an actress	0
+4x12	lies shattered about her	0
+4x12	hey, wait a minute	1	1	nf
+4x12	well, hang on	1	1	nf
+4x12	let's see where he's going	1	1	nf
+4x12	then it hits her	0
+4x12	how is she going to survive	0
+4x12	i mean, she has no prospects,	0
+4x12	no marketable skills	0
+4x12	and then one day,	0
+4x12	she meets a group of geniuses	0
+4x12	and their friend howard	0
+4x12	hey, i	0
+4x12	hang on	1	1	nf
+4x12	let's see where he's going	1	1	nf
+4x12	she befriends them,	0
+4x12	and then lies in wait	0
+4x12	until they reveal	0
+4x12	a marketable idea,	0
+4x12	which she steals	0
+4x12	and sells to the highest bidder	0
+4x12	that is ridiculous	0
+4x12	oh, is it	0
+4x12	let's see you come up with an explanation as to why this woman hangs out with us all the time	1	1	nf
+4x12	oh, great you know what	0
+4x12	i've already mooched	0
+4x12	dinner off you guys	0
+4x12	i don't need to listen to this	0
+4x12	there's your answer,	0
+4x12	free food	0
+4x12	all right,	0
+4x12	i've taken the liberty	0
+4x12	of drafting	0
+4x12	these workflow charts	0
+4x12	which outline our various duties	0
+4x12	and the path we will follow	0
+4x12	as we develop	0
+4x12	our groundbreaking new app	0
+4x12	hey, why am i in charge	0
+4x12	of phone support	0
+4x12	seems a bit racist	0
+4x12	a customer service	0
+4x12	representative	0
+4x12	with an indian accent	0
+4x12	will create the impression	0
+4x12	we're a vast enterprise that	0
+4x12	uses overseas call centers	0
+4x12	oh	0
+4x12	very clever	0
+4x12	but still racist	0
+4x12	duly noted, steve	0
+4x12	from wichita	0
+4x12	why am i listed as your	0
+4x12	executive assistant	0
+4x12	because the word "secretary"	0
+4x12	has fallen into disrepute	0
+4x12	fyi, my mother's	0
+4x12	birthday is coming up	0
+4x12	i'm going to need you to pick up a present	1	1	nf
+4x12	okay, we need to stop for a minute	1	1	nf
+4x12	leonard, please, we can talk during our break	1	1	nf
+4x12	we have one coming up	0
+4x12	at midnight	0
+4x12	we'll need snacks	0
+4x12	sheldon, you're not in charge	0
+4x12	it's my idea	0
+4x12	i'm in charge	0
+4x12	oh, of course you are	0
+4x12	look at the organizational chart	1	1	nf
+4x12	you're clearly listed	0
+4x12	as founder	0
+4x12	well, yes, and you're listed	0
+4x12	as chief executive officer,	0
+4x12	chief financial officer	0
+4x12	and chief operating officer	0
+4x12	you missed	0
+4x12	chief science officer,	0
+4x12	chairman of the board, and head	0
+4x12	of the secret santa committee	0
+4x12	okay	0
+4x12	you need to get clear on this right now	1	1	nf
+4x12	i am in charge of this project	0
+4x12	ooh leonard's going all	0
+4x12	alpha nerd on sheldon's ass	0
+4x12	all right all right,	0
+4x12	i'm not going to argue with you	0
+4x12	sheldon cooper is nothing	0
+4x12	if not a team player	0
+4x12	dr hofstadter, you have the conn	1	1	nf
+4x12	thank you	0
+4x12	i thought we might start	0
+4x12	by talking	0
+4x12	about the user interface	0
+4x12	oh, dear lord, we're doomed	0
+4x12	so this button here	0
+4x12	will allow you	0
+4x12	to scan a new equation,	0
+4x12	but over here,	0
+4x12	you can press this,	0
+4x12	and just substitute new values	0
+4x12	for the coefficients	0
+4x12	good one, boss	0
+4x12	what	0
+4x12	this diagram	0
+4x12	i assume	0
+4x12	you were opening with a joke	0
+4x12	it certainly buoyed up	0
+4x12	this employee's esprit de corps	0
+4x12	it's not a joke	0
+4x12	it's the real design	0
+4x12	in that case, may i offer 27 little tweaks to make it slightly less embarrassing	1	1	nf
+4x12	sheldon, i think	0
+4x12	this will work	0
+4x12	let's just try it my way	1	1	nf
+4x12	oh, i'mi'm sorry	0
+4x12	i assumed that you wanted	0
+4x12	candid truthtelling	0
+4x12	from your employees,	0
+4x12	but i realize now,	0
+4x12	you want the mindless nattering	0
+4x12	of complacent	0
+4x12	yesmen	0
+4x12	are you done	0
+4x12	if you say so, boss	0
+4x12	so right now,	0
+4x12	this buttonpress event	0
+4x12	is just triggering	0
+4x12	a dummy procedure call	0
+4x12	how about this	0
+4x12	for the app name	0
+4x12	the surprisingly	0
+4x12	helpful equationlinked	0
+4x12	differential	0
+4x12	optimized numerator	0
+4x12	so it spells "sheldon"	0
+4x12	does it	0
+4x12	a happy accident	0
+4x12	we're not doing	0
+4x12	names now	0 
+4x12	howard	1	1	nf
+4x12	like i was saying, right now	0
+4x12	it's just a dummy procedure,	0
+4x12	but eventually,	0
+4x12	it will drop us into	0
+4x12	all right, fine	0
+4x12	if we're not going	0
+4x12	to give it a name,	0
+4x12	can we at least give it a secret code designation	1	1	nf
+4x12	no	0
+4x12	hear me out	1	1	nf
+4x12	the atomic bomb	0
+4x12	was the manhattan project	0
+4x12	windows  was originally	0
+4x12	project chicago	0
+4x12	for our app, i would humbly	0
+4x12	suggest project nodlehs	0
+4x12	that's just	0
+4x12	"sheldon" backwards	0
+4x12	another happy accident	0
+4x12	we're not wasting time with names right now	1	1	ni
+4x12	i see	0
+4x12	is that decision open	0
+4x12	for discussion	0
+4x12	no	0
+4x12	is the decision to not	0
+4x12	discuss it open for discussion	0
+4x12	no	0
+4x12	again,	0
+4x12	right now it's just	0
+4x12	a dummy procedure,	0
+4x12	but eventually,	0
+4x12	it will drop us into	0
+4x12	i call for a vote of no confidence and an immediate change in leadership	1	1	nf	
+4x12	sheldon, stop it	1	1	nf
+4x12	when in the course of human	0
+4x12	events, it becomes necessary	0
+4x12	to dissolve the bonds	0
+4x12	that tie three competent	0
+4x12	scientists together	0
+4x12	that's enough, sheldon	1	1	nf
+4x12	all right, let's get right to the vote	1	1	nf
+4x12	show of hands	1	1	nf
+4x12	all those opposed	0
+4x12	to leonard	0
+4x12	and his reign of tyranny	0
+4x12	okay, that's it, you're fired	0
+4x12	really	0
+4x12	why	0
+4x12	because you're impossible	0
+4x12	to work with	0
+4x12	i see	0
+4x12	and is that open	0
+4x12	for discussion	0
+4x12	what are you doing	0
+4x12	oh good morning, shoemaker	0
+4x12	i think you'll be pleased	0
+4x12	with what the elves were up to	0
+4x12	last night	0
+4x12	i fired you	0
+4x12	oh, i know i'm now	0
+4x12	an independent contractor	0
+4x12	no, you are	0
+4x12	now nothing	0
+4x12	you have no connection	0
+4x12	to this project whatsoever	0
+4x12	but i made it better	0
+4x12	i don't want it better	0
+4x12	i want it my way	0
+4x12	well, that speaks volumes,	0
+4x12	doesn't it	0
+4x12	all right, i suppose	0
+4x12	i'll go put on my bus pants	0
+4x12	what the hell are bus pants	0
+4x12	they are pants one wears	0
+4x12	over one's regular pants	0
+4x12	when one sits on bus seats	0
+4x12	that other people	0
+4x12	have previously sat on	0
+4x12	but perhaps	0
+4x12	from your lofty heights	0
+4x12	atop the corporate ladder,	0
+4x12	you've lost touch	0
+4x12	with the struggles	0
+4x12	of the common man	0
+4x12	look, i'm still happy	0
+4x12	to drive you to work	0
+4x12	nothing's changed	0
+4x12	in that regard	0
+4x12	we're still roommates,	0
+4x12	we're still friends	0
+4x12	except you identified me,	0
+4x12	your best friend,	0
+4x12	as a gangrenous limb	0
+4x12	that needed to be severed	0
+4x12	from the organism	0
+4x12	and tossed away	0
+4x12	the desperate act	0
+4x12	of a little man	0
+4x12	with a big napoleon complex	0
+4x12	you know what	0
+4x12	go put on your bus pants	1	1	nf
+4x12	mm last night,	0
+4x12	i had a dream	0
+4x12	we got so rich from the app,	0
+4x12	you and i bought matching	0
+4x12	sidebyside mansions	0
+4x12	but	0
+4x12	there was a secret tunnel	0
+4x12	connecting your front yard	0
+4x12	to my back yard	0
+4x12	what do you think that means	0
+4x12	it means after we play handball,	0
+4x12	i'm showering at home	0
+4x12	good morning, friend howard	0
+4x12	friend raj	0
+4x12	i see you gentlemen	0
+4x12	are enjoying beverages	0
+4x12	perhaps they would taste better	0
+4x12	out of these	0
+4x12	"world's greatest	0
+4x12	astrophysicist"	0
+4x12	don't thank me you earned it	1	1	ni
+4x12	"howard wolowitz"	0
+4x12	why not	0
+4x12	"world's greatest engineer"	0
+4x12	i'm sorry	0
+4x12	i typed that	0
+4x12	into the label maker,	0
+4x12	but i just couldn't press enter	0
+4x12	now down to business	1	1	nf
+4x12	what would it take for you to abandon leonard and join me in a rival company	1	1	nf
+4x12	unless, of course,	0
+4x12	the mugs are sufficient,	0
+4x12	in which case, welcome aboard	0
+4x12	we're not quitting on leonard	0
+4x12	i understand	0
+4x12	your loyalty is admirable	0
+4x12	but what if i were	0
+4x12	to up the ante	0
+4x12	what are you talking about	0
+4x12	monogrammed key chains	0
+4x12	with a builtin laser pointer	0
+4x12	no	0
+4x12	how about can cozies	0
+4x12	emblazoned	0
+4x12	with our university mascot	0
+4x12	go, beavers	1	1	nf
+4x12	i'll be back	0
+4x12	okay, let's try this one	1	1	nf
+4x12	"spherical hankel function"	0
+4x12	hold on	1	1	nf
+4x12	that's it	0
+4x12	eureka	0
+4x12	hey, we agreed when	0
+4x12	it was "eureka" time,	0
+4x12	we were all gonna	0
+4x12	say it together	0
+4x12	fine	0
+4x12	let's say it together	1	1	nf
+4x12	no the moment	0
+4x12	has passed	0
+4x12	greetings, gentlemen	0
+4x12	how goes your	0
+4x12	little project	0
+4x12	you mean,	0
+4x12	"project lenwoloppali"	0
+4x12	ah, a combination	0
+4x12	of all your names	0
+4x12	very clever	0
+4x12	i assume "koothranardowitz"	0
+4x12	was taken	0
+4x12	we're actually	0
+4x12	scanning equations	0
+4x12	and getting good results	0
+4x12	oh, well then,	0
+4x12	by all means, carry on	1	1	nf
+4x12	ž	0
+4x12	i wouldn't want	0
+4x12	to impede your progress	0
+4x12	howard, did you solve	0
+4x12	the install time problem yet	0
+4x12	no it's a little tricky	0
+4x12	i'm gonna try having it pick up	0
+4x12	the libraries dyn	0
+4x12	what are you doing	0
+4x12	playing the theremin	0
+4x12	no i mean, what are you	0
+4x12	doing with a theremin	0
+4x12	playing it	0
+4x12	i've loved the theremin	0
+4x12	from the first moment	0
+4x12	i heard the original	0
+4x12	star trek theme	0
+4x12	and it's been killing me	0
+4x12	that it just sits in my closet,	0
+4x12	gathering dust	0
+4x12	sheldon	0
+4x12	we're working here	1	1	nf
+4x12	that's all right	0
+4x12	i can barely hear you	0
+4x12	over my theremin	0
+4x12	well, that was a	0
+4x12	little uncalled for	0
+4x12	no, that was	0
+4x12	completely called for	0
+4x12	we need quiet	1	1	nf
+4x12	so, your project is more	0
+4x12	important than mine	0
+4x12	well, seeing as your project	0
+4x12	is to sabotage my project, yes	0
+4x12	don't beat around the bush,	1	1	ni
+4x12	leonard	0
+4x12	if you don't want me here,	0
+4x12	just say the word,	1	1	nf
+4x12	and i'll leave	0
+4x12	could have beaten	0
+4x12	around the bush a little	0
+4x12	nobody knows 	0
+4x12	the trouble i've seen	0
+4x12	nobody knows my sorrow 	0
+4x12	oh, oh, oh 	0
+4x12	what you doing	0
+4x12	trying to contact	0
+4x12	your home planet	0
+4x12	i'm practicing my theremin	0
+4x12	oh	0
+4x12	nobody knows 	0
+4x12	the trouble i've seen 	0
+4x12	glory, hallelujah	0
+4x12	something got you down,	0
+4x12	there, sheldon	0
+4x12	leonard kicked me out	0
+4x12	of my own apartment	0
+4x12	and his app team	0
+4x12	oh, honey, i'm sorry	0
+4x12	he wouldn't drive me	0
+4x12	to work today	0
+4x12	i had to wear	0
+4x12	my bus pants	0
+4x12	is that so	0
+4x12	yes	0
+4x12	and they're	0
+4x12	still sticky	0
+4x12	aw	0
+4x12	probably going to have	0
+4x12	to throw them away	0
+4x12	hey, you don't need leonard and his app	1	3	ni
+4x12	you can make one with me	1	3	nf
+4x12	with you	0
+4x12	seriously,	0
+4x12	i have a great idea for one	0
+4x12	is it better than your idea	0
+4x12	to move to los angeles	0
+4x12	and become a famous actress	0
+4x12	okay, look	0
+4x12	when you see someone	0
+4x12	wearing shoes you like,	0
+4x12	you just snap a picture of them,	0
+4x12	and the app goes on the internet	0
+4x12	to find out	0
+4x12	where you can buy them	0
+4x12	that's your app idea	0
+4x12	well, you don't like it	0
+4x12	i didn't say that	0
+4x12	but no, i don't	0
+4x12	why not	0
+4x12	oh, penny,	0
+4x12	where do i begin	0
+4x12	the simplemindedness	0
+4x12	of your idea	0
+4x12	is exceeded only by its	0
+4x12	crass consumerism and banality	0
+4x12	and leonard didn't want	0
+4x12	to work with you	0
+4x12	imagine that	1	1	nf
+4x12	i know, it's baffling	0
+4x12	nobody knows	0
+4x12	the trouble i've seen	0
+4x12	sheldon, i'm gonna	0
+4x12	make some cocoa	0
+4x12	do you want some	1	3	nf
+4x12	do you make it	0
+4x12	with milk or water	0
+4x12	milk	0
+4x12	real cocoa	0
+4x12	that's what it says	0
+4x12	on the packet	0
+4x12	do you have	0
+4x12	those little marshmallows	0
+4x12	no, sorry	0
+4x12	well, i suppose	0
+4x12	it's appropriate	0
+4x12	what does that mean	0
+4x12	a disappointing drink	0
+4x12	for a disappointing day	0
+4x12	hey, look at this	0
+4x12	people from the university	0
+4x12	have already signed up	0
+4x12	for our private beta	0
+4x12	i'm telling you,	0
+4x12	the lenwoloppali	0
+4x12	differential equation scanner	0
+4x12	meets a real need	0
+4x12	we've got a hit	0
+4x12	what do you think we	0
+4x12	should sell it for	0
+4x12	well, based on the fact	0
+4x12	that our potential market	0
+4x12	is about  or  guys,	0
+4x12	and you want a submarine,	0
+4x12	i'd say about a	0
+4x12	million dollars a pop	0
+4x12	well, what if we put out a lite	0
+4x12	version for half a million	0
+4x12	you know,	0
+4x12	get the word of mouth going	0
+4x12	hi i'm sorry	0
+4x12	to bother you guys,	0
+4x12	but you've got to come take your sheldon back	1	1	nf
+4x12	what's he doing	0
+4x12	in your apartment	0
+4x12	well, he was moping down in the	0
+4x12	lobby, so i invited him over	0
+4x12	now i regret it	0
+4x12	why do you regret	0
+4x12	uh, never mind, stupid question	1	2	ni
+4x12	look, can't you just let him play with you until bedtime	1	1	ni
+4x12	we're not playing	0
+4x12	this is real work	0
+4x12	we're going to	0
+4x12	be hundredaires	0
+4x12	okay what if i got him	0
+4x12	to apologize	0
+4x12	and promise to behave	0
+4x12	then i guess we would	0
+4x12	let him back on the app team,	0
+4x12	and while we're doing that,	0
+4x12	you could take an aerial tour	0
+4x12	of la on your flying pig	0
+4x12	okay wait right here	1	1	nf
+4x12	i'll tell you one thing	0
+4x12	if i get rich enough,	0
+4x12	that's the kind of girl i want	0
+4x12	to take on a submarine ride	0
+4x12	and yes, that time,	0
+4x12	i meant it to be dirty	0
+4x12	really	0
+4x12	leonard wants me back	0
+4x12	oh, yes he says they	0
+4x12	are lost without you	0
+4x12	well, we sure saw that coming	0
+4x12	that's right	0
+4x12	you know what	0
+4x12	i'm going to do	0
+4x12	i am going to sit here	0
+4x12	and just let them stew	0
+4x12	no, no, no you know,	0
+4x12	they have	0
+4x12	suffered enough	0
+4x12	everybody's	0
+4x12	suffered enough	0
+4x12	the thing is, you're going	0
+4x12	to have to offer him	0
+4x12	a facesaving	0
+4x12	way out of this	0
+4x12	how	0
+4x12	say you're sorry	1	1	nf
+4x12	oh, no	0
+4x12	mrs mary cooper	0
+4x12	didn't raise her no liars	0
+4x12	okay um	0
+4x12	how about this  you know	0
+4x12	how you're always trying	0
+4x12	to learn about sarcasm	0
+4x12	no	0
+4x12	no	0
+4x12	i was being sarcastic	0
+4x12	oh good for you	0
+4x12	so all you have to do here is say you're sorry to leonard, but say it sarcastically	1	1	nf	
+4x12	of course	0
+4x12	he will hear it as an attempt	0
+4x12	to mend fences,	0
+4x12	as opposed	0
+4x12	to the withering condemnation	0
+4x12	you and i will know it to be	0
+4x12	yeah yeah, that	0
+4x12	was my plan	0
+4x12	all right	0
+4x12	come on let's go	1	1	nf
+4x12	oh, by the way,	0
+4x12	thank you	0
+4x12	for the delicious cocoa	0
+4x12	oh, you're welcome	0
+4x12	boy, i'm getting	0
+4x12	good at this	0
+4x12	okay, now that you're	0
+4x12	back on the team,	0
+4x12	let's get you caught up	0
+4x12	before you begin,	0
+4x12	let me say again	0
+4x12	how deeply sorry i am	0
+4x12	for my earlier behavior	0
+4x12	and how much i respect	0
+4x12	and admire your leadership	0
+4x12	thank you	0
+4x12	so as you can see,	0
+4x12	not only can you store	0
+4x12	your favorite equations,	0
+4x12	but you can forward them	0
+4x12	to your friends	0
+4x12	or post them on facebook	0
+4x12	right from the app	0
+4x12	well, i must say,	0
+4x12	i am impressed	0
+4x12	thanks	0
+4x12	you all have clearly put	0
+4x12	in a lot of hard work	0
+4x12	we have	0
+4x12	as a result,	0
+4x12	you have taken	0
+4x12	the most important step	0
+4x12	on the road to success	0
+4x12	learning what not to do	0
+4x12	now, let's start fresh	1	1	nf
+4x12	howard, we're going to need some tea	1	1	nf
+4x12	okay, these are uggs	0
+4x12	these are crocs	0
+4x12	these are knockoff	0
+4x12	manolo blahniks	0
+4x12	bored	0
+4x12	look, you said it yourself,	0
+4x12	we have to create a database	0
+4x12	before you can write	0
+4x12	an algathingy	0
+4x12	algorithm	0
+4x12	you see, penny, alan turing	0
+4x12	defined an algorithm	0
+4x12	bored	0
+4x12	okay	0
+4x12	these are steve maddens	0
+4x12	these are nine west	0
+4x12	these are target oh, but don't	0
+4x12	they look like chanel	0
+4x12	these are	0
+4x12	michael kors	0
+4x12	nobody knows	0

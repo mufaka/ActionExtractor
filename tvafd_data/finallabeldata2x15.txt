@@ -1,0 +1,362 @@
+﻿2x15	fellas, please	1	1	nf
+2x15	penny, come on	0
+2x15	we were just finding our sound	0
+2x15	you found it	0
+2x15	it's the sound of a cat being run over by a lawn mower	0
+2x15	i'm really very busy	0
+2x15	is there any way hat we can put this off	0
+2x15	until i have more time to prepare	0
+2x15	of course	0
+2x15	but, you understand my trepidation	0
+2x15	what's that about	0
+2x15	not a clue	0
+2x15	can't we just postpone it till the spring	0
+2x15	maybe next summer	0
+2x15	this should be fairly easy to deduce	0
+2x15	he's holding the phone to his left ear	0
+2x15	ears do not cross hemispheres,	0
+2x15	so he's using the analytical rather than the emotional side of the brain,	0
+2x15	suggesting that he has no personal relationship with the caller	0
+2x15	no, i didn't realize	0
+2x15	it had been so long	0
+2x15	sure, i guess there's no other choice but to just go ahead and do it	0
+2x15	he's referring to an activity	0
+2x15	he has done before	0
+2x15	it's unpleasant and needs to be repeated	0
+2x15	this suggests some sort of invasive medical test,	0
+2x15	like perhaps a colonoscopy	0
+2x15	aren't there any other options	0
+2x15	there's not a lot of room	0
+2x15	it's gonna be uncomfortable	0
+2x15	yes, yes	0
+2x15	i'm definitely going with colonoscopy	0
+2x15	okay, bye	0
+2x15	my mother's coming to visit	0
+2x15	how about that, you were right	0
+2x15	it's out of order	0
+2x15	yes, i can read the sign	0
+2x15	i'm just pondering the implications	0
+2x15	i think it implies that the elevator doesn't work	0
+2x15	again, i can read the sign but the sign and the tape are covered with a layer of dust,	0
+2x15	which indicates that the elevator has been nonfunctional for a significant amount of time	0
+2x15	which suggests either a remarkable passivity among the, i assume, to  residents of this building, based on the number of mailboxes and given typical urban population density or a shared delusion of functionality	0
+2x15	you must be leonard's mother	0
+2x15	i don't know if i must be, but yes	0
+2x15	i'm penny	0
+2x15	i'm his neighbor	0
+2x15	dr beverly hofstadter	0
+2x15	nice to meet you	0
+2x15	you're a hand shaker	0
+2x15	interesting	0
+2x15	come with me	1	1	nf
+2x15	i'll walk you to the apartment	1	3	nf
+2x15	would you like to exchange pleasantries on the way	0
+2x15	yeah, sure, i guess	0
+2x15	all right, you start	1	1	nf
+2x15	i've always been curious what was leonard like when he was little	0
+2x15	i think you mean young	0
+2x15	he's always been little	0
+2x15	right	0
+2x15	what was he like when he was young	0
+2x15	you'll have to be more specific	1	1	nf
+2x15	okay, like, five or six	0
+2x15	five	0
+2x15	at that age, he was well enmeshed n what freud would call the phallic stage of psychosexual development	0
+2x15	an outmoded theory, of course,	0
+2x15	but the boy did spend most of his waking hours with a tight grasp on his penis	0
+2x15	leonard mentioned you were a psychiatrist	0
+2x15	that is one of my degrees	0
+2x15	my primary field is neuroscience	0
+2x15	well, i'm an actress	0
+2x15	why	0
+2x15	what do you mean why	0
+2x15	there are studies that suggest that many who go into he performing arts suffer from an external locus of identity	0
+2x15	yeah, i don't know what that means	0
+2x15	it means you value yourself only as others value you,	0
+2x15	which is often the result of unmet childhood emotional needs	0
+2x15	i had a wonderful childhood	0
+2x15	tell me about it	1	1	nf
+2x15	i know my dad wanted a boy	0
+2x15	i tried being good at sports,	0
+2x15	but i hated getting dirty	0
+2x15	and then, i'm assuming, you entered adolescence he called me slugger until i got my first training bra	0
+2x15	and then he just stopped playing catch with me	0
+2x15	i wasn't slugger anymore	0
+2x15	your mother's here	0
+2x15	if you want to have intercourse with that girl,	0
+2x15	find out what kind of cologne her father wore	1	1	nf
+2x15	good to see you, mother	0
+2x15	here's your tea, mother	0
+2x15	oolong	0
+2x15	loose, not bagged	0
+2x15	steeped three minutes	0
+2x15	twopercent milk	0
+2x15	warmed separately	0
+2x15	one teaspoon sugar	0
+2x15	raw sugar	0
+2x15	it's cold	0
+2x15	i'll start again	0
+2x15	i have the same problem with him	0
+2x15	my theory is that his lack of focus stems from an overdeveloped sex drive	0
+2x15	i don't know where he would've gotten that aside from a pro forma consummation of our marriage,	0
+2x15	his father and i only had intercourse for the purposes of reproduction	0
+2x15	that seems a fairly efficient arrangement	0
+2x15	yes, we think so	0
+2x15	we've both done papers on it	0
+2x15	mine from the neuroscientific point of view	 and his from an anthropological	0
+2x15	mine, of course, was the onlyne worth reading	0
+2x15	of course	0
+2x15	i would very much like to read about your sex life	1	1	nf
+2x15	it's all online or you can order it from the princeton university press	1	4	nf	
+2x15	here's your tea, mother	0
+2x15	so, what are you guys talking about	0
+2x15	the frequency with which your parents had intercourse	0
+2x15	swell	0
+2x15	if you're lucky, maybe she'll show you the powerpoint presentation	0
+2x15	i'm sorry, it's on my other laptop	0
+2x15	so, mother	0
+2x15	what's new	0
+2x15	you'll have to be more specific	1	1	nf
+2x15	all right	0
+2x15	what's new with you	0
+2x15	well, i've been having some fascinating menopausal symptoms recently	0
+2x15	maybe something less personal	1	1	nf
+2x15	your uncle floyd died	0
+2x15	oh, my god	0
+2x15	what happened	0
+2x15	his heart stopped beating	0
+2x15	i have to urinate	0
+2x15	what a remarkable woman	0
+2x15	yeah, ii thought you guys might hit it off	0
+2x15	i envy you your childhood	0
+2x15	i hate to tell you,	0
+2x15	but the only warm memories i have of my childhood are of my uncle floyd	0
+2x15	you're clearly misremembering	0
+2x15	your mother is brilliant, analytical, insightful	0
+2x15	and i'm betting she never hit you with a bible	0
+2x15	because you wouldn't eat your brussels sprouts	0
+2x15	you don't give your mother enough credit	0
+2x15	she's warm, she's loving,	0
+2x15	she doesn't glue electrodes to your head to measure your brain waves	0
+2x15	while potty training	0
+2x15	you were lucky	0
+2x15	when i was a kid, if i wanted an eeg,	0
+2x15	i had to attach my own electrodes	0
+2x15	so, dr hofstadter, leonard rarely talks about his incredibly successful brother and sister	0
+2x15	please, don't go there	1	1	ni
+2x15	i understand that,	0
+2x15	unlike leonard, they're at the top of their respective fields	0
+2x15	boy, you suck	0
+2x15	leonard's younger brother, michael,	 is a tenured law professor at harvard,	0
+2x15	and his sister just successfully grew a human pancreas in an adolescent gibbon	0
+2x15	so, she's close to curing diabetes	0
+2x15	why else would you grow a pancreas in a teenaged gibbon	0
+2x15	you must be very proud	0
+2x15	why	0
+2x15	they're not my accomplishments	0
+2x15	i have to urinate	0
+2x15	why are you doing this	0
+2x15	you know the rules	0
+2x15	you brought your mom to work	0
+2x15	you must suffer	0
+2x15	i had no idea your siblings were so much more successful than you	0
+2x15	you're like the jar jar binks	0
+2x15	of the hofstadter family	0
+2x15	oh, mesa think	0
+2x15	yousa lookin' so so sad	0
+2x15	rather than mock me,	0
+2x15	my friends might realize that this is difficult and try to help me through it	0
+2x15	nope, i think mocking you is more fun	0
+2x15	next time, don't yousa bring mama to work okeeday	0
+2x15	that was fast	0
+2x15	the middle stall was occupied	0
+2x15	i'll have to try again later	0
+2x15	that's totally understandable	0
+2x15	in bladder voiding, as in real estate,	0
+2x15	it's location, location, location	0
+2x15	so, where were we	0
+2x15	howard lives with his mother	0
+2x15	and raj can't speak to women unless he's drunk go	0
+2x15	that's fascinating	0
+2x15	selective mutism is quite rare	0
+2x15	on the other hand, an adult jewish male living with his mother is so common	0
+2x15	it borders on sociological cliché	0
+2x15	it's just temporary i pay rent	0
+2x15	he lives in the same room where his bassinet was	0
+2x15	both selective mutism and an inability to separate from one's mother can stem from a pathological ear of women	0
+2x15	it might explain why the two of you have created an ersatz homosexual marriage to satisfy your need for intimacy	0
+2x15	say what	0
+2x15	that's basically what i just said	0
+2x15	you brought your husband to work	0
+2x15	you know the rules	0
+2x15	meesa thinking yousa looking	0
+2x15	pretty sad now too, betcha, betcha	0
+2x15	leonard, it's  weren't you going to show me your laboratory at 1:00	1	1	nf
+2x15	there's no hurry tell them more	about their secret love for each other	1	1	nf
+2x15	but it's  you were going to show me your laboratory at	0
+2x15	her reasoning is unassailable	0
+2x15	it is	0
+2x15	fine let's go	1	1	nf
+2x15	i think you'll find my work pretty interesting	0
+2x15	i'm attempting to replicate the dark matter signal	0
+2x15	found in sodium iodide crystals by the italians	0
+2x15	so, no original research	0
+2x15	what's the point of my seeing it	0
+2x15	i could just read the paper the italians wrote	0
+2x15	just for the record, we're not in an ersatz homosexual relationship	0
+2x15	then why didn't you say that to her	0
+2x15	why is it always my responsibility	0
+2x15	it's not always your responsibility	0
+2x15	i swear, this is the same thing you did at the comic book store last week	0
+2x15	i can't believe you're bringing that up	0
+2x15	i didn't bring it up you did	0
+2x15	we'll talk about this later	1	1	nf
+2x15	you always say that,	0
+2x15	but you never do	0
+2x15	you went to the comic book store without me	0
+2x15	you got alcohol	0
+2x15	your mom still here	0
+2x15	come on in	1	1	nf
+2x15	wait, she's not gonna come here	0
+2x15	looking for you, is she	0
+2x15	relax she took sheldon to the hospital to get a brain scan	1	1	nf
+2x15	oh, my god what happened	0
+2x15	nothing	0
+2x15	mother likes looking at brains and sheldon likes getting his brain scanned	0
+2x15	geez, what a fun couple	0
+2x15	she's only been here a day and a half	0
+2x15	and i'm seriously considering alcoholism	0
+2x15	as a new career path	0
+2x15	i talked to her for  minutes yesterday	0
+2x15	and i've been half bombed ever since	0
+2x15	you can't let her get into your head	1	1	nf
+2x15	my head, what about yours	0
+2x15	it's too late for me	0
+2x15	my head is her summer house	0
+2x15	she was right	0
+2x15	the locus of my identity is totally exterior to me	0
+2x15	yeah, there she is hi, mom	0
+2x15	do you know where i was all morning auditioning with  other blondes for some stupid antidepressant commercial	0
+2x15	and for what	0
+2x15	so i'll finally get my daddy's approval	0
+2x15	did you get the part	0
+2x15	no, they said i was too perky	0
+2x15	you want to talk about not getting love from a parent	0
+2x15	you know what i used to do when i was little to have some sensation of human contact	1	3	nf
+2x15	yeah, you grabbed your penis and wouldn't let go	0
+2x15	your mother told me	0
+2x15	of course she did	0
+2x15	that's not what i was gonna say	0
+2x15	when i was ten years old,	0
+2x15	i built a hugging machine	0
+2x15	a hugging machine	0
+2x15	i got a dressmaker's mannequin,	0
+2x15	i stuffed it with an electric blanket	0
+2x15	so it would be warm,	0
+2x15	and built two radiocontrolled arms	0
+2x15	that would hug me and pat my back	0
+2x15	that is so sad	0
+2x15	you know what the saddest part was	0
+2x15	my father used to borrow it	0
+2x15	your scan data will be very helpful to my research	0
+2x15	you have a remarkable brain	0
+2x15	i know	0
+2x15	although i've always hated how my right frontal lobe looks in pictures	0
+2x15	common complaint among men	0
+2x15	nothing's ever big enough	0
+2x15	except when they get a tumor	0
+2x15	then you never hear the end of it	0
+2x15	i'd love to see	a scan of your brain sometime	1	1	nf
+2x15	i'll send you a link, but its physiology	0
+2x15	is fairly unimpressive	0
+2x15	i can't believe that	0
+2x15	your unwillingness to accept empirical evidence	0
+2x15	suggests an attempt at flattery	0
+2x15	my apologies	0
+2x15	i've been living with your son too long	0
+2x15	gotten into some bad habits	0
+2x15	understandable	0
+2x15	can i make you a cup of tea	0
+2x15	i doubt it,	0
+2x15	but if anyone has a chance,	0
+2x15	it's probably you	0
+2x15	i feel very comfortable around you	0
+2x15	i feel very comfortable around you, too	0
+2x15	it's surprising	0
+2x15	because i generally don't feel comfortable around well, anyone	0
+2x15	nor i	0
+2x15	what are the odds that two individuals as unique as ourselves would be connected by someone as comparatively workaday as your son	0
+2x15	is that a rhetorical point	0
+2x15	or would you like to do the math	0
+2x15	i'd like to do the math	0
+2x15	i'd like that, too	0
+2x15	now this time,	0
+2x15	you're gonna lick the salt off my neck	0
+2x15	do the shot	1	1	nf
+2x15	and then bite the lime	1	1	nf
+2x15	i'm sorry, i didn't hear	0
+2x15	anything after "lick"	0
+2x15	neck, shot, lime	0
+2x15	shot, lime	0
+2x15	right	0
+2x15	where's the lime	0
+2x15	we're sharing	0
+2x15	so, what do you think	0
+2x15	i'm very tempted	0
+2x15	i'm just not sure it's appropriate with my son's roommate	0
+2x15	normally, i'd feel the same way	0
+2x15	but based on everything i've observed about us,	0
+2x15	i can't help but speculate we'd be very good together	0
+2x15	true i've had a similar observation	0
+2x15	it's certainly something	0
+2x15	i could never do with my husband	0
+2x15	i was hesitant	0
+2x15	the first time i tried it,	0
+2x15	but i experienced an unanticipated and remarkable release of endorphins	0
+2x15	it's quite satisfying	0
+2x15	i see what you're doing	0
+2x15	you're appealing to the neuroscientific researcher in me	0
+2x15	you see right through me, don't you	0
+2x15	only when you're in a cat scanner	0
+2x15	this is actually gonna happen	1	1	nf
+2x15	honey, shush, shush	1	1	nf
+2x15	you shush, i'm happy	1	1	nf
+2x15	i want to talk about it	0
+2x15	you know what my mother would say	0
+2x15	she would say	0
+2x15	because you weren't loved by your father	0
+2x15	and i was not loved by my mother,	0
+2x15	that having sex is our way of making up for the intimacy	0
+2x15	we didn't get as children	0
+2x15	why would you bring that up	0
+2x15	right now	0
+2x15	i don't know	0
+2x15	foreplay	0
+2x15	so you're saying	0
+2x15	you're not having sex with me,	0
+2x15	you're having sex with your mother	0
+2x15	i'm gonna go with "no"	0
+2x15	that is the sickest thing	0
+2x15	i've ever heard	0
+2x15	come on, you're trying to have sex with your father and i'm okay with that	1	1	nf	
+2x15	get out	1	1	nf
+2x15	she said shush	0
+2x15	i should have shushed	0
+2x15	all right, mother	0
+2x15	have a nice flight	0
+2x15	that's not really in my control, is it	0
+2x15	good morning	0
+2x15	morning	0
+2x15	i was just coming over to talk to you	0
+2x15	you don't have to ever	0
+2x15	gotcha	0
+2x15	goodbye, mother	0
+2x15	goodbye	0
+2x15	so, slugger, shall we pick up where we left off last time	0
+2x15	i mean, my mom could've just said,	0
+2x15	"bob, get over it, she's a girl, move on"	1	1	nf
+2x15	but she didn't not one word	0
+2x15	interesting	0
+2x15	would you be willing to fly to new jersey and discuss your relationship	with your parents during a brain scan	1	1	nf
+2x15	would it help	0
+2x15	well, it would help me	0

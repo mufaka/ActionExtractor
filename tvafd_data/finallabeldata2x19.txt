@@ -1,0 +1,382 @@
+﻿2x19	okay, it's done look, guys,	0
+2x19	for the future, i don't mind killing the big spiders,	0
+2x19	but you have to at least try with the little ones	1	3	nf
+2x19	please we're facing a far more serious problem than stray arachnids	0
+2x19	it's not so bad	0
+2x19	not bad it's horrible	0
+2x19	you hear stories about this things,	0
+2x19	but you never think it'll happen to you	0
+2x19	so they steamed your dumplings	0
+2x19	get over it	1	1	nf
+2x19	new topic, please	1	1	nf
+2x19	all right, penny	0
+2x19	let me take this opportunity to point out that you are looking particularly ravishing today	0
+2x19	not with a thousand condoms, howard	0
+2x19	so, there is a number	0
+2x19	okay, new topic, please	1	1	nf
+2x19	did you hear the people upstairs in a are moving out	0
+2x19	what	0
+2x19	the people upstairs are moving out	0
+2x19	no	1	1	ni
+2x19	the horror	0
+2x19	why would you just say something like that	0
+2x19	how else was i supposed to say it	0
+2x19	slowly	0
+2x19	like putting a new fish in a tank	0
+2x19	you don't just drop it in	1	1	ni
+2x19	you let the bag sit in the water a while	1	1	nf
+2x19	the horror	0
+2x19	i'm sure it's going to be fine	0
+2x19	no, it's not going to be fine	0
+2x19	change is never fine	0
+2x19	they say it is, but it's not	0
+2x19	honey, did you even know the people that are moving out	0
+2x19	i never met them	0
+2x19	that's what made them perfect	0
+2x19	there were no awkward "hellos" in the halls	0
+2x19	there's no clicketyclacking of high heel shoes on hardwood floors	0
+2x19	they may as well have been a family of cats just jumping around from drape to drape without that annoying	0
+2x19	ammonia urine smell	0
+2x19	i'm sure the new people will be just as quiet	0
+2x19	you can't know that	0
+2x19	how can you possibly know that	0
+2x19	you're right, i can't you know what anyone could rent that apartment now	0
+2x19	an opera singer, the cast of stomp	0
+2x19	yeah, a tapdancing pirate with a wooden leg	0
+2x19	why are you making it worse	0
+2x19	i tried making it better	0
+2x19	he wouldn't go for it	0
+2x19	you're right	0
+2x19	that's a great idea	0
+2x19	what	0
+2x19	i'll take the apartment upstairs	0
+2x19	i can finally get away from my mother and we can all spend some more time together	0
+2x19	if you catch my drift	0
+2x19	the horror	0
+2x19	hold on you honestly expect me to believe that social protocol dictates we break our backs	1	1	nf
+2x19	helping wolowitz move,	0
+2x19	and then he only need buy us a pizza	0
+2x19	i'm sorry, that really is how it works	0
+2x19	you're tricking me	0
+2x19	you tell me the truth,	1	1	nf
+2x19	what do we get	0
+2x19	help me out here	1	1	nf
+2x19	you get to choose between a mountain bike or a ps	0
+2x19	i knew it	0
+2x19	ps, definitely ps	0
+2x19	who would pick a mountain bike	0
+2x19	enough with the guilt, ma	0
+2x19	we'll still see each other	0
+2x19	i'll come over every night and have dinner with you	0
+2x19	the hell you will	0
+2x19	what am i running here, a fancy restaurant	0
+2x19	does this look like olive garden	0
+2x19	okay, i get it, you're angry	0
+2x19	you don't want to see your little bird leave the nest	0
+2x19	"little bird"	0
+2x19	you're almost fly, for god's sake	1	1	nf
+2x19	fine, i'll stay	0
+2x19	ya happy, crazy lady	0
+2x19	i sure as hell hope so,	0
+2x19	because you're ruining my life	0
+2x19	hey, penny good news,	0
+2x19	you can take your head out of the oven	1	3	nf
+2x19	i guess i won't be needing this	0
+2x19	the new ones	0
+2x19	they're here	0
+2x19	stay calm we don't know	1	1	nf
+2x19	anything about them yet	0
+2x19	what are you doing	0
+2x19	i'm checking for musical instruments	0
+2x19	does that sound like castanets to you	0
+2x19	the box says "kitchen"	0
+2x19	so do cocaine smugglers write "cocaine" on the box	0
+2x19	hello	0
+2x19	hello	0
+2x19	hello	0
+2x19	i'm alicia	0
+2x19	i'm moving in upstairs	0
+2x19	that is so great	0
+2x19	oh, i'm leonard	0
+2x19	i live downstairs	0
+2x19	upstairs from here, but under you	0
+2x19	not under you per se, but under your apartment	0
+2x19	that's nice	0
+2x19	yeah, it is	0
+2x19	if that concludes your faltering attempt to mate	0
+2x19	on a scale of one to ten, how light of foot would you describe yourself, with one being not catlike at all, and ten being freakishly feline	0
+2x19	"freakishly feline"	0
+2x19	is that your answer or do you not understand the question	0
+2x19	we'll come back to that one	0
+2x19	hang on are you now	1	1	nf
+2x19	or have you ever been a salsa, irish folk or breakdancer	0
+2x19	you're making her uncomfortable	0
+2x19	oh, i'm sorry	0
+2x19	if it helps you feel any better,	0
+2x19	you're doing very well so far	0
+2x19	next question are you fertile	0
+2x19	what	0
+2x19	i'm trying to determine whether crying infants above my head are a possibility	0
+2x19	i have no immediate plans	0
+2x19	if that changes, let me know	1	1	nf
+2x19	and finally, area rugs, pro or con	0
+2x19	pro	0
+2x19	alicia	0
+2x19	yes	0
+2x19	welcome to the building	0
+2x19	thanks so much for helping me	0
+2x19	thank you so much for giving me the opportunity to help	0
+2x19	hey, guys	0
+2x19	this is alicia, our new neighbor	0
+2x19	hi	0
+2x19	hi	0
+2x19	i'm helping	0
+2x19	i can see	0
+2x19	alicia's nonmusical, childless and prorug	0
+2x19	she's still on probation, of course,	0
+2x19	but i like her	0
+2x19	cool tshirt	0
+2x19	oh, i don't usually dress like this	0
+2x19	i'm going jogging	0
+2x19	you don't jog	0
+2x19	i can start	0
+2x19	true, but the more likely explanation is	0
+2x19	that you're out of clean clothes again	0
+2x19	thank you, sheldon	0
+2x19	you're welcome, penny	0
+2x19	please, you look cute	0
+2x19	i'm dressed like a slob today, too	0
+2x19	i think you look fantastic	0
+2x19	this one's a player, huh	0
+2x19	yeah, be careful	1	4	nf
+2x19	thanks for the warning	0
+2x19	i'll see you around	0
+2x19	see ya	0
+2x19	i'm dressed like a slob today, too	0
+2x19	oh, mimicry	0
+2x19	i enjoy mimicry	0
+2x19	i've been working on admiral ackbar from return of the jedi	0
+2x19	"it's a trap"	0
+2x19	you have to imagine me with a giant squid head	1	1	nf
+2x19	"it's a trap"	0
+2x19	come	1	1	nf
+2x19	congratulations,	0
+2x19	i see you did your laundry	0
+2x19	sort of	0
+2x19	how does one "sort of"	0
+2x19	i bought new clothes, okay	0
+2x19	is leonard around	0
+2x19	he's upstairs at alicia's	0
+2x19	oh all right,	0
+2x19	that's cool, no biggie	0
+2x19	he said he'd help me set up my printer,	0
+2x19	but i guess i can wait	0
+2x19	what exactly is he doing up there	0
+2x19	in what i can only perceive as a tactical move to destroy me,	0
+2x19	he is with wolowitz and koothrappali	0
+2x19	setting up her stereo	0
+2x19	oh, they're all up there	0
+2x19	typical	0
+2x19	it's axiomatically atypical	0
+2x19	up until recently,	0
+2x19	they did not know her, and had no encounters with her in a previous location	0
+2x19	they never went upstairs to visit the former tenants	0
+2x19	your characterization of their behavior as "typical" is demonstrably fallacious	0
+2x19	now i see the giant squid head	0
+2x19	oh, great	0
+2x19	now, i have to start all over again	0
+2x19	yeah, i thought about renting this apartment,	0
+2x19	but i'm really more of a "downtown loft" kind of guy	0
+2x19	cool so are you in a loft now	0
+2x19	oh, actually, i'm, living with a woman in altadena	0
+2x19	purely platonic	0
+2x19	she's also my maid	0
+2x19	sounds like a sweet deal	0
+2x19	i won't lie it's pretty dope	0
+2x19	i just wanted to bring you a little housewarming gift	0
+2x19	that is so sweet	0
+2x19	come on in let's open it	1	3	nf
+2x19	great	0
+2x19	nice dress	0
+2x19	this i'm dressed like a slob today	0
+2x19	the guys have been helping me set up my sound system	0
+2x19	i've never had such goodlooking technical support	0
+2x19	pishposh	0
+2x19	i don't know, it means shucks	0
+2x19	"shucks" means shucks	0
+2x19	let one go once in a while	1	1	nf
+2x19	you want to hear something awesome	0
+2x19	alicia is an actress, just like you	0
+2x19	that is so awesome	0
+2x19	well, trying to be,	0
+2x19	but it's so hard	0
+2x19	i know, tell me about it	0
+2x19	i've been out here  months,	0
+2x19	and all i've gotten is a couple of national commercials	0
+2x19	and this recurring thing on a soap	0
+2x19	that's why i work at the cheesecake factory	0
+2x19	i'm holding out for the right part	0
+2x19	what do you want as your default setting for dvds,  dolby or dts	0
+2x19	whatever you think is best, cutie	0
+2x19	well, dts has more low end, so	0
+2x19	hey, guys, guys,	0
+2x19	you will really appreciate this	0
+2x19	i read the best science joke	0
+2x19	you won't get it,	0
+2x19	but it's right up their alley	0
+2x19	anyway,	0
+2x19	this physicist goes into an ice cream parlor every week and orders an ice cream sundae for himself,	0
+2x19	and then offers one to the empty stool sitting next to him	0
+2x19	this goes on for a while until the owner finally asks him what he's doing	0
+2x19	the man says, "well, i'm a physicist, "and quantum mechanics teaches us "that it is possible for the matter above this stool "to spontaneously turn into a beautiful woman "who might accept my offer and fall in love with me"	0
+2x19	the owner then says, "lots of single, beautiful women come in here ever day "buy an ice cream for one of them, and they might fall in love with you" and the physicist says, "yeah, but what are the odds of that happening"	0
+2x19	it's a little insulting,	0
+2x19	don't you think	0
+2x19	how would i know	0
+2x19	i'm not even sure i get it	0
+2x19	leonard	0
+2x19	if you're done with the dvd player,	0
+2x19	can you set up my printer	1	1	nf
+2x19	yeah, i'd love to	0
+2x19	maybe when you're done with her printer,	0
+2x19	you could set up mine	1	1	nf
+2x19	you know, like you promised a week ago	0
+2x19	yeah, i'll get to it	0 
+2x19	don't nag me	1	1	ni
+2x19	hello there	0
+2x19	who is it	0
+2x19	hello, penny	0
+2x19	it's open come in	0
+2x19	sarcasm	0
+2x19	well, they're all still up there	0
+2x19	you think i can't hear them	0
+2x19	listen to that stomp, stomp, stomp	1	1	nf
+2x19	that's wolowitz in his stacked heels that fool no one	0
+2x19	i don't even know why i care	0
+2x19	i don't care	0
+2x19	enough to memorize that stupid joke,	0
+2x19	but that's all i care	0
+2x19	you know, penny,	0
+2x19	there's something that occurs in beehives	0
+2x19	you might find interesting	0
+2x19	occasionally, a new queen will arrive while the old queen is still in power	0
+2x19	when this happens, the old queen must either locate to a new hive or engage in a battle to the death until only one queen remains	0
+2x19	what are you saying,	0
+2x19	that i'm threatened by alicia	0
+2x19	i'm like the old queen of the hive	0
+2x19	and it's just time for me to go	0
+2x19	i'm just talking about bees	0
+2x19	they're on the discovery channel	0
+2x19	what are you talking about	0
+2x19	bees	0
+2x19	i just got that physicist joke	0
+2x19	gee, penny,	0
+2x19	thanks for buying us dinner	0
+2x19	yeah, what's the occasion	0
+2x19	no occasion	0
+2x19	just felt like getting some chinese chow for my peeps	0
+2x19	did you remember to ask for the chicken to be diced, not shredded	0
+2x19	even though the menu description specifies shredded	0
+2x19	brown rice, not white	0
+2x19	did you stop at the grocery for the good hot mustard and pick up the lowsodium soy sauce from the market	0
+2x19	good	0
+2x19	see how it's done	1	3	nf
+2x19	what do we got going on tonight	0
+2x19	playing halo, watching battlestar, drop some mentos in diet coke	0
+2x19	you want to watch battlestar	0
+2x19	what can i say	0
+2x19	i got my geek on, boys	0
+2x19	no, pms is different	0
+2x19	thank god you're home i need help	0
+2x19	what's wrong	0
+2x19	i got a callback to audition for csi to play a hooker who gets killed	0
+2x19	i'd watch that	0
+2x19	but my car is in the shop,	0
+2x19	and i have to be at universal in  minutes	0
+2x19	i'll take you	0
+2x19	you're a lifesaver	0
+2x19	i'll run lines with you in the car	0
+2x19	great	0
+2x19	and afterward, i'll take you all out for chinese	0
+2x19	actually, we already have	0
+2x19	starving	0
+2x19	chinese food right here	0
+2x19	they're gone, penny	0
+2x19	they can't hear you	0
+2x19	i cannot believe they're letting her just use them like that	0
+2x19	anything she wants, they go panting after her like trained dogs	0
+2x19	you know last week,	0
+2x19	she had howard drive all the way o her uncle's house in orange county to pick up her tv	0
+2x19	you once had leonard and me get your television from your exboyfriend	0
+2x19	apples and oranges here, sheldon	0
+2x19	i'm telling you, that girl is a user,	0
+2x19	skating through life on her looks, taking advantage of weakwilled men, getting auditions for stupid network shows	0
+2x19	it just creams my corn	0
+2x19	may i interject something here	0
+2x19	please	1	1	nf
+2x19	you got the wrong mustard	0
+2x19	guess what	0
+2x19	i got the part on csi	0
+2x19	oh, boy	0
+2x19	something wrong	0
+2x19	no, you know, congratulations	0
+2x19	i think you'll make a great hooker	0
+2x19	thank you	0
+2x19	i got to ask you something	0
+2x19	how much do physicists make	0
+2x19	i don't know i don't think a lot	0
+2x19	yeah, that's what i figured	0
+2x19	well, got to run	0
+2x19	the guys promised to set up my satellite dish and paint my bedroom	0
+2x19	can i talk to you about that for a second	1	1	nf
+2x19	about what	0
+2x19	you know, it's just that leonard and howard and raj,	0
+2x19	they aren't like other guys	0
+2x19	they're special	0
+2x19	okay, they're special and	0
+2x19	let's see how can i explain this	0
+2x19	they don't know how to use their shields	0
+2x19	shields	0
+2x19	yeah, like in star trek, when you're in battle and you raise the shields where the hell'd that come from	0
+2x19	anyways, you know	0
+2x19	how guys like this are, so	0
+2x19	please don't take advantage of them	1	1	ni
+2x19	who says i'm taking advantage of them	0
+2x19	come on	0
+2x19	they're doing everything for you,	0
+2x19	because you're leading them on	0
+2x19	so i let them do stuff for me	0
+2x19	they're happy i get stuff	0
+2x19	who cares	0
+2x19	and how's it any different from what you do	0
+2x19	excuse me	0
+2x19	i've seen you around them	0
+2x19	are you pretending like you don't do the exact same thing	0
+2x19	okay, lady,	0
+2x19	you are way out of line	0
+2x19	i'm out of line	0
+2x19	yeah, you're out of line	0
+2x19	what are you going to do about it,	0
+2x19	bitch	0
+2x19	i like green lantern	0
+2x19	i'm just saying it's pretty lame that he can be defeated by the color yellow	0
+2x19	only the modern green lantern is vulnerable to yellow	0
+2x19	golden age green lantern was vulnerable to wood	0
+2x19	great, so i can take them both out with a numbertwo pencil	0
+2x19	oh, my god girl fight	0
+2x19	what are you doing	0
+2x19	i know you	0
+2x19	you're stupid enough to break it up	0
+2x19	may i say you look very comely tonight	0
+2x19	thank you	0
+2x19	you're right,	0
+2x19	this filly's been broken	0
+2x19	you set it on dts, didn't you	0
+2x19	i had to	0
+2x19	she called me "cutie"	0
+2x19	according to alicia's facebook page,	0
+2x19	she's hooking up with one of the producers on csi	0
+2x19	dead whore on tv, live one in real life	0
+2x19	great	0
+2x19	now she's jumping	0
+2x19	up and down on the bed	0

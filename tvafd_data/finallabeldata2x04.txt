@@ -1,0 +1,504 @@
+﻿2x04	let's see,	0
+2x04	raj was the kung pao–chicken	0
+2x04	i'm the dumplings	0
+2x04	yes, you are	0
+2x04	creepy, howard	0
+2x04	creepy good or creepy bad	0
+2x04	who was the shrimp with lobster sauce	0
+2x04	that would be me	0
+2x04	come to papa, you unkosher delight	1	1	nf
+2x04	i'm not necessarily	talking to the food	0
+2x04	sit over there	1	1	nf
+2x04	sit over there	1	1	nf
+2x04	baby wipe	0
+2x04	why do you have	0
+2x04	no, don't ask don't	1	1	ni
+2x04	i'll tell you why	0
+2x04	i had to sanitize my hands the university replaced the paper towels	in the rest rooms with hot air blowers	0
+2x04	i thought the blowers were more sanitary	0
+2x04	really, don't	0
+2x04	why	0
+2x04	hot air blowers	are incubators and spewers of bacteria and pestilence	0
+2x04	frankly, it'd be more hygienic if they had a plagueinfested gibbon	0
+2x04	sneeze my hands dry	0
+2x04	hey, guys, i just got	0
+2x04	the most amazing news	0
+2x04	do you think you'll ever be able to talk in front of me without being drunk	1	2	ni
+2x04	okay, i'll just, go eat by myself	0
+2x04	you don't have to do that	0
+2x04	it's okay, between him not talking, him talking and him	I'm better off alone	0
+2x04	goodbye, you poor, strange little man	0
+2x04	she's so considerate	0
+2x04	what's your news	0
+2x04	remember that little planetary object i spotted beyond the kuiper belt	0
+2x04	oh, yeah, nq sub	0
+2x04	or as i call it, planet bollywood	0
+2x04	anyway, because of my discovery,	0
+2x04	people magazine is naming me	0
+2x04	one of their  under  to watch	0
+2x04	congratulations	0
+2x04	that's incredible	0
+2x04	excuse me, what under  what to watch what visionaries under  years of age to watch as they challenge the preconceptions of their fields	0
+2x04	if i had a million guesses,	i never would have gotten that	0
+2x04	they've got me in with a guy who's doing something about hunger in indonesia, and a psychotherapist who's using	dolphins to rehabilitate prisoners, and ellen page,	star of the charming independent film, juno	0
+2x04	i'd so do her	0
+2x04	you'd do the dolphins	0
+2x04	do i get an honorable	0
+2x04	mention for designing	0
+2x04	the telescope camera	0
+2x04	mounting bracket you used	0
+2x04	sorry, it's not part of my heartwarming and personal narrative in which a humble boy from new delhi overcame poverty and prejudice and journeyed to america	to reach for the stars	0
+2x04	poverty	0
+2x04	your father's a gynecologist	0
+2x04	he drives a bentley	0
+2x04	it's a lease	0
+2x04	i'm confused	0
+2x04	was there some sort of peer review committee to determine which scientists would be included	0
+2x04	peer review	0
+2x04	it's people magazine	0
+2x04	people picked me	1	1	nf
+2x04	what people	0
+2x04	the people from people	0
+2x04	but exactly who are these people	0
+2x04	what are their credentials	0
+2x04	how are they qualified	0
+2x04	what makes accidentally	0
+2x04	noticing a hunk of rock	0
+2x04	that's been traipsing around the solar system for billions of years	0
+2x04	more noteworthy than any other scientific accomplishment made by someone under	0
+2x04	boy, i'll bet ellen page's friends	0
+2x04	aren't giving her this kind of crap	0
+2x04	are you proud of yourself	0
+2x04	in general, yes	0
+2x04	there's my missing neutrino	0
+2x04	you were hiding from me as an unbalanced charge, weren't you, you little subatomic dickens	0
+2x04	hey, look,	0
+2x04	i found my missing neutrino	0
+2x04	oh good, we can take it	off the milk carton	0
+2x04	we're going to apologize to raj	and invite him out to dinner	1	1	nf	
+2x04	apologize for what	0
+2x04	he came over last night	ith some pretty good news	0
+2x04	and we weren't very supportive	0
+2x04	i sense you're trying to tell me something	0
+2x04	you were a colossal asshat	0
+2x04	no, i beg to differ	of the three of us, i was by far the most supportive	0
+2x04	really do tell	1	1	nf
+2x04	how will raj ever reach true greatness	0
+2x04	if his friends lower the bar for him	0
+2x04	when i was ,	0
+2x04	my sister bought our father	a "world's greatest dad" coffee mug	0
+2x04	and, frankly, the man coasted until the day he died	0
+2x04	okay, let's try it this way	0
+2x04	what if this people magazine thing is the best he's ever gonna achieve	0
+2x04	i had not considered that	0
+2x04	come on	0
+2x04	i often forget	0
+2x04	other people have limitations	0
+2x04	it's so sad	0
+2x04	he can feel sadness	0
+2x04	not really	0
+2x04	it's what you and i	would call condescension	0
+2x04	now when we go in there,	0
+2x04	let's show raj that we're happy for him    1	1	nf
+2x04	but i'm not	   0
+2x04	well, then fake it	   0
+2x04	look at me	1	1	nf
+2x04	i could be grinding on the fact	0
+2x04	that without my stabilizing	0
+2x04	telescope mount	0
+2x04	he never would have found that stupid,	0
+2x04	little clump of cosmic schmutz	0
+2x04	but i'm bigger than that	0
+2x04	fine	0
+2x04	what do you want me to do	0
+2x04	smile	1	1	nf
+2x04	crap, that's terrifying	0
+2x04	we're here to see koothrappali, not kill batman	1	1	ni
+2x04	try less teeth	1	1	nf
+2x04	close enough	0
+2x04	come on	1	1	nf
+2x04	hey, raj	0
+2x04	hey, guys what's up	0
+2x04	we just wanted to invite you out to dinner	1	3	nf
+2x04	to celebrate your	0
+2x04	" under " thing	0
+2x04	right, sheldon	1	1	nf
+2x04	that's very nice of you	0
+2x04	i would like that	0
+2x04	hello, boys	0
+2x04	dr gablehauser	0
+2x04	dr koothrappali	0
+2x04	dr gablehauser	0
+2x04	dr hofstader	0
+2x04	dr gablehauser	0
+2x04	dr cooper	0
+2x04	dr gablehauser	0
+2x04	mr wolowitz	0
+2x04	boys, i've got a question for you	0
+2x04	who in this room	0
+2x04	discovered a star	0
+2x04	actually, nq sub	0
+2x04	is a planetary body	0
+2x04	i'm not talking about you,	0
+2x04	i'm talking about me	0
+2x04	you, my exotic young friend,	0
+2x04	are my star	0
+2x04	but you didn't discover him	0
+2x04	you merely noticed he was here,	0
+2x04	much like he did	0
+2x04	with nq sub	0
+2x04	sorry	0
+2x04	boy, we've got to get you into a better office	1	1	nf
+2x04	something more suited	0
+2x04	to your status	0
+2x04	you don't have to go to any trouble	0
+2x04	how about von gerlich's old office	1	3	nf
+2x04	i'd rather have fishbein's	0
+2x04	it's bigger	0
+2x04	wait a minute,	0
+2x04	i called dibs on fishbein's office	0
+2x04	the day he started showing up	0
+2x04	at work in his bathrobe	0
+2x04	he gets a new office, i can't even get	0
+2x04	paper towels in the men's room	0
+2x04	damn, this is hard	0
+2x04	let me ask you something	0
+2x04	what do you think	0
+2x04	the business of this place is	0
+2x04	science	0
+2x04	money	0
+2x04	told you	0
+2x04	and this boy's picture in people magazine is gonna raise us a pile of money taller than	0
+2x04	well, taller than you	0
+2x04	i have a master's degree	0
+2x04	who doesn't	0
+2x04	have you ever had lunch	in the president's dining room	0
+2x04	i didn't even know there was a president's dining room	0
+2x04	it's the same food as the cafeteria, only fresh	0
+2x04	come on, little buddy	0
+2x04	okay, big buddy	0
+2x04	see you tonight, guys	0
+2x04	you can stop smiling now	0
+2x04	so anyway, after a fantastic lunch,	0
+2x04	i was whisked off to the people magazine photo shoot	0
+2x04	have any of you boys ever been to a photo shoot	0
+2x04	it's fantastic	0
+2x04	apparently,	0
+2x04	the camera loves me and i, it	0
+2x04	they shot me in front of a starry background where i posed like this	0
+2x04	they're going to digitally add	0
+2x04	a supernova	0
+2x04	they say it's the perfect metaphor	0
+2x04	for my incandescent talent	0
+2x04	right, a ball of hot, flaming gas	0
+2x04	that collapses upon itself	0
+2x04	excuse me	0
+2x04	oh, it's my assistant, trevor	0
+2x04	go for koothrappali	0
+2x04	they gave him an assistant	0
+2x04	if i want a new pen, i have to go to the bank with wire cutters	0
+2x04	have we at this point	0
+2x04	met our social obligations	0
+2x04	not yet	1	1	ni
+2x04	okay, just put it on my calendar,	1	1	nf
+2x04	but start thinking of a reason	1	1	ni
+2x04	why i can't go	0
+2x04	all righty	0
+2x04	koothrappali out	0
+2x04	god bless that boy	1	2	nf
+2x04	i don't know what i'd do without him	0
+2x04	you just got him this afternoon	0
+2x04	yes, but i'm finding	0
+2x04	that having a lackey suits me	0
+2x04	a lackey	0
+2x04	i'm sorry	0
+2x04	is that politically incorrect	0
+2x04	in india, we just call them	0
+2x04	untouchables	0
+2x04	now	0
+2x04	almost	1	1	nf
+2x04	speaking of untouchables,	0
+2x04	i've got great news for you guys	0
+2x04	people magazine is having a reception this saturday and i managed to get you invited	1	3	nf
+2x04	gee, thanks	0
+2x04	you're welcome	0
+2x04	of course, i couldn't get you	0
+2x04	into the vip section	0
+2x04	because, you know, that's for vips	0
+2x04	and you guys are just,	0
+2x04	you know p's	0
+2x04	there's a tribe in papua new guinea	0
+2x04	where, when a hunter	0
+2x04	flaunts his success	0
+2x04	to the rest of the village,	0
+2x04	they kill him	0
+2x04	and drive away evil spirits	0
+2x04	with a drum made of his skin	0
+2x04	superstious nonsense, of course, but one can see their point	1	1	nf
+2x04	here you go, raj	0
+2x04	you might want to drink this one slowly	0
+2x04	so, saturday night,	0
+2x04	can i count on my posse	1	1	nf
+2x04	gee, i'd love to, raj,	0
+2x04	but i can't make it	0
+2x04	no, i could	0
+2x04	i can make it but i won't	0
+2x04	what are you talking about	0
+2x04	there's a reception	0
+2x04	for my magazine article on saturday	0
+2x04	and you guys aren't going	0
+2x04	i can't believe you raj is celebrating	0
+2x04	a tremendous accomplishment	0
+2x04	and you're not even going to support him	0
+2x04	a tremendous accomplishment would be	0
+2x04	if the planetary body he discovered	0
+2x04	were plummeting toward earth	0
+2x04	and he exploded it with his mind	0
+2x04	that would be cool	0
+2x04	i'd go to that reception	0
+2x04	come on, this is huge	0
+2x04	raj is gonna be in people magazine,	0
+2x04	and he didn't even have to knock up	0
+2x04	one of the spears sisters	0
+2x04	would you like to go with me	1	3	nf
+2x04	of course i would	0
+2x04	i would be honored	0
+2x04	really cool	0
+2x04	shame on you guys	0
+2x04	look at that,	0
+2x04	i got a date with penny	0
+2x04	i can't believe	0
+2x04	it took you a whole year	0
+2x04	now	1	1	nf
+2x04	now	1	1	nf
+2x04	hey, buddy,	0
+2x04	i'm going to be	0
+2x04	in people magazine	0
+2x04	yeah, call me	1	1	nf
+2x04	when you're on the cover	0
+2x04	raj, look at you	0
+2x04	i know i'm resplendent	0
+2x04	like the noonday sun, am i not	0
+2x04	yeah starting with the champagne	0
+2x04	a little early, aren't you	0
+2x04	it was in the limo	0
+2x04	they sent a limo	0
+2x04	i have a limo	0
+2x04	i just love saying "limo"	0
+2x04	sip on it while you're getting ready	0
+2x04	i'm ready	0
+2x04	that's what you're wearing	0
+2x04	why, what's wrong with it	0
+2x04	nothing i was just hoping	0
+2x04	for something a little more, you know,	0
+2x04	ridonkulous	0
+2x04	yeah well, this is all the donkulous	0
+2x04	you're gonna get tonight	0
+2x04	okeydokey, let's roll	0
+2x04	all right, it's time to raise the roof	0
+2x04	hey, leonard	0
+2x04	dude	0
+2x04	you look very nice	0
+2x04	thank you	0
+2x04	come on good night	1	1	nf
+2x04	good night	0
+2x04	hey, leonard, do you	0
+2x04	see my limo downstairs	0
+2x04	it's bigger than the house	0
+2x04	my grandfather grew up in	0
+2x04	terrific	0
+2x04	it has more food, too	0
+2x04	come on come on	1	1	nf		
+2x04	good news you don't have to sulk	0
+2x04	about penny anymore	0
+2x04	there are hundreds of croatian women	0
+2x04	just waiting for you to contact them	0
+2x04	anythingforagreencardcom	0
+2x04	i'll lend you my user name	0
+2x04	it's "wealthy big penis"	0
+2x04	you're joking	0
+2x04	you gotta make it easy for 'em	0
+2x04	they're just learning english	0
+2x04	pass	0
+2x04	so you're just gonna	0
+2x04	sit around here and mope	0
+2x04	while penny is out with dr apu	0
+2x04	from the kwike mart	0
+2x04	it's not a date,	0
+2x04	and that's racist	0
+2x04	it can't be racist	0
+2x04	he's a beloved character	0
+2x04	on the simpsons	0
+2x04	let's just eat	1	1	nf
+2x04	so i can get to bed	0
+2x04	with any luck, tonight will be the night my sleep apnea kills me	1	2	nf
+2x04	did you ask for the chicken	0
+2x04	with broccoli to be diced, not shredded	0
+2x04	even though the menu description	0
+2x04	specifies "shredded"	0
+2x04	brown rice, not white	0
+2x04	did you stop at the korean grocery	0
+2x04	and get the good hot mustard	0
+2x04	did you pick up the low sodium	0
+2x04	soy sauce from the market	0
+2x04	thank you	0
+2x04	you're welcome	0
+2x04	what took you so long	0
+2x04	just sit down and eat	1	1	nf
+2x04	fine	0
+2x04	all right, it's shredded	0
+2x04	what do you want me to do	0
+2x04	i want you to check before you accept the order	1	1	nf
+2x04	sorry	0
+2x04	were you distracted by the possibility	0
+2x04	that koothrappali	0
+2x04	might have intercourse	0
+2x04	with penny tonight	0
+2x04	he's not going to have	0
+2x04	intercourse with penny	0
+2x04	then there's no excuse	0
+2x04	for this chicken	0
+2x04	you know, this situation	0
+2x04	with koothrappali	0
+2x04	brings to mind	0
+2x04	a story from my childhood	0
+2x04	oh, goody, more tales	0
+2x04	from the panhandle	0
+2x04	that's northwest texas	0
+2x04	i'm from east texas,	0
+2x04	the gulf region,	0
+2x04	home to many vietnamese shrimpers	0
+2x04	do the shrimpers feature	0
+2x04	in your story	0
+2x04	anyway,	0
+2x04	when i was eight,	0
+2x04	a montgomery ward delivery van	0
+2x04	ran over our family cat lucky	0
+2x04	lucky	0
+2x04	yes, lucky	0
+2x04	he's ironyimpaired	0
+2x04	just move on	1	1	nf
+2x04	dead cat named lucky	0
+2x04	continue	1	1	nf
+2x04	while others mourned lucky,	0
+2x04	i realized his untimely demise	0
+2x04	provided me with the opportunity to replace him	with something more suited to my pet needs	0
+2x04	a faithful companion	0
+2x04	that i could snuggle with at night,	0
+2x04	yet would be capable of killing	0
+2x04	upon telepathic command	0
+2x04	so not a puppy	0
+2x04	please, nothing so pedestrian	0
+2x04	i wanted a griffin	0
+2x04	a griffin	0
+2x04	yes, half eagle, half lion	0
+2x04	and mythological	0
+2x04	irrelevant	0
+2x04	i was studying	0
+2x04	recombinant dna technology,	0
+2x04	and i was confidant i could create one,	0
+2x04	but my parents were unwilling to secure the necessary	0
+2x04	eagle eggs and lion semen	0
+2x04	of course, my sister got swimming	0
+2x04	lessons when she wanted them	0
+2x04	not that we don't all enjoy	0
+2x04	a good lion semen story,	0
+2x04	but what's your point	0
+2x04	my point is	0
+2x04	if koothrappali is moving on to a new life	0
+2x04	of shallow undeserved fame,	0
+2x04	perhaps this is an opportunity to create a better cohort	0
+2x04	you want to breed a new friend	0
+2x04	that's one option,	0
+2x04	but who has the time	0
+2x04	but consider this	0
+2x04	the japanese are doing	0
+2x04	some wonderful work	0
+2x04	with artificial intelligence	0
+2x04	now, you combine that	0
+2x04	with some animatronics	0
+2x04	from the imagineers over at disney,	0
+2x04	next thing you know,	0
+2x04	we're playing halo	0
+2x04	with a multilingual abraham lincoln	0
+2x04	don't take this the wrong way,	0
+2x04	but you're insane	0
+2x04	that may well be, but the fact is	0
+2x04	it wouldn't kill us to meet some new people	0
+2x04	for the record, it could kill us to meet new people	0
+2x04	they could be murderers	0
+2x04	or the carriers of unusual pathogens	0
+2x04	and i'm not insane	0
+2x04	my mother had me tested	0
+2x04	if we do get a new friend,	0
+2x04	he should be a guy you can trust	0
+2x04	a guy who has your back	0
+2x04	and he should have a lot of money	0
+2x04	and live in a cool place by the beach	0
+2x04	where we could throw parties	0
+2x04	and share our love of technology	0
+2x04	and he should know a lot of women	0
+2x04	let's see, money,	0
+2x04	women, technology	0
+2x04	okay, we're agreed	0
+2x04	our new friend is going to be iron man	0
+2x04	welcome to the raj mahal	0
+2x04	it's very nice	0
+2x04	good night	0
+2x04	wait the evening's not over	0
+2x04	yes, it is	1	1	nf
+2x04	no, it's time to put on some r kelly and suck face	1	1	ni
+2x04	is the evening over	0
+2x04	wait, wait, wait	1	1	nf
+2x04	that's my mommy and daddy	0
+2x04	calling from india	0
+2x04	i want you to meet my parents	0
+2x04	wait meet them	0
+2x04	hello, mommy, daddy	0
+2x04	good to see you	0
+2x04	how are you	0
+2x04	i'm not drunk	0
+2x04	why would you say that	0
+2x04	just making conversation	0
+2x04	mommy, daddy, i want you to meet my new squeeze, penny	0
+2x04	i'm not your squeeze	1	1	ni
+2x04	there is no squeezing	0
+2x04	i can't see her	0
+2x04	center her in the frame	1	1	nf
+2x04	here you go cute, huh	0
+2x04	she's not indian	0
+2x04	so she's not indian	0
+2x04	the boy is just sowing some wild oats	0
+2x04	there's no sowing, no squeezing	and no sucking face	1	1	ni
+2x04	what if he gets her pregnant	0
+2x04	is this little hotsytotsy who you want	0
+2x04	as the mother of your grandchildren	0
+2x04	what right do you have to pick	0
+2x04	with whom i can have children with	0
+2x04	look, rajesh, i understand,	0
+2x04	you're in america	0
+2x04	you want to try	0
+2x04	the "local cuisine"	0
+2x04	trust me	1	1	nf
+2x04	you don't want it for a steady diet	0
+2x04	now you listen to me	1	1	nf
+2x04	i am no longer a child	0
+2x04	and i will not be	0
+2x04	spoken to like one	0
+2x04	now if you'll excuse me,	0
+2x04	i have to go throw up	0
+2x04	what's wrong with him	0
+2x04	i don't know	0
+2x04	maybe it's the local cuisine	0
+2x04	well, it's nice to meet you	0
+2x04	i'm just gonna set you on down over here	0
+2x04	and i'm gonna leave, so	0
+2x04	namaste	0
+2x04	and fyi, you'd be lucky to have me as a daughterinlaw	0
+2x04	she's feisty	0
+2x04	i like that	0
+2x04	raj, what are you doing	0
+2x04	no notes if you have	0
+2x04	something to say to me, say it	1	1	nf
+2x04	sorry	0
+2x04	sweetie, it's okay	0

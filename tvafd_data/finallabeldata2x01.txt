@@ -1,0 +1,966 @@
+﻿2x01	so you see, what you're eating is not technically yogurt,because it doesn't have enough live acidophilus cultures	0
+2x01	it's really just ice milk with carrageenan added for thickness	0
+2x01	that's very interesting	0
+2x01	it's also not pink and has no berries	0
+2x01	yeah, but it doesn't really answer my question	0
+2x01	what was your question again	0
+2x01	do you want some	0			
+2x01	right	0
+2x01	no	0
+2x01	i'm lactose intolerant	0
+2x01	right	0
+2x01	so, gas	0
+2x01	yeah, got it	0
+2x01	well, good night	0
+2x01	what are you doing	0
+2x01	there's a draft	0
+2x01	i didn't feel a draft	0
+2x01	why don't we just go into, your	0
+2x01	yeah, you know what, maybe we should slow things down a little	0
+2x01	i didn't mean to  go into your apartment to go fast	0
+2x01	no, i know	0
+2x01	i know what you meant, it's just this is only our first date	0
+2x01	okay, sure, no problem	0
+2x01	why don't we just figure out where we're going and when we want to get there, and then rate of speed equals distance over time, solve for r	0
+2x01	or we could just wing it	0
+2x01	that might work, too	0
+
+
+2x01	good night, leonard	0
+
+
+2x01	good night	0
+
+
+2x01	he's coming	0
+
+
+2x01	screensaver	1	1	nf
+
+
+2x01	hey, leonard	0
+
+
+2x01	how was your date	0
+
+
+2x01	bite me	0
+
+
+2x01	sheldon, how could you just sit there and let them spy on me	0
+
+
+2x01	they were clever	0
+
+
+2x01	they exploited my complete lack of interest in what you were doing	0
+
+
+2x01	you should thank us	0
+
+
+2x01	when future generations try to determine why your relationship with penny crashed and burned,this right here is the black box	0
+
+
+2x01	what are you talking about	0
+
+
+2x01	the date went fine	0
+
+
+2x01	she said she wantsto slow things down	0
+
+
+2x01	okay, so she said she wants to slow things down	0
+
+
+2x01	it's like saying, i'm really enjoying this meal	0
+
+
+2x01	i'm going to slow down and savor it	0
+
+
+2x01	no, it's like, this fish tastes bad, so i'm gonna slow down and spit it out	0
+
+
+2x01	you being the fish	0	
+
+
+2x01	i'm not the fish	0
+
+
+2x01	really	0
+
+
+2x01	did you make a second date	0
+
+
+2x01	no, we sort of decided to wing it	0
+
+
+2x01	even i know that's lame	0
+
+
+2x01	okay, all right,let's assume your hypothesis	1	3	nf
+
+
+2x01	we went to dinner, we talked, we laughed, we kissed	0
+
+
+2x01	where could i have possibly gone wrong	0
+
+
+2x01	think back, leonard	1	1	nf
+
+
+2x01	the littlest things can set women off	0
+
+
+2x01	like, hey, the waitress is hot, i bet we could get her to come home with us	0
+
+
+2x01	or, how much does your mom weigh	0
+
+
+2x01	i want to know what i'm getting into	0
+
+
+2x01	i didn't say anything like that	0
+
+
+2x01	good, 'cause they don't work	0
+
+
+2x01	they also don't care for it if you stare at them and hyperventilate	0
+
+
+2x01	sadly, that's my home run swing	0
+
+
+2x01	look, everything went fine	0
+
+
+2x01	i didn't even have to refer to my impromptu conversation starters	0
+
+
+2x01	that woman across the hall is into me	0
+
+
+2x01	let's go to the tape	1	1	nf
+
+
+2x01	look at her reaction to the good night kiss	1	1	nf
+
+
+2x01	no change in respiration, pupils un-dilated, no flushing of the chest	0
+
+
+2x01	nice close-up, by the way	0
+
+
+2x01	interesting	0
+
+
+2x01	her jaws are clenched:no tongue access	0
+
+
+2x01	clearly a bad sign amongst mating humans	0
+
+
+2x01	that's not a bad sign	0
+
+
+2x01	please, you might as well have been two iguana with no dewlap enlargement	0
+
+
+2x01	and the worst sign of all is you're here and not there	0
+
+
+2x01	i'm not there because i'm taking things slow, which, by the way, compared to you guys, approaches warp speed	0
+
+
+2x01	and take down that camera	1	1	nf
+
+
+2x01	he was a lot more fun when he had no hope	0
+
+
+2x01	give him time	1	1	nf
+
+
+2x01	hi	0
+
+
+2x01	oh, hi, penny	0
+
+
+2x01	fyi, the hot water is inadequate on machine two, so colors only, and four is still releasing the fabric softener too early in the cycle, so avoid using it for your delicates	1	1	nf
+
+
+2x01	thanks	0
+
+
+2x01	good lord	0
+
+
+2x01	why don't you just take your clothesdown to the river and beat them with a rock	0
+
+
+2x01	can i ask you a question	0
+
+
+2x01	i would prefer that you not, but i won't go so far as to forbid it	1	2	ni
+2x01	all right, i heard yes, so	0
+
+
+2x01	here's my question	0
+
+
+2x01	has leonard ever dated, you know, a regular girl	0
+
+
+2x01	i assume you're not referring to digestive regularity	0
+
+
+2x01	because i've come to learn that such inquiries are inappropriate	0
+
+
+2x01	no, i meant, has he ever been involved with someone who wasn't a brainiac	0
+
+
+2x01	a few years ago, he did go out with a woman who had a phd in french literature	0
+
+
+2x01	how is that not a brainiac	0
+
+
+2x01	well, for one thing, she was french	0
+
+
+2x01	for another, it was literature	0
+
+
+2x01	so	0
+
+
+2x01	do you think that if leonard and i keep dating, he'll eventually get bored with me	0
+
+
+2x01	that depends	0
+
+
+2x01	on what	0
+
+
+2x01	do you have a working knowledge of quantum physics	0
+
+
+2x01	do you speak klingon	0
+
+
+2x01	you know any card tricks	0
+
+
+2x01	okay, you know what	0
+
+
+2x01	i get it	0
+
+
+2x01	leonard has no business being involved with a waitress-slash-actress who felt so insecure that she lied to him about finishing community college	0
+
+
+2x01	why would you lie about that	0
+
+
+2x01	he was going on and on about this college and that grad school,i didn't want him to think i was some kind of stupid loser	0
+
+
+2x01	you thought the opposite of stupid loser was community college graduate	0
+
+
+2x01	you know, there are a lot of successful people in this country who are community college graduates	0
+
+
+2x01	yeah, but you are neither	0
+
+
+2x01	right	0
+
+
+2x01	okay, this is between you and me	0
+
+
+2x01	you cannot tell leonard any of this	1	1	ni
+
+
+2x01	you're asking me to keep a secret	0
+
+
+2x01	well, i'm sorry,but you would have had to express that desire before revealing the secret, so i could've chosen if i wanted to accept the covenant of secret keeping	0
+
+
+2x01	you can't impose a secret on an ex post facto basis	1	1	ni
+
+
+2x01	what	0
+
+
+2x01	secret keeping is a complicated endeavor	0
+
+
+2x01	one has to be concerned not only about what one says, but about facial expressions, autonomic reflexes	0
+
+
+2x01	when i try to deceive, i myself have more nervous tics than a lyme disease research facility	0
+
+
+2x01	it's a joke	0
+
+
+2x01	it relies on the homonymic relationship between tick, the bloodsucking arachnid, and tic, the involuntary muscular contraction	0
+
+
+2x01	i made it up myself	0
+
+
+2x01	okay, look, if leonard finds out that i lied,i will absolutely die of embarrassment	0
+
+
+2x01	physiologically impossible	0
+
+
+2x01	sheldon, please	1	1	nf
+
+
+2x01	look, i am asking you as a friend	0
+
+
+2x01	so you're saying that friendship contains within it an inherent obligation to maintain confidences	0
+
+
+2x01	yeah	0
+
+
+2x01	interesting	0
+
+
+2x01	one more question, and perhaps i should have led with this	0
+
+
+2x01	when did we become friends	0
+
+
+2x01	ie, i couldn't become green lantern unless i was chosen by the guardians of oa, but given enough start-up capital and an adequate research facility, i could be batman	0
+
+
+2x01	you could be batman	0
+
+
+2x01	sure	0
+
+
+2x01	i'm batman	0
+
+
+2x01	see	0
+
+
+2x01	hi, guys	0
+
+
+2x01	hi, penny	0
+
+
+2x01	if you're free friday night, i thought maybe we could go see a movie	1	3	nf
+
+
+2x01	oh, you know, i think i have the dinner shift on friday	0
+
+
+2x01	what about saturday	0
+
+
+2x01	i'm not sure; the manager hasn't posted the schedule yet	0
+
+
+2x01	how about i let you know	0
+
+
+2x01	great	0
+
+
+2x01	so you just let me know when you know	0
+
+
+2x01	okay, so	0
+
+
+2x01	oh, god, i am the bad fish	0
+
+
+2x01	what did i do wrong	0
+
+
+2x01	why are you asking me	0
+
+
+2x01	i have no information about your interactions with penny other than what you have provided me, nor do i have any method of learning such things	0
+
+
+2x01	what does that mean	0
+
+
+2x01	nothing	0
+
+
+2x01	you seem to be implying an informational back-channel between me and penny where obviously none exists	0
+
+
+2x01	no, i didn't	0
+
+
+2x01	i just think you need to be careful how you phrase things, sir	1	1	nf
+
+
+2x01	what's going on with you	0
+
+
+2x01	i might ask you the same question	0
+
+
+2x01	why are you attempting to drag me into matters which have nothing to do with me, but exist between you and penny, a person to whom i barely speak	0
+
+
+2x01	what's wrong with your face	0
+
+
+2x01	there's no reason to bring my looks into this	0
+
+
+2x01	good day, leonard	0
+
+
+2x01	what	0
+
+
+2x01	i said, good daygood day	0
+
+
+2x01	also today, we have a fresh-caught alaska salmon, and that's served with a teriyaki glaze and sticky rice	0
+
+
+2x01	our soup of the day is	0
+
+
+2x01	you must release me from my oath	1	1	nf
+
+
+2x01	sheldon, i'm working	1	1	nf
+
+
+2x01	why don't you take a minute to decide	1	3	ni
+
+
+2x01	oh, my	0
+
+
+2x01	i can't keep your secret	0
+
+
+2x01	i'm going to fold like an energy-based de novo protein in conformational space	0
+
+
+2x01	like a renaissance tryptich	0
+
+
+2x01	like a cheap suit	0
+
+
+2x01	look, why is it so hard for youto keep one little secret	0
+
+
+2x01	i'm constitutionally incapable	0
+
+
+2x01	that's why i was refused clearance for a prestigious government research fellowship at a secret military supercollider located beneath a fake agricultural station 12 and half miles southeast of traverse city, michigan	0
+
+
+2x01	which you did not hear about from me	1	1	ni
+
+
+2x01	just forget i told you about me not graduating from community college	1	1	nf
+
+
+2x01	forget	0
+
+
+2x01	you want me to forget	0
+
+
+2x01	this mind does not forget	0
+
+
+2x01	i haven't forgotten a single thing since my mother stopped breastfeeding me	0
+
+
+2x01	it was a drizzly tuesday	0
+
+
+2x01	okay	0
+
+
+2x01	you promised me you would keep my secret, so just figure out a way to do it	1	1	nf	
+
+
+2x01	leonard, i'm moving out	0
+
+
+2x01	what do you mean, you're moving out	0
+
+
+2x01	why	0
+
+
+2x01	there doesn't have to be a reason	0
+
+
+2x01	yeah, there kinda does	0
+
+
+2x01	not necessarily	0
+
+
+2x01	this is a classic example of munchausen's trilemma	0
+
+
+2x01	either the reason is predicated on a series of sub-reasons leading to an infinite regression, or it tracks back to arbitrary axiomatic statements, or it's ultimately circular, ie i'm moving out because i'm moving out	0
+
+
+2x01	i'm still confused	0
+
+
+2x01	leonard, i don't see how i could have made it any simpler	0
+
+
+2x01	hey, qu'est-ce que s'up	0
+
+
+2x01	we just got back from that exhibit of those plasticized human cadavers	0
+
+
+2x01	and some of those skinless chicks were hot	0
+
+
+2x01	if you'll excuse me, i'm going to pack	0
+
+
+2x01	that's kind of an overreaction to a little harmless necrophilia	0
+
+
+2x01	it's not you, howard	0
+
+
+2x01	he says he's moving out	0
+
+
+2x01	what did you do	0
+
+
+2x01	did you change the contrast or brightness settings on the tv	0
+
+
+2x01	did you take a band-aid off in front of him	0
+
+
+2x01	did you buy generic ketchup, forget to rinse the sink, talk to him through the bathroom door	0
+
+
+2x01	adjust the thermostat, cook with cilantro, pronounce the t in often	0
+
+
+2x01	did you make fun of trains	0
+
+
+2x01	no, i didn't do anything	0
+
+
+2x01	he's just gone insane	0
+
+
+2x01	we all knew this day was coming	0
+
+
+2x01	that was fast	0
+
+
+2x01	it's my pre-packed disaster evacuation bag	0
+
+
+2x01	it's recommended by the department of homeland security	0
+
+
+2x01	and sarah connor	0
+
+
+2x01	where are you going to live	0
+
+
+2x01	until i find a permanent place, i will stay with friends	0
+
+
+2x01	bye	0
+
+
+2x01	you can't stay with me	0
+
+
+2x01	i have a teeny-tiny apartment	0
+
+
+2x01	excuse me, but isn't hosting guests an aspect of manushya yajna, one of the five central religious duties or sacrifices of the hindu householder	0
+
+
+2x01	i hate trains	0
+
+
+2x01	don't be ridiculous,you love trains	1	1	ni
+
+
+2x01	yes, i do	0
+
+
+2x01	come on	0
+
+
+2x01	see you later, leonard	0
+
+
+2x01	this could work	0
+
+
+2x01	this is a very old building	0
+
+
+2x01	60 years	0
+
+
+2x01	it used to be a watch factory	0
+
+
+2x01	what	0
+
+
+2x01	don't you worry about the residual radium from the luminous dials	0
+
+
+2x01	not until now	0
+
+
+2x01	i can't believe i didn't bringmy geiger counter	0
+
+
+2x01	i had it on my bed and i didn't pack it	0
+
+
+2x01	if you're not comfortable staying	0
+
+
+2x01	i'm kidding, i packed it	0
+
+
+2x01	it was a joke	0
+
+
+2x01	i was subverting the conversational expectations	0
+
+
+2x01	i believe they call that the ol' switcheroo	0
+
+
+2x01	terrific	0
+
+
+2x01	is that woman aishwarya rai	0
+
+
+2x01	yes, isn't she an amazing actress	0
+
+
+2x01	actually, i'd say she's a poor man's madhuri dixit	0
+
+
+2x01	how dare you	0
+
+
+2x01	aishwarya rai is a goddess	0
+
+
+2x01	by comparison, madhuri dixit is a leprous prostitute	0
+
+
+2x01	sorry, i didn't mean to offend you	0
+
+
+2x01	obviously, you're not that familiar with indian cinema	0
+
+
+2x01	who is it	0
+
+
+2x01	strip-o-gram	0
+
+
+2x01	tag, you're it	0
+
+
+2x01	shouldn't you put him in a brown paper bag and set him on fire	0
+
+
+2x01	i've never slepton an air mattress before	0
+
+
+2x01	no lumbar support whatsoever	0
+
+
+2x01	maybe you'd be happier on a park bench	0
+
+
+2x01	i don't see any way to get a park bench in here	0
+
+
+2x01	do you want to switch	0
+
+
+2x01	no, that's fine	0
+
+
+2x01	i'm perfectly comfortable sleeping on a bouncy castle	0
+
+
+2x01	get out of bed	1	1	nf
+
+
+2x01	we're switching	1	1	nf
+
+
+2x01	only if you want to	0
+
+
+2x01	just get in the bed	1	1	nf
+
+
+2x01	what's going on	0
+
+
+2x01	are you boys roughhousing	1	1	nf
+
+
+2x01	we're just talking, ma	0
+
+
+2x01	if you don't settle down right now,i'm not going to let you have any more sleepovers	1	1	ni	
+
+
+2x01	for god's sake, ma,i'm 27 years old	0
+
+
+2x01	and it's not even a school night	0
+
+
+2x01	comfy now	0
+
+
+2x01	that poster of halle berry is a little unnerving	0
+
+
+2x01	so don't look at it	1	1	ni
+
+
+2x01	she's like my fourth favorite catwoman	0
+
+
+2x01	no kidding	0
+
+
+2x01	yeah, julie newmar, michelle pfieffer,eartha kitt, and then her	0
+
+
+2x01	what about lee merriweather	0
+
+
+2x01	i forgot about lee merriweather	0
+
+
+2x01	i'm glad that's settled	0
+
+
+2x01	that makes halle berry my fifth favorite catwoman	0
+
+
+2x01	it's julie newmar, michelle pfieffer,eartha kitt, lee merriweather	0
+
+
+2x01	please, i'm begging you	0
+
+
+2x01	go to sleep	1	1	nf
+
+
+2x01	i'm trying	0
+
+
+2x01	i'm counting catwomen	0
+
+
+2x01	she did make a fine mutant in the x-men movies, though	0
+
+
+2x01	for god's sake	0
+
+
+2x01	she's not my favorite of the x-men	0
+
+
+2x01	in order that would be:wolverine, cyclops	0
+
+
+2x01	i forgot professor x	0
+
+
+2x01	professor x, wolverine, cyclops,iceman, then storm,angel, the beast--no, wait, nightcrawler, professor x, nightcrawler, wolverine, cyclops, iceman, storm, angel	0
+
+
+2x01	i'm coming	0
+
+
+2x01	there he is	0
+
+
+2x01	there my old buddy bud bud	0
+
+
+2x01	what's with him	0
+
+
+2x01	koothrappali dumped him on me, and he couldn't get to sleep, so i gave him a glass of warm milk with a handful of my mom's valium in it, but he still wouldn't shut up, so tag, you're it	0
+
+
+2x01	i'm ba-ack	0
+
+
+2x01	i still don't know why you left	0
+
+
+2x01	i can't tell you	0
+
+
+2x01	why not	0
+
+
+2x01	i promised penny	0
+
+
+2x01	you promised penny what	0
+
+
+2x01	i wouldn't tell you the secret	0
+
+
+2x01	what secret	0
+
+
+2x01	tell me the secret	1	1	nf
+
+
+2x01	mom smokes in the car	0
+
+
+2x01	jesus is okay with it but we can't tell dad	0
+
+
+2x01	not that secret	0
+
+
+2x01	the other secret	1	1	nf
+
+
+2x01	i'm batman	0
+
+
+2x01	damn it	0
+
+
+2x01	sheldon	0
+
+
+2x01	you said penny told you a secret	0
+
+
+2x01	what's the secret	0
+
+
+2x01	okay, i'll tell you, but you can't tell leonard	1	1	ni
+
+
+2x01	i promise	0
+
+
+2x01	penny lied about graduating from community college cause she's afraid she's not smart enough for leonard	0
+
+
+2x01	so it's nothing i did	0
+
+
+2x01	it's her problem	0
+
+
+2x01	i drank milk that tasted funny	0
+
+
+2x01	penny thinks i'm too smart for her	0
+
+
+2x01	that's ridiculous	0
+
+
+2x01	i know	0
+
+
+2x01	most of your workis extremely derivative	0
+
+
+2x01	and don't worry, that's not a secret	0
+
+
+2x01	everybody knows	0
+
+
+2x01	hi	0
+
+
+2x01	yeah, hi	0
+
+
+2x01	i know what's been bothering you about us, and i have the answer	0
+
+
+2x01	what are you talking about	0
+2x01	first, i wanna say that it's not sheldon's fault	0
+2x01	he tried very hard to keep your secret	0
+2x01	if howard hadn't drugged him, he would've taken it to his grave	0
+2x01	he told you	0
+2x01	yes, but it's okay	0
+2x01	now that we know what the problem is there's a simple solution	0
+2x01	pasadena city college	0
+2x01	a place for fun, a place for knowledgethis man here is playing hackey-sack, and this girl's gonna be a paralegal	0
+2x01	oh, i get it	0
+2x01	because dr leonard hofstadter can't date a girl without a fancy college degree	0
+2x01	it's really not that fancy	0
+2x01	it's just a city college	0
+2x01	right, but i have to have some sort of degree to date you	0
+2x01	that doesn't matter to me at all	0
+2x01	so it's fine with you if i'm not smart	0
+2x01	absolutely	0
+2x01	okay, this time, i know where i went wrong	0
+2x01	bite me	0

@@ -1,0 +1,455 @@
+﻿3x05	all right, raj has played his phantom warlord card,	0
+3x05	and i am going to back him up with my strangling vines	0
+3x05	choke on that, sucka	0
+3x05	okay, well, then i'll just cut your vines with my ruby sword	0
+3x05	that's right, i did it i cut 'em	0
+3x05	um	0
+3x05	i have a question	0
+3x05	warlord beats troll, troll beats elf,	0
+3x05	elf beats water sprite,	0
+3x05	and basically everything beats enchanted bunny	0
+3x05	unless you have the carrot power	0
+3x05	okay, i've got another question	0
+3x05	when does this get fun	0
+3x05	are we going to talk	0
+3x05	or are we going to play	0
+3x05	"mystic warriors of kaah"	0
+3x05	just play potion card	1	1	nf
+3x05	which one	0
+3x05	it doesn't matter	0
+3x05	you can't possibly win	0
+3x05	sheldon, don't ruin the game	1	1	ni
+3x05	how could he ruin the game	0
+3x05	given the cards that have	0
+3x05	already been played,	0
+3x05	penny can only be holding necromancer potions,	0
+3x05	which are only effective against wraiths and daywalkers,	0
+3x05	and there are no more of either left to be drawn	0
+3x05	the cards remaining in the undrawn stack are four fire weapons, a troll, two ogres and the jewel of osiris	0
+3x05	see ruined	0
+3x05	sheldon, that is incredible	0
+3x05	from your vantage point,	0
+3x05	it certainly must seem so	0
+3x05	sheldon has kind of	0
+3x05	a photographic memory	0
+3x05	"photographic" is a misnomer	0
+3x05	i have an eidetic memory,	0
+3x05	as i've told you many times	0
+3x05	most recently last year during lunch on the afternoon of may seventh	0
+3x05	you had turkey and complained it was dry	0
+3x05	well, i guess game'over	0
+3x05	really oh, great	0
+3x05	i mean, aw	0
+3x05	okay, i gotta go	0
+3x05	why	0
+3x05	because the last me i didn't go,	0
+3x05	i ended up playing "mystic warlords of ka"	0
+3x05	not "ka kaah"	0
+3x05	buheye	0
+3x05	see ya	0
+3x05	still can't believe	0
+3x05	she's going out with me	0
+3x05	nobody can	0
+3x05	that reminds me, i have	a bone to pick with you	0
+3x05	what	0
+3x05	you and i made a pact	0
+3x05	that if either of us ever got a hot girlfriend,	0
+3x05	that person would have his girlfriend hook the other guy up with one of her girlfriends	0
+3x05	i don't remember that	0
+3x05	june th,	0
+3x05	opening day of spiderman at the amc pasadena	0
+3x05	they only had red icees, no blue	0
+3x05	oh, yeah	0
+3x05	so you've been with penny for like a month and a half now	0
+3x05	where's my shorty, morty	0
+3x05	howard, you can't hold me to that	1	1	ni
+3x05	why not	0
+3x05	because when i made that agreement,	0
+3x05	i didn't think i'd ever have a hot girlfriend	0
+3x05	and i was positive you never would	0
+3x05	hey, how come i wasn't part of this deal	0
+3x05	you had left the refreshment stand in order to indulge in your customary preemptive preshow urination	0
+3x05	oh, so that's how it works	0
+3x05	i have a teeny bladder and now	0
+3x05	i don't get a hot girlfriend	0
+3x05	yeah, raj that's how it works	0
+3x05	damn	0
+3x05	oh, damn it can i have a napkin	0
+3x05	i'm sorry, no	0
+3x05	but you have a whole bunch of 'em	0
+3x05	yes, i've moved to a fournapkin system	0
+3x05	lap, hands, face and personal emergencies	0
+3x05	if you like, starting tomorrow,	0
+3x05	i'll add a guest napkin,	0
+3x05	but i'm afraid there's nothing i can do for you today	0
+3x05	good luck that's the face napkin	0
+3x05	so, have you talked to penny yet	0
+3x05	no, i haven't	0
+3x05	why not	0
+3x05	because i've been busy,	0
+3x05	because i haven't figured out a way to bring it up,	0
+3x05	and mostly and i can't stress how key this is	0
+3x05	because i don't want to	0
+3x05	leonard, a pact is a pact	0
+3x05	you have to get penny to fix me up	1	1	nf
+3x05	it's not that simple	0
+3x05	what am i supposed to say	0
+3x05	"penny, do you have any friends you'd like to never hear from again"	0
+3x05	come on, i'm smart,	0
+3x05	i have good job and i have only three percent body fat	0
+3x05	it's true	0
+3x05	i've seen him at the beach	0
+3x05	he's like a human chicken wing	0
+3x05	leonard, come on	0
+3x05	fine i'll ask if she has a friend for you	0
+3x05	hot friend	1	3	nf
+3x05	right	0
+3x05	and tall	1	3	nf
+3x05	i want our kids to be able to ride space mountain before they're	0
+3x05	ii'll see what i can do	0
+3x05	hey, sheldon, guess what i heard today	0
+3x05	i'd imagine you heard any number of things today	0
+3x05	when you arrived at work you undoubtedly heard, "hello, raj"	0
+3x05	"how are you, raj"	0
+3x05	given that you're wearing a new sweatervest,	0
+3x05	you may have heard "new sweatervest"	0
+3x05	and possibly, though far less likely, "nice sweatervest"	0
+3x05	why don't i just tell you what i heard today	0
+3x05	that would probably save us some time	0
+3x05	saturday night at the comic book store,	0
+3x05	they're having a "mystic warlords of kaah" tournament	0
+3x05	first prize is $	0
+3x05	if we team up, we'd be unstoppable	0
+3x05	i'm sorry, raj, but i have no interest	0
+3x05	in playing a game in which i find no challenge	0
+3x05	what about the money	0
+3x05	i have money	0
+3x05	this is other money	0
+3x05	how does it different from the money i have	0
+3x05	half of it will be mine	0
+3x05	do you need it to buy a less	0
+3x05	disturbing sweatervest	0
+3x05	leonard, help	1	1	nf
+3x05	are you kidding	0
+3x05	i couldn't even talk him into giving one of his freakin' napkins	0
+3x05	wow, you really are a genius	0
+3x05	not really	0
+3x05	i googled how to do that	0
+3x05	so, listen have you ever made a pact with someone	0
+3x05	okay, fine, like a pinky swear	0
+3x05	well, in the first grade,	0
+3x05	my friend rosie and i made a pact to marry bert and ernie	0
+3x05	you know, from sesame street	0
+3x05	i'm familiar with bert and ernie	0
+3x05	knowing fact, we both wanted ernie	0
+3x05	we didn't speak again until middle school over puppets	0
+3x05	the heart wants what	0
+3x05	the heart wants, leonard	0
+3x05	okay	0
+3x05	speaking of what the heart wants	0
+3x05	um, a long time ago,	0
+3x05	i made a pact with wolowitz	0
+3x05	that kind of involves you	0
+3x05	okay, i don't know where you're going with this,	0
+3x05	but tread carefully because it may be the last conversation we ever have	0
+3x05	no, no, nothing like that	0
+3x05	the deal was that if either of us ever got a girlfriend,	0
+3x05	we'd have her fix the other one up with one of her friends	0
+3x05	and you thought a good time to bring this up be right after sex	0
+3x05	well, i sure as hell wasn't gonna bring it up before sex	0
+3x05	and during, i was trying to remember what i read on google, so	0
+3x05	i'm not hooking wolowitz up with one of my friends	0
+3x05	it doesn't have to be a good friend	0
+3x05	and you know that deep down	0
+3x05	inside, howard's a really nice guy	0
+3x05	the problem isn't what's on the inside	0
+3x05	it's the creepy candy coating	0
+3x05	will you at least think about it	0
+3x05	just as a favor to me	0
+3x05	oh, great thing about ernie,	0
+3x05	was he never asked me for anything	0
+3x05	he just gave	0
+3x05	got it got it got it	0
+3x05	got it got it got it	0
+3x05	betty and veronica	0
+3x05	oh	0
+3x05	hey, sheldon, the new green lantern figurine's coming in tomorrow	0
+3x05	want me to set one aside for you	0
+3x05	thank you	0
+3x05	you just robbed me of the opportunity to stumb upon the figurine	0
+3x05	and make the ohsosatisfying journey from discovery to desire to possession	0
+3x05	all right, i won't set one aside for you	0
+3x05	but i must have it	0
+3x05	okay, i'll set one aside for you	0
+3x05	thank you	0
+3x05	you know, i can buy all these things online	0
+3x05	i come here for the personal service	0
+3x05	hey, stuart, is the wil wheaton signed up for the mystic warlords tournament	0
+3x05	the wil wheaton from star trek	0
+3x05	yeah, he lives around here big gamer	0
+3x05	excuse me	0
+3x05	are you saying that wil wheaton	0
+3x05	aka ensign wesley crusher	0
+3x05	on star trek the next generation is going to be participating in your tournament	0
+3x05	oh, i'm sorry, did i rob you of the opportunity	to stumble onto that for yourself	0
+3x05	you don't understand	0
+3x05	growing up, i idolized wil wheaton	0
+3x05	wesley crusher had an eidetic	0
+3x05	memory just like me	0
+3x05	ooh, what a coincidence	0
+3x05	meanwhile you're playing in the tournament	0
+3x05	sign here	1	1	nf
+3x05	i was such a fan	0
+3x05	that in , i traveled ten hours by bus	0
+3x05	to a scifi convention in jackson, mississippi,	0
+3x05	wearing my star flee academy cadet uniform	0
+3x05	in order to meet wil wheaton and get him to autograph my mint inpackage wesley crusher action figure	0
+3x05	ooh, it'll be like a reunion then	0
+3x05	sign here	1	1	nf
+3x05	my arduous journey, however,	0
+3x05	was for naught	0
+3x05	although advertised to appear,	0
+3x05	he did not show up	0
+3x05	it was at that moment, i vowed	0
+3x05	eternal hatred for wil wheaton	0
+3x05	okay, great, you can	0
+3x05	tell him you hate him	0
+3x05	sign here	1	1	nf
+3x05	it might also interest you to know that wil wheaton currently ranks sixth on my atime enemies list	0
+3x05	right between director joel schumacher,	0
+3x05	who nearly destroyed the batman movie franchise,	0
+3x05	and billy sparks, who lived down the street from me and put dog poop on the handles of my bicycle	0
+3x05	okay, i get it he's a bad guy	0
+3x05	sign here	1	1	nf
+3x05	in the words of khan noonn singh	0
+3x05	in the immortal wrath ofhan, "he tasks me	0
+3x05	he tasks me and i shall have him"	0
+3x05	no doubt,	0
+3x05	sign here	1	1	nf
+3x05	from hell's heart, i stab at thee"	0
+3x05	all right, raj, looks	0
+3x05	like you're teamed up	0
+3x05	with "die, wil wheaton, die"	0
+3x05	so, tell me more about the future mother of my children	1	1	nf
+3x05	she's adorable, howard	0
+3x05	i think you'll like her	0
+3x05	great	0
+3x05	so what did you tell her about me	0
+3x05	did you mention the body fat	0
+3x05	no, i thought that would be a nice surprise for her	0
+3x05	good, good	0
+3x05	i just told her you're an aerospace engineer,	0
+3x05	you speak five languages	0
+3x05	six if you count klingon	0
+3x05	girls don't count klingon, howard	0
+3x05	right	0
+3x05	right	0
+3x05	oh and i told her you have	0
+3x05	an unhealthy attachment to your mother	0
+3x05	what	0
+3x05	i'm kidding	0
+3x05	another delightful surprise for her	0
+3x05	sheldon, it's your play	0
+3x05	sheldon	0
+3x05	my enchanted troll bludgeons	0
+3x05	your screaming harpy with a cursed mace game	0
+3x05	sorry, boys	0
+3x05	say hi to your mother	0
+3x05	when she picks you up	0
+3x05	or i could just tell her later tonight	0
+3x05	we pawned them, dude up top	0
+3x05	look at him	1	1	nf
+3x05	wil wheaton, my old friend	0
+3x05	i have chased you 'round the moons of nibia	0
+3x05	and 'round the antares maelstrom	0
+3x05	and 'round perdition's flames	0
+3x05	you know, you keep quoting wrath of khan,	0
+3x05	but he was in next generation	0
+3x05	it's a totally different set of characters	0
+3x05	silence	1	1	nf
+3x05	how much longer must i wait for my revenge	0
+3x05	well, if wil wheaton and stuart win their match	0
+3x05	and we beat lonely larry and captain sweatpants	in the next round,	0
+3x05	we'll face off for the championship	0
+3x05	so, my path to satisfaction is blocked by lonely larry and captain sweatpants	0
+3x05	very well	0
+3x05	they must be destroyed	0
+3x05	dude, you have to stop talking like that	1	1	nf
+3x05	it's really lame	0
+3x05	silence	1	1	nf
+3x05	so, penny tells me you're working as a waitress to put yourself through grad school	0
+3x05	that's pretty great	0
+3x05	what are you studying	0
+3x05	microbiology	0
+3x05	oh, cool so you could study me	0
+3x05	i don't understand	0
+3x05	microbiology is the study of tiny living things	0
+3x05	i know, i'm studying it	0
+3x05	and i said you could study me	0
+3x05	'cause i'm a tiny living thing	0
+3x05	it's a joke	0
+3x05	are you sure	0
+3x05	do you like sciencefiction	0
+3x05	no	0
+3x05	roleplaying games	0
+3x05	like in the bedroom or	0
+3x05	like dungeons and dragons	0
+3x05	either	0
+3x05	no	0
+3x05	gonna be a long night	0
+3x05	well, it's your fault	0
+3x05	i had to ask you didn't have to say yes	0
+3x05	you like magic	0
+3x05	not really	0
+3x05	okay	0
+3x05	i play my endless serpent	0
+3x05	raj will play ecstatic frenzy,	0
+3x05	which means larry will have to play chaos overlord	0
+3x05	then captain sweatpants, molten river	0
+3x05	i play nightshade dryad	0
+3x05	game, set and match	0
+3x05	now fetch me wil wheaton	1	1	nf
+3x05	bottash bir jabloodi rekh kkhakkho ny	0
+3x05	did that guy just say	0
+3x05	"revenge is a dish best	served cold" in klingon	0
+3x05	i believe so	0
+3x05	what is wrong with him	0
+3x05	everyone has a different theory	0
+3x05	how about computers	0
+3x05	do you like computers	0
+3x05	i use them i don't like them	0
+3x05	okay	0
+3x05	puppies where do you stand on puppies	0
+3x05	a puppy once bit my face	0
+3x05	of course it did	0
+3x05	how about that einstein was wrong	0
+3x05	what	0
+3x05	approaching the speed of light doesn't slow down time	0
+3x05	approaching them does	0
+3x05	excuse me	0
+3x05	oh, damn it's my mother	0
+3x05	are you going to answer it	0
+3x05	i'm torn	0
+3x05	she might be dying, and, you know,	0
+3x05	i wouldn't want to miss that	0
+3x05	on the other hand,	0
+3x05	if i let it go to voicemail,	0
+3x05	i could play it over and over	0
+3x05	i know how you feel	0
+3x05	my mother makes me crazy	0
+3x05	not as crazy as my mother makes me	0
+3x05	oh, yeah	0
+3x05	does your mother call you every day at work	0
+3x05	to see if you've had a healthy lunch	0
+3x05	my mother calls me at workk	0
+3x05	to see if i had a healthy bowel movement	0
+3x05	okay, well, does she lay out your clothes for you in the morning	0
+3x05	like you're nine years old	0
+3x05	you live with your mother	0
+3x05	no that's the sad part	0
+3x05	ooh, rough	0
+3x05	okay, check this out	0
+3x05	my mother made me wear	0
+3x05	rubber gloves to kindergarten	0
+3x05	so i wouldn't pick up a disease	from the other children	0
+3x05	that's nothing	0
+3x05	i couldn't ride a bicycle	0
+3x05	'cause my mother was afraid i'd hit a bump	0
+3x05	and lose my virginity	0
+3x05	oh, wow	0
+3x05	you didn't, did you	0
+3x05	not on a bicyclle	0
+3x05	in a camry	0
+3x05	oh	0
+3x05	corolla	0
+3x05	more wine	1	3	nf
+3x05	i'd love some	0
+3x05	listen, you have to come to shabbat dinner at my house sometime	1	3	nf
+3x05	why	0
+3x05	a catholic girl like you	0
+3x05	wearing a big cross like that	0
+3x05	might just give my mother	0
+3x05	the big brain aneurysm i've been hoping for	0
+3x05	okay, but only if you come to sunday dinner at my house wearing a yarmulke	1	3	nf
+3x05	it's a date	0
+3x05	am i a matchmaker or what	0
+3x05	lava serpent	0
+3x05	nest of snakes	0
+3x05	underworld guardian	0
+3x05	underworld guardian	0
+3x05	we skirmish to the death	0
+3x05	invisibility spell	0
+3x05	luminescence spell	0
+3x05	water nymph	0
+3x05	fire demon	0
+3x05	twoaded tiger	0
+3x05	threeheaded lion	0
+3x05	sulphur	0
+3x05	brimstone	0
+3x05	problem, wil wheaton	0
+3x05	hang on	1	1	nf
+3x05	you're holding two moderate spell cards,	0
+3x05	a small rock and a potion of zancor,	0
+3x05	which will be about as much help	0
+3x05	as an air conditioner	0
+3x05	on the ice planet hoth	0
+3x05	your only move is to play the potion, lose the skirmish,	0
+3x05	and two moves later, the game	0
+3x05	i think he's got me	0
+3x05	the year was	0
+3x05	the place jackson, mississippi	0
+3x05	having spent ten hours on a bus,	0
+3x05	during which i had to twice violate	0
+3x05	my personal rule against relieving myself on board a moving vehicle	0
+3x05	i finally arrived	0
+3x05	at the fourth annual	0
+3x05	dixietrek convention	0
+3x05	only to find that my idol	0
+3x05	wil wheaton decided he had better things to do than to show up and sign my action figure	0
+3x05	what	0
+3x05	you betrayed me, wil wheaton	0
+3x05	you went to the ' dixietrek	0
+3x05	oh, dude, my grandmother had just died,	0
+3x05	and i had to go to her funeral	0
+3x05	your meemaw died	0
+3x05	that's terrible	0
+3x05	yeah, it was	0
+3x05	but i'm really sorry	0
+3x05	that i disappointed you	0
+3x05	no, no, i understand	0
+3x05	anything happened to my meemaw,	0
+3x05	i'd be one inconsolable moon pie	0
+3x05	i should clarify that statement	0
+3x05	by explaining that she calls me "moon pie"	0
+3x05	it'a special relationship, isn't it,	0
+3x05	between a boy and his grandmother	0
+3x05	oh, yes	0
+3x05	okay, great, everybody	0
+3x05	loves their grandmas	0
+3x05	now, come on, sheldon, finish him off	1	1	nf
+3x05	it's okay, sheldon	0
+3x05	i let you down	0
+3x05	i deserve it	0
+3x05	potion of zancor	0
+3x05	what are you waiting for	0
+3x05	kill wil wheaton	1	1	nf
+3x05	from hell's heart, stab at him	1	1	nf
+3x05	i can't	0
+3x05	sure you can do it do it	1	1	nf
+3x05	no	0
+3x05	i came here to defeat wil wheaton,	0
+3x05	the man who destroyed my dreams	0
+3x05	but i can't defeat wil wheaton,	0
+3x05	the man who loved is meemaw	0
+3x05	enchanted bunny	0
+3x05	no not enchanted bunny	0
+3x05	i call my meemaw "nana"	0
+3x05	and she's going  be very happy to hear that my small rock kills your enchanted bunny	0
+3x05	game over, moon pie	0
+3x05	i i i don't understand	0
+3x05	your grandmother's alive	0
+3x05	oh, you catch on quick	0
+3x05	come on, stewie, let's get our prize money	1	3	nf
+3x05	that was fun	0
+3x05	wheaton	0
+3x05	wheaton wheaton	0

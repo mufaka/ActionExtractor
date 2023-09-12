@@ -1,0 +1,279 @@
+﻿3x22	okay, babydoll pink, let's see if you can cover up the fact that i got my dad's feet	0
+3x22	it's just two degrees, sheldon i just want to turn up the thermostat two degrees	0
+3x22	let me point out that two degrees can be the difference between water and steam	0
+3x22	yes, if we lived in a teakettle	0
+3x22	this is the temperature you agreed to in the roommate agreement	0
+3x22	aw, screw the roommate agreement	0
+3x22	no, you don't screw the roommate agreement	1	1	ni
+3x22	the roommate agreement screws you	0
+3x22	you know what, go to hell and set their thermostat	1	2	nf
+3x22	i don't have to go to hell at  degrees,	i'm there already	0
+3x22	who is it	0
+3x22	leonard	0
+3x22	hang on	1	1	nf
+3x22	can i sleep on your couch tonight	0
+3x22	uh, well, you can try, but the people across the hall are being very noisy	0
+3x22	you heard that, huh	0
+3x22	apparently, the one fella tried	to adjust the thermostat, then the other fella went batcrap crazy	0
+3x22	so you agree, he's nuts	0
+3x22	well, not as nuts as the guy who chooses to live with him	0
+3x22	believe it or not, he was worse	1	1	ni
+3x22	when i met him	0
+3x22	oh, i do not believe that	0
+3x22	you are so naive just like i was seven years ago i'd just started at the university excuse me, i'm looking for sheldon cooper's apartment	0
+3x22	oh, i bet you're here to check out the room for rent	0
+3x22	yeah	0
+3x22	run away, dude	1	1	nf
+3x22	what	0
+3x22	run fast, run far	1	1	nf
+3x22	that should have been my first clue	0
+3x22	so sheldon's last roommate tried to warn you off	0
+3x22	for all i knew,	he was the crazy one he had this really deranged look	0
+3x22	well, yeah, he'd been living with sheldon	0
+3x22	sure, it makes sense now anyway, i went upstairs and knocked on the door	0
+3x22	yeah	0
+3x22	dr cooper	0
+3x22	no, you want the crazy guy across the hall	0
+3x22	in retrospect, that was clue number two	0
+3x22	yes	0
+3x22	i'm leonard hofstadter i called you about the apartment you said	0
+3x22	i know what i said i know what you said	i know what my mother said on march ,	0
+3x22	what is the sixth noble gas	0
+3x22	what	0
+3x22	you said you're	a scientist what is the sixth noble gas	0
+3x22	uh, radon	0
+3x22	are you asking me or telling me	0
+3x22	telling you telling you	0
+3x22	all right, next question kirk or picard	0
+3x22	oh, uh, well, that's tricky um, original series	over next generation, but picard over kirk	0
+3x22	correct	you've passed the first	barrier to roommatehood	0
+3x22	you may enter	1	3	nf
+3x22	oh, this is pretty nice	uh, the bedrooms are back there	0
+3x22	that depends	0
+3x22	i don't understand their existence is conditional	0
+3x22	no, but your ability to perceive their existence is conditional	on you passing the second and third barriers	0
+3x22	there's three	0
+3x22	each more daunting than the last	0
+3x22	have a seat	1	1	nf
+3x22	okay	0
+3x22	no that's where i sit	0
+3x22	what's the difference	0
+3x22	this seat is ideally located both in relation to the heat source in the winter and a cross breeze in the summer	it also faces the television at a direct angle allowing me to immerse myself in entertainment or game play without being subjected to conversation	as a result, i've placed it in a state of eternal dibs	0
+3x22	can you do that	0
+3x22	cathedra mea, regulae meae that's latin for "my chair, my rules" now, you said on the phone that your area of study is physics	0
+3x22	uh, yeah, experimental physics	0
+3x22	hmm	0
+3x22	what is that	0
+3x22	doesn't concern you you'll be going to the university every day	0
+3x22	yes	0
+3x22	and you have a vehicle	0
+3x22	a car, yeah	0
+3x22	and you'll be willing to drive me	0
+3x22	can't you drive	0
+3x22	i can i choose not to	0
+3x22	okay, i suppose	i could drive you that's a point in my favor, right	0
+3x22	why don't you let me do this	1	1	ni
+3x22	come on, i just asked	0
+3x22	last question in a postapocalyptic world, which task would you assign the highest priority locating a sustainable food source, reestablishing a functioning government, procreating, or preserving the knowledge of mankind	0
+3x22	uh, i'm gonna go with preserving the knowledge	0
+3x22	that's correct	0
+3x22	fyi, i would have accepted any answer other than procreating	0
+3x22	come, i'll show you	1	1	nf
+3x22	the rest of the apartment	0
+3x22	oh, good i passed the barriers	0
+3x22	the second barrier	0
+3x22	don't get cocky	1	1	ni
+3x22	this is the bathroom are you fairly regular	0
+3x22	uh, i guess	0
+3x22	this isn't going to work if you're guessing when do you evacuate your bowels	0
+3x22	when i have to	0
+3x22	when you have to	0
+3x22	i'm sorry, i don't rent to hippies	0
+3x22	ii'm sorry, uh, in the morning around	0
+3x22	i can't give you i can give you	0
+3x22	fine i'll take it	0
+3x22	third barrier passed you have won the right to see your room	0
+3x22	huzzah is this it	0
+3x22	no, this is my room people don't go in my room	0
+3x22	so where do you sleep	0
+3x22	i don't understand	0
+3x22	if people don't go in there, and you're people, and you are people, aren't you	0
+3x22	making a joke do you do this often	0
+3x22	on occasion	0
+3x22	your room you may want to repaint	0
+3x22	and after all that, you just moved in	0
+3x22	i didn't just move in first we had to iron out a few details	0
+3x22	"roommates agree that friday nights shall be reserved "for watching joss whedon's brilliant new series firefly"	does that really need to be in the agreement	0
+3x22	we might as well settle it now it's going to be on for years	0
+3x22	initial here	1	1	nf
+3x22	all right, that's television and movies	section nine miscellany	the apartment's flag is a gold lion rampant on a field of azure	0
+3x22	we have a flag	0
+3x22	never fly it upside down	1	1	ni
+3x22	unless the apartment's in distress and next "if either of us ever invents time travel, "we agree our first stop	will be this meeting today in precisely five seconds"	0
+3x22	okay	1	2	nf
+3x22	that's disappointing	0
+3x22	why on earth did you agree to all that	0
+3x22	it was the best	apartment i'd seen, the rent was very reasonable and after you've passed the first three barriers you kind of want to take it all the way	0
+3x22	well, i'm sorry, leonard, it's very hard to feel sympathy for you	0
+3x22	okay, how about this let me tell you about the first time i brought a girl over	0
+3x22	shh just pretend we're not here	1	1	ni 
+3x22	i'm sure he'll go away	0
+3x22	i'm just going to keep knocking till you answer	0
+3x22	leonard	1	1	nf
+3x22	leonard	1	1	nf
+3x22	leonard	1	1	nf
+3x22	what do you want i didn't say come in	0
+3x22	you asked what i wanted	i wanted to come in i'm here because you violated our roommate agreement specifically, section eight visitors, subsection c females, paragraph four coitus	0
+3x22	roommates shall give each other 12 hours notice	1	1	nf
+3x22	of impending coitus"	0
+3x22	i didn't even know her  hours ago	0
+3x22	that's it i'm out of here	0
+3x22	but, joyce, come on	1	1	nf
+3x22	hours	0
+3x22	oh, my god	0
+3x22	do i get some sympathy now	0
+3x22	a little bit okay let me get this straight you move in with this guy, he makes you sign a ridiculous roommate agreement, then he walks into your bedroom while you're doing this	0
+3x22	joyce kim, and you still stay	0
+3x22	actually, i couldn't get too mad at him about joyce kim	0
+3x22	why not	1	1	ni
+3x22	well, i was doing some government research at the time, you know, military, rocket fuel	it's kind of secret	0
+3x22	what does that have to do with joyce kim	0
+3x22	as it turns out, she was a north korean spy luckily, sheldon drove her out before i revealed anything important	which ii'm not saying i would have	0
+3x22	so, what, that's it you've stayed with sheldon all this time because he kept you from going to federal prison	0
+3x22	that was part of it the other part is what happened with the elevator	0
+3x22	oh, yeah, i'm wondering about that you said it was working when you moved in	0
+3x22	it was, but one night,	sheldon came home from work	0
+3x22	what is going on here	0
+3x22	hey, sheldon this is howard and raj they work at the university, too	0
+3x22	hey	0
+3x22	hey	0
+3x22	i'll get to you later what are you sitting on	0
+3x22	i can't speak for these guys, but i'm sitting on my tushie it's a joke	0
+3x22	not a good idea	0
+3x22	"tushie" is buttocks, right	0
+3x22	right	0
+3x22	hilarious	0
+3x22	explain the couch	1	1	nf
+3x22	oh, well, there	were some people on the first floor moving out,	and they sold it to me for $ howard and raj helped me bring it up	0
+3x22	but what's wrong with the furniture we have	0
+3x22	they're lawn chairs and there was no place for company	0
+3x22	did it occur to you that was by design	0
+3x22	according to the roommate agreement, i'm entitled to allocate %	of the cubic footage of the common areas	0
+3x22	but you didn't notify me by email, so this is still a breach	0
+3x22	i did notify you	0
+3x22	oh, you did, did you oh, drat hoisted by my own spam filter	0
+3x22	what am i doing	in your spam folder	0
+3x22	i put you there	after you forwarded me a picture of a cat playing the piano, entitled "this is funny"	0
+3x22	oh, yeah, i saw that that was hilarious	0
+3x22	okay, what does all this have to do with the elevator	0
+3x22	i'm getting to it i assure you,	0
+3x22	you'll be sorry	you wasted your money on an ipod when microsoft comes out with theirs	0
+3x22	okay, do you have an opinion about everything	0
+3x22	yes	0
+3x22	and you just assume you're always right	0
+3x22	it's not an assumption	0
+3x22	change seats with me	1	1	nf
+3x22	why	0
+3x22	i don't like this spot i have to keep turning my head	0
+3x22	fine	0
+3x22	ooh, it's time for babylon we don't watch babylon in this apartment	0
+3x22	why not	0
+3x22	because no one likes babylon	0
+3x22	i like it	0
+3x22	me, too	0
+3x22	so do i	0
+3x22	there you go three against one	0
+3x22	they don't get a vote it's one against one and according to the roommate agreement, all ties will be settled by me	0
+3x22	but i said no to that	0
+3x22	and i said yes and i settle all ties	0
+3x22	change seats with me	1	1	nf
+3x22	why	0
+3x22	there's a draft	on my neck over here	0
+3x22	so, i get the draft	0
+3x22	you're protected by your turtleneck	0
+3x22	fine and it's a dickey	0
+3x22	hmm i'm still not comfortable of course	there's too many people here	0
+3x22	we can fix that	0
+3x22	let's leave	1	1	nf
+3x22	yeah, we can go over to my place	0
+3x22	wait	1	1	nf
+3x22	let me get my jacket	0
+3x22	you're not going with us	1	1	ni
+3x22	why not	0
+3x22	you're the guy we're trying to get away from	0
+3x22	oh well, in that case,	i don't need my jacket and for the record, the correct syntax is i'm the guy from whom you're trying to get away oh, yes this is definitely going to be my spot	0
+3x22	okay how do you know he said that you left the room	0
+3x22	hey, do you want me to finish working on your man feet or not	0
+3x22	fine go ahead	1	1	nf
+3x22	howard, are you having a playdate	0
+3x22	i don't have playdates i have colleagues	0
+3x22	do their parents know they're here	0
+3x22	no, but if you keep screaming, maybe they'll hear you	0
+3x22	that your dad	0
+3x22	she grows any more hair	on her face, yes	0
+3x22	oh, man	is that a twostage rocket	0
+3x22	three i designed the engine myself	0
+3x22	cool can it break mach	0
+3x22	oh, probably, if i could get my hands on that new fuel the government's been working on	0
+3x22	oh, this just might be your lucky day	0
+3x22	howard, what happened to the oreos i left on the counter	0
+3x22	i haven't seen your oreos	0
+3x22	just take your bath without them	1	1	nf
+3x22	so, why was it his lucky day	0
+3x22	well, it turns out i had a little rocket fuel in the apartment	0
+3x22	what were you doing with rocket fuel in your apartment	0
+3x22	mm, joyce kim was kind of curious about what i did for a living, and i was going to kind of show it to her it's not important the point is, the guys and i went back to the apartment	0
+3x22	are we ever going to get to the elevator	0
+3x22	yeah, we're really close uh, uh, we're at the apartment	the trick is to	mix it into tovex in order to create a combustible gel that will generate over , kilonewtons of thrust	0
+3x22	cool	0
+3x22	nice	0
+3x22	won't work	0
+3x22	excuse me, but i've been working on this a long time	0
+3x22	trust me	1	1	nf
+3x22	it'll work	0
+3x22	you don't see your mistake, do you	0
+3x22	there's no mistake	0
+3x22	this is for a fullscale	rocket, not a model	0
+3x22	well, i've adjusted the formula	0
+3x22	not correctly	0
+3x22	okay, i've had it with you you might be an expert on theoretical physics and sciencefiction programs and where to sit on a freaking couch, but this is applied physics and when it comes to applied physic uhoh	0
+3x22	what's happening	0
+3x22	a bad thing a very bad thing	0
+3x22	get the door	1	1	nf
+3x22	get the door	1	1	nf
+3x22	get the door	1	1	nf
+3x22	get the door	1	1	nf
+3x22	get the door	1	1	nf
+3x22	you're waiting for the elevator	0
+3x22	oh right wait it's here	0
+3x22	give me that	1	1	nf
+3x22	what'd you do that for i had plenty of time	0
+3x22	you're welcome	0
+3x22	not only did sheldon save my life, he didn't rat me out	to the landlord	or the police or homeland security	0
+3x22	okay, so, basically, you're the reason i have to walk up and down three flights of stairs every day	0
+3x22	so i did something stupid i'm sure you did stupid things when you were younger what were you doing seven years ago	0
+3x22	excuse me, i was in high school	studying, keeping my nose clean, doing volunteer work for the community	0
+3x22	not pregnant	0
+3x22	yes	0
+3x22	oh, ubuntu, you are my favorite linuxbased operating system	0
+3x22	hey	0
+3x22	hello	0
+3x22	why do i smell methacrylate	0
+3x22	oh, uh, clear nail polish i had a manipedi	0
+3x22	men can get those	0
+3x22	anyway, i may owe you an apology	0
+3x22	there's doubt	0
+3x22	i did agree to the thermostat setting, and i shouldn't have tried to change it	0
+3x22	that's not an apology simply an acknowledgement that i was right	0
+3x22	okay, i'm sorry	there you go so, we're good	0
+3x22	good what	0
+3x22	never mind okay if i watch some tv	0
+3x22	go ahead	1	1	nf
+3x22	up next babylon	0
+3x22	you're not even	watching	0
+3x22	i can hear it	0
+3x22	oh, so the dialogue offends you	0
+3x22	i would hardly call that dialogue	0
+3x22	you're insane, you know that	0
+3x22	don't make me turn that flag upside down,	1	1	ni
+3x22	'cause you know	i'll do it	0

@@ -1,0 +1,379 @@
+﻿2x18	knight to queen's bishopfive	0
+2x18	very nice	0
+2x18	what's leonard going to do	0
+2x18	give up the pawn	0
+2x18	or give up the position	0
+2x18	let's find out	1	1	nf
+2x18	ready	0
+2x18	ready	0
+2x18	go	1	1	nf
+2x18	damn it i slipped	0
+2x18	too bad you know the rules of secret agent laser obstacle chess	0
+2x18	leonard died again,	0
+2x18	sheldon you're up	0
+2x18	despite my deep love of chess, lasers and aerosol disinfectant, i must forfeit	0
+2x18	why	0
+2x18	because it's almost	0
+2x18	so	0
+2x18	penny has a "don't knock on my door before or i punch you in the throat" rule	0
+2x18	you know what'd be a great idea	0
+2x18	we get some girls over here and play laser optical strip chess	0
+2x18	believe me, any girl who would be willing to play that,	0
+2x18	you don't want to see naked	0
+2x18	you underestimate me	0
+2x18	hey, sheldon	0
+2x18	it's  am	0
+2x18	i know you're safe	0
+2x18	this package came while you were at work	0
+2x18	great, my rhinestones	0
+2x18	thank you	0
+2x18	excuse me	1	1	nf
+2x18	what	0
+2x18	you have to sign this	1	1	nf
+2x18	what is it	0
+2x18	when i signed for the package, i was deputized by the united parcel service and entrusted with its final delivery	0
+2x18	i now need you to acknowledge receipt of the package so that i'm fully indemnified and no longer liable	1	1	nf
+2x18	it's just a box of rhinestones	0
+2x18	the contents are irrelevant	0
+2x18	a legal bailment has been created	0
+2x18	does that mean nothing to you	0
+2x18	it means nothing to anybody	0
+2x18	let me show you what i'm doing	0
+2x18	"bailment" describes a relationship	0
+2x18	in common law where a physical possession of personal property,	0
+2x18	or "chattels," is transferred from one person, the bailor, to another person, the bailee	0
+2x18	look, look	1	1	nf
+2x18	i started a business	0
+2x18	obviously, not a cleaning business	0
+2x18	no, i'm making flower barrettes	0
+2x18	see	1	1	nf
+2x18	i call them penny blossoms	0
+2x18	i made one for myself, then all the girls at work wanted one	0
+2x18	i showed some to this lady who runs a shop in old town	0
+2x18	she sells cards and homemade jewelry	0
+2x18	she said she wanted to sell them	0
+2x18	i said, "okay"	0
+2x18	and in one week, i made a $	0
+2x18	good for you	0 
+2x18	sign here	1	1	nf
+2x18	don't you get it if this takes off,	0
+2x18	i won't have to be a waitress anymore	0
+2x18	but then who will bring me my cheeseburger on tuesday nights	0
+2x18	another waitress	0
+2x18	what's her name	0
+2x18	i don't know	0
+2x18	and you're going to let her handle my food	0
+2x18	nancy her name is nancy	0
+2x18	i think you're just making that up	0
+2x18	i'm sorry about your hamburger	0
+2x18	i just don't want to be a waitress for the rest of my life	0
+2x18	cheeseburger	0
+2x18	i get a cheeseburger	0
+2x18	fine, cheeseburger	0
+2x18	maybe i'd be better off with nancy	0
+2x18	so, what do you think	0
+2x18	i mean, this could be a business, right	0
+2x18	how many of these can you make a day	0
+2x18	about	0
+2x18	and how much profit do you make per penny blossom	0
+2x18	like, cents i'm not sure	0
+2x18	of course you're not	0
+2x18	all right	0
+2x18	ten dollars a day times five days a week times  weeks a year is $,	0
+2x18	that's all	0
+2x18	before taxes	0
+2x18	i don't have to pay taxes on this stuff	0
+2x18	i believe the internal revenue service would strongly disagree	0
+2x18	but, if you took advantage of modern marketing techniques,	0
+2x18	and you optimized your manufacturing process,	0
+2x18	you might be able to make this a viable business	0
+2x18	and you know about that stuff	0
+2x18	i'm a physicist	0
+2x18	i have a working knowledge of the entire universe	0
+2x18	and everything it contains	0
+2x18	who's radiohead	0
+2x18	i have a working knowledge of the important things in the universe	0
+2x18	good luck	0
+2x18	sheldon, hold on	1	1	nf
+2x18	could you maybe show me how to make more money with this	1	1	nf
+2x18	of course i could	0
+2x18	wait	1	1	nf
+2x18	will you	1	1	nf
+2x18	just to be clear here,	0
+2x18	you're asking for my assistance	0
+2x18	and you understand that will involve me telling you what to do	0
+2x18	i understand	0
+2x18	and you're not allowed to be sarcastic or snide to me while i'm doing so	1	1	ni
+2x18	good	0
+2x18	let's begin with the premise that everything you've done up to this point is wrong	0
+2x18	oh, imagine that	0
+2x18	sarcasm goodbye	0
+2x18	no, sorry wait	1	1	ni
+2x18	please come back	1	1	nf
+2x18	there done	0
+2x18	all right	0
+2x18	minutes and  seconds	0
+2x18	pretty good, right	0
+2x18	that's  penny blossoms per hour	0
+2x18	based on your cost of materials and your wholesale selling price, you'll effectively be paying yourself $ a day	0
+2x18	"a day"	0
+2x18	there are children in a sneaker factory in indonesia who outearn you	0
+2x18	that just can't be right	0
+2x18	you're questioning my math	0
+2x18	no, sorry	0
+2x18	want me to show my work	0
+2x18	god, no	1	1	ni
+2x18	please tell me what to do about it	1	1	nf
+2x18	all right are you familiar with the development that resulted from honoré blanc's	0
+2x18	use of interchangeable parts	0
+2x18	the assembly line, of course	0
+2x18	if i'm not allowed to be snide,	0
+2x18	you're not allowed to be condescending	1	1	ni
+2x18	that wasn't a part of our original agreement, and i don't agree to it now	0
+2x18	fine	0
+2x18	how are we supposed to set up machines and conveyor belts in my apartment	0
+2x18	you're thinking of the moving assembly line,	0
+2x18	an understandable but not excusable mistake	0
+2x18	the moving assembly line, that was introduced by henry ford in	0
+2x18	that innovation is what made possible our modern consumer culture by enabling a lowunit cost for manufactured goods	0
+2x18	i guess that isn't one of the topics	0
+2x18	discussed on your radiohead	0
+2x18	let's go we're going to miss the coming attractions	1	1	nf
+2x18	what's the matter	0
+2x18	i think i bruised a testicle	0
+2x18	capturing that last pawn	0
+2x18	please pay attention and listen to me	0
+2x18	give me some time to blow the man down	0
+2x18	i'm a deepwater sailor	0
+2x18	just come from hong kong	0
+2x18	to me way, hey,	0
+2x18	blow the man down	0
+2x18	if you give me some whiskey i'll sing you a song	0
+2x18	give me some time to blow the man down	0
+2x18	hello	0
+2x18	hello	0
+2x18	come quickly lay aft to the break of the poop	0
+2x18	to me way, hey,	0
+2x18	blow the man down	0
+2x18	or i'll help you along with the toe of my boot	0
+2x18	give me some time to blow the man down	0
+2x18	what's going on	0
+2x18	i assume you're referring to the sea shanty	0
+2x18	it's a rhythmic work song designed to increase productivity	0
+2x18	it's crazy, but it totally works	0
+2x18	we made this penny blossom in under three minutes	0
+2x18	terrific, but that kind of raises more questions than it answers	0
+2x18	penny's making hair accessories	0
+2x18	i'm helping her optimize her manufacturing process	0
+2x18	break's over	0
+2x18	pay attention to orders	0
+2x18	now you one and all hold on what are you using as a bonding agent	0
+2x18	hot glue	0
+2x18	you're kidding	0
+2x18	any of the cyanoacrylates would do a better job	0
+2x18	the flower's too porous	0
+2x18	what if we infused the bottom layer with siliconertv to providea better mounting surface	1	3	nf
+2x18	intriguing	0
+2x18	what are your marketing and distribution channels	0
+2x18	there are the waitresses at my work, and this cute, little shop in old town	0
+2x18	virtually nonexistent	0
+2x18	i'm thinking that we set her up with a hosted ecommerce system to start	0
+2x18	why not eliminate the middle man	1	1	ni
+2x18	we could install a small server farm with a static ip in her bedroom with an industrial cooling system	0
+2x18	of course, but before we set up marketing and distribution,	0
+2x18	we should finish optimizing the manufacturing process	0
+2x18	to start with,	0
+2x18	she has a terrible problem with moistureinduced glitter clump	0
+2x18	yeah, it's a bitch	0
+2x18	i've seen this before	0
+2x18	where	0
+2x18	it's a common stripper problem	0
+2x18	they dance, they sweat, they clump	0
+2x18	are you thinking about adding a desiccant like calcium sulfate	0
+2x18	actually, i'm thinking about this one stripper named vega	0
+2x18	but sure, calcium sulfate	0
+2x18	could work	0
+2x18	let's think out of the box for a moment	1	1	nf
+2x18	how about a molecular sieve	0
+2x18	i've got a spaghetti strainer in the kitchen	0
+2x18	we could liberate some microporous charcoal from the chem lab	0
+2x18	great	0
+2x18	raj, why don't you and howard, go get the charcoal	1	1	ni
+2x18	leonard, why don't you start working on some preliminary web site designs	1	1	ni
+2x18	i'll make some space in our apartment so we can move the manufacturing process	0
+2x18	what's wrong with my apartment	0
+2x18	it's not my apartment	0
+2x18	wait, what am i going to do	0
+2x18	it's your business	0
+2x18	do whatever you want	1	4	nf
+2x18	okay, cool	0
+2x18	i'm going to take a nap	0
+2x18	i'm still tweaking things a little bit,	0
+2x18	but this will give you the general idea of the web site	0
+2x18	so, what do you guys think	0
+2x18	pretty much any way i say that is going to hurt his feelings	0
+2x18	okay, what's wrong with it	0
+2x18	what's wrong with it	0
+2x18	not you i wasn't asking you	1	1	ni
+2x18	well, it's a little juvenile	0
+2x18	it kind of looks like the myspace page	0
+2x18	of a yearold girl	0
+2x18	no, it doesn't	0
+2x18	please dateline could use it to attract predators	0
+2x18	this is your enterprise,	0
+2x18	so it's ultimately your decision,	0
+2x18	but based on the quality of his work,	0
+2x18	i'd strongly recommend that we let leonard go	1	1	nf
+2x18	you want to fire me	0
+2x18	what i want is irrelevant	0
+2x18	this is penny's decision	0
+2x18	excuse me, but if i did such a bad job then why do we already have orders	0
+2x18	we do	0
+2x18	look	1	1	nf
+2x18	mrs fiona fondell from huntsville, alabama has ordered two	0
+2x18	no kidding two	0
+2x18	look at the comments	1	1	nf
+2x18	"thank you, penny blossoms "these will be perfect to cover my bald spot"	0
+2x18	that is so sweet	0
+2x18	camouflaging bald spots	0
+2x18	that's primarily a male concern	0
+2x18	perhaps we could expand our market	0
+2x18	how are flower barrettes going to appeal to men	0
+2x18	we add bluetooth	0
+2x18	brilliant men love bluetooth	0
+2x18	wait a minute, you want to make a hair barrette with bluetooth	1	1	nf
+2x18	everything is better with bluetooth	0
+2x18	holy crap someone just ordered a thousand penny blossoms	0
+2x18	get out	1	1	nf
+2x18	who needs a thousand sparkly flower barrettes with rhinestones	0
+2x18	"the fifth annual east rutherford, new jersey, gay, lesbian, bisexual and transgender alliance luau"	0
+2x18	another market to expand into balding gay men	0
+2x18	and i'll bet lesbians love bluetooth	0
+2x18	we should get to work	1	1	nf
+2x18	wait, why does it say "oneday rush"	0
+2x18	since when do we offer a oneday rush	0
+2x18	amazon offers oneday rush	0
+2x18	yeah, but they don't have to glue the books together	0
+2x18	how the hell are we going to make a thousand penny blossoms in one day	0
+2x18	don't yell at me i'm not manufacturing	1	1	ni
+2x18	i'm just web design	0
+2x18	i'm gonna have to call them and cancel the order	0
+2x18	excuse me,	0
+2x18	but was this not your goal financial independence through entrepreneurial brilliance and innovation	0
+2x18	my brilliance and innovation,	0
+2x18	of course, but still	0
+2x18	i just don't see how we can pull this off	0
+2x18	that, right there,	0
+2x18	that equivocation and selfdoubt,	0
+2x18	that is not the american spirit	0
+2x18	did davy crockett quit at the alamo	0
+2x18	did jim bowie	0
+2x18	they didn't quit	0
+2x18	they were massacred by like a gazillion angry mexicans	0
+2x18	let me put it this way	0
+2x18	your gross receipts on this one order will be over $, for one night's work	0
+2x18	you guys get started	1	1	nf
+2x18	what are you doing	0
+2x18	going online to buy shoes	0
+2x18	she'll be coming round the mountain	0
+2x18	when she comes	0
+2x18	she'll be coming round the mountain	0
+2x18	when she comes	0
+2x18	she'll be coming round the mountain	0
+2x18	you know, if i wanted to spend my saturday nights doing this,	0
+2x18	i could have stayed in india	0
+2x18	stop with the fake third world crap	1	1	nf
+2x18	your father's a gynecologist	0
+2x18	and you had a house full of servants	0
+2x18	we only had four servants	0
+2x18	and two of them were children	0
+2x18	how we doing	0
+2x18	we have  assorted penny blossoms	0
+2x18	ready to ship	0
+2x18	we're never gonna finish in time	0
+2x18	who made sheldon the boss anyway	0
+2x18	i believe i'm hearing some negativity on the factory floor	0
+2x18	so	0
+2x18	penny	0
+2x18	the labor force is a living organism that must be carefully nurtured	0
+2x18	any counterproductive grumbling must be skillfully headed off by management	0
+2x18	observe	1	1	nf
+2x18	less talk, more work	1	1	nf
+2x18	nicely done	0
+2x18	thank you	0
+2x18	you hear any union talk,	0
+2x18	you let me know	1	1	nf
+2x18	someone's in the kitchen with dinah	0
+2x18	someone's in the kitchen	0
+2x18	i knowowowow	0
+2x18	someone's in the kitchen with dinah	0
+2x18	'cause i sold my soul to the company store	0
+2x18	honey, do you want some coffee	1	3	nf
+2x18	i don't drink coffee	0
+2x18	but if you don't stay awake	0
+2x18	we'll never finish in time	0
+2x18	sorry, coffee's out of the question	0
+2x18	when i moved to california,	0
+2x18	i promised my mother that i wouldn't start doing drugs	0
+2x18	leonard, help	1	1	nf
+2x18	sheldon, we still have of these things to make	0
+2x18	i have complete faith that you will make them	0
+2x18	good night	0
+2x18	but, sheldon,	0
+2x18	without your insight and leadership, this entire enterprise will surely fail	0
+2x18	you're right, of course	0
+2x18	here, this will help	1	3	nf
+2x18	very well,	0
+2x18	but if this leads to opiates or hallucinogenics,	0
+2x18	you're going to have to answer to my mother	1	1	nf
+2x18	look at planck's constant	1	1	nf
+2x18	people say it's arbitrary	0
+2x18	it could not be less arbitrary	0
+2x18	if it varied slightly,	0
+2x18	life as we know it would not exist	0
+2x18	bam	0
+2x18	now, now, let's reconsider the entire argument, but with entropy reversed	1	nf
+2x18	and effect preceding cause	0
+2x18	so you are thinking of a universe	0
+2x18	that's not expanding from the center	0
+2x18	no, it is retreating from a	0
+2x18	from a possibility space	0
+2x18	this is a space	0
+2x18	where we are all essentially alice through the looking glass, standing in front of the red queen, and we're being offered a cracker to quench our thirst	0
+2x18	of course, in another universe,	0
+2x18	let's call it universe prime	0
+2x18	we should have let him go to bed	0
+2x18	i can't believe we actually did it , friggin' penny blossoms	0
+2x18	i just want you guys to know	0
+2x18	i am really grateful for your help	0
+2x18	and for ever dollar i make, i'm going to give you  cents	0
+2x18	that's your entire profit margin	0
+2x18	then never mind	0
+2x18	i'll print out the shipping label	0
+2x18	what	0
+2x18	we got an email from the east rutherford, new jersey,	0
+2x18	gay, lesbian, bisexual and transgender alliance	0
+2x18	they want another thousand penny blossoms	0
+2x18	really	0
+2x18	oneday rush	0
+2x18	i really need to take that off the web site	0
+2x18	guess we'd better get started	1	1	nf
+2x18	you can't be serious	0
+2x18	come on	1	1	nf
+2x18	what about the living organism of the workforce	0
+2x18	and the american spirit and jiminy crockett at the alamo davy crockett	0
+2x18	jiminy crockett was a cricket	0
+2x18	yes, i know that, okay i'm tired	0
+2x18	i've had like  cups of coffee	0
+2x18	the point is, if we just pull together we can do this	0
+2x18	who's with me	0
+2x18	although you may find it hard to believe,	0
+2x18	we do have lives	0
+2x18	sorry	0
+2x18	my apologies to the gay community of east rutherford, new jersey	0
+2x18	where's the coffee	0
+2x18	we're all out	0
+2x18	no problem	0
+2x18	i'll be back before this banana hits the ground	0
+2x18	sorry, guys, but secret agent	0
+2x18	laser obstacle lunch is just stupid	0

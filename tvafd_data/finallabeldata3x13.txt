@@ -1,0 +1,240 @@
+3x13	seems like forever, since the four of us have been out to eat, you know just the guys	0
+3x13	oh, god yes, we get it you have a girlfriend now	0
+3x13	a little jealous, are we	0
+3x13	no, i'm not jealous all right, i'd kill a hobo if it'll get me laid	0
+3x13	now, can we order	1	1	nf
+3x13	oh, dear lord, they redid the menu	0
+3x13	so what	0
+3x13	it's the same food	0
+3x13	oh, is it look at this general tso's chicken is no longer listed under "specialties" it's now under "chicken"	0
+3x13	so	0
+3x13	yes, general tso not "tso," the chicken, "so" the question	0
+3x13	so	0
+3x13	so, why is it no longer a specialty did the chef lose confidence in the dish or himself and look over here	1	1	nf
+3x13	"shrimp in mobster sauce" what is "mobster sauce"	0
+3x13	it's obviously a typo	0
+3x13	perhaps or perhaps this restaurant's now a front for organized crime for all we know, the mobster sauce contains actual chunks of deceased mobsters	0
+3x13	no, no, no, no i think it just means it's the kind of sauce that mobsters like	0
+3x13	it doesn't mean any of that it's a typo	0
+3x13	you know what let's just get a pizza	1	1	nf
+3x13	good idea	0
+3x13	we'll go to corleone's	0
+3x13	sure, no mobsters there	0
+3x13	you know, the more i think about it, the mobster sauce couldn't possibly contain chunks of mobster	0
+3x13	and why is that	0
+3x13	it was listed under "seafood"	0
+3x13	what if they were mobsters who slept with the fishes	0	
+3x13	leonard, are we having a serious conversation or not leonard	0
+3x13	what the the tv is gone so are our laptops	0
+3x13	oh, God oh, God oh, God	0
+3x13	it's all right they didn't take my comic books	0
+3x13	they took our tv, two laptops, four external harddrives, our ps, our ps, our xbox, xbox , our classic nintendo, our super nintendo, our nintendo  and our wii	0
+3x13	we like games	0
+3x13	right, games	0
+3x13	they took halo , halo , halo , call of duty , call of duty , call of duty , rock band, rock band , final fantasy  thru , the legend of zelda, the legend of zelda ocarina of time, the legend of Zelda twilight princess, super mario brothers, super mario galaxy, mario and sonic at the winter Olympics and ms pacman assorted video games	0
+3x13	when does the csi team get here	0
+3x13	what	0
+3x13	in anticipation of their arrival, i've bagged some evidence one of the thieves had the audacity to quench his thirst while ransacking our home	0
+3x13	you should be able to pull some good prints off this	1	1	nf
+3x13	and now, here are my prints	0
+3x13	so you can rule me out as a suspect	1	1	nf
+3x13	what about me	0
+3x13	i'm sorry, leonard it's too early to discount the possibility of this being an inside job	0
+3x13	would i be completely out of line to ask you to shoot him	1	1	nf
+3x13	i'd be happy to put him under a hour psychiatric hold	0
+3x13	i'm not crazy my mother had me tested	0
+3x13	we're done here	0
+3x13	call this number, and we'll fax	1	1	nf
+3x13	you a copy of the report	 so you can submit it to your insurance company	0
+3x13	ii'm sorry	0
+3x13	that's the end of your inquiry	0
+3x13	do you have any more information that might be relevant	0
+3x13	oh, my goodness where do i begin for instance my laptop contained four out of the five gedankenexperiments necessary for a cogent restatement of the quantum measurement problem	0
+3x13	how is that going to help them	0
+3x13	well, they could monitor scientific publications and see if anyone posts such a cogent restatement in the next	 couple of months if so, the authors are most likely in possession of my stolen laptop	0
+3x13	good night, fellas	0
+3x13	come on, bochco	0
+3x13	what are we supposed to do now	0
+3x13	the only thing we can do watch tv on our phones	1	4	nf
+3x13	until the criminals return and bludgeon us to death in our sleep	0
+3x13	does that mean you've ruled me out as a suspect	0
+3x13	oh, how i wish i could	0
+3x13	i do not have to urinate	0
+3x13	i am the master of my own bladder	0
+3x13	drat	0
+3x13	i can't believe it if i hadn't been working the dinner shift, i would've run right into the robbers	0
+3x13	hey, there's no reason for you to be scared	0
+3x13	i'm not scared	0
+3x13	i would've gone all Nebraska on their asses	0
+3x13	sheldon	0
+3x13	leonard and penny	0
+3x13	leonard	and penny	0
+3x13	leonard and penny	0
+3x13	hand me the bat	1	1	nf
+3x13	we just had a major crime in the building, and you open the door without asking who it is	0
+3x13	it won't happen again	0
+3x13	what's up	0
+3x13	nothing	0
+3x13	i just wanted to see if you were both okay	0
+3x13	we're fine, sheldon	0
+3x13	all right, then	0
+3x13	good night	0
+3x13	good night	0
+3x13	that was weird,	even for him	0
+3x13	mmhmm	0
+3x13	leonard and penny	0
+3x13	leonard and penny	0
+3x13	leonard and penny	0
+3x13	who is it	0
+3x13	sheldon sheldon cooper	0
+3x13	yes	0
+3x13	may i come in	0
+3x13	yeah	0
+3x13	i see you're drinking wine	0
+3x13	yes, we are  we're about to go to bed	0
+3x13	uhhuh	0
+3x13	sheldon, do you want to sleep here tonight	0
+3x13	oh, as small as leonard is, i don't think the two of you'd be comfortable on the couch	0
+3x13	what do you want	0
+3x13	it's not what i want, it's what evolution wants	0
+3x13	human beings are primates primates have evolved to live in groups, both for protection and support	0
+3x13	but you don't like other people	0
+3x13	i do tonight	0
+3x13	it's scary over there	0
+3x13	it's getting scary here, too	0
+3x13	um three little kittens three little pigs	0
+3x13	God, i don't know star wars	0
+3x13	did we win can we go to bed	0
+3x13	good Lord i could not have made this easier hydrogen atom, h, plus pigs minus pea higgs	 bow, general zod trapped in the phantom zone	0
+3x13	bowzone	0
+3x13	pear tickle	0
+3x13	peartickle	0
+3x13	higgs boson particle how could you not get that	0
+3x13	he's right, penny it's all there	0
+3x13	sheldon, sweetie, i know you're feeling insecure, but we've really got to go to sleep	0
+3x13	all right	0
+3x13	i'll take the first watch and wake you at	0
+3x13	great good night	0
+3x13	wait, wait	0
+3x13	what's am that's, like, in  minutes	0
+3x13	just keep walking	1	1	nf
+3x13	woman (on tv)	0
+3x13	it's quiet out there	0
+3x13	man (on tv)	0
+3x13	maybe a little too quiet	0
+3x13	where are you going just gonna take a look around outside	0
+3x13	bad idea	0
+3x13	no, jim, don't open the door	0
+3x13	listen to her, jim	1	1	nf
+3x13	don't worry	1	1	ni
+3x13	there's no one out there	0
+3x13	sheldon	0
+3x13	leonard and penny	0
+3x13	leonard and penny	0
+3x13	leonard	0
+3x13	and penny	0
+3x13	leonard	0
+3x13	who is it	0
+3x13	all right, we've got a titanium dead bolt and a reinforced jamb controlled by a stateoftheart electronic access system	0
+3x13	what if they cut the power	0
+3x13	there's a watt uninterruptible backup power supply	0
+3x13	what if someone steals my keys	0
+3x13	there are independent voice and fingerprint scanners	0
+3x13	what if someone kidnaps me, forces me to record my voice, and then cuts off my thumb	0
+3x13	i'll send them a basket of muffins now, inside, we've got motion detectors, infrared sensors, and cameras connected to a server running stateoftheart facial recognition software	0
+3x13	where did you get all this stuff	0
+3x13	eh, i got a buddy over at the department of defense	0
+3x13	he just gave it to you	0
+3x13	i'm sure he would have if i had asked	0
+3x13	ironically, their security isn't all that good	0
+3x13	raj, your car is blocking me	0
+3x13	intruder alert, intruder alert intruder alert	0
+3x13	what the hell	0
+3x13	intruder alert	0
+3x13	sorry, let me help you	0
+3x13	wonderful security system if we're attacked by a school of tuna	0
+3x13	don't worry, the net's	1	2	ni
+3x13	going to be electrified	0
+3x13	you picture her on the floor, spasming uncontrollably	0
+3x13	better	0
+3x13	sheldon	0
+3x13	sheldon's journal security system in place however, sleep continues to elude me i've seen the underbelly of Pasadena this socalled city of roses, and it haunts me	0
+3x13	ah, the injustice	0
+3x13	i lie here awake, tormented, while out there evil lurks, probably playing donkey kong my classic nintendo	0
+3x13	oh, dear	0
+3x13	i am the master of my own bladder	0
+3x13	leonard and penny	0
+3x13	leonard and penny	0
+3x13	leonard and penny	0
+3x13	oh, my God, Sheldon what the hell are you doing out there	0
+3x13	i heard a noise	0
+3x13	it was us we knocked over a lamp	0
+3x13	why would you knock over a lamp	0
+3x13	we were going to have	0
+3x13	he doesn't need to know what we were doing,	1	1	ni
+3x13	leonard	0
+3x13	oh	0
+3x13	no, she's right, i don't need to know what you were doing	0
+3x13	carry on	1	1	nf
+3x13	what are you doing use the door	1	1	nf
+3x13	good thinking perhaps i'll check the perimeter and make some warm milk	0
+3x13	great, you do that	0
+3x13	would you like me to bring you ome warm milk	1	3	nf
+3x13	i'm lactose intolerant and you don't wish to alarm me with any more loud noises	0
+3x13	very thoughtful	0
+3x13	warm milk, penny	1	3	nf
+3x13	no, thanks	0
+3x13	fine	0
+3x13	good night to you, sir	0
+3x13	miss	0
+3x13	sorry about that	0
+3x13	ugh, what can you do	0
+3x13	here	0
+3x13	intruder alert, intruder alert	0
+3x13	intruder alert, intruder alert	0
+3x13	looks like wolowitz got the net electrified	0
+3x13	sheldon, are you okay	0
+3x13	ii'm fine although i'm no longer the master of my own bladder	0
+3x13	my new computer came with windows	0
+3x13	windows  is much more user friendly than windows vista	0
+3x13	i don't like that don't you think looking for a new city to live in a bit of an overreaction	0
+3x13	our apartment was broken into,	 our security system tried to kill me, and as a result, i'm leaving pasadena forever	0
+3x13	tell me how that's overreacting	1	1	nf
+3x13	come on, sheldon, you can't move don't you need to stay in one place so the mother ship can find you when it returns	0
+3x13	oh, if that were only true unfortunately, as i'm earthbound the foreseeable future, i need to find a location that's more hospitable than the mean streets of pasadena, like enid, Oklahoma low crime rate and highspeed internet connectivity but no model train shops sorry, enid	0
+3x13	is he quitting his job at the university	0
+3x13	oh, no, he's going to telecommute everybody's really excited about it	0
+3x13	all right	1	1	nf
+3x13	boone, north carolina	0
+3x13	"every summer since , "boone has hosted an outdoor amphitheater portrayal of the life and times of its namesake, dan'l boone"	0
+3x13	sounds like something that would attract the wrong crowd	0
+3x13	penny, you're from nebraska,	0
+3x13	correct born and raised	0
+3x13	it will take me a few days to get settled after i do, i will email you detailed pdfs containing diagrams and instructions that will guide you through packing and shipping the rest of my possessions to bozeman, montana, in the meantime,	0
+3x13	please forward my mail	1	1	nf
+3x13	any place specific or just the bozeman, montana loony bin	0
+3x13	i sense you're making a joke, but bozeman does have a comedy club called the loony bin,	0
+3x13	so do not forward my mail there	1	1	ni
+3x13	oh, come on so you were the victim of a crime part of life when my greatgrandfather first came to this country, he put all his hopes and dreams into this little butcher shop he ran on the lower east side of new York you know what happened every customer who walked into that butcher shop and asked for a pound of liver, got ripped off but those people moved on, and so should you	1	1	nf
+3x13	i am moving on	0
+3x13	i'm going to be a bozite	0
+3x13	they call themselves "bozites"	0
+3x13	they should it's one of the first things i plan to bring up upon arrival	0
+3x13	sheldon, i can't believe i'm saying this, but i'm going to miss you	0
+3x13	please, penny, as you know, i'm not comfortable with prolonged goodbyes and maudlin displays of emotion, so i prepared a short video	0
+3x13	greetings as you know, i'm not comfortable with prolonged goodbyes and maudlin displays of emotion, so i prepared this short video the four of you are three	of my closest friends and one treasured acquaintance though i cannot state categorically that my life be diminished not having you in it,i am comfortable if you choose to believe that since you intend to remain in this lawless metropolitan area statistics suggest that you will succumb to tragic and gruesome ends before we meet again	0
+3x13	live long and prosper	1	2	nf
+3x13	sheldon, that's so	0
+3x13	you might want to lock the door behind me	1	1	nf
+3x13	this isn't bozeman	0
+3x13	how the hell do i know who's the friend	and who's the acquaintance	0
+3x13	that is a bracing cold, an invigorating cold	0
+3x13	Lord, is it cold	0
+3x13	help you with your bags, sir	0
+3x13	thank you, fellow bozite	 and may i say, you are the living embodiment of all the promises made by our lovely town's chamber of commerce	0
+3x13	wait	1	1	nf
+3x13	wait	1	1	nf
+3x13	excuse me	1	1	nf
+3x13	one ticket to pasadena,	california, please	1	1	nf
+3x13	hey, look who's back	1	1	nf
+3x13	interesting the acquaintance is the first to greet me	0

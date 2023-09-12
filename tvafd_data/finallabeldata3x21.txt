@@ -1,0 +1,286 @@
+﻿3x21	hold	1	1	nf
+3x21	what	0
+3x21	explain your sneeze	1	1	nf
+3x21	i'm sorry	0
+3x21	do you have allergies no	0
+3x21	is there too much pepper on your salad	0
+3x21	i don't put pepper on salads	0
+3x21	i've heard enough	0 
+3x21	sit over there	1	1	nf
+3x21	oh, come on i don't want to sit by myself	0
+3x21	that's what typhoid mary said, and clearly, her friends buckled	0
+3x21	guys, help me	1	1	nf
+3x21	sheldon, come on	0
+3x21	yeah, it's just one sneeze	0
+3x21	you're on your own see you, buddy	0
+3x21	oh, leonard, i have something for you per our roommate agreement, this is your hour notice that i will be having a nonrelated female spending two nights in our apartment	0
+3x21	when you say "nonrelated female," you still mean human, right	0
+3x21	of course	0
+3x21	pets are banned under the roommate agreement, with the exception of service animals, such as seeing eye dogs and, one day, cybernetically enhanced helper monkeys	0
+3x21	are you planning on kidnapping a woman	0
+3x21	sarcasm	0
+3x21	yes, but mixed with genuine concern	0
+3x21	for your information, i'll be playing host to dr elizabeth plimpton	0
+3x21	the cosmological physicist from princeton	0
+3x21	yes	0
+3x21	and until you acquire a surgical mask,	0
+3x21	please address your comments to me through a napkin	1	1	nf
+3x21	we've been corresponding for years about our mutual interest in	gravitational wave signatures of inflatons in the early universe and now she's under consideration for a position at our university	0
+3x21	why didn't you tell me you knew elizabeth plimpton i am a huge fan of hers	0
+3x21	i didn't realize i was obligated to share my connection	with things you're a fan of, but very well you enjoy canadian bacon i've been to toronto	0
+3x21	okay, fine where is she going to sleep	0
+3x21	my room, of course	0
+3x21	holy crap 	0
+3x21	holy crap	0
+3x21	yeah, um, i have a twopart question	0
+3x21	go ahead	1	1	nf
+3x21	a) are you kidding me and b) seriously,	are you freaking kidding me	0
+3x21	a) i rarely kid	and b) when i do kid, you will know it by my use of the word "bazinga"	0
+3x21	so you're saying the two of you	are going to be sleeping in the same bed	0
+3x21	yes bazinga	0
+3x21	thank you	0
+3x21	why is a world renowned scientist staying in our apartment instead of a hotel	0
+3x21	well, she doesn't care for hotels and who can blame her	windows that don't open, multiuser linens, keys shaped like credit cards as if one walks around	with unassigned slots in one's wallet	0
+3x21	all right, i believe i have time for one more question	0
+3x21	yes, raj	1	1	nf
+3x21	when can i sit with you again	0
+3x21	when i've seen two consecutive negative throat cultures	spaced  hours apart you know the drill all right, if you'll excuse me, i am off to start a prophylactic course of antibiotics	0
+3x21	i can't believe he's friends with elizabeth plimpton	0
+3x21	i can't believe they let him into canada	0
+3x21	whoa, whoa, whoa you heard the man where's your throat cultures	kidding	0 
+3x21	sit down	1	1	nf
+3x21	hey, sheldon	0
+3x21	oh, penny, excellent i have a question about these maxi pads are the wings truly functional or have i fallen victim to marketing hype	0
+3x21	what why are you doing with what	0
+3x21	the stock boy at walgreens was frustratingly uninformed on the subject	0
+3x21	sheldon, what are you doing with maxi pads	0
+3x21	i have a lady friend who will be staying with me for a few days	0
+3x21	oh what	0
+3x21	i want her to feel at home i also bought scented soaps, pantyhose, midol, calcium chews and what is apparently a yogurt	specifically designed to regulate the female bowel	0
+3x21	wait, wait, hold on, back up	1	1	nf
+3x21	you're having a woman stay with you	0
+3x21	yes why does that seem to flabbergast everybody	0
+3x21	oh no, no, no, no i'm not flabbergasted	i'm puzzled yeah, let's go with puzzled	0
+3x21	a word of warning my guest is a noted physicist	and the leading expert on quantum cosmology,	0
+3x21	so please try to avoid wasting her time	with female jibber jabber	1	1	nf
+3x21	female jibber jabber	0
+3x21	shoe sales, hair styles, mud masks, gossip about your friends brad and angelina	0
+3x21	oh, they're not my friends	0
+3x21	i'm not surprised, considering the way you talk about them behind their backs	0
+3x21	she's here, she's here	0
+3x21	how do i look do i look smart	0
+3x21	oh, good grief this isn't about you	0
+3x21	coming	0
+3x21	now, listen	1	1	nf
+3x21	one of the great minds of the st century is about to play host to one of the other great minds of the st century	0
+3x21	so pay attention	1	1	nf
+3x21	years from now,	my biographer might ask	you about this event	0
+3x21	oh, i have so many things to tell your biographer	0
+3x21	dr cooper, thank goodness i completely forgot your address but then i remembered that i'd written it on my hand	lucky for me, i didn't confuse it with what i'd written	on my other hand, which are the coordinates for a newly discovered neutron star'cause if i tried to go there, i'd be crushed by hypergravity anyway, hello hello nice to finally meet you in person	0
+3x21	i would imagine it is this is my friend and roommate, dr leonard hofstadter	0
+3x21	hilo oops ii started to say "hi," and then i switched to "hello" in the middle it came out "hilo"	0
+3x21	duh	0
+3x21	uh, it's nice to meet you ii've read both your books and most of your papers ii'm leonard, i live here,	you're brilliant	0
+3x21	i apologize he's only an experimental physicist	0
+3x21	no need to apologize some of my best friends are experimental physicists well, not my best friends, but i know them my best friend is a molecular chemist named wendy i'm sorry, i'm rambling hilo	0
+3x21	are you hungry, thirsty	can i offer you anything	0
+3x21	no, she's my guest if anyone should offer her anything, it should be me	elizabeth, can i get you something perhaps a feminine hygiene product or a bowelregulating yogurt	0
+3x21	interesting choices based on my current needs, i guess i'd pick the yogurt	0
+3x21	excellent if the yogurt works, i bought some delightful	scented candles	0
+3x21	look, it's you	1	1	nf
+3x21	thank you so much for opening up your home to me	0
+3x21	well, who wants to stay in a hotel windows that don't open, those crazy cardshaped keys	0
+3x21	i'm so glad you understand	0
+3x21	no, he doesn't understand i understand	0
+3x21	well, i understand, too	0
+3x21	you're just misappropriating my understanding	0
+3x21	oh i think any university would want you except, of course, any university that	had already had you because they would've already wanted you before they, you know, got you	0
+3x21	from the mind that brought you "hilo"	0
+3x21	let me show you to your room	1	3	nf
+3x21	all right i guess i am tired	0
+3x21	good night, leonard uh, sleep night i mean, obously, good night i started to say "sleep tight,"	then i changed my mind in the middle i swear to god, i'm smart	0
+3x21	get it together, man	1	1	nf
+3x21	all right, let me show you some of the features of the room first, windows conventional open, closed open, closed halfway open or halfway closed, depending on your philosophical bent over here is my comic book collection	0
+3x21	feel free to browse	1	3	nf
+3x21	there's a box of disposable reading gloves on the night stand	0
+3x21	good to know	0
+3x21	in here, you'll find emergency provisions an eightday supply of	food and water, a crossbow, season two of star trek the original series	on a highdensity flash drive	0
+3x21	what if there's a disaster that destroys all the usb ports	0
+3x21	then there's really no reason to live, is there	0
+3x21	can i ask a question about your roommate	0
+3x21	he's an odd duck, isn't he	0
+3x21	what's his relationship status	0
+3x21	well, there was a misbegotten adventure	with a waitress who lives across the hall it ended as inexplicably as it began they had very little in common, except for carnal activity that's why i acquired	these noisecanceling headphones	if you decide to use them,	0
+3x21	please clean the ear	1	1	nf
+3x21	pieces afterwards with the wet wipes you'll find in the bathroom they're in the drawer labeled "wet wipes"	0
+3x21	okay	0
+3x21	good i'll leave you to your nighttime ablutions	i've emailed you the morning bathroom schedule you'll also find a laminated copy in your welcome packet	it's on the back of the	emergency escape route diagram	0
+3x21	how thoughtful	0
+3x21	sleep well, my friend	1	2	nf
+3x21	you, too	0
+3x21	oh, let me just get one thing it's my backup emergency supply kit the living room escape route doesn't pass through here now, good night and if there's an apocalypse, good luck	0
+3x21	yes	0
+3x21	i saw your light on is everything all right	0
+3x21	yeah, i just couldn't sleep	0
+3x21	me neither	0
+3x21	oh, look what i'm reading	1	1	nf
+3x21	it's you	0
+3x21	i thought you already read it	0
+3x21	i did, but it's been a while, and i wanted to sound smart over breakfast	0
+3x21	aw, you're smart	0
+3x21	oh, good wasn't sure it was coming across	0
+3x21	what chapter are you on	0
+3x21	uh, six	0
+3x21	oh, the extragalactic distance ladder want to know a little secret	0
+3x21	sure	0
+3x21	i wrote the section on the wilsonbappu effect completely naked	0
+3x21	really	uh, sure doesn't read that way	0
+3x21	here, let me show yo when we consider the brightness of pulsating variable stars we start to see a possible explanation for some of the discrepancies found in hubble's constant	0
+3x21	wow you really make science come alive	0
+3x21	vocal test morning vocal test second vocal test	second morning vocal test morning, sheldon morning morning, sheldon morning i trust you had a pleasant night	0
+3x21	more than pleasant excuse me, i'm going	to relieve myself	0
+3x21	how do you take your coffee	0
+3x21	black okeydoke	0
+3x21	pee for houston, pee for austin, pee for the state my heart got lost in	and shake twice for texas	0
+3x21	something his mother taught him	0
+3x21	all right, elizabeth, the bathroom is yours the seat is down, and has been sanitized for your protection	0
+3x21	that's very thoughtful,	but i think i'll finish my coffee first	0
+3x21	ah, so the yogurt didn't work i'll fire off a critical email to the manufacturer	0
+3x21	oh, good, you're up look, my car won't start i need a ride to work	0
+3x21	did you once again ignore your "check engine" light	0
+3x21	no, mr smartypants i ignored the "fill gas tank" light	0
+3x21	leonard, penny wants to exploit any residual feelings you have for her in order to get a ride to work	0
+3x21	oh, yeah, sure, let me just put this in a travel mug	0
+3x21	hello	0
+3x21	hi	0
+3x21	oh, penny, this is dr plimpton a leading expert on quantum cosmology dr plimpton, penny is a waitress who doesn't understand the role gasoline plays in the internal combustion engine	0
+3x21	nice to meet you	0
+3x21	nice to meet you, too	0
+3x21	are you enjoying your stay	0
+3x21	yes, very much	0
+3x21	good	0
+3x21	wonderful meaningless pleasantries accomplished	elizabeth, leonard's bathroom time is coming up,	0
+3x21	and believe me,	1	1	nf
+3x21	you do not want to follow him	0
+3x21	excuse me	0
+3x21	okay, well, i guess i should get dressed so i can take everyone to work	you and sheldon	and sheldon's friend, dr plimpton, who you just met gonna be fun like a clown car	0
+3x21	hang on hmm	1	1	nf
+3x21	yeah what huh	0
+3x21	we just broke up	0
+3x21	wha uh, you and me yeah, we did not too long ago	0
+3x21	how are you doing with it	0
+3x21	not as good as you apparently	0
+3x21	i, um, i don't follow	0
+3x21	you know what it's, it's none of my business if you want to sleep with sheldon's doctor buddy right after we stopped seeing each other	0
+3x21	go for it	1	4	nf
+3x21	well, now excuse me i'm uncomfortable with you recommending that leonard pursue having intercourse with dr plimpton, who i assure you has better things to do	0
+3x21	i'm not recommending it	i'm saying it already happened	0
+3x21	that's preposterous	0
+3x21	tell her, leonard	1	1	nf
+3x21	well no	0
+3x21	come on it wasn't my fault the implication being that you sow tripped and fell into her lady parts you know what i'm just gonna take the bus to work	0
+3x21	penny, i can still drive you	0
+3x21	oh, no, no, it's okay you might slip on a banana peel and get me pregnant	0
+3x21	i must say, i'm ocked by this betrayal	0
+3x21	i didn't betray penny	0
+3x21	not penny, me	0
+3x21	how am i betraying you	0
+3x21	izabeth's my friend, and you're playingith her	0
+3x21	yeah, i guess i did	0
+3x21	what the hell are you doing	0
+3x21	relax, it's nyquil	1	1	nf
+3x21	you still have a cold	0
+3x21	maybe, but i don't care	that's the great thing about nyquil, it's like tenpercent booze i call it the nighttime sniffling, sneezing, coughing so you can talk to girls medicine	0
+3x21	are you having trouble sleeping	'cause, boy, i was up all night	0
+3x21	did you get a cold, too	0
+3x21	no, but i was awake all night	0
+3x21	if you want, i can give you some of my mom's sleeping pills she won't notice they're missing she doesn't kn she takes them	0
+3x21	no, that's okay	it was something else keeping me up last night and again this morning and i didn't mind i was up last night i was up this morning i didn't mind	those are your clues	0
+3x21	ooh, ooh did the pigeon on your	windowsill have more babies	0
+3x21	no	0
+3x21	were you up mang another stopmotion legoovie	0
+3x21	no	0
+3x21	'cause let me tell you, it's not enough to make the legos move,	they also have to capture your heart	0
+3x21	okay, i'll give you one more clue it involved another person	0
+3x21	did you get a japanese love pillow	0
+3x21	how is a japanese love pillow another person	0
+3x21	it is if you love her and give her a name	0
+3x21	dr plimpton, i'd like you to meet my colleagues	dr rajesh koothrappali	0
+3x21	hi and notadoctor howard wolowitz	0
+3x21	hi i'm a big fan of your work	0
+3x21	thank you and of course, you've	already introduced yourself to dr hofstadter	0
+3x21	hey, you	0
+3x21	hey, you	0
+3x21	boy, i'm kind of tuckered out how are you feeling, elizabeth	0
+3x21	you know what i am a little tired	0
+3x21	would you be a dear and	get me a cup of coffee	1	1	nf
+3x21	sure black, right	0
+3x21	actually, now i think i want it hot, brown and sweet	1	1	nf
+3x21	coming right up	0
+3x21	what	0
+3x21	what do you mean "what" it's halo night	0
+3x21	i can't i'm too sick	0
+3x21	go away	1	1	nf
+3x21	that's why we moved halo night here	0
+3x21	look, i brought my mom's chicken soup	0
+3x21	i'm not hungry	0
+3x21	don't send him away	1	1	ni
+3x21	let him in	1	2	nf
+3x21	who's that	0
+3x21	i bought a parrot	0
+3x21	yeah, right dr plimpton	0
+3x21	hi howard, right	0
+3x21	uh, yeah	0
+3x21	can i ask you a question, howard do you like roleplaying games	0
+3x21	yeah, sure in fact, i'm a dungeon master	0
+3x21	not tonight tonight you are a delivery man you brought soup,	0
+3x21	but uhoh, raj and i don't have enough money to pay you so we'll have to come to some other kind of arrangement	0
+3x21	beg your pardon	0
+3x21	you two figure out the details,	1	1	nf
+3x21	i'm going to go	change into something i don't mind getting ripped off my milky flesh	0
+3x21	what the frak	0
+3x21	go away	1	1	nf
+3x21	she wants new delhi, not kosher deli besides, you have a girlfriend	0
+3x21	we broke up weeks ago	0
+3x21	why didn't you say anything	0
+3x21	i was waiting for the right time	0
+3x21	this is the right time	0
+3x21	hey, who's ready for halo	0
+3x21	oh, this is like a nightmare	0
+3x21	get lost	1	1	nf
+3x21	he's right the numbers are shaky enough as it is	0
+3x21	i don't understand	0
+3x21	oh, good leonard's here	0
+3x21	good	0
+3x21	elizabeth what's going on	0
+3x21	what's going on is you and howard are my moving men and raj is my new landlord and i don't have enough money to pay any of you	0
+3x21	is she suggesting what i think she's suggesting	0
+3x21	yep	0
+3x21	welcome to the penthouse forum	0
+3x21	okay, show of hands	1	1	nf
+3x21	who's up for this we'll all be naked in	front of each other	0
+3x21	i'm out	0
+3x21	everybody ready	0
+3x21	follow my lead	1	1	nf
+3x21	almost	0
+3x21	we're, we're going to go out into the hallway and, uh,	make a dramatic entrance	0
+3x21	oh, good it's so much better when everyone commits	0
+3x21	run run, run, run	1	1	nf
+3x21	don't look back	1	1	ni
+3x21	i thought we had something special	0
+3x21	so, you say you can't pay your rent oh, leonard	0
+3x21	hey	0
+3x21	i found these in the dryer i'm assuming they belong to sheldon	0
+3x21	thanks	0
+3x21	it's really hard to find these in his size	0
+3x21	so, listen	1	1	nf
+3x21	i've been meaning to talk to you about the other morning	0
+3x21	you mean you and dr slutbunny	0
+3x21	yeah, i wanted to explain	0
+3x21	well, you don't owe me an explanation	0
+3x21	i don't	0
+3x21	no, you don't	0
+3x21	so you're not judging me	0
+3x21	oh, i'm judging you nine ways to sunday, but you don't owe me an explanation	0
+3x21	nevertheless, i'd like to get one on the record	so you can understand why i did what i did	0
+3x21	i'm listening	0

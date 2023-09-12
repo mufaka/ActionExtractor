@@ -1,0 +1,418 @@
+﻿2x03	fellow warriors,	0
+2x03	this is sheldor the conqueror	0
+2x03	we are about to enter axidus' fortress	0
+2x03	now, this is a long run, so let's do another bladder check	1	1	nf
+2x03	all right, barry, we'll wait for you again,	0
+2x03	but you really  should see a doctor	0
+2x03	sheldor is afk	0
+2x03	penny, are you experiencing some sort of difficulty	0
+2x03	yes i can't get  my stupid door open	0
+2x03	you appear to have put  your car key	0
+2x03	in the door lock are you aware of that	0
+2x03	yeah	0
+2x03	all right, then	0
+2x03	damn it,	0
+2x03	damn it, damn it, damn it, damn it	0
+2x03	would it be possible for you to do this a little more quietly	1	1	nf
+2x03	i can't get the damn key out	0
+2x03	well, it's not surprising that baldwin lock on your door	0
+2x03	uses traditional edgemounted cylinders,	0
+2x03	whereas the key for your volkswagen	0
+2x03	uses a center cylinder system	0
+2x03	thank you, sheldon	0
+2x03	you're welcome	0
+2x03	why did you put	0
+2x03	your car key in the door lock	0
+2x03	why i'll tell you why because today i had an audition,	0
+2x03	it took me two hours  to get there,	0
+2x03	i waited an hour for my turn,	0
+2x03	and before i could even start,	0
+2x03	they told me i looked too midwest	0
+2x03	for the part	0
+2x03	too midwest what the hell does that even mean	0
+2x03	well, the american midwest was mostly settled	0
+2x03	by scandinavian and germanic people	0
+2x03	they have a characteristic facial bone structure	0
+2x03	i know what it means, sheldon	0
+2x03	god you know, i have been in la for almost two years now,	0
+2x03	and i haven't gotten  a single acting job	0
+2x03	i've accomplished nothing, haven't gotten	0
+2x03	a raise at work, haven't   even had sex in six months,	0
+2x03	and just now, when i was    walking up those stairs,	0
+2x03	a fly flew in my mouth  and i ate it	0
+2x03	well, actually, insects are a dietary staple in many cultures	0
+2x03	they're almost pure protein	0
+2x03	oh, son of a bitch	0
+2x03	i believe the condensation on your frozen foods	0
+2x03	weakened the structural integrity of the bag	0
+2x03	but returning to your key conundrum,	0
+2x03	perhaps you should call a locksmith	0
+2x03	and have him  open the door for you i did	0
+2x03	he said he'll get here   when he gets here	0
+2x03	and you're frustrated  because he phrased his reply	0
+2x03	in the form of a meaningless tautology no	0
+2x03	i am frustrated because i am a failure at everything	0
+2x03	and my breath smells like fly	0
+2x03	there, there	0
+2x03	would you prefer to wait in our apartment	0
+2x03	no, sheldon, i'd rather sit on this freezingcold floor	0
+2x03	sobbing like a threeyearold	0
+2x03	all right, then	0
+2x03	for heaven's sake	0
+2x03	just when i think i've gotten the hang of sarcasm	0
+2x03	make yourself comfortable	1	1	nf	
+2x03	not there	0
+2x03	sheldor is back online	0
+2x03	sheldor	0
+2x03	the conqueror	0
+2x03	what are you doing	0
+2x03	afk	0
+2x03	i'm playing	0
+2x03	age of conan,   an online multiplayer game set in the universe of robert e howard's	0
+2x03	conan the barbarian	0
+2x03	sheldor back online	0
+2x03	what's "afk"	0
+2x03	afk	0
+2x03	away from keyboard	0
+2x03	oh, i see	0
+2x03	what does that stand for	0
+2x03	oh, i see	0
+2x03	yes, but what does it stand for	0
+2x03	now, just click on the enchanted boots to put them on	1	1	nf
+2x03	mm, i don't know can i see them in another color	1	1	nf
+2x03	just click on them	1	1	nf
+2x03	yeah, congratulations	0
+2x03	you are now a levelthree warrior	0
+2x03	what's going on leonard,  guess what	0
+2x03	i'm a levelthree warrior	0
+2x03	great	0
+2x03	do you know there are groceries outside of your apartment	0
+2x03	yeah, yeah, yeah shh	0
+2x03	i only bring it up because your ice cream's melting	0
+2x03	and it's starting to attract wildlife	0
+2x03	uhhuh, yeah	0
+2x03	do i stay in the jungle or go towards the beach	0
+2x03	it doesn't matter right now; you're looking for treasure	1	1	nf
+2x03	wait, wait, where are you going	0
+2x03	no, no you're okay	0
+2x03	if you run into crocodiles, just kick them with your boots	1	1	nf
+2x03	you want to catch me up	0
+2x03	well, let's see, uh,	0
+2x03	she attempted to open her apartment with her car key	0
+2x03	because her face is overly midwestern, um	0
+2x03	she hasn't had sex in six months	0
+2x03	and she ate a fly	0
+2x03	seriously  six months	0
+2x03	oh, my god	0
+2x03	a treasure chest i'm rich	0
+2x03	level three, and she thinks she's rich	0
+2x03	what a newb	0
+2x03	okay	0
+2x03	we're all set	0
+2x03	let her rip	1	1	nf
+2x03	hi	0
+2x03	check it out it's just   corn starch and water	1	1	nf
+2x03	they make up	0
+2x03	a nonnewtonian fluid, which is liquid,	0
+2x03	but solid under the percussive action of the speaker	0
+2x03	that's what makes it get all funky	0
+2x03	yeah okay	0
+2x03	uh, listen, i need to talk to sheldon	1	1	nf
+2x03	no, that's what she said sheldon	0
+2x03	okay, i'm in the game,	0
+2x03	and i've been exploring the island of tortage,	0
+2x03	but i can't figure out how to get past the guard captain	0
+2x03	do you have the enchanted sword	0
+2x03	no, no, i have a bronze dagger	0
+2x03	you can't slay the guard captain with a bronze dagger	0
+2x03	my lord, it's like the car key	0
+2x03	in your apartment door all over again	0
+2x03	all right, how do i get the sword	0
+2x03	well, have you been to the temple of mishra	0
+2x03	is that the place on the hill with	0
+2x03	the weird priest in front of it no, no, no, it's	0
+2x03	oh, for god's sakes, gimme	1	1	nf
+2x03	thank you i really appreciate this	0
+2x03	you're gonna have to learn	0
+2x03	to do these things for yourself, penny	0
+2x03	don't patronize me just get the sword	0
+2x03	what the frack	0
+2x03	beats me	0
+2x03	they were playing all last night, too	0
+2x03	it's like some kind of weird comic book crossover	0
+2x03	like if hulk were dating peppermint patty	0
+2x03	i always thought peppermint patty was a lesbian	0
+2x03	no, that's marcie	0
+2x03	peppermint patty's just athletic	0
+2x03	there you go one enchanted sword	0
+2x03	all right, gimme, gimme, gimme	1	1	nf
+2x03	i want to kill the guard captain	1	1	nf
+2x03	that girl needs to get a life	0
+2x03	sheldon	0
+2x03	sheldon	0
+2x03	danger danger	0
+2x03	no danger  it's just me, penny	0
+2x03	listen, i got to level	0
+2x03	and reached purple lotus swamp, right	0
+2x03	you're in my bedroom	0
+2x03	leonard gave me an emergency key	0
+2x03	people can't be in my bedroom	1	1	nf
+2x03	well, can we go talk in the living room	1	1	nf
+2x03	i'm not wearing pajama bottoms	0
+2x03	why not	1	1	ni
+2x03	i spilled grape juice	0
+2x03	well, wear different pajamas	1	1	nf
+2x03	i can't wear different pajamas  these are my monday pajamas	1	1	ni
+2x03	penny, people cannot be in my bedroom	1	1	ni
+2x03	okay, fine, just tell me, is it too soon	1	1	nf
+2x03	to join a quest to the black castle	0
+2x03	you were invited on a quest to the black castle yeah, yeah	0
+2x03	by some guys in budapest	0
+2x03	i'm just not sure it's the right move for my character	0
+2x03	of course it's not   you're only a level	0
+2x03	these hungarians,	0
+2x03	they're just using you for dragon fodder	0
+2x03	really boy, you'd think you could trust	0
+2x03	a horde of hungarian barbarians	0
+2x03	please, penny, enough	1	1	nf
+2x03	i have to sleep	0
+2x03	okay, well, you were great	0
+2x03	thanks	0
+2x03	oh hey, leonard listen,  don't go in sheldon's room	1	1	ni
+2x03	he's not wearing bottoms	0
+2x03	sheldon, you want  to catch me up again	0
+2x03	people, i am very busy today	1	1	nf
+2x03	i realize that, dr gablehauser,	0
+2x03	but it is your job, as  head of the department,	0
+2x03	to mediate all interdepartmental disputes, university policy manual, chapter four, subsection two "mediation of interdepartmental disputes"	0
+2x03	fine	0
+2x03	dr winkle, what colorful name	0
+2x03	did you call dr cooper this time	0
+2x03	dr dumbass	0
+2x03	dr cooper, dr winkle apologizes	0
+2x03	no, i don't no, she doesn't	0
+2x03	here's the problem	0
+2x03	i was clearly signed up	0
+2x03	to use the mainframe in buckman ,	0
+2x03	and dr winkle just wantonly	0
+2x03	ripped the signup sheet off the wall	0
+2x03	it wasn't even an official signup sheet	0
+2x03	he printed it himself, and he put his name down	0
+2x03	on every slot for the next six months	0
+2x03	if it is a crime	0
+2x03	to ensure that the university's resources	0
+2x03	are not being squandered chasing subatomic wild geese,	0
+2x03	then i plead guilty	0
+2x03	oh, penny  do you need	0
+2x03	to get that, dr cooper	0
+2x03	god, no well, don't turn it off,	0
+2x03	you might miss your call from the nobel committee	0
+2x03	letting you know you've been nominated as dumbass laureate of the year	0
+2x03	oh, yeah well	0
+2x03	you wouldn't even be nominated	0
+2x03	dr gablehauser,  i have a series	0
+2x03	of important calculations  and simulations to run	0
+2x03	all she's doing is reducing irrelevant data	0
+2x03	and making a mock	0
+2x03	excuse me	0
+2x03	gablehauser	0
+2x03	it's for you	0
+2x03	hello	0
+2x03	penny, this is not a good time	1	1	ni
+2x03	no, i told you,	0
+2x03	you're not prepared for the sanctum of burning souls	0
+2x03	you need to be in a group of at least five for that quest	0
+2x03	and one should be a level  healer	0
+2x03	penny, i can't log on and help you	0
+2x03	we'll talk when i get home	0
+2x03	i'm not getting the computing time, am i	0
+2x03	dumbass	0
+2x03	leonard, you have to do something about penny	1	1	nf
+2x03	she is interfering with my sleep,	0
+2x03	she's interfering with my work,	0
+2x03	and if i had another significant aspect of my life,	0
+2x03	i'm sure she'd be interfering with that, too	0
+2x03	why should i do something	0
+2x03	you're the one who introduced  her to online gaming yes,	0
+2x03	but you're the one who said hello to her when she moved in	0
+2x03	if you'd simply restrained yourself,	0
+2x03	none of this would be happening	0
+2x03	why don't you just tell her to leave you alone	0
+2x03	i did, i told her,	0
+2x03	i texted her, i sent out a very emphatic twitter	0
+2x03	i even changed my facebook status to "sheldon cooper wishes penny would leave him alone"	0
+2x03	i don't know what else to do	1	1	nf
+2x03	well, what am i supposed to do	0
+2x03	i don't know, but if you don't figure something out,	0
+2x03	i warn you, i shall become very difficult to live with	0
+2x03	you mean up until now we've been experiencing the happy, funtime sheldon	0
+2x03	yes i'll go talk to her	0
+2x03	no, fritz, i need you on my flank	0
+2x03	no, i don't know german	0
+2x03	flankenzei, flankenzei	0
+2x03	hey, penny, busy	1	1	nf
+2x03	yeah, i see that	0
+2x03	shouldn't you be at work	0
+2x03	i don't work on mondays	0
+2x03	it's thursday	0
+2x03	listen, penny,	0
+2x03	queen penelope, afk	0
+2x03	what	0
+2x03	here's the thing	0
+2x03	sometimes people, good people,	0
+2x03	yeah, they start playing these games	0
+2x03	and they find themselves	0
+2x03	through no fault of their own	0
+2x03	you know, kind of addicted	0
+2x03	yeah, get to the pointi'm about to level up here	1	1	nf
+2x03	it's just if a person doesn't have	0
+2x03	a sense of achievement in their real life,	0
+2x03	it's easy to lose themselves in a virtual world	0
+2x03	where they can get a false sense of accomplishment	0
+2x03	yeah, jabber, jabber, jabberokay, boys,	0
+2x03	queen penelope's back online	0
+2x03	penny, you've got, cheetos in your hair	0
+2x03	oh thanks	0
+2x03	hey, penny, it's me again, leonard	0
+2x03	leonard, i said not now	1	1	ni
+2x03	i know, i'm just a little concerned about you	0
+2x03	i said not now	1	1	ni
+2x03	okay, maybe later	0
+2x03	hey, guys	0
+2x03	hey, what's with him	0
+2x03	penny's been keeping him up at night	0
+2x03	me, too	0
+2x03	but probably in a different way	0
+2x03	she's gotten really hooked on age of conan	0
+2x03	she's playing nonstop	0
+2x03	ah, yes, online gaming addiction	0
+2x03	there's nothing worse than having	0
+2x03	that multiplayer monkey on your back	0
+2x03	sheldon, wake up	1	1	nf
+2x03	danger danger	0
+2x03	afternoon, men	0
+2x03	sheldon	0
+2x03	oh, yeah	0
+2x03	well, your attempt at juvenilizing me	0
+2x03	by excluding me from the set of adult males, just,	0
+2x03	oh, i'm too tired to do this	0
+2x03	righti heard you've been pulling allnighters with middle earth barbie	0
+2x03	she comes into my room	0
+2x03	no one's supposed to be in my room	0
+2x03	i would postulate that she's escaping into the online world	0
+2x03	to compensate for her sexual frustration	0
+2x03	i do that, too	0
+2x03	but probably in a different way	0
+2x03	that's not what she's doing, leslie	0
+2x03	she's just trying to shore up her selfesteem	0
+2x03	it has nothing to do with sex	0
+2x03	everything has to do with sex	0
+2x03	mm, testify	0
+2x03	i'm not touching that	0
+2x03	leslie, you are way off base here	0
+2x03	hang on, leonard	0
+2x03	while i have no respect for leslie as a scientist	0
+2x03	or a human being,for that matter,	0
+2x03	we have to	concede her undeniable expertise in the interrelated fields	of promiscuity and general sluttiness	0
+2x03	thank you	0
+2x03	my point is that tinker bell just needs to get her some	0
+2x03	some what	0
+2x03	oh, yes, some sexual intercourse	0
+2x03	i'll take the bullet	0
+2x03	excuse me, this whole idea is insane	0
+2x03	enough debate, i'm going to take action	0
+2x03	excuse me	0
+2x03	are you currently involved in a sexual relationship	0
+2x03	no	0
+2x03	would you like to be	0
+2x03	uh, sure, why not	0
+2x03	sheldon	0
+2x03	puhpuhpuh	0
+2x03	can i have your phone number	1	1	nf
+2x03	uh, yeah	0
+2x03	there problem solved	0
+2x03	dumbass	0
+2x03	okay, i'm at the gate to the treasury of the ancients	0
+2x03	i'm going in	0
+2x03	stay close to the wall	1	1	nf
+2x03	avoid the mummies got it	0
+2x03	i must say you're playing very well for a woman of	twentytwo	0
+2x03	right,	0
+2x03	oh, here come the mummies	0
+2x03	which spell do i use, the hateful strike	0
+2x03	or the frenzy stance	0
+2x03	what happened to the rest of your group	0
+2x03	i dumped them, they're a bunch of wussies	0
+2x03	frenzy stance	0
+2x03	frenzy, frenzy, frenzy, frenzy, frenzy	0
+2x03	so, listen, would you describe your ideal vacation	0
+2x03	as a wild adventure to unknown lands	0
+2x03	or staying at home curled up with a good book	0
+2x03	what	0
+2x03	these are market research questions	0
+2x03	i'm filling out the online registration for your game	0
+2x03	oh, okay, wild adventure	0
+2x03	oh, frenzy stance isn't working	0
+2x03	die, you undead mummy, die	0
+2x03	drink a healing potion	1	1	nf
+2x03	thank you you're welcome	0
+2x03	anyhow, on a scale of one to five, with one being always initiated by him and five being always initiated by you, how do you prefer your sexual encounters to begin	0
+2x03	that's on the registration	0
+2x03	oh, yes, it's quite extensive	0
+2x03	but if we complete it,	0
+2x03	you get a free expansion pack	1	3	nf	
+2x03	 additional quests	0
+2x03	ooh, awesome, okay, i totally like to initiate	0
+2x03	i'm a big ol' five	0
+2x03	good to know	0
+2x03	big ol' five	0
+2x03	hello	0
+2x03	hi	0
+2x03	leonard, this is tom	0
+2x03	hi, tom   sheldon	0
+2x03	didn't i explain to you about your little mistake in the cafeteria	1	1	ni	
+2x03	yes,	0
+2x03	you were very clear	0
+2x03	as was everyone else at the table	0
+2x03	tom, however, has been chosen by science	0
+2x03	as a suitable mate for penny chosen by science	0
+2x03	well, what passes for science on dating sites	0
+2x03	they claim to use heuristic algorithms,	0
+2x03	but it may well be hokum	0
+2x03	you got penny to sign up for online dating	0
+2x03	no, of course not	0
+2x03	see, i used trickery and deceit	0
+2x03	this is bad	0
+2x03	tom is a paramedic with the fire department,	0
+2x03	but he's going to med school at night	0
+2x03	he likes the outdoors	0
+2x03	and, uh, strong women who initiate sex	0
+2x03	really, really bad	0
+2x03	i'm surprised you struck out with penny	0
+2x03	apparently, she's a big ol' five	0
+2x03	sheldon, what do you want	0
+2x03	oh, good,	0
+2x03	you got my note	0
+2x03	penny, i'd like you to meet tom	0
+2x03	penny, this is tom	0
+2x03	tom, may i present penny	0
+2x03	hi, penny	0
+2x03	yeah, hey listen	0
+2x03	as long as i'm here,	0
+2x03	i'm on a quest with a bunch of newbs	0
+2x03	they don't know what they're doing	0
+2x03	we've got one assassin, three spell casters and no tank	0
+2x03	can we talk about this later	1	1	nf
+2x03	no, no, no, no, i need you now	1	1	ni
+2x03	wouldn't you prefer to socialize with tom,	0
+2x03	who is a sexually passive outdoorsman	0
+2x03	whatever i'll figure it out myself	0
+2x03	bye, penny	0
+2x03	i'm sorry, dude, she didn't look anything like her picture	0
+2x03	they never do	0
+2x03	hello, fair penny	0
+2x03	who are you	0
+2x03	it is i, sir howard of wolowitz	0
+2x03	can i interest you in an afternoon of spirited questing followed by a flagon of ale at yon virtual tavern	0
+2x03	yeah, sure, why not	0
+2x03	oh, my god, i need help	0

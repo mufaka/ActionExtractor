@@ -1,0 +1,409 @@
+﻿2x22	smell that	1	1	nf
+2x22	that's the smell of new comic books	0
+2x22	they're on me today, boys	0
+2x22	you're paying	0
+2x22	have you been selling your sperm again	0
+2x22	no, i'm celebrating	0
+2x22	as we speak,	0
+2x22	the space shuttle is docking at the international space station	0
+2x22	where it will deploy the wolowitz zerogravity waste disposal system	0
+2x22	get over yourself	1	1	nf	
+2x22	it's a hightech toilet	0
+2x22	just think thanks to your hard work,	1	1	nf
+2x22	an international crew of astronauts will "boldly go where no man has gone before"	0
+2x22	is that supposed to be funny	0
+2x22	i believe it is	0
+2x22	the combination of the star trek reference and the play on words involving	0
+2x22	the doublemeaning of the verb "to go"	0
+2x22	suggests that leonard is mocking your efforts in space plumbing	0
+2x22	okay, make your little jokes,	1	4	nf		
+2x22	but of the four of us, i'm the only one making any realworld contribution to science and technology	0
+2x22	he's right this is an important achievement, for two reasons	0
+2x22	number one	0
+2x22	and, of course, number two	0
+2x22	clever	0
+2x22	playing on the use of cardinal numbers	0
+2x22	as euphemisms for bodily functions	0
+2x22	here, sheldon,	0
+2x22	i pulled the new hellboy for you	0
+2x22	it's mindblowing	0
+2x22	excuse me	0
+2x22	spoiler alert	0
+2x22	i didn't spoil anything	0
+2x22	you told me it's mindblowing	0
+2x22	so, my mind is going into it	0
+2x22	preblown	0
+2x22	and once a mind is preblown,	0
+2x22	it cannot be reblown	0
+2x22	i'm sorry	0
+2x22	said the grinch to christmas	0
+2x22	can i talk to you about something	1	1	nf
+2x22	what's up	0
+2x22	remember i went out with penny,	0
+2x22	a couple weeks ago	0
+2x22	yeah, vaguely	0
+2x22	sure you remember	0
+2x22	you went to the bar	0
+2x22	and made a fool of yourself trying to pick up strange women	0
+2x22	what about it	0
+2x22	the thing is,	0
+2x22	the date didn't go that well	0
+2x22	too bad	0
+2x22	i guess the thing to do now	0
+2x22	is just pick yourself up,	0
+2x22	dust yourself off,	0
+2x22	forget it and move on	0
+2x22	i can't do that	0
+2x22	why the hell not	0
+2x22	'cause we're going out again tomorrow	0
+2x22	excuse me, stuart	1	1	nf
+2x22	have you read the new flash	0
+2x22	well, i have	0
+2x22	and it will knock your socks off	0
+2x22	good luck getting them back on	0
+2x22	this is probably my last shot with penny	0
+2x22	and i don't want to screw it up	0
+2x22	nobody wants that	0
+2x22	so, here's my question	0
+2x22	it's the second date,	0
+2x22	you think she'll be expecting things to get physical	0
+2x22	gee	0
+2x22	my initial reaction is "no,"	0
+2x22	but let me think about it	0
+2x22	and get back to you	0
+2x22	so, you'll give me a call	0
+2x22	yeah, or you call me	1	4	nf
+2x22	great	0
+2x22	or nobody calls anyone	0
+2x22	interesting	0
+2x22	penny's current suitor asking advice from her former suitor	0
+2x22	you know, thanks for closedcaptioning my pain, raj	0
+2x22	hey, wanna make sure	0
+2x22	he gets nowhere with penny	0
+2x22	without jeopardizing your friendship	0
+2x22	with either of them	0
+2x22	i'm listening	0
+2x22	just tell him to do everything	1	3	nf
+2x22	you've done with her for the last two years	0
+2x22	how's it going	0
+2x22	good, good you	0
+2x22	fine	0
+2x22	can i ask you something	0
+2x22	sure	0
+2x22	you know your friend stuart	0
+2x22	he asked me out again	0
+2x22	and i said yes,	0
+2x22	and then i started thinking	0
+2x22	maybe i should talk to you first about what	0
+2x22	does it bother you, me going out with one of your friends	0
+2x22	'cause you know, you and me	0
+2x22	no, that's the past	0
+2x22	i'm really more of a "right now" kind of guy	0
+2x22	you know, living in the moment	0
+2x22	although i do have to live a little	0
+2x22	in the future, 'cause that's my job	0
+2x22	of course, my fondness for classic science fiction does draw my attention backwards,	0
+2x22	but those stories often take place in the future	0
+2x22	in conclusion, no,	0
+2x22	it doesn't bother me	0
+2x22	okay, well,	0
+2x22	that's really cool of you	0
+2x22	i wouldn't say cool	0
+2x22	i'd just say "that's leonard"	0
+2x22	in that case, do you mind giving me some advice about stuart	1	1	nf
+2x22	love to	0
+2x22	he's very shy	0
+2x22	how do i make him feel more comfortable around me	0
+2x22	first of all, don't underestimate the value of discomfort	1	1	ni
+2x22	really	0
+2x22	stuart thrives under pressure	0
+2x22	that's why he works in a comic book store	0
+2x22	it's stuart	0
+2x22	you're not going to answer it	0
+2x22	he wants to talk about penny	0
+2x22	i don't want to talk about penny	0
+2x22	you're making an assumption	0
+2x22	perhaps the comic book store is on fire	0
+2x22	and he needs your assistance	0
+2x22	why would he call me	0
+2x22	we don't know	0
+2x22	and if you don't answer the phone,	0
+2x22	we can't know	0
+2x22	i'm not answering the phone	0
+2x22	answer the phone, leonard	1	1	nf
+2x22	there, it went to voice mail	0
+2x22	aren't you going to check our messages	0
+2x22	you have to check your messages	1	1	nf
+2x22	the living of a message	is one half of a social contract	0
+2x22	which is completed by the checking of the message	0
+2x22	if that contract breaks down, then all social contracts break down	0
+2x22	and we descend into anarchy	0
+2x22	it must be hell inside your head	0
+2x22	at times	0
+2x22	guys, we have a code red	0
+2x22	"code red" the hospital emergency alert,	0
+2x22	the computer worm,	0
+2x22	or the cherryflavored soft drink from the makers of mountain dew	0
+2x22	look, i was going over the schematics on my zerog toilet,	0
+2x22	and i made a teeny tiny mistake on the specifications for the diverter valve	0
+2x22	how teeny tiny	0
+2x22	it's gonna fail	0
+2x22	after about ten flushes	0
+2x22	but the mission is for six months	0
+2x22	see, that's the code red	0
+2x22	it's kind of like a jackinthebox	0
+2x22	no one knows exactly when,	0
+2x22	but at some point something way worse than a puppet is gonna pop out of that box	0
+2x22	have you notified nasa	0
+2x22	are you crazy	0
+2x22	what am i gonna say	0
+2x22	"i screwed up your toilet	0
+2x22	and there's gonna be crap floating "all over your nice shiny space station"	0
+2x22	what are you gonna do	0
+2x22	i'm gonna figure out how to fix it,	0
+2x22	then i'll tell them	0
+2x22	so, what do you need us for	0
+2x22	he can't figure out how to fix it	0
+2x22	you said you were gonna be supportive	0
+2x22	i'm trying, but you have to admit	0
+2x22	this is pretty damn funny	0
+2x22	i agree	0
+2x22	it's the juxtaposition of the hightech	0
+2x22	nature of space exploration	0
+2x22	against the banality of a malfunctioning toilet	0
+2x22	that provides the comic fodder here	0
+2x22	check your messages	1	1	nf
+2x22	all right,	0
+2x22	this is an exact duplicate of the wolowitz zerogravity	0
+2x22	human waste disposal system	0
+2x22	as deployed on the international space station	0
+2x22	don't you mean the wolowitz zerogravity	0
+2x22	human waste distribution system	0
+2x22	good one	0
+2x22	it's hilarious now	0
+2x22	here's an approximation of the spare parts available on the space station	0
+2x22	we gotta find a way using nothing but this,	1	1	nf
+2x22	to reinforce this so the waste material avoids the spinning turbine	0
+2x22	you mean so it doesn't hit the fan	0
+2x22	i have to say,	0
+2x22	i thought the toilet humor would get less funny with repetition	0
+2x22	apparently, there is no law of diminishing comedic returns with space poop	0
+2x22	you busy	0
+2x22	classified, leonard	0
+2x22	yeah, it's a regular	0
+2x22	manhattan project	0
+2x22	what's up	0
+2x22	tonight's my date with penny	0
+2x22	and since we haven't been able to connect by phone	0
+2x22	i'm sorry, it's been broken	0
+2x22	or email	0
+2x22	yeah, that too everything's broken	0
+2x22	anyway, i was just wondering	0
+2x22	if you had any lastminute advice	0
+2x22	all right, well,	0
+2x22	off the top of my head,	0
+2x22	i think the most important thing with penny is to go really slow	0
+2x22	i mean, glacial	0
+2x22	guys come onto her all the time,	0
+2x22	so, you need to set yourself apart	0
+2x22	be a little shy,	1	1	nf
+2x22	don't make too much eye contact	1	1	nf
+2x22	and, you know, treat her with, like, cool detachment	1	1	nf
+2x22	and and, you know, fear	0
+2x22	fear	0
+2x22	yeah, like,	0
+2x22	you're afraid	0
+2x22	that if you touch her, she'll break	0
+2x22	well, that plays	0
+2x22	right into my wheelhouse	0
+2x22	good, good	0
+2x22	you kids have fun tonight	1	1	nf
+2x22	thanks, leonard	0
+2x22	what is that thing anyway	0
+2x22	you don't know what this is	0
+2x22	good get out	0
+2x22	be afraid of penny	0
+2x22	nice very crafty	0
+2x22	it wasn't bad advice	0
+2x22	it's just wasn't particularly helpful for what it's worth, my mother says	0
+2x22	that when we deceive	0
+2x22	for personal gain,	0
+2x22	we make jesus cry	0
+2x22	all right, what if we use	0
+2x22	this twoinch pvc	0
+2x22	to reinforce the center crosssupport	0
+2x22	no good	0
+2x22	it might work for the japanese	0
+2x22	and the americans,	0
+2x22	but have you seen the size of the russians they got up there	0
+2x22	this thing has to hold up against a hearty potatobased diet	0
+2x22	i feel terrible	0
+2x22	maybe if you were helping,	0
+2x22	you'd feel better about yourself	0
+2x22	i deliberately tried to sabotage stuart's date with penny	0
+2x22	of course you feel terrible	0
+2x22	you completely screwed up your karma	0
+2x22	you don't really believe in that superstition, do you	0
+2x22	it's not superstition	0
+2x22	it's practically newtonian for every action,	0
+2x22	there's an equal and opposite reaction	0
+2x22	leonard pretends to be a friend and acts like a twofaced bitch	0
+2x22	therefore, he is reborn as a banana slug	0
+2x22	it's actually a very elegant system	0
+2x22	you know, what goes around comes around	0
+2x22	speaking of what goes around	0
+2x22	comes around	0
+2x22	okay, look	0
+2x22	instead of trying to reinforce	0
+2x22	this structure here,	0
+2x22	what if we just ran another line,	0
+2x22	bypass it entirely	0
+2x22	it won't work the diameter of the tubing is insufficient	0
+2x22	what if we reposition the collection tank	0
+2x22	it won't work no way to mount it	0
+2x22	okay, here's an idea	0
+2x22	what if i change my name and go live with my cousin and her husband, avi, in israel	0
+2x22	that could work	0
+2x22	morning	0
+2x22	morning what's up	0
+2x22	nothing we just pulled an allnighter	0
+2x22	trying to fix a zerogravity	0
+2x22	pasta maker	0
+2x22	i'm gonna make a coffee run	0
+2x22	do you want any	0
+2x22	no, thanks i have coffee	0
+2x22	great so how'd it go	0
+2x22	with stuart last night	0
+2x22	i really don't want	0
+2x22	to talk about it	0
+2x22	yeah right sure	0
+2x22	the thing is,	0
+2x22	before you guys went out,	0
+2x22	i spoke to him and	0
+2x22	i said i don't want	0
+2x22	to talk about it	0
+2x22	i just i kind of	0
+2x22	what goes on between me and stuart	0
+2x22	is none of your business	0
+2x22	so just leave it alone, okay	0
+2x22	if you want to clean up your karma,	0
+2x22	go get my freakin' latte	1	1	nf
+2x22	hang on, i think i've got this	1	1	nf
+2x22	help me see if we can wedge	1	1	nf
+2x22	this little piece of pvc	0
+2x22	behind the support rod	0
+2x22	you're overestimating	0
+2x22	the tensile strength of the substructure you're building	0
+2x22	sheldon, i know what i'm doing	0
+2x22	if you knew what you were doing,	0
+2x22	there wouldn't be a space toilet	0
+2x22	where my coffee table should be	0
+2x22	howard, wait	0
+2x22	why don't you use this	0
+2x22	instead of the pvc	0
+2x22	to keep the transverse	0
+2x22	filter assembly in place	0
+2x22	because this is not a spare part from the space station	0
+2x22	this is the thing from the pizza box that keeps the lid from touching the cheese	0
+2x22	that what that's for	0
+2x22	in india, the lid touches the cheese	0
+2x22	of course, we also have rampant poverty and periodic outbreaks of cholera,	0
+2x22	so a little cardboard in our cheese is no biggie	0
+2x22	where are you going	0
+2x22	comic book store	0
+2x22	an excellent idea	0
+2x22	i could certainly use a break	0
+2x22	me, too	0
+2x22	you can go to the comic book store	0
+2x22	when man can once again safely poop in space	0
+2x22	why does leonard get to go	0
+2x22	'cause he's upset	0
+2x22	over his situation with penny	0
+2x22	and if i have to hear about it again,	0
+2x22	i'm going to kick him in his ovaries	0
+2x22	thanks for understanding, howard	0
+2x22	i got your back, sister	0
+2x22	all right, i think we've got	0
+2x22	a prototype ready to test	0
+2x22	hand me that tupperware	0
+2x22	that's heavy	0
+2x22	damn right it's heavy	0
+2x22	it's my mother's meat loaf	0
+2x22	it's been testing toilets	0
+2x22	for generations	0
+2x22	i must say,	0
+2x22	i think a detailed letter to mit describing your current circumstances might entitle you to a refund on your master's degree	0
+2x22	okay, simulated zerogravity	0
+2x22	human waste disposal test with meat loaf analog in	0
+2x22	three, two, one	0
+2x22	fascinating	0
+2x22	what do you think the problem is	0
+2x22	not enough bread crumbs	0
+2x22	hey, stuart, i need to talk to you	0
+2x22	sure, what's up	0
+2x22	i gave you bad advice about penny,	0
+2x22	and i want to apologize	0
+2x22	no, your advice was great	0
+2x22	it was	0
+2x22	yeah, going slow really worked	0
+2x22	you're kidding	0
+2x22	never worked for me	0
+2x22	last night at dinner,	0
+2x22	i did what you told me	0
+2x22	i went really slow,	0
+2x22	i kept my distance,	0
+2x22	and two bottles of wine later, we were making out in my car	0
+2x22	wine i didn't say to give her wine	0
+2x22	it doesn't matter,	0
+2x22	that's where it all went to hell	0
+2x22	during the kissing	0
+2x22	what did you do, sneeze in her mouth	0
+2x22	i did that to a girl once	0
+2x22	no, everything was good	0
+2x22	and really hot	0
+2x22	and i said,	0
+2x22	"oh, penny,"	0
+2x22	and right where she was supposed to say,	0
+2x22	"oh, stuart," she said	0
+2x22	your name	0
+2x22	that is your name, right	0
+2x22	i'm sorry that must've been the last thing you wanted to hear	0
+2x22	it beats, "you know i'm a dude, right"	0
+2x22	yeah, it was pretty bad	0
+2x22	no doubt, no doubt	0
+2x22	i'm sorry it didn't work out	0
+2x22	not your fault	0
+2x22	yeah, how about that	0
+2x22	see you soon	0
+2x22	sure	0
+2x22	yes, sir, i understand "classified"	0
+2x22	we'll keep it all classified	0
+2x22	no one has to know but you and me	0
+2x22	what's classified	0
+2x22	howard's space toilet	0
+2x22	i'll tell you later	0
+2x22	well, they've deployed our solution	0
+2x22	let's just all hope it works	0
+2x22	i don't see why i have to worry	0
+2x22	my career's not hanging in the balance	0
+2x22	that was a joke	0
+2x22	it's funny,	0
+2x22	because it's true	0
+2x22	leonard, could you pass the soy sauce, please	1	1	nf
+2x22	i'm sorry, were you talking to me	0
+2x22	yeah, i said "leonard"	0
+2x22	yes, you did, didn't you	0
+2x22	what the hell is that	0
+2x22	meatloaf	0
+2x22	what was it doing on the ceiling	0
+2x22	that's classified	0
+2x22	houston, international space station	0
+2x22	we have a little situation up here	0
+2x22	we'd like to make an unscheduled space walk	0
+2x22	iss, houston	0
+2x22	which crew members would be involved in this eva	0
+2x22	houston, we'd all like	0
+2x22	to step outside for a few minutes	0
+2x22	iss, i'm afraid we can't authorize that	0
+2x22	houston, this is more of an fyi call	0
+2x22	we are basically out the door	0

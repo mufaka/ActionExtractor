@@ -1,0 +1,276 @@
+3x16	will you please turn your shirt off	1	1	nf
+3x16	what i'm giving myself dramatic entrance music will know i'm awesome and to be feared	0
+3x16	right there's nothing more awesome and frightening than a man who's got music blasting from between his nipples	0
+3x16	hey, stuart what's going on	0
+3x16	well, you might want to mark your google calendars	1	3	nf
+3x16	stan lee is coming to do a signing on thursday	0
+3x16	did he finally write a sequel to his autobiography i'm sure ages  through were just actionpacked	0
+3x16	no, just a regular comic signing my uncle is his dermatologist and stan's doing him a favor	0
+3x16	oh, i don't want to know that	0
+3x16	how can i possibly discuss with stan lee the scientific foundations for interstellar flight on a silver surfboard when part of my brain will be scanning his face for signs of contagious skin disease	0
+3x16	stan lee does not have  contagious skin disease	0
+3x16	well, look who thinks he's stuart's uncle now	0
+3x16	can't believe it we're going to meet stan lee	0
+3x16	i'm sad to say i taught him those moves	0
+3x16	i can't decide whether i want stan lee to autograph my journey into mystery, first appearance of thor or my fantastic four number five, first appearance of dr doom	0
+3x16	alex, i'm going to go with what is you're a dumbass	0
+3x16	i've decided i'm going to have mr lee sign my copy of this month's batman	0
+3x16	that's crazy	0
+3x16	stan lee had nothing to do with batman	0
+3x16	yes, which is why no one else will ask him to sign one, and i will be the possessor of a unique, albeit confusing, artifact, which will set me apart from hoi polloi of comic book fandom	0
+3x16	that's a great idea	0
+3x16	i'm going to get him to sign a batman as well	0
+3x16	what is it about the word	0
+3x16	"unique" you don't understand	0
+3x16	ow	0
+3x16	damn, paper cut	0
+3x16	nothing worse than a paper cut	0
+3x16	well, obviously you don't remember your circumcision	0
+3x16	there's neosporin and bandaids in my top desk drawer	1	3	nf
+3x16	why don't you keep that stuff in the bathroom	0
+3x16	he does and in the kitchen and in the car and in his pocket	0
+3x16	yeah, but the ones in my pocket are mine	0
+3x16	hi	0
+3x16	hey	0
+3x16	guess who's going to be at the comic bookstore on thursday	0
+3x16	um can you give me a hint	1	1	nf
+3x16	stan lee	0
+3x16	um Stanley stanley stanley tucci	0
+3x16	no no, stan lee	0
+3x16	oh, oh, stan lee cool	0
+3x16	you have no idea who he is, do you	0
+3x16	of course i do you're an important part of my life and i pay attention to the things you are interested in	0
+3x16	oh, good good so, who's stan lee	0
+3x16	um he was on star trek	0
+3x16	nope	0
+3x16	star wars	0
+3x16	no	0
+3x16	um uh, stan lee ooh, he was in those goofy kung fu movies you love so much	0
+3x16	that's bruce lee	0
+3x16	oh so, is this bruce lee's nerdy brother, stan	0
+3x16	sheldon, why do you have all these unopened paychecks in your desk	0
+3x16	because most of the things i'm planning to buy haven't been invented yet	0
+3x16	there there must be thousands of dollars here why don't you put it in the bank	0
+3x16	i don't trust banks i believe that when the robots rise up, atms will lead the charge	0
+3x16	you've also got something from the Pasadena municipal court	0
+3x16	undoubtedly another snide response to my repeated letters complaining that the flags in front of the courthouse are flying in the wrong order from left to right, it's supposed to be federal, state, and then city of pasadena	0
+3x16	i'm sorry you sent more than one letter about that	0
+3x16	it bothers me sheldon, this is a summons	0
+3x16	a summons for what	0
+3x16	looks like you ran a red light on marengo avenue at  pm on November they got you on a traffic camera	0
+3x16	nice picture	0
+3x16	november penny, that's the evening you fell in your bathtub and i had to drive you to the emergency room	0
+3x16	no, it isn't	0
+3x16	yes, it is	0
+3x16	no, it isn't	0
+3x16	penny, i have an eidetic memory also, that's a picture of you in the passenger seat holding your dislocated shoulder	0
+3x16	mmm, no, it isn't	0
+3x16	okay, then why is a summons for a traffic violation committed in your car, bearing your license plates, coming to me	0
+3x16	okay, look, they sent me the ticket i told them i wasn't driving and they were all, "if it wasn't you, who was it"	0
+3x16	so you betrayed me	0
+3x16	no it wasn't a betrayal it was more of a "i can't afford any more points on my license" i already have to buy my insurance from this place in the cayman islands	0
+3x16	but the only reason i was driving your car was because you were in distress and i was rescuing you	0
+3x16	yes, yes, look, and now you have a photo to remember that heroic day	0
+3x16	it's not that big a deal	0
+3x16	you just go down to the court	1	1	nf
+3x16	on thursday	0
+3x16	and you pay the fine	1	1	nf
+3x16	i'm not going to pay a fine that would imply i'm guilty	0
+3x16	you are guilty	0
+3x16	that one i liked	0
+3x16	i am not guilty i only have a learner's permit penny was the teacher when the light turned yellow she said "go, go, go" so i went, went, went	0
+3x16	sheldon, i'm sorry i'll be happy to reimburse you for the fine you know, as soon as i get a part in a movie or my own tv series	0
+3x16	you don't need to reimburse me because i'm not paying	1	1	ni
+3x16	on thursday, i will have my day in court and justice will be done in fact, i'm going to begin preparing my defense right now	0
+3x16	okay, he's going to jail	0
+3x16	oh, that's right thursday is stan lee day	0
+3x16	now you see what you've done because of you, we're all going to miss stan lee	0
+3x16	whoa	0
+3x16	what do you mean "all"	0
+3x16	well, you're my friends	0
+3x16	you'll be standing by my side, supporting me,	1	1	nf
+3x16	feeding me legal precedents, and if you had the upper body strength,me out on your shoulders when i'm victorious	0
+3x16	yeah, okay no	0
+3x16	are you saying that you will not stand beside me as i plead my case	0
+3x16	that's what i'm saying	0
+3x16	howard	0
+3x16	wow	0
+3x16	uh, stan lee, or you in court	0
+3x16	uh, if this was sophie's choice it would've been a much shorter movie no	0
+3x16	raj	0
+3x16	you'll be there, won't you	0
+3x16	all right, then my socalled friends have forsaken me so, i guess it'll just be me and my eyewitness	0
+3x16	oh, balls	0
+3x16	please try to wear something appropriate	1	1	nf
+3x16	it won't help my case if the judge is busy trying to read the word "juicy" across your buttocks	0
+3x16	penny penny penny	0
+3x16	that's just wrong	0
+3x16	all right, let's go	1	1	nf
+3x16	wait, hold on	1	1	nf
+3x16	before we get to the courthouse,	0
+3x16	i'd like to call on your skills as an actress	1	1	nf
+3x16	what is this i've taken the liberty of scripting your appearance on the witness stand because, let's face it, you're somewhat of a loose cannon	0
+3x16	now, don't worry it's written	1	1	ni
+3x16	in your vernacular	0
+3x16	so shall we rehearse	1	1	nf
+3x16	do i have a choice	0
+3x16	well, of course you have a choice although we live in a deterministic universe, each individual has free will	0
+3x16	now, sit down	1	1	nf
+3x16	i call your attention to the events of november 16	1	1	nf
+3x16	do you remember that date	0
+3x16	"darn tootin', i do	0
+3x16	"if the court will excuse my homespun, cornfed Nebraskan turn of phrase"	0
+3x16	that's excellent, go on	1	1	nf
+3x16	"the reason that date is, like, "so totally fixed in my memory "is that i had the privilege to be witness to one of the most heroic acts i've ever seen in, like, ever"	0
+3x16	"and who performed that heroic act"	0
+3x16	"why, you did, sir "you dr sheldon cooper and may i add, it is a privilege to know you"	0
+3x16	"there's no need for compliments this court is only interested in the facts"	0
+3x16	"but it is a fact that it's a privilege to know you totally" a teardrop rolls down my cheek	0
+3x16	only a suggestion	0
+3x16	a catch in your throat would work just as well	0
+3x16	"but it is a fact "that it's a privilege to know you totally"	0
+3x16	maybe you should put on your "juicy" pants again	0
+3x16	pay the cashier	1	1	nf
+3x16	sheldon coope good morning, your honor	0
+3x16	dr sheldon cooper appearing in pro se that is to say, representing himself	0
+3x16	i know what it means i went to law school	0
+3x16	and yet you wound up in traffic court	0
+3x16	anyway, if it would please the court, i'd like to begin with an opening statement	0
+3x16	the court would advise you to make it quick,	1	1	nf
+3x16	as the court had a dicey looking breakfast burrito this morning and just took an imodium	0
+3x16	very well a quick opening statement like a milking stool, my case rests on three legs i will demonstrate that i was improperly instructed in driving by a woman whose lack of respect for society borders on the sociopathic	0 
+3x16	i will argue that the emergency met the legal doctrine of quod est necessarium est licitum that which is necessary is legal but first, i will raise a sixth amendment issue i'm unable to confront my accuser, a nonhuman entity, to wit, a camera so, to sum up improper instruction quod est necessarium est licitum sixth amendment my milk stool is complete	0
+3x16	impressive	0
+3x16	thank you	0
+3x16	guilty	0
+3x16	pay the cashier	1	1	nf
+3x16	i object you're completely ignoring the law	0
+3x16	no, i'm following the law i'm ignoring you	0
+3x16	really i would point out that i am at the top of my profession, while you preside over the kiddy table of yours	0
+3x16	dr cooper, before i find you in contempt and throw you in jail, i'm going to give you a chance to apologize for that last remark	0
+3x16	i am a scientist i never apologize for the truth	0
+3x16	that's my spot	1	1	nf
+3x16	that start with the same letter	0
+3x16	oh, come on why would you do that	0
+3x16	bruce banner, reed richards, sue storm, stephen strange, otto octavius, silver surfer, peter parker, oh, and worst of all, j jonah jameson, jr	0
+3x16	okay, i'm cutting i'm not gonna talk to stan lee	0
+3x16	after you cheese him off	0
+3x16	hey	0
+3x16	sheldon's in jail	0
+3x16	sheldon's in jail	0
+3x16	you called it	0
+3x16	what do you think	0
+3x16	for what	0
+3x16	for doing the same crap he always does, except to a judge he has to stay in there until he apologizes	0
+3x16	so tell him to apologize	0
+3x16	oh, gee, thanks, leonard that didn't occur to me if he doesn't apologize by, he is going to spend the night in jail	0
+3x16	oh, no, that's terrible ooh, the line's moving got to go bye	0
+3x16	excuse me excuse me, jailor	0
+3x16	what	0
+3x16	i need to use the restroom	0
+3x16	knock yourself out	1	1	nf
+3x16	that's the toilet	0
+3x16	well, it ain't a wishing well	0
+3x16	please tell the judge i'm ready to apologize	1	1	nf
+3x16	look at that	1	1	nf
+3x16	"to my friend, leonard from stan lee, excelsior"	0
+3x16	awesome	0
+3x16	mine says, "to my friend, howard from stan lee, excelsior"	0
+3x16	mine says, "to raj, from stan lee"	0
+3x16	that's 'cause you pissed him off about his character names	0
+3x16	hey, i didn't even mention dum dum dugan or green goblin, matt murdock, pepper potts, victor von doom, oh, and worst of all, millie the model	0
+3x16	we're home	0
+3x16	oh, hey, buddy how'd it go	0
+3x16	you know very well how it went	0
+3x16	yeah, but we all want to hear it from you	1	1	nf
+3x16	i was found guilty and fined $	0
+3x16	i'm going to write you a check for that as long as you promise to put it in your drawer and never cash it, like the others	0
+3x16	i also now have three points on a driver's license i do not yet possess, and i was forced to issue an undeserved apology, simply because i refuse to urinate in a stainless steel bowl in front of criminals	0
+3x16	plus, you didn't get to meet stan lee	0
+3x16	okay, that's enough, howard the poor guy's had a tough time he had to spend the entire afternoon in jail wearing that suit	0
+3x16	you're right,	0
+3x16	so it would be cruel to mention that after he finished signing autographs, stanley took stuart and us out for gelato	0
+3x16	you had gelato with stan lee	0
+3x16	he said we could call him stan	0
+3x16	except for raj	0
+3x16	well, i hope you're satisfied, penny you are responsible all the evil that has befallen me today	0
+3x16	okay, i realize that	0
+3x16	not finished	1	1	ni
+3x16	it is because of you that i now have a criminal record, and it is because of you that i missed out on having gelato with stan lee	0
+3x16	okay, maybe you'll have another chance to have	0
+3x16	no, no i will never have another chance to have gelato with stan lee because opportunities to gelato with stan lee come but once in a lifetime	0
+3x16	"the moving finger writes, and having writ, moves on"	0
+3x16	did he just somehow give me the finger	0
+3x16	not just the finger the moving finger	0
+3x16	hey, stuart	0
+3x16	oh, hey, penny	0
+3x16	wow hi	0
+3x16	what's going on	0
+3x16	nothing	0
+3x16	i'm just getting ready to close up and head out	0
+3x16	ah	0
+3x16	cool got any fun plans	0
+3x16	oh, yeah big night tonight share a can of tuna with the cat	0
+3x16	oh, nice	0
+3x16	not even my cat i just feed it some nights it doesn't even show up	0
+3x16	oh, okay	0
+3x16	well, i was hoping, um, you could do me a favor	1	1	nf	
+3x16	sure, yeah, name it	1	1	nf
+3x16	well, i'm kind of responsible for sheldon missing stan lee, and i really want to make it up to him	0
+3x16	so i was hoping you could give me his phone number	1	1	nf
+3x16	so maybe i can arrange for them to meet	0
+3x16	oh, i'm sorry, i don't have his phone number	0
+3x16	hmm damn	0
+3x16	mm	0
+3x16	all right thank you	0
+3x16	mmhmm	0
+3x16	wait	1	1	nf
+3x16	i have his address	0
+3x16	really great	0
+3x16	but i can't give it to you	0
+3x16	then why did you tell me you had it	0
+3x16	i don't know just chatting	0
+3x16	you're looking at a guy who could very well get stood up by a stray cat tonight	0
+3x16	i'm sorry, stuart	0
+3x16	thanks anyway	0
+3x16	mmhmm	0
+3x16	wait	1	1	nf
+3x16	yeah	0
+3x16	maybe we can make a deal	0
+3x16	what kind of deal	0
+3x16	i will give you the address if you go to my cousin's wedding with me	0
+3x16	you're extorting a date out of me	0
+3x16	i kind of have to the cousin who's getting married is the cousin i usually go to weddings with	0
+3x16	can i bring leonard	0
+3x16	sure what the hell	0
+3x16	deal	0
+3x16	we'll tell people he's your cousin	0
+3x16	this is stan lee's front door we were on stan lee's curb, then we were on stan lee's walk,and now we're at stan lee's front door	0
+3x16	yup	0
+3x16	oh, lord, you just rang stan lee's doorbell at stan lee's house	0
+3x16	we're about to go in and have milk and cookies with stan lee	0
+3x16	okay, sweetie, i don't know if we're gonna have cookies, or he's just gonna say hi, or really what's gonna happen, so just let me talk, and we'll	0
+3x16	yeah	0
+3x16	are you stan lee	0
+3x16	oh, damn	0
+3x16	hi i'm penny this is my friend, sheldon	0
+3x16	we're not friends at the moment depends on how this goes	0
+3x16	right, right anyway, sheldon here is a huge fan of yours, and he was supposed to meet you the other day at the comic book store, but he kind of ended up in jail	0
+3x16	i see and you thought you'd just come over to my house uninvited	0
+3x16	you said we were invited	0
+3x16	oh, no, no, i said i'm inviting you to come with me to stan lee's house	0
+3x16	you know, you fan boys are unbelievable do you think you can just ring my doorbell any time you want i mean, why don't you just come on in and watch the lakers game with me	0
+3x16	well, i'm not much of a sports fan, but thank you	0
+3x16	i'm sorry	0
+3x16	he doesn't really understand sarcasm	0
+3x16	well, i'll give him something he'll understand	0
+3x16	joanie, call the police	1	1	nf
+3x16	nice to meet you	0
+3x16	fantastic four, daredevil, invincible iron man, happy hogan, curt connors	0
+3x16	would you just let it go	1	1	nf
+3x16	and worst of all, fin fang foom	0
+3x16	hey, where've you been	0
+3x16	i'll tell you where i've been you boys may have had gelato with stan lee and gotten autographed comics, but i saw the inside of his house and got an autographed application for a restraining order	0
+3x16	sweet	0
+3x16	plus, i get to hang out with him again at the hearing	0
+3x16	this is going to look great hanging next to my restraining order from leonard nimoy	0

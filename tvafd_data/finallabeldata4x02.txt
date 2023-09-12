@@ -1,0 +1,467 @@
+﻿4x02	whatcha doin' there	0
+4x02	working on a new plan to catch the roadrunner	0
+4x02	the humorous implication being that i am wile e coyote	0
+4x02	yes	0
+4x02	and this is a schematic for a birdtrapping device	0
+4x02	that will ultimately backfire	0
+4x02	and cause me physical injury	0
+4x02	yes	0
+4x02	what i'm doing here is trying to determine when i'm going to die	0
+4x02	a lot of people are working on that research	0
+4x02	so what is all this	0
+4x02	my family history	0
+4x02	factoring in longevity,	0
+4x02	propensity for disease,	0
+4x02	et cetera	0
+4x02	interesting	0
+4x02	cause of death for	0
+4x02	uncle carl was kbb	0
+4x02	what's "kbb"	0
+4x02	"killed by badger"	0
+4x02	how's that	0
+4x02	it was thanksgiving	0
+4x02	uncle carl said, "i think	0
+4x02	"there's a badger living in our chimney	hand me that flashlight"	0
+4x02	those were the last words	0
+4x02	he ever spoke to us	0
+4x02	i don't think you need to worry about death by badgers being hereditary	0
+4x02	not true	0
+4x02	the fight or flight instinct	0
+4x02	is coded genetically	0
+4x02	instead of fleeing, he chose to fight barehanded against a brawny member of the weasel family	0
+4x02	who's to say that i don't share	0
+4x02	that flawed dna	0
+4x02	you can always get a badger and find out	1	4	nf
+4x02	but seriously,	0
+4x02	even if i disregard the uncle carl factor,	0
+4x02	at best i have  years left	0
+4x02	that long, huh	0
+4x02	only takes me to here	0
+4x02	i need to get to here	0
+4x02	what's there	0
+4x02	the earliest estimate of the singularity,	0
+4x02	when man will be able to transfer his consciousness into machines and achieve immortality	0
+4x02	so, you're upset about missing out on becoming some sort of freakish selfaware robot	0
+4x02	by this much	0
+4x02	tough break	0
+4x02	you want eggs	0
+4x02	you don't get it, leonard	0
+4x02	i'm going to miss so much	0
+4x02	the unified field theory, cold fusion, the dogapus	0
+4x02	what's a dogapus	0
+4x02	the hybrid dog and octopus	0
+4x02	man's underwater best friend	0
+4x02	is somebody working on that	0
+4x02	i was going to	0
+4x02	i planned on giving it to myself	0
+4x02	on my th birthday	0
+4x02	wait a minute	1	1	nf
+4x02	you hate dogs	0
+4x02	a dogapus can play fetch with eight balls	0
+4x02	no one can hate that	0
+4x02	what do we owe you	0
+4x02	it came to $	0
+4x02	let's say six bucks apiece	0
+4x02	here you go	0
+4x02	thank you	0
+4x02	what	0
+4x02	never mind i got it	0
+4x02	oh, you wanted me to pay	0
+4x02	it's no big deal	0
+4x02	no, no, no, no	0
+4x02	we're not going out anymore	0
+4x02	i should pay for myself	0
+4x02	what	0
+4x02	he said, "if he had woman parts, he'd eat for free, the rest of his life"	0
+4x02	yeah, but you wouldn't be able to talk to yourself	0
+4x02	i'm a little low on cash	0
+4x02	how much you got	0
+4x02	nothing	0
+4x02	how can you walk around with no money	0
+4x02	i'm cute i get by	0
+4x02	it's okay,	0
+4x02	you can owe me	0
+4x02	thank you	0
+4x02	sheldon, six bucks	0
+4x02	no, thank you	0
+4x02	i'm not eating pizza tonight	0
+4x02	but it's thursday	0
+4x02	thursday's pizza night	0
+4x02	not for me	0
+4x02	thursday is now cruciferous	0
+4x02	vegetable night	0
+4x02	tonight's selection	0
+4x02	brussels sprouts	0
+4x02	really	0
+4x02	you're changing the sheldonian calendar	0
+4x02	it's a small price to pay	0
+4x02	for what	0
+4x02	no, no, don't ask	1	1	ni
+4x02	sorry, sorry, sorry,	0
+4x02	sorry, sorry	0
+4x02	in order to live long enough to fuse my consciousness with cybernetics,	0
+4x02	i need to change my diet	0
+4x02	wait cybernetics is robot stuff, right	0
+4x02	correct	0
+4x02	so you want to turn yourself into some sort of robot	0
+4x02	essentially, yes	0
+4x02	okay, here's my question	0
+4x02	didn't you already do that	0
+4x02	no	0
+4x02	flattering, but sadly, no	0
+4x02	i'm also planning to begin an exercise regimen designed to strengthen my cardiovascular system	0
+4x02	aka jogging	0
+4x02	wait honey,	0
+4x02	have you ever run before	0
+4x02	certainly	0
+4x02	i've run from bullies, dogs, angry chickens	0
+4x02	and one particularly persistent pe teacher determined to bend me over and give me a scoliosis test	0
+4x02	you're right	0
+4x02	penny jogs	0
+4x02	maybe you guys can run together	0
+4x02	that's an excellent idea	0
+4x02	yeah, if we chat,	0
+4x02	it will create the illusion of time going faster	0
+4x02	no, it won't	0
+4x02	um, how does he know i jog	0
+4x02	oh, he watches you from his car	with highpowered binoculars	0
+4x02	oh, my god, that is so creepy	0
+4x02	i know	0
+4x02	and he says he's not gonna stop	then see a shrink and figure out how to talk to women	0
+4x02	what the hell	0
+4x02	what's the matter	0
+4x02	i have pain radiating from my navel to my lower right abdomen	0
+4x02	i'm nauseated and feverish	0
+4x02	i believe i may have cholera	0
+4x02	there's no cholera in pasadena	0
+4x02	just like last summer,	0
+4x02	when there was no malaria in pasadena	0
+4x02	well, if it's not cholera,	0
+4x02	then based on a quick internet search,	0
+4x02	the other explanations in decreasing order of likelihood are hirschsprung's disease, botulism, a foot tapeworm or accidental ingestion of chrysanthemum blossoms	0
+4x02	when would you have accidentally eaten chrysanthemum blossoms	0
+4x02	it's part of an	unlikely scenario	0
+4x02	that involves sleepwalking	0
+4x02	and a hour flower mart	with a lessthan	vigilant proprietor	0
+4x02	oh, lord, my belly	0
+4x02	ever had your appendix out	0
+4x02	i haven't	0
+4x02	i've been meaning to,	0
+4x02	but who has the time	0
+4x02	let's get you to the hospital	0
+4x02	so this is how it ends	0
+4x02	with cruel irony	0
+4x02	just as i make the commitment to preserving my body,	0
+4x02	i am betrayed by my appendix,	a vestigial organ	0
+4x02	do you know	0
+4x02	the original purpose of the appendix, leonard	0
+4x02	no	0
+4x02	i do and yet i'm doomed	0
+4x02	while you live on	0
+4x02	funny how things	0
+4x02	work out, isn't it	0
+4x02	oh, lord, i think	0
+4x02	it's about to burst	0
+4x02	on the other hand,	0
+4x02	it might have been the brussels sprouts	0
+4x02	good night	0
+4x02	good night	0
+4x02	appendicitis	0
+4x02	what a nervous nelly	0
+4x02	penny penny	0
+4x02	penny	0
+4x02	coming, coming	0
+4x02	hey, nice knees	0
+4x02	thank you	0
+4x02	they're my mother's	0
+4x02	oh	0
+4x02	and the flash shirt is what	0
+4x02	because, what,	0
+4x02	you're gonna run really fast	0
+4x02	no, the flash shirt is	0
+4x02	because it's friday,	0
+4x02	but it's nice when things work out	0
+4x02	where's your heart rate monitor	0
+4x02	i don't have one	0
+4x02	what about your pedometer	0
+4x02	don't have one	0
+4x02	do you have telematics in your shoes connected to an ipod	0
+4x02	uh, no	0
+4x02	what do you do,	0
+4x02	you just go out there	0
+4x02	and gambol about	0
+4x02	like a bunny	0
+4x02	no i just run till i'm hungry,	0
+4x02	then i stop for a bear claw	0
+4x02	why are you doing that	0
+4x02	it's good to stretch your muscles before you run	0
+4x02	all right	0
+4x02	all right,	0
+4x02	let's start with a toe touch	1	3	nf
+4x02	okay, you do it	0
+4x02	i am doing it	0
+4x02	oh wow good job	0
+4x02	okay, um,	0
+4x02	can you do this	0
+4x02	we'll never know	0
+4x02	okay, let's just warm up on the run	1	3	nf
+4x02	okay	0
+4x02	okay, let's go	1	1	nf
+4x02	i've been reading up on biomechanics	0
+4x02	i think you'll be surprised at my	0
+4x02	penny	0
+4x02	oh, my god,	0
+4x02	are you okay	0
+4x02	sheldon	0
+4x02	i think so	0
+4x02	oh, let me help you up	0
+4x02	thank you	0
+4x02	oh, sheldon	0
+4x02	if it makes you	feel any better,	0
+4x02	thursday is no longer cruciferous vegetable night	0
+4x02	here's my chicken curry	0
+4x02	howard, your shrimp biryani	0
+4x02	thank you, sir	0
+4x02	palak paneer,	0
+4x02	that's penny	0
+4x02	thanks	0
+4x02	and for rajesh koothrappali,	0
+4x02	from whose homeland	0
+4x02	these tasty dishes originate, one large order of chicken mcnuggets	0
+4x02	hey, what's my share	0
+4x02	uh  bucks	0
+4x02	okay, can i get you after friday	0
+4x02	when i get paid	0
+4x02	sure	0
+4x02	what am i up to now	0
+4x02	well, okay, with the indian food, the pizza, the thai food, the tank of gas, the frozen yogurt	0
+4x02	and your rent, uh	0
+4x02	a little over $,	0
+4x02	what now	0
+4x02	he's just expressing his admiration that you don't even have to put out to get free stuff	0
+4x02	it's not free i'm gonna pay him back	0
+4x02	shut up	1	1	nf
+4x02	sheldon, are you gonna join us	0
+4x02	coming	0
+4x02	greetings, friends	0
+4x02	greetings, whatever the hell you are	0
+4x02	i am a mobile virtual presence device	0
+4x02	recent events	0
+4x02	have demonstrated to me	0
+4x02	that my body is too fragile	0
+4x02	to endure the vicissitudes of the world	0
+4x02	until such time as i am able	0
+4x02	to transfer my consciousness,	0
+4x02	i shall remain in a secure location	0
+4x02	and interact with the world	0
+4x02	in this manner	0
+4x02	really that's your question	0
+4x02	when did he put a ramp in	0
+4x02	you're in my spot	1	1	nf
+4x02	this may seem a little odd	0
+4x02	at first,	0
+4x02	but over time,	0
+4x02	you'll grow accustomed to dealing with me in this configuration	0
+4x02	yeah, to be honest, i don't see much difference	0
+4x02	thank you	0
+4x02	that's what i was going for	0
+4x02	now, leonard, tomorrow,	0
+4x02	when we go to work,	0
+4x02	you'll need to allow some extra time to get me down the stairs	1	1	nf
+4x02	for your convenience,	0
+4x02	i disassemble into four pieces	0
+4x02	this is ridiculous	0
+4x02	i'm coming to talk to you	0
+4x02	you don't know where i am	0
+4x02	my physical body is safely ensconced in a secure, undisclosed location	0
+4x02	you're in your bedroom	0
+4x02	no, i'm not	0
+4x02	i can hear your voice coming from your bedroom	0	
+4x02	no, you can't	0
+4x02	wait	1	1	nf
+4x02	come back	1	1	nf
+4x02	halt	1	1	nf
+4x02	authorized personnel only	0
+4x02	so, either one of you weirdos want to buy my underwear	0
+4x02	only , bucks	0
+4x02	sheldon,	0
+4x02	this is ridiculous	0
+4x02	i'm behind you	0
+4x02	please look at me when you're talking to me	1	1	nf
+4x02	i am looking at you	0
+4x02	no, you're not	0
+4x02	pay no attention to that man in the bed	1	1	ni
+4x02	you cannot exist as a virtual presence	1	1	ni
+4x02	not here	0
+4x02	and certainly not at work	0
+4x02	oh, good god	0
+4x02	at my age,	0
+4x02	do you know how i'm statistically most likely to die at the hands of your roommate	0 
+4x02	an accident that's how i'm going to make it look	0
+4x02	until i can transfer my intellect to a more durable container,	0
+4x02	my body will remain safely ensconced in my bed	0
+4x02	fine, but don't expect my help	1	1	ni
+4x02	you have to help	0
+4x02	it's in the roommate agreement	0
+4x02	no, it's not	0
+4x02	section c	0
+4x02	the various obligations	0
+4x02	and duties of the parties	0
+4x02	in the event one of them becomes a robot	0
+4x02	i'll be damned	0
+4x02	this is delightful	0
+4x02	uhhuh	0
+4x02	it's much easier to enjoy the picturesque route	we travel to work	0
+4x02	when you remove the specter of fiery vehicular death	0
+4x02	refresh my memory	1	1	nf
+4x02	why didn't i just put you	0
+4x02	in the trunk	0
+4x02	because i called shotgun	0
+4x02	remember	0
+4x02	right	0
+4x02	you seem tense	0
+4x02	perhaps this will relax you	0
+4x02	i don't want to listen to music, sheldon	1	1	ni
+4x02	very well	0
+4x02	i don't understand	0
+4x02	why you're not enjoying this	0
+4x02	together, in this car,	0
+4x02	with my enhanced capabilities,	0
+4x02	we're like knight rider	0
+4x02	except in knight rider, the car	0
+4x02	isn't a yammering sphincter	0
+4x02	you mock the sphincter,	0
+4x02	but the sphincter is a class of muscle without which human beings couldn't survive	0
+4x02	there are over different sphincters in the human body	0
+4x02	how many can you name	0
+4x02	i was wrong this is exactly	0
+4x02	like knight rider	0
+4x02	perhaps you'd be interested in a different game	0
+4x02	no	0
+4x02	this is a photograph of the solvay conference on the theory of radiation and quanta using photoshop, i've introduced a few anachronisms	0
+4x02	see if you can spot all	0
+4x02	i'll give you the first one	0
+4x02	madame curie should not	be wearing a digital watch	0
+4x02	and go	1	1	nf
+4x02	that's it byebye	0
+4x02	bazinga	0
+4x02	whoa	0
+4x02	i have an override switch	0
+4x02	i almost died	0
+4x02	and i'm safe and sound in bed	0
+4x02	who's crazy now	0
+4x02	i'm still going to go with you	0
+4x02	hello, professor hoskins	0
+4x02	nice to see you, mindy	0
+4x02	and konnichiwa, dr nakamora	0
+4x02	sorry the swedes	0
+4x02	disproved your theory	0
+4x02	leonard, my door	1	1	nf
+4x02	what about it	0
+4x02	be a lamb and open it for me	1	1	nf
+4x02	why what's the problem	0
+4x02	you think you have me stymied,	0
+4x02	don't you	0
+4x02	no, i think a doorknob has you stymied	0
+4x02	oh, look, it's leonard	0
+4x02	and rdbag	0
+4x02	that's my joke	0
+4x02	i told it last night	0
+4x02	you can't just use it	0
+4x02	raj, be a lamb	1	1	nf
+4x02	and open the door for me	1	1	nf
+4x02	oh, sure	0
+4x02	he's a lamb	0
+4x02	you're not	0
+4x02	i'm a lamb	0
+4x02	isn't this nice	0
+4x02	the pleasures of fellowship	0
+4x02	and camaraderie	without having to tolerate	0
+4x02	your germy breath on my skin	0
+4x02	i say we just take him	to tatooine	0
+4x02	and sell him to some jawas	0
+4x02	that's two, dude	0
+4x02	write your own jokes	1	1	nf
+4x02	oh, great	0
+4x02	hi, i'm penny,	0
+4x02	i'll be your waitress	0
+4x02	why are you introducing	0
+4x02	yourself	0
+4x02	i'd rather people not know	0
+4x02	i have any prior connection to you whatsoever	0
+4x02	can you tell me	0
+4x02	the specials this evening	0
+4x02	sheldon, i'm not waiting on you	0
+4x02	obviously	0
+4x02	i don't even have water yet	0
+4x02	because you're not here	0
+4x02	that's discrimination against the otherwise located	0
+4x02	i'm going to have	0
+4x02	to go over your head manager manager	0
+4x02	oh, lord,	0
+4x02	look who it is	1	1	nf
+4x02	is that steve wozniak	0
+4x02	i think it is the great and powerful woz	0
+4x02	penny,	0
+4x02	steve wozniak was one of the cofounders of apple computer	0
+4x02	he and steve jobs started it	0
+4x02	yeah,	0
+4x02	i know who he is	0
+4x02	i watch dancing with the stars	0
+4x02	i must speak to him	0
+4x02	of course you must	0
+4x02	you know, there's an olive garden down the street	0
+4x02	you guys should try it sometime	0
+4x02	excuse me,	0
+4x02	mr wozniak	0
+4x02	oh, hey	0
+4x02	nice virtual presence device	0
+4x02	thank you	0
+4x02	i just want to say	0
+4x02	i'm a big fan	0
+4x02	you're my th favorite technological visionary	0
+4x02	only th	0
+4x02	it's still six spots	0
+4x02	above steve jobs	0
+4x02	i care neither for turtlenecks	0
+4x02	nor showmanship	0
+4x02	yeah, i never got that turtleneck thing	0
+4x02	one of my proudest possessions is a vintage  apple two	0
+4x02	despite the file system	0
+4x02	limitations of apple dos ,	0
+4x02	it was a pretty nifty little achievement	0
+4x02	thanks, we were shooting	0
+4x02	for "nifty"	0
+4x02	you know, if you had it here,	0
+4x02	i'd autograph it for you	0
+4x02	don't move for 15 to 30 minutes,	1	1	ni
+4x02	depending on how the buses are running	0
+4x02	nerds	0
+4x02	i'm coming, woz, i'm coming	0
+4x02	ow	0
+4x02	oh	0
+4x02	aw	0
+4x02	penny penny penny	0
+4x02	what up, shelbot	0
+4x02	i can't get out of bed	0
+4x02	i hurt my ankle	0
+4x02	what do you want me to do	0
+4x02	sing me "soft kitty"	1	1	nf
+4x02	really, you want me	0
+4x02	to sing "soft kitty"	0
+4x02	to a computer monitor	0
+4x02	would you rather come over	0
+4x02	and sing it to me in person	0
+4x02	♪ soft kitty, warm kitty ♪	0
+4x02	♪ little ball of fur ♪	0
+4x02	closer to the microphone	1	1	nf
+4x02	♪ happy kitty,	0
+4x02	sleepy ♪	0
+4x02	no	0
+4x02	you have to start over	1	1	nf
+4x02	♪ soft kitty,	0
+4x02	warm kitty ♪	0
+4x02	♪ little ball of fur ♪	0
+4x02	♪ happy kitty,	0
+4x02	sleepy kitty ♪	0
+4x02	♪ purr, purr, purr ♪	0

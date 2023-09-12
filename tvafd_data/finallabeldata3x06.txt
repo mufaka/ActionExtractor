@@ -1,0 +1,459 @@
+﻿3x06	kites, ho	0
+3x06	kites, ho	0
+3x06	excuse me	0
+3x06	you're misusing the word "ho"	0
+3x06	it's an interjection	0
+3x06	used to call attention	0
+3x06	to a destination, not an object,	0
+3x06	as in "land, ho" or "westward, ho"	0
+3x06	kites, ho	0
+3x06	hey, guys whatcha doin'	0
+3x06	going out to discover electricity	0
+3x06	if you're referring to the work of benjamin franklin,	0
+3x06	he did not "discover electricity,"	0
+3x06	he merely used a kite to determine	0
+3x06	that lignining consists of electricity	0
+3x06	he also invented the franklin stove,	0
+3x06	bifocals and the flexible	0
+3x06	urinary catheter	0
+3x06	kites, ho	0
+3x06	we're heading for some kite fighting	0
+3x06	"kite fighting"	0
+3x06	it's an extremely competitive, cutthroat sport	0
+3x06	actually, the risk of throat cutting is very low	0
+3x06	on the other hand, severe string burn is a real and everpresent danger	0
+3x06	you want to come watch	0
+3x06	gee sounds amazing	0
+3x06	but, i've got some friends coming over	0
+3x06	not a big thing	0
+3x06	we're gonna watch the nebraska game	0
+3x06	football, sure	0
+3x06	good guess	0
+3x06	i would've invited you,	0
+3x06	but you're not a football fan	0
+3x06	no, no, i'm not, so great	0
+3x06	you've got plans doing something you like,	0
+3x06	i've got plans doing something i like,	0
+3x06	it's good	0
+3x06	maybe we'll hang out later,	0
+3x06	after everybody's gone	0
+3x06	yeah, great	0
+3x06	see ya	0
+3x06	well, this sucks	0
+3x06	i'm sorry, i got bored	0
+3x06	and drifted off	0
+3x06	where exactly in the interaction did the sucking lie	0
+3x06	leonard realized that penny's been hiding him from her friends	0
+3x06	because he's a tiny, little man	0
+3x06	who flies kites	0
+3x06	that certainly would suck	0
+3x06	wolowitz is trying to outflank us	0
+3x06	let out some string, add altitude	1	1	nf
+3x06	and i'll go under and cut his line	0
+3x06	why wouldn't penny want	her friends to meet me	0
+3x06	focus, leonard, focus	1	1	nf
+3x06	the heat of battle is upon us	0
+3x06	the dogs of war are unleashed	0
+3x06	maybe koothrappali's right	0
+3x06	maybe i embarrass her	0
+3x06	you're embarrassing me	0
+3x06	a grown man worrying about such nonsense	0
+3x06	when in the middle of flying kites	0
+3x06	sorry	0
+3x06	sorry won't bring their kites down	0
+3x06	string burn	0
+3x06	they think we're flanking	0
+3x06	they're playing right into our hands	0
+3x06	on the count of three, we execute the flying scissor	1	1	nf
+3x06	one, two	0
+3x06	did you see that	0
+3x06	what	0
+3x06	that chick, she smiled at me	0
+3x06	no	0
+3x06	yes, she did	0
+3x06	come on, scissors, scissors	1	1	nf
+3x06	hold my line	1	1	nf
+3x06	what are you doing	0
+3x06	i can't scissors by myself	0
+3x06	come back	1	1	nf
+3x06	victory	0
+3x06	son of a bitch	0
+3x06	you're a sucky friend,	0
+3x06	you know that	0
+3x06	a sucky, sucky friend	0
+3x06	what was i supposed to do	0
+3x06	she gave me that "comehit her" look	0
+3x06	if she gave you any look at all,	0
+3x06	it was a "you suck" look	0
+3x06	i would've caught up to her	0
+3x06	if i hadn't pulled a hammy	0
+3x06	please, you weigh  pounds	0
+3x06	you don't have a hammy	0
+3x06	penny doesn't want me around her friends	0
+3x06	i embarrass her	0
+3x06	what else could it be	0
+3x06	her actions could be out of concern for your feelings	0
+3x06	perhaps she's excluded you from these gatherings	0
+3x06	because she's scouting for a new mate	0
+3x06	and doesn't want to do it in front of you	0
+3x06	how kind of her	0
+3x06	agreed	0
+3x06	most primates don't show that sort of discretion	0
+3x06	a female bonobo will copulate	0
+3x06	with a new male in front of the old one	0
+3x06	without so much	as a "how do you do"	0
+3x06	you always do this	0
+3x06	you ditch me for a woman you don't have a shot with	0
+3x06	i had a shot	0
+3x06	with a woman you were chasing through a park	0
+3x06	that's not a shot, that's a felony	0
+3x06	what's worse, it cost me	0
+3x06	my prized patang fighting kite	0
+3x06	i don't suppose there's any chance	0
+3x06	you could give me my kite back	0
+3x06	i'm sorry, raj,	0
+3x06	but the rules of aerial warfare	dictate that the fallen kite	0
+3x06	go to the victor	0
+3x06	and without rules,	0
+3x06	the competition has no meaning	0
+3x06	and without meaning,	0
+3x06	the following would be an empty gesture	0
+3x06	i have your kite	0
+3x06	i have your kite	0
+3x06	how was your football party	0
+3x06	it was pretty good	0
+3x06	we won	0
+3x06	that's excellent	0
+3x06	it's a weird figure of speech	0
+3x06	"we won" when you weren't actually playing	0
+3x06	when we watch star wars, we don't say,	0
+3x06	"we defeated the empire "	0
+3x06	i'm glad to hear it	0
+3x06	on a related subject,	0
+3x06	are you embarrassed to have me around your friends	0
+3x06	oh, my god, no	0
+3x06	why would you ask that	0
+3x06	you know, i just noticed	0
+3x06	i haven't really met any of them	0
+3x06	sure you have	0
+3x06	i met the huge exboyfriend	0
+3x06	and the smaller yet still larger than me exboyfriend	0
+3x06	by the way, were they here today	0
+3x06	of course not	0
+3x06	why would they be	0
+3x06	why would i ask why am i rambling	0
+3x06	why don't you stop me	0
+3x06	if you want to meet my friends,	0
+3x06	that would be great	0
+3x06	you know, i didn't want you to be bored	0
+3x06	i wouldn't be bored	0
+3x06	why would i be bored	0
+3x06	'cause they're not genius scientists	0
+3x06	penny, i like all sorts of people	0
+3x06	some of my best friends	0
+3x06	aren't geniuses	0
+3x06	like who	0
+3x06	some of my facebook friends aren't geniuses	0
+3x06	my point is,	0
+3x06	if we're going to be a couple,	0
+3x06	i should be friends with your friends	0
+3x06	great	0
+3x06	then come over next saturday	1	3	nf
+3x06	and watch the game with us	1	3	nf
+3x06	another football game	0
+3x06	they have them every week	0
+3x06	did not know that	0
+3x06	you wanted to meet my friends	0
+3x06	sure	0
+3x06	just i don't know much about football	0
+3x06	a lot of the guys' girlfriends don't know football	0
+3x06	they just kind of drink	0
+3x06	and talk in the kitchen	0
+3x06	great	0
+3x06	okay, a completed pass	0
+3x06	first down, new england	0
+3x06	i think i'm starting to get this	0
+3x06	really	0
+3x06	the only thing i've learned is that american men love drinking beer, pee too often and have trouble getting erections	0
+3x06	focus on the game,	1	1	nf
+3x06	not the commercials	1	1	ni
+3x06	maybe if you people cut back on the beer, you could get out of the bathroom and satisfy your women without pharmaceutical help	0
+3x06	raj, what are you doing here	0
+3x06	you were supposed to help me	0
+3x06	pimp out my vespa	0
+3x06	i'm sorry, are you under the impression	0
+3x06	that we're still friends	0
+3x06	come on	0
+3x06	you're not still grinding on the kite thing, are you	0
+3x06	it's not just the kite thing	0
+3x06	every time we go some place,	0
+3x06	you think you can dump me	0
+3x06	when someone prettier comes along, even though you don't have a shot with them	0
+3x06	i had a shot with that jogger	0
+3x06	fine paint green flames on your little scooter with her	0
+3x06	it's not a little scooter	0
+3x06	it's the second biggest	0
+3x06	vespa they make	0
+3x06	are you watching football	0
+3x06	there's no fooling you	0
+3x06	now, what is this sacks statistic	0
+3x06	they put up there	0
+3x06	all i know about saks is my mother shops there	0
+3x06	sacks, sacks	0
+3x06	it's football nomenclature for when a quarterback is tackled behind the line of scrimmage	0
+3x06	scrimmage	0
+3x06	the line of scrimmage is the imaginary transverse line separating the offense from the defense	0
+3x06	sheldon knows football	0
+3x06	apparently	0
+3x06	i mean, quidditch, sure	0
+3x06	but football	0
+3x06	sheldon, how do you know this stuff	0
+3x06	i grew up in texas	0
+3x06	football is ubiquitous in texas	0
+3x06	pro football, college football,	0
+3x06	high school football,	0
+3x06	peewee football	0
+3x06	in fact, every form of football	0
+3x06	except the original european football	0
+3x06	which most texans believe to be a commie plot	0
+3x06	unbelievable	0
+3x06	if you're interested,	0
+3x06	i also know all about frying meat that isn't chicken	0
+3x06	as if it were chicken	0
+3x06	so you could teach me	0
+3x06	football or chickenfried meats	0
+3x06	football	0
+3x06	i'm going to penny's to watch a game with her friends	0
+3x06	and i don't want to look like an idiot	0
+3x06	i want to blend in	0
+3x06	if you want to blend in	0
+3x06	i'd think looking like an idiot	0
+3x06	would be the perfect camouflage	0
+3x06	come on, please teach me	1	1	nf
+3x06	about football it'll be fun	0
+3x06	that's exactly what my father said	0
+3x06	"come to the games	0
+3x06	watch the games"	0
+3x06	week in and week out	0
+3x06	from the time i was five	0
+3x06	until i went off to college	0
+3x06	longest seven years of my life	0
+3x06	please, i'm asking you as a friend	0
+3x06	are you making this a tier one friendship request	0
+3x06	fine	0
+3x06	i really appreciate this	0
+3x06	all right, poindexter,	0
+3x06	sit down, shut up and listen	1	1	nf
+3x06	i'm sorry	0
+3x06	that's how my father always began	0
+3x06	our football conversations	0
+3x06	and if you'd like, after the game,	0
+3x06	i'll take you outside	0
+3x06	and teach you how to shoot close enough	0
+3x06	to a raccoon that it craps itself	0
+3x06	when are you going to stop making cylon toast	0
+3x06	when i have enough to destroy all the human toast on the battlestar	0
+3x06	known as galactica	0
+3x06	is that what you're wearing to watch football at penny's	0
+3x06	what's wrong with a football jersey	0
+3x06	nothing	0
+3x06	that, however, appears to be a football cocktail dress	0
+3x06	it's the smallest size they had,	0
+3x06	except the one for dogs	0
+3x06	i can't believe	0
+3x06	they had one for dogs	0
+3x06	oh, yes	0
+3x06	canine football fans	0
+3x06	are a common sight in texas	0
+3x06	cats, however,	refuse to wear sporting apparel	0
+3x06	my sister found that out	0
+3x06	the hard way	0
+3x06	anyway, wish me luck	1	1	nf
+3x06	leonard, wait	1	1	nf
+3x06	am i correct in assuming	0
+3x06	that your attempt to be accepted by penny's peers is based on your desire to ensure your continuing mating privileges with her	0
+3x06	well, i wouldn't put it	0
+3x06	exactly that way	0
+3x06	how would you put it	0
+3x06	like you said	0
+3x06	seems like an awful lot of trouble to go through for intercourse	0
+3x06	don't you have access to women who will do it for money	0
+3x06	by the way,	0
+3x06	another accepted usage	0
+3x06	for the term "ho"	0
+3x06	goodbye, sheldon	0
+3x06	hold on	1	1	nf
+3x06	i believe that social convention	0
+3x06	dictate you not arrive emptyhanded	0
+3x06	would you like to bring some cylon toast	1	3	nf
+3x06	yeah, no, i'm trying to fit in,	0
+3x06	not get laughed at	0
+3x06	what's funny about cylon toast	0
+3x06	it's open	0
+3x06	hey, pal	0
+3x06	what do you want	0
+3x06	i brought you a little gift	0
+3x06	new kite	0
+3x06	the kite you made me lose was an authentic patang,	0
+3x06	an indian fighting kite that my brother	sent to me from new delhi	0
+3x06	it took me a day to put together	0
+3x06	and two days to paint	0
+3x06	this is hello kitty	0
+3x06	yeah, but it comes with a little coin purse	0
+3x06	does a patang	0
+3x06	you just don't get it, do you	0
+3x06	buying me something pretty isn't going to make our problem just go away	0
+3x06	look, i admit i haven't always been	0
+3x06	the best friend i could be	0
+3x06	you've been a sucky friend,	0
+3x06	a sucky, sucky friend	0
+3x06	stipulated	0
+3x06	and you do it all the time	0
+3x06	last week in the mall,	0
+3x06	we were looking for a phone with giant numbers for your mother,	0
+3x06	and i suddenly realize you're not even there	0
+3x06	i know	0
+3x06	and where were you	0
+3x06	getting shot down by the girl at hot dog on a stick	0
+3x06	but in my defense, she was gorgeous	0
+3x06	and working that squeezer to make the lemonade,	0
+3x06	going up and down and up and down	0
+3x06	it was like a free pole dance	0
+3x06	right in the middle of the food court	0
+3x06	you're impossible	0
+3x06	at least, i can talk to women without being drunk	0
+3x06	excuse me, i have selective mutism,	0
+3x06	a recognized medical disorder	0
+3x06	you're just a douche	0
+3x06	no you know what	0
+3x06	maybe that's what	0
+3x06	this whole thing's about	0
+3x06	you're not mad at me,	0
+3x06	you're mad at yourself	0
+3x06	no, i'm mad at you	0
+3x06	i hate myself, but i'm mad at you	0
+3x06	fine you're mad at me	0
+3x06	i get it	0
+3x06	how about we go	spend the day together	0
+3x06	just the two of us	0
+3x06	we'll go anywhere you want	0
+3x06	i don't know	0
+3x06	come on	0
+3x06	let me take you someplace nice	0
+3x06	i do enjoy the la brea tar pits	0
+3x06	really, now	0
+3x06	with the traffic and the parking	0
+3x06	okay, fine	0
+3x06	the tar pits let's go	1	1	nf
+3x06	why can't i stay mad at you	0
+3x06	are you people watching this	0
+3x06	is this amazing or what	0
+3x06	sweetie, that's a highlight	0
+3x06	from the ' championship game	0
+3x06	did not know that	0
+3x06	how much beer have you had	0
+3x06	none, why	0
+3x06	i was just hoping you were drunk	0
+3x06	now we're back live	0
+3x06	okay, yeah	0
+3x06	i can see the difference	0
+3x06	oh, where's the flag	0
+3x06	that's intentional grounding	0
+3x06	totally	0
+3x06	that completely was a forward pass,	0
+3x06	which they threw incomplete to avoid loss of yardage	0
+3x06	or to conserve time	0
+3x06	i can't believe they're not penalized with the loss of a down	0
+3x06	and by having to move the scrimmage line	0
+3x06	back to the spot of the foul	0
+3x06	here, have some pizza, sweetie	1	1	nf
+3x06	you know i'm lactose intolerant	0
+3x06	i know	0
+3x06	i just need you to stop talking	0
+3x06	sheldon, come in	1	3	nf
+3x06	thank you	0
+3x06	i'd like to make a sandwich,	0
+3x06	but i'm out of bread	0
+3x06	there's some in the fridge	0
+3x06	you shouldn't keep it	0
+3x06	in the refrigerator	0
+3x06	staleness is caused by crystallization of the starch molecules,	0
+3x06	which occurs faster at cool temperatures	0
+3x06	on earth, we say "thank you"	0
+3x06	how goes the mimesis	0
+3x06	"mimesis"	0
+3x06	you know	0
+3x06	mimesis	0
+3x06	an action in which the mimic takes on the properties of a specific object or organism	0
+3x06	mimesis	0
+3x06	what the hell are you talking about	0
+3x06	i'm attempting to communicate with you	0
+3x06	without my meaning becoming apparent to those around you	0
+3x06	let me try again	0
+3x06	have the indigenous fauna ccepted you as one of their own	0
+3x06	nudge, nudge, wink, wink	0
+3x06	oh, i guess so	0
+3x06	good	0
+3x06	oh, fyi	0
+3x06	after i eat my sandwich,	0
+3x06	i'm taking koothrappali's	0
+3x06	patang kite out for a test run	0
+3x06	would you like to get your deltawing raptor and join me	1	3	nf
+3x06	i don't want to fly kites, sheldon	0
+3x06	we're watching football here	0
+3x06	i can see that	0
+3x06	i was providing you with an alternative	0
+3x06	a courtesy i was never offered	0
+3x06	in similar circumstances	0
+3x06	look at that	1	1	nf
+3x06	the oklahoma coach	0
+3x06	has thrown down a red flag,	0
+3x06	indicating he's challenging	0
+3x06	the ruling on the field	0
+3x06	i hope he's right, 'cause if he's not,	0
+3x06	it'll cost him one of his timeouts	0
+3x06	you know, leonard, honey,	0
+3x06	i wouldn't mind if you wanted to go fly kites with sheldon	0
+3x06	i'll watch the end of the game	0
+3x06	there's only three minutes left	0
+3x06	until halftime	0
+3x06	this is just half	0
+3x06	we've been here for hours	0
+3x06	you'll be here for a couple more	0
+3x06	you're kidding me	0
+3x06	no	0
+3x06	nice meeting all of you	0
+3x06	so, yeah, anyway,	0
+3x06	that's my boyfriend	0
+3x06	he is really smart	0
+3x06	i really like my sabertoothed cat	0
+3x06	thank you	0
+3x06	my pleasure	0
+3x06	maybe after lunch,	0
+3x06	we can go to marie callender's	0
+3x06	and have some pie	0
+3x06	i'd like that	0
+3x06	this is turning out	0
+3x06	to be a perfect saturday	0
+3x06	good i'm glad	0
+3x06	did you see the way	0
+3x06	she smiled at me	0
+3x06	fine go ahead	1	3	nf
+3x06	no this is our day	0
+3x06	if you want to chase after her,	0
+3x06	chase after her	1	1	nf
+3x06	ah, who am i kidding	0
+3x06	i wouldn't have a shot	0
+3x06	with a girl like that	0
+3x06	don't put yourself down	0
+3x06	you're a very attractive man	0
+3x06	you think so	0
+3x06	absolutely it wouldn't kill you to take	0
+3x06	a pilates class with me now and then,	0
+3x06	but you have a certain wiry appeal	0
+3x06	yeah, well, it doesn't matter	0
+3x06	'cause she wasn't really smiling at me	0
+3x06	actually, i think she was	0
+3x06	really	0
+3x06	yeah	0
+3x06	what a douche	0

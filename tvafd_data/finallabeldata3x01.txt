@@ -1,0 +1,404 @@
+﻿3x01	i just want you both to know,	0
+3x01	when i publish my findings, i won't forget your contributions	0
+3x01	great	0
+3x01	thanks	0
+3x01	of course, i can't mention you in my nobel acceptance speech,	0
+3x01	but when i get around to writing my memoirs, you can expect a very effusive footnote	0
+3x01	and perhaps a signed copy	0
+3x01	we have to tell him	1	1	nf
+3x01	tell me what	0
+3x01	damn his vulcan hearing	0
+3x01	you fellows are planning a party	0
+3x01	for me, aren't you	0
+3x01	okay, sheldon, sit down	1	1	nf
+3x01	if there's going to be a theme,	0
+3x01	i should let you know	0
+3x01	that i don't care for luau, toga	0
+3x01	or "under the sea"	0
+3x01	yeah, we'll keep that in mind	0
+3x01	look	0
+3x01	we need to talk to you about something	0
+3x01	that happened at the north pole	0
+3x01	if this is about the night	0
+3x01	the heat went out,	0
+3x01	there's nothing to be	0
+3x01	embarrassed about	0
+3x01	it's not about that	0
+3x01	we agreed to never speak of it again	1	1	ni
+3x01	so we slept together naked	0
+3x01	it was only to keep our core body	0
+3x01	temperatures from plummeting	0
+3x01	he's speaking about it	0
+3x01	for me, it was a bonding moment	0
+3x01	sheldon, you remember the first few weeks we were looking for magnetic monopoles and not finding anything and you were acting like an obnoxious, giant dictator	0
+3x01	we were gonna be gentle with him	0
+3x01	that's why i added the "tator"	0
+3x01	and when we finally	0
+3x01	got our first positive data,	0
+3x01	you were so happy	0
+3x01	in the world of emoticons,	0
+3x01	i was colon, capital "d"	0
+3x01	well, in actuality, what your equipment detected wasn't so much evidence of paradigmshifting monopoles as it was static from the electric can opener, we were turning on and off	0
+3x01	he just went colon, capital "o"	0
+3x01	you tampered with my experiment	0
+3x01	we had to	0
+3x01	it was the only way to keep you	0
+3x01	from being such a huge dickensian	0
+3x01	you see that i add the "ensian "	0
+3x01	did leonard know about this	0
+3x01	leonard's my best friend in the world	0
+3x01	surely leonard didn't know	0
+3x01	it was his idea	0
+3x01	of course it was	0
+3x01	the whole plan reeks of leonard	0
+3x01	i missed you so much	0
+3x01	i missed you, too	0
+3x01	i couldn't think of anyone else	0
+3x01	while you were gone	0
+3x01	me, neither	0
+3x01	except for one night	0
+3x01	when the heat went out	0
+3x01	long story don't ask	1	1	ni
+3x01	do not make a sound	1	1	ni
+3x01	whispering,	0
+3x01	"do not make a sound "	is a sound	0
+3x01	damn his vulcan hearing	0
+3x01	not a good time, sheldon	1	1	ni
+3x01	oh, this is ridiculous	0
+3x01	what	0
+3x01	hello	0
+3x01	i realize you're currently at the mercy of your primitive biological urges, but as you have an entire lifetime of poor decisions ahead of you,	0
+3x01	may i interrupt this one	0
+3x01	great to see you too	0
+3x01	come on in	1	1	nf
+3x01	wolowitz has informed me	0
+3x01	of your grand deception	0
+3x01	do you have anything	0
+3x01	to say for yourself	0
+3x01	yes, i feel terrible about it	0
+3x01	i will never forgive myself,	0
+3x01	i don't expect you to, either,	0
+3x01	and i would really appreciate it if you would leave me with penny	1	2	nf
+3x01	for a session of selfcriticism	0
+3x01	and repentance	0
+3x01	can someone please tell me	1	1	nf
+3x01	what's going on here	0
+3x01	what's going on is	0
+3x01	i was led to believe	0
+3x01	i was making groundbreaking strides in science,	when in fact, i was being fed false data at the hands	of wolowitz, koothrappali and your furry little boy toy	0
+3x01	is that true	0
+3x01	it was the only way	0
+3x01	to make him happy	0
+3x01	make him happy	0
+3x01	when he wasn't happy,	0
+3x01	we wanted to kill him	0
+3x01	there was even a plan	0
+3x01	we were going to throw	0
+3x01	his kindle outside,	0
+3x01	when he went to get it, lock the door	0
+3x01	and let him freeze to death	0
+3x01	that seems like a bit	0
+3x01	of an overreaction	0
+3x01	the overreaction was the plan to tie your limbs to four different sled dog teams and yell, "mush "	0
+3x01	we kept the original data	0
+3x01	you can still publish	0
+3x01	the actual results	0
+3x01	yes, but the actual results	0
+3x01	are unsuccessful	0
+3x01	and i've already sent an email to everyone at the university explaining that i have confirmed string theory and forever changed man's understanding of the universe	0
+3x01	aw, see, yeah, you probably	0
+3x01	shouldn't have done that	0
+3x01	so write another email	1	4	nf
+3x01	set the record straight no big deal	1	4	nf
+3x01	you're right, leonard	0
+3x01	it's not a big deal	0
+3x01	all you did was lie to me, destroy my dream and humiliate me in front of the whole university	0
+3x01	that, fyi, was sarcasm	0
+3x01	i, in fact,	0
+3x01	believe it is a big deal	0
+3x01	the poor thing	0
+3x01	yeah, i feel terrible	0
+3x01	wait wait	1	1	nf
+3x01	aren't you going to go talk to him	1	1	ni
+3x01	he'll be fine the guy's a trouper	0
+3x01	come here	1	1	nf
+3x01	you're right, you shouldn't talk to him	0
+3x01	i will	0
+3x01	man, i cannot catch a break	0
+3x01	do you want to talk	0
+3x01	about what	0
+3x01	being betrayed by my friends	0
+3x01	spending three months	0
+3x01	at the north pole for nothing	0
+3x01	and i didn't even get	0
+3x01	to go to comiccon	0
+3x01	oh, hon	0
+3x01	soft kitty, warm kitty	0
+3x01	that's for when i'm sick	1	1	nf
+3x01	sad is not sick	0
+3x01	sorry	0
+3x01	i don't know your sad song	0
+3x01	i don't have a sad song	0
+3x01	i'm not a child	0
+3x01	you know, i do understand	0
+3x01	what you're going through	0
+3x01	really	0
+3x01	did you just have the nobel prize	0
+3x01	in waitressing stolen from you	0
+3x01	well, no, but when i was a senior in high school, one of my friends heard i was gonna be named head cheerleader i was so excited	0
+3x01	my mom even made me	0
+3x01	a celebration pie	0
+3x01	then they named stupid	0
+3x01	valerie mossbacher head cheerleader	0
+3x01	big ol' slutbag	0
+3x01	are you saying	0
+3x01	that you think a "celebration pie"	0
+3x01	is even remotely	0
+3x01	comparable to a nobel prize	0
+3x01	they're pretty tasty	0
+3x01	and on a different, but not unrelated topic, based on your current efforts to buoy my spirits, do you truly believe that you were ever fit to be a cheerleader	0
+3x01	look, sheldon, i just don't think	0
+3x01	that the guys and leonard	0
+3x01	really meant to hurt you	0
+3x01	they just told an unfortunate lie	0
+3x01	to deal with a difficult situation	0
+3x01	you know what it's like	0
+3x01	remember that scene in the new star trek when kirk has to take over the ship, so he tells spock all that stuff he knew wasn't true, like saying spock didn't care his mom died	0
+3x01	i missed comiccon	0
+3x01	and the new star trek movie	0
+3x01	i like the new look	0
+3x01	thanks	0
+3x01	i call it "the clooney"	0
+3x01	i call it "the mario and luigi,"	0
+3x01	but whatever	0
+3x01	how's sheldon doing	0
+3x01	he came out of his room this morning wearing his darth vader helmet and tried to choke me to death with the force, so i'd say, "a little better"	0
+3x01	if i may abruptly change the subject,	0
+3x01	did you and penny finally you know	0
+3x01	personally, i don't care,	0
+3x01	but my genitals wanted me to ask	0
+3x01	tell your genitals what i do with penny	0
+3x01	is none of their business	0
+3x01	he says they didn't do it	0
+3x01	sheldon, over here	1	3	nf
+3x01	what are you doing	0
+3x01	i feel bad for the guy	0
+3x01	sheldon, why are you	0
+3x01	sitting by yourself	0
+3x01	because i am without friends	0
+3x01	like the proverbial cheese,	0
+3x01	i stand alone	0
+3x01	even while seated	0
+3x01	come on we said we were sorry	0
+3x01	it's going to take more than an "i'm sorry" and a storebought apology pie from penny to make up for what you've done to me	0
+3x01	read your retraction email	0
+3x01	way to destroy your reputation	0
+3x01	you see	0
+3x01	people have been pointing	0
+3x01	and laughing at me all morning	0
+3x01	that's not true	0
+3x01	people have been pointing	0
+3x01	and laughing at you your whole life	0
+3x01	i've had enough	0
+3x01	attention, everyone	1	1	nf
+3x01	i'm dr sheldon cooper	0
+3x01	as many of you in the physics department might know, my career trajectory has taken a minor detour	0
+3x01	off a cliff	0
+3x01	my credibility	0
+3x01	may have been damaged	0
+3x01	completely wrecked	0
+3x01	but i would like to remind you that in science,	there's no such thing as failure	0
+3x01	there once was a man who referred to his prediction of a cosmological constant as the single "biggest blunder" of his career	0
+3x01	that man's name was	0
+3x01	surprise, surprise	0
+3x01	albert einstein	0
+3x01	yeah, but research into dark energy proved that einstein's cosmological constant was actually right all along, so you're still surprise, surprise a loser	0
+3x01	you think you're so clever	0
+3x01	let me just tell you, while i do not currently have a scathing retort, you check your email periodically for a doozy	1	1	nf
+3x01	so much for our friendship with sheldon	0
+3x01	we'll always have the night	0
+3x01	the heat went out	0
+3x01	since we got interrupted last night,	0
+3x01	i didn't have a chance	0
+3x01	to give you this	0
+3x01	you shouldn't have	0
+3x01	oh, boy	0
+3x01	what is it	0
+3x01	it's a snowflake	0
+3x01	from the north pole	0
+3x01	are you serious	0
+3x01	it's eternal	0
+3x01	i preserved it in a one percent solution	0
+3x01	of polyvinyl acetal resin	0
+3x01	that's the most romantic thing	0
+3x01	anyone's ever said to me	0
+3x01	that i didn't understand	0
+3x01	it's actually a simple process	0
+3x01	cyanoacrylates are monomers	0
+3x01	which polymerize on	0
+3x01	red alert, leonard	0
+3x01	sheldon ran away	0
+3x01	man, i cannot catch a break	0
+3x01	so, how do you know he ran away	0
+3x01	well, he's not answering his phone,	0
+3x01	he handed in his	0
+3x01	resignation at the university	0
+3x01	and he sent me a text	0
+3x01	that said, "i'm running away"	0
+3x01	thanks for letting me know	0
+3x01	aren't you going to do something	1	1	ni
+3x01	of course i'm going to do something	0
+3x01	howard, you check the comic book store	1	1	nf
+3x01	raj, go to the thai restaurant	1	1	nf
+3x01	i'll stay here with penny	0
+3x01	in her apartment	0
+3x01	oh, damn it	0
+3x01	it's sheldon's mother	0
+3x01	a break cannot be caught	0
+3x01	hi, mrs cooper	0
+3x01	he is	0
+3x01	sheldon went home to texas	0
+3x01	yeah, no, i know he resigned	0
+3x01	i guess it kind of is our fault	0
+3x01	no, you're right	0
+3x01	someone needs to come talk to him	0
+3x01	don't worry, i'll take care of it	1	1	ni
+3x01	all right	0
+3x01	new plan	0
+3x01	howard, you and raj go to texas	1	1	nf
+3x01	i'll stay with penny in her apartment	0
+3x01	you're not gonna go with them	1	1	ni
+3x01	well, you know,	0
+3x01	i gave you the snowflake	0
+3x01	and we were kissing and	0
+3x01	come on,	0
+3x01	i don't want to go to texas	0
+3x01	oh, right, and i do	0
+3x01	my people already crossed a desert once	0
+3x01	we're done	0
+3x01	trust me, you'll be fine see ya	1	1	nf
+3x01	well, wait a second, leonard	1	1	nf
+3x01	come on, how can you not go	0
+3x01	he's your best friend	0
+3x01	yeah, but i already saw him naked	0
+3x01	just come here	1	1	nf
+3x01	i promise i will be here	0
+3x01	when you get back	0
+3x01	just go help sheldon	1	1	nf
+3x01	really	0
+3x01	yeah	0
+3x01	we waited a few months	0
+3x01	we can wait a few more days	0
+3x01	maybe you can	0
+3x01	go	1	1	nf
+3x01	boy, you cannot	0
+3x01	catch a break, can you	0
+3x01	here you go, shelly	0
+3x01	thanks, mom	0
+3x01	hold your horses, young man	1	1	nf
+3x01	here in texas,	0
+3x01	we pray before we eat	1	1	nf
+3x01	aw, mom	0
+3x01	this is not california,	0
+3x01	land of the heathen	0
+3x01	gimme	1	1	nf
+3x01	by his hand we are all	0
+3x01	fed	0
+3x01	give us, lord, our daily bread	1	2	nf
+3x01	please know that we are truly grateful	1	2	nf
+3x01	for every cup and every	0
+3x01	plateful	0
+3x01	now, that wasn't so hard, was it	0
+3x01	my objection was based on considerations other than difficulty	0
+3x01	whatever	0
+3x01	jesus still loves you	0
+3x01	thank you for carving a smiley face in my grilled cheese sandwich	0
+3x01	oh, i know how to take care of my baby	0
+3x01	his eyes came out a little thin, but you can just pretend he's chinese	0
+3x01	so, do you want to talk about what happened with you and your little friends	1	3	nf
+3x01	they're not my friends	0
+3x01	all right	0
+3x01	if you recall, when you were little,we sat right here at this very spot	and we talked about the problems	0
+3x01	you had getting along with the neighbor kids	0
+3x01	that was different	0
+3x01	they were threatened by my intelligence and too stupid to know	0
+3x01	that's why they hated me	0
+3x01	oh baby, they knew very well	0
+3x01	why they hated you	0
+3x01	i can't believe	0
+3x01	you bought a red cowboy hat	0
+3x01	hello	0
+3x01	i'm wearing a red turtleneck	0
+3x01	plus, it was the only boys' large	0
+3x01	they had	0
+3x01	i'm sorry,	0
+3x01	this does not look like texas	0
+3x01	where's the tumbleweeds	0
+3x01	whe's the saloons	0
+3x01	saloons	0
+3x01	like in the movies, i saw growing up in india	0
+3x01	you know, four for texas,	0
+3x01	yellow rose of texas	0
+3x01	this neighborhood is more texas chainsaw massacre	0
+3x01	i was really hoping to see a cattle drive	0
+3x01	what can i tell you they probably have steaks on sale at that bigass costco over there	0
+3x01	will you please take that stupid hat off	1	1	nf
+3x01	no, i want to blend in	0
+3x01	to what toy story	0
+3x01	hi, boys	0
+3x01	howdy, ma'am	0
+3x01	howdy to you, too	0
+3x01	you got here quick	0
+3x01	we took the redeye	0
+3x01	well, come on in	1	3	nf
+3x01	thank you kindly	0
+3x01	can i get you something to drink	0
+3x01	no, thank you	0
+3x01	if y'all don't mind,	0
+3x01	i got a hankerin' for a lone star beer	0
+3x01	there's no alcohol in this household	0
+3x01	stop talking like that and lose the hat	1	1	nf
+3x01	sorry i'll take a diet yoohoo	0
+3x01	if you have it	0
+3x01	you'll take a cola	1	1	nf
+3x01	what about you	0
+3x01	radge, isn't it	0
+3x01	you still having trouble talking to the ladies	0
+3x01	because, at our church,	we have a woman	who's an amazing healer	0
+3x01	mostly she does	crutch and wheelchair people,	0
+3x01	but i bet she'd be willing	0
+3x01	to take a shot at whatever third world demon is running around inside of you	0
+3x01	if you don't mind, there's a  nonstop back to los angeles and you have no idea how much i want to be on it	0
+3x01	a girl	0
+3x01	uh, yes, ma'am	0
+3x01	oh, good	0
+3x01	i been praying for you	0
+3x01	what are they doing here	0
+3x01	we came to apologize	0
+3x01	again	0
+3x01	and bring you home	0
+3x01	why don't you pack up your stuff and we'll head back	1	3	ni
+3x01	no, this is my home now	0
+3x01	thanks to you, my career is over	0
+3x01	and i will spend the rest of my life here in texas trying to teach evolution	to creationists	0
+3x01	you watch your mouth, shelly	1	1	nf
+3x01	everyone's entitled to their opinion	0
+3x01	evolution isn't an opinion, it's fact	0
+3x01	and that is your opinion	0
+3x01	i forgive you	0
+3x01	let's go home	1	3	nf
+3x01	don't tell me prayer doesn't work	0
+3x01	how about that	0
+3x01	i finally caught a break	0
+3x01	you know how they say	0
+3x01	when friends have sex, it can get weird	0
+3x01	sure	0
+3x01	why does it have to get weird	0
+3x01	i don't know	0
+3x01	i mean,	we were friends, and now we're more than friends	0
+3x01	we're whatever "this" is	0
+3x01	but why label it, right	0
+3x01	i mean	0
+3x01	it is what it is and	0
+3x01	leonard it's weird	0
+3x01	totally	0

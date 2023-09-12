@@ -1,0 +1,648 @@
+﻿4x13	hey so you guys ready	0
+4x13	to order	0
+4x13	since we come in	0
+4x13	every tuesday night at	0
+4x13	and order the same exact thing,	0
+4x13	and it's now ,	0
+4x13	i believe your question	0
+4x13	not only answers itself	0
+4x13	but also stands alongside	0
+4x13	such other nonsensical queries	0
+4x13	as "who let the dogs out"	0
+4x13	and, uh, "how are they hanging""	0
+4x13	okay	0
+4x13	so, the usual, with extra spit	0
+4x13	on sheldon's hamburger	0
+4x13	penny, a moment	1	1	nf
+4x13	do you have plans	0
+4x13	this weekend	0
+4x13	oh, gee, amy, i'm sorry,	0
+4x13	i'm actually pretty busy	0
+4x13	this weekend	0
+4x13	probably serving food	0
+4x13	that was ordered today	0
+4x13	that's too bad i was hoping	0
+4x13	you could be my plusone	0
+4x13	at the institute	0
+4x13	of interdisciplinary studies'	0
+4x13	symposium on the impact	0
+4x13	of current scientific research	0
+4x13	on societal interactions	0
+4x13	the what	0
+4x13	it's an annual	0
+4x13	science conference	0
+4x13	we've all been invited to speak	0
+4x13	oh oh, okay, well, you know,	0
+4x13	like i said, i have plans, so shame since you're my best friend,	0
+4x13	i thought it would be	0
+4x13	a good bonding opportunity	0
+4x13	i'm your best friend	0
+4x13	don't you read my blog	1	1	ni
+4x13	oh, don't feel bad	1	1	ni
+4x13	i never read leonard's, and	0
+4x13	i used to sleep with him	0
+4x13	do you know anybody else	0
+4x13	who would appreciate	0
+4x13	an allexpensepaid spa weekend	0
+4x13	at a fourstar resort	0
+4x13	in big sur	0
+4x13	no, i really i'm sorry,	0
+4x13	free what sorry, what, what	1	1	nf
+4x13	i think her weekend just opened up	0
+4x13	wait, wait, just to be clear,	1	1	nf
+4x13	when you guys say "spa,"	0
+4x13	does that mean the same thing	0
+4x13	as when regular people say it	0
+4x13	pretty much	0
+4x13	except we keep	0
+4x13	our shirts on in the sauna	0
+4x13	you know, it is going	0
+4x13	to be difficult,	0
+4x13	but i'm going to cancel my plans	0
+4x13	so i can do this for my bestie	0
+4x13	please don't touch my breasts	1	1	ni
+4x13	i i wasn't going to	0
+4x13	all right i just want	0
+4x13	to establish boundaries	0
+4x13	boy, this is great i haven't had a vacation in ages	0
+4x13	in order to take a vacation,	0
+4x13	one first has to work	0
+4x13	you know, for a smart guy,	0
+4x13	you really seem to have a	0
+4x13	hard time grasping the concept	0
+4x13	"don't piss off the people who handle the things you eat"	1	1	ni
+4x13	that does seem to be	0
+4x13	a valid principle	0
+4x13	i trust penny will adhere to	0
+4x13	the "official california	0
+4x13	restaurant workers'	0
+4x13	solemn oath of ethics	0
+4x13	and cleanliness"	0
+4x13	i don't believe	0
+4x13	there's any such thing	0
+4x13	you lied to me	0
+4x13	good morning	0
+4x13	if i could have everyone's	0
+4x13	attention, please	0
+4x13	i know we're all eager	0
+4x13	to get on the road to big sur,	0
+4x13	so if we focus, i'm sure we can	0
+4x13	get through this orientation	0
+4x13	in under a half an hour	0
+4x13	then it's just q&a, quiz, safety drills,	0
+4x13	pose for commemorative	0
+4x13	group photo and we're off	0
+4x13	don't worry	1	2	ni
+4x13	just sit next to me during the quiz,	1	1	nf
+4x13	and you can copy my answers	0
+4x13	sheldon	0
+4x13	raj	0
+4x13	what are you doing	0
+4x13	i don't think so	0
+4x13	you've had your allotted	0
+4x13	six ounces	0
+4x13	the first bathroom break	0
+4x13	isn't until the denny's	0
+4x13	located near bakersfield,	0
+4x13	which is approximately	0
+4x13	two and half hours away	0
+4x13	remember, people, we're only as	strong as our weakest bladder	1	1	nf
+4x13	nobody cares about	0
+4x13	your kegel exercises	0
+4x13	all right we have	0
+4x13	seven people, and two cars	0
+4x13	in the lead car,	0
+4x13	driven by leonard,	0
+4x13	will be myself,	0
+4x13	amy farrah fowler,	0
+4x13	and penny	0
+4x13	yes	0
+4x13	he had you in the other car,	0
+4x13	but i got you upgraded	0
+4x13	yay	0
+4x13	she made the case	0
+4x13	that if we break down	0
+4x13	in the middle of nowhere,	0
+4x13	your nebraska backwoods skills	0
+4x13	and brawny hands	0
+4x13	will give us the best chance	0
+4x13	to survive in the wild	0
+4x13	brawny	0
+4x13	they're bigger	0
+4x13	than mine	0
+4x13	red leader to red five,	come in	1	1	nf
+4x13	red leader to red five,	come in	1	1	nf
+4x13	howard, you promised	0
+4x13	wolowitz	0
+4x13	fine red five to red leader	0
+4x13	what do you want now	0
+4x13	it's  i'm requesting your quarterhourly location update	1	1	nf
+4x13	still right behind you	0
+4x13	copy that, red five	0
+4x13	radio contact is sufficient	0
+4x13	no need to extend your middle finger	1	1	ni
+4x13	so, amy, i've	0
+4x13	been wondering,	0
+4x13	are you and sheldon going	0
+4x13	to be sharing a room	0
+4x13	no, we discussed it	0
+4x13	we decided we didn't want	0
+4x13	to jeopardize our relationship	0
+4x13	by getting to know	0
+4x13	each other too well	0
+4x13	indeed nothing sours	0
+4x13	a friendship more	0
+4x13	than overfamiliarity	0
+4x13	with someone's toilet routine	0
+4x13	i can vouch for that	0
+4x13	hey	0
+4x13	not you, him	0
+4x13	oh thanks	0
+4x13	although yours	0
+4x13	was an eyeopener	0
+4x13	don't worry, penny	1	2	ni
+4x13	you're my plusone	0
+4x13	you'll bunk with me	0
+4x13	and fyi, travel	0
+4x13	makes me constipated,	0
+4x13	so i'm the ideal	0
+4x13	hotel roommate	0
+4x13	terrific	0
+4x13	are we there yet	0
+4x13	i hope we get there in time	0
+4x13	to see the keynote address	0
+4x13	really you want to see	0
+4x13	the keynote	0
+4x13	yeah, it sounds fun	0
+4x13	"super bacteria	0
+4x13	global apocalypse or	0
+4x13	exciting research opportunity"	0
+4x13	actually, i was thinking we could go straight to the room and take a nap	1	3	nf
+4x13	really	0
+4x13	and miss the keynote	0
+4x13	we can watch it later on cspan	0
+4x13	besides, i was really	0
+4x13	looking forward to you and me	0
+4x13	napping together in the hotel	0
+4x13	honey, if you're	0
+4x13	that tired,	0
+4x13	why don't you just take a nap here in the car	1	1	ni
+4x13	no, see, it's not	0
+4x13	hang on	1	1	nf
+4x13	it's leonard	0
+4x13	hi, leonard	0
+4x13	leonard	0
+4x13	yeah, hi listen, i just	0
+4x13	got a text from raj	0
+4x13	he wanted me to tell you	0
+4x13	that when howard says "nap,"	0
+4x13	he means "sex"	0
+4x13	thank you, raj	0
+4x13	are you an element	0
+4x13	in the actinoid series	0
+4x13	no	0
+4x13	amy	0
+4x13	are you usually radioactive	0
+4x13	when found in nature	0
+4x13	no	0
+4x13	are you in the	0
+4x13	lanthanoid series	0
+4x13	amy, it's penny's turn	1	1	nf
+4x13	penny	1	1	nf
+4x13	uh, i don't know	0
+4x13	are you food	0
+4x13	that's not apropos	0
+4x13	we've already established	0
+4x13	i'm found in the periodic table	0
+4x13	well, it's a table, right	0
+4x13	i mean, why can't there	0
+4x13	be food on it	0
+4x13	i knew she wasn't	0
+4x13	lead car materiel	0
+4x13	who elected you	0
+4x13	road trip god	0
+4x13	leonard	0
+4x13	it was a latenight vote	0
+4x13	we were all exhausted,	0
+4x13	and he was threatening	0
+4x13	to filibuster	0
+4x13	it's not technically	0
+4x13	"road trip god""	0
+4x13	it's travel supervisor	0
+4x13	although road trip god	0
+4x13	does have a certain ring to it	0
+4x13	i don't understand	0
+4x13	why you people	0
+4x13	just let him bully	0
+4x13	you like this	0
+4x13	someone should	0
+4x13	stand up to him	0
+4x13	what's he going to do	0
+4x13	i can't believe you let him	0
+4x13	kick me out of the car	0
+4x13	what could we do	0
+4x13	he's the travel supervisor	0
+4x13	don't worry, penny	1	2	ni
+4x13	this is a better car anyway	0
+4x13	yeah it's the love car	0
+4x13	should i ask	0
+4x13	� they say we're young	0
+4x13	and we don't know �	0
+4x13	� we won't find out	0
+4x13	until we grow �	0
+4x13	� well, i don't know	0
+4x13	if all that's true �	0
+4x13	� 'cause you got me,	0
+4x13	and, baby, i got you �	0
+4x13	� babe �	0
+4x13	� mm dada,	0
+4x13	dada, dada �	0
+4x13	both	0
+4x13	� i got you, babe �	0
+4x13	red leader, i'm really sorry	0
+4x13	both	0
+4x13	� i got you, babe �	0
+4x13	wolowitz and bernadette	0
+4x13	� i got you, babe �	0
+4x13	i missed you	0
+4x13	you know what	0
+4x13	i missed you, too	0
+4x13	bernadette	0
+4x13	oh, my god, glenn	0
+4x13	great to see you	0
+4x13	are you here	0
+4x13	for the conference	0
+4x13	yeah, i'm doing	0
+4x13	a global warming panel	0
+4x13	oh, good for you	0
+4x13	uh, glenn,	0
+4x13	this is my boyfriend howard	0
+4x13	nice to meet you	0
+4x13	hi	0
+4x13	ow hi	0
+4x13	you're a lucky man	0
+4x13	bernie's	0
+4x13	a great gal	0
+4x13	yes "bernie" sure is	0
+4x13	well, i got to run	0
+4x13	the panel's tomorrow morning	0
+4x13	it's called, "remembering snow	0
+4x13	a look back"	0
+4x13	i'll try to catch it	0
+4x13	oh, great	0
+4x13	bye	0
+4x13	bye	0
+4x13	hey bernie	0
+4x13	yeah	0
+4x13	please tell me he's your gay cousin	1	1	nf
+4x13	no	0
+4x13	he was one of my professors	0
+4x13	in college	0
+4x13	oh that's a relief	0
+4x13	then we went out	0
+4x13	for a year	0
+4x13	come on, let's check in,	1	1	nf
+4x13	so we can take that nap	0
+4x13	no, it's not necessarily	0
+4x13	proportional	0
+4x13	shut up	1	1	nf
+4x13	that green bag	0
+4x13	is dr cooper's	0
+4x13	here's an extra five	0
+4x13	make him wait	1	1	nf
+4x13	oh	0
+4x13	right to the nap, huh okay	0
+4x13	uh, so, this glenn guy	0
+4x13	you say you went out with	0
+4x13	him for, like, a year	0
+4x13	do we really need to talk about my old boyfriend now	1	1	nf
+4x13	no i guess not	0
+4x13	what is he, like,	0
+4x13	sixfour, sixfive	0
+4x13	sixseven	0
+4x13	probably has a hard time	0
+4x13	finding a suit that fits	0
+4x13	is something	0
+4x13	bothering you	0
+4x13	no it's just	0
+4x13	what	0
+4x13	i'm just thinking	0
+4x13	if you had sex with that guy,	0
+4x13	i mean, there's nothing	0
+4x13	i can do here	0
+4x13	that will make	0
+4x13	any kind of impact	0
+4x13	howard, it's not a contest	0
+4x13	i love you	0
+4x13	i want to be with you	0
+4x13	yeah, great, love you, too,	0
+4x13	but	0
+4x13	if it were a contest,	0
+4x13	i wouldn't have a chance, right	0
+4x13	you can't think that way	1	1	ni
+4x13	yep	0
+4x13	loser	0
+4x13	howard, stop it	1	1	nf
+4x13	sorry i just	0
+4x13	never figured that	0
+4x13	a guy like me going out	0
+4x13	with a girl like you	0
+4x13	would ever have to compete	0
+4x13	with a guy like that	0
+4x13	wait a minute, "a girl like me"	1	1	nf
+4x13	what's that mean	0
+4x13	i'm i	0
+4x13	are you saying you	0
+4x13	don't think i'm hot enough	0
+4x13	to go out with a guy like glenn	0
+4x13	no no, i'm saying	0
+4x13	exactly the opposite	0
+4x13	i'm too hot to go out	0
+4x13	with a guy like glenn	0
+4x13	yeah, let's go with that	1	1	nf
+4x13	still nothing	0
+4x13	remind me to try again in an hour	1	1	nf
+4x13	will do	0
+4x13	so	0
+4x13	girl talk	1	1	nf
+4x13	um, sure	0
+4x13	what do you got in mind	0
+4x13	do you subscribe to the freudian	0
+4x13	theory of penis envy	0
+4x13	um, i never really	0
+4x13	thought about it	0
+4x13	why	0
+4x13	sometimes i think it might be	0
+4x13	nice to have one	0
+4x13	really	0
+4x13	not for sex, for convenience	0
+4x13	you can't deny that,	0
+4x13	by comparison,	0
+4x13	our internal plumbing	0
+4x13	is extremely high maintenance	0
+4x13	again, i've never given	0
+4x13	it much thought	0
+4x13	we have time now	0
+4x13	think about it	1	1	nf
+4x13	oh, good	0
+4x13	hey	0
+4x13	can i stay here tonight	0
+4x13	yeah why, what happened	0
+4x13	howard's a complete	0
+4x13	and total ass	0
+4x13	oh, yeah, that	0
+4x13	come on in	1	1	nf
+4x13	thanks i'll sleep	0
+4x13	on the floor	0
+4x13	not necessary	0
+4x13	penny and i are perfectly	0
+4x13	comfortable sharing a bed	0
+4x13	we are	0
+4x13	of course, we're best friends	0
+4x13	oh, right, right, the blog	0
+4x13	word of warning, though	0
+4x13	i'm prone to night terrors,	0
+4x13	so when i wake up kicking	0
+4x13	and screaming,	0
+4x13	don't panic	1	1	ni
+4x13	just pin me down and stroke my hair, and i'll be fine	1	1	nf
+4x13	hey, can i stay here tonight	0
+4x13	shhshhshh	0
+4x13	sheldon's asleep	0
+4x13	what's going on	0
+4x13	well, howard's a complete	0
+4x13	and total ass,	0
+4x13	bernadette's in my bed,	0
+4x13	and no matter how much you	0
+4x13	stroke amy's hair, she bites	0
+4x13	what	0
+4x13	never mind	1	2	ni
+4x13	can i stay here or not	0
+4x13	uh, sure	0
+4x13	all right	0
+4x13	so, how do you want	0
+4x13	to do this	0
+4x13	well, i'm not getting	0
+4x13	in bed with him	0
+4x13	yeah, it is	0
+4x13	a little like	0
+4x13	getting into	0
+4x13	dracula's coffin	0
+4x13	we're just gonna have to make the best of this	1	1	nf
+4x13	okay, when you say	0
+4x13	"make the best of it"	0
+4x13	sleep	1	1	nf
+4x13	right	0
+4x13	so we'll just call the middle here the neutral zone	1	1	nf
+4x13	the what	0
+4x13	star trek	0
+4x13	you know, the	0
+4x13	neutral zone	0
+4x13	between the federation	0
+4x13	and the romulan empire	0
+4x13	oh, okay	0
+4x13	just like old times	0
+4x13	of course,	0
+4x13	sometimes the federation	0
+4x13	and the romulans	0
+4x13	would enter	0
+4x13	the neutral zone	0
+4x13	to negotiate a	0
+4x13	temporary truce	0
+4x13	sweetie, let me	0
+4x13	put this in a way	0
+4x13	you'll understand	0
+4x13	from the waist down, my shields are up	1	1	nf
+4x13	got it, got it	0
+4x13	we can do all kinds of stuff from the waist up,	you know	1	3	nf
+4x13	go to sleep	1	1	nf
+4x13	good night	0
+4x13	please tell me you're not having coitus	1	1	ni
+4x13	we are not having coitus	0
+4x13	can you guarantee	0
+4x13	that it won't happen	0
+4x13	at any time during the night	0
+4x13	yes	0
+4x13	no	0
+4x13	announcer	0
+4x13	next on turner classic movies,	0
+4x13	bridget jones's diary	0
+4x13	oh, my god, i'm crying already	0
+4x13	sheldon	0
+4x13	raj raj	0
+4x13	raj	0
+4x13	i need to sleep here tonight	1	1	nf
+4x13	why	0
+4x13	howard is a complete	0
+4x13	and total ass,	0
+4x13	bernadette is in penny's	0
+4x13	bed, amy bites,	0
+4x13	and penny may or may not	0
+4x13	have coitus with leonard	0
+4x13	okay come on in	1	1	nf
+4x13	leonard, are you asleep	0
+4x13	no	0
+4x13	i really appreciate you letting	0
+4x13	me stay here tonight	0
+4x13	sure, no problem	0
+4x13	i know it's kinda weird	0
+4x13	true dat	0
+4x13	"true dat"	0
+4x13	i've gotten a lot more street	0
+4x13	since we broke up	0
+4x13	right	0
+4x13	still mad at me about that	0
+4x13	no no, i understand	0
+4x13	i got too intense,	0
+4x13	you had to back off	0
+4x13	thank you	0
+4x13	i've gotten a lot better	0
+4x13	at that, you know	0
+4x13	i've dated four different women	0
+4x13	since we broke up	0
+4x13	and i didn't tell any of them	0
+4x13	that i loved them	0
+4x13	and wanted	0
+4x13	to have their babies	0
+4x13	good for you	0
+4x13	okay, good night	0
+4x13	good night	0
+4x13	you know, maybe it wouldn't be	0
+4x13	the worst idea in the world	0
+4x13	to violate the neutral zone	0
+4x13	for just one night	0
+4x13	oh	0
+4x13	hey, leonard,	0
+4x13	sheldon kicked me	0
+4x13	out of the room,	0
+4x13	gave me your key	0
+4x13	penny's here	0
+4x13	no, we don't want to watch	0
+4x13	bridget jones's diary	0
+4x13	good morning and welcome	0
+4x13	to science and society	0
+4x13	i'm dr sheldon cooper, bs, ms,	0
+4x13	ma, phd, and scd	0
+4x13	omg, right	0
+4x13	perhaps that joke was a little	0
+4x13	too hippiedippy for this crowd	0
+4x13	all right then, we'll begin	0
+4x13	with opening remarks	0
+4x13	miss rostenkowski, would you like to start us off by discussing	your assessment of science's responsibility to society	1	1	nf
+4x13	sure	0
+4x13	i think all branches	0
+4x13	of science	0
+4x13	have to move cautiously	0
+4x13	these days	0
+4x13	it's not just giant	0
+4x13	nuclear weapons	0
+4x13	that can destroy	0
+4x13	the world	0
+4x13	as a microbiologist,	0
+4x13	i can tell you	0
+4x13	even the tiniest organisms	0
+4x13	can still tear you a new one	0
+4x13	interesting	0
+4x13	i think what you might need	0
+4x13	to know about my colleague	0
+4x13	is that though she claims	0
+4x13	her field of interest	0
+4x13	is tiny organisms,	0
+4x13	she certainly has spent	0
+4x13	her fair share of time	0
+4x13	around what we can assume was	0
+4x13	pretty massive weaponry	0
+4x13	i think mr wolowitz	0
+4x13	needs to keep in mind	0
+4x13	that the past	0
+4x13	is the past	0
+4x13	but he should know	0
+4x13	that i am the kind of girl	0
+4x13	who could get all	0
+4x13	the giant missiles she wants	0
+4x13	are we talking about women	0
+4x13	wanting penises	0
+4x13	because i'd like to weigh in	0
+4x13	dr koothrappali, would you care to join the conversation	1	1	nf	
+4x13	certainly	0
+4x13	i'd like to raise two points	0
+4x13	number one, i think they are	0
+4x13	talking about penises	0
+4x13	and number two, these mimosas	0
+4x13	are kicking my little brown ass	0
+4x13	i'd like to kick	0
+4x13	your little brown ass	0
+4x13	what did i do	0
+4x13	oh, i don't know	0
+4x13	maybe when you walk	0
+4x13	into a hotel room	0
+4x13	and you see a guy getting back	0
+4x13	together with his girlfriend,	0
+4x13	you should consider doing	0
+4x13	something other	0
+4x13	than crawling into	0
+4x13	the adjoining bed	0
+4x13	i did you said no	0
+4x13	bridget jones	0
+4x13	penny	0
+4x13	we weren't getting	0
+4x13	back together	0
+4x13	it was a onetime thing	0
+4x13	excuse me	1	2	nf
+4x13	we're not taking comments or questions from the audience just yet	1	1	ni
+4x13	oh, shut up, sheldon	0
+4x13	hi, bestie	0
+4x13	all right,	0
+4x13	why don't we see if we can bring this back to topic	1	1	ni
+4x13	let me ask you	0
+4x13	something, bernie	0
+4x13	i guess not	0
+4x13	how would you feel if	0
+4x13	you met my exgirlfriend	0
+4x13	and she was like	0
+4x13	angelina jolie	0
+4x13	oh, come on, howard,	0
+4x13	be realistic	1	1	nf
+4x13	what, i'm not hot enough	0
+4x13	for angelina jolie	0
+4x13	i'd like to weigh in here	1	1	nf
+4x13	no	0
+4x13	all right,	0
+4x13	why don't we open it up to q&a from the audience	1	1	ni
+4x13	penny	0
+4x13	yeah, i have a question	0
+4x13	is there anybody who can get me	0
+4x13	the hell out of here	0
+4x13	and back to los angeles	0
+4x13	tonight	0
+4x13	glenn	0
+4x13	i'm driving back	0
+4x13	to la tonight	0
+4x13	penny, that's glenn	0
+4x13	glenn, that's penny	0
+4x13	no	0
+4x13	sheldon	0
+4x13	red leader to red five	0
+4x13	red leader	0
+4x13	to red five	0
+4x13	anybody up for a little game	1	3	nf
+4x13	i spy with my little eye	0
+4x13	a nonferrous metal	0
+4x13	must be out of range	0
+4x13	leonard, can i ask you	0
+4x13	a question	0
+4x13	sure	0
+4x13	are you bothered by the fact	0
+4x13	that your former girlfriend	0
+4x13	left the symposium	0
+4x13	with what is probably	0
+4x13	the most beautiful man	0
+4x13	i've ever seen in my life	0
+4x13	no why do you ask	0
+4x13	because we're going	0
+4x13	miles per hour	0
+4x13	all right, if no one's going	0
+4x13	to guess	0
+4x13	i was spying the aluminum rims	0
+4x13	on the police car	0
+4x13	we passed a few miles back	0

@@ -1,0 +1,449 @@
+﻿3x02	sheldon, you’re wrong	0
+3x02	wolverine was not born with bone claws	0
+3x02	howard, you know me to be a very smart man	0
+3x02	don’t you think	if i were wrong, i’d know it	0
+3x02	okay, first of all	0
+3x02	give it up, dude	1	1	nf
+3x02	you’re arguing	with a crazy person	0
+3x02	i’m not crazy	0
+3x02	my mother had me tested	0
+3x02	hey, guys	0
+3x02	what are you doing here	0
+3x02	what do you mean	0
+3x02	it’s new comic book night	0
+3x02	yeah, but since you and penny finally hooked up, we thought you two would be having bouncy naked yumyum night	0
+3x02	there’s more to life	0
+3x02	than sex, raj	0
+3x02	okay, who had "leonard flames out with penny in less than  hours"	0
+3x02	i did	0
+3x02	nothing flamed out	0
+3x02	we don’t have to have sex	0
+3x02	every night, you know	0
+3x02	you don’t have to,	0
+3x02	but it’s highly recommended	0
+3x02	yeah, take advantage of that window of opportunity before it slams shut	on your little dinky	1	3	nf
+3x02	it’s not a matter of opportunity	0
+3x02	we’re getting to know each other	0
+3x02	there’s a learning curve	0
+3x02	what’s there to learn	0
+3x02	you get naked, do nasty things to each other,	1	3	nf
+3x02	then somebody makes scrambled eggs and salami	0
+3x02	easy peasy	0
+3x02	perhaps what leonard is obliquely referring to is the occurrence of some sort of sexual dysfunction	0
+3x02	okay, who had "leonard gets a floppy disk"	0
+3x02	oh, a clever	0
+3x02	albeit obsolete, euphemism for insufficient blood flow	to the male sex organ	0
+3x02	nothing like that happened,	0
+3x02	all right	0
+3x02	the sex was just fine	0
+3x02	just fine	0
+3x02	oh, dude, the fourth harry	0
+3x02	potter movie was "just fine"	0
+3x02	i’m not saying it was bad	0
+3x02	i’m just saying it	0
+3x02	wasn’t great	0
+3x02	okay, when you say "it wasn’t great,"	0
+3x02	do you mean for both of you	0
+3x02	because we can totally see it not being great for her	0
+3x02	am i right	0
+3x02	oh, yeah	0
+3x02	to tell you the truth,	0
+3x02	i think we were both a little	0
+3x02	i don’t know	0
+3x02	disappointed let down ashamed horrified	repulsed	0
+3x02	all i know is, it wasn’t the way i dreamed it would be	0
+3x02	sex is never the way	0
+3x02	idream it’s gonna be	0
+3x02	because in your dreams	0
+3x02	you’re a horse from the waist down	0
+3x02	excuse me,	0
+3x02	wolverine origin	0
+3x02	miniseries issue two, page	0
+3x02	retractable bone claws	0
+3x02	if you people spent less time thinking about sex and more time concentrating on comic books,	we’d have far fewer of these embarrassing moments	0
+3x02	sheldon, dinner’s here	1	3	nf
+3x02	sheldon	0
+3x02	tandoori palace	0
+3x02	no, we went somewhere new	0
+3x02	you’re goodnaturedly	0
+3x02	ribbing me, aren’t you	0
+3x02	no, look, mumbai palace	0
+3x02	why	0
+3x02	why would we change	0
+3x02	we had a perfectly good palace	0
+3x02	tandoori palace is our palace	0
+3x02	trust me, this will be just fine	1	4	nf
+3x02	you are the authority on "just fine"	0
+3x02	what’s that supposed to mean	0
+3x02	yeah, exactly	0
+3x02	"not bad, but not great"	0
+3x02	what are they talking about	0
+3x02	i don’t know	0
+3x02	i know	0
+3x02	as i’m sure	0
+3x02	you’re aware	0
+3x02	duhduhduhduh	1	1	nf
+3x02	duhduh	1	1	nf
+3x02	if that’s morse code, that’s terrible	0
+3x02	as i was saying, you and leonard had sexual encounter a disappointing	0
+3x02	earlier this evening, leonard characterized it as "just fine"	0
+3x02	so what you’re seeing here is a continuation of the mocking that followed	0
+3x02	okay, yeah, well,	0
+3x02	i’m just gonna go eat my dinner elsewhere	0
+3x02	maybe an airplane headed for a mountainside	0
+3x02	penny, wait	1	1	nf
+3x02	aah	0
+3x02	what is wrong with you	0
+3x02	i sense i may have crossed	0
+3x02	some sort of line	0
+3x02	yeah, you	0
+3x02	no, don’t tell him	1	1	ni
+3x02	let’s see if he can figure it out	1	1	nf
+3x02	ugh, i am so embarrassed	0
+3x02	please don’t be mad	1	1	ni
+3x02	what did you tell them	0
+3x02	nothing bad, just that	0
+3x02	last night was fine	0
+3x02	fine you said it was fine	0
+3x02	yeah, it’s a perfectly	0
+3x02	good word	0
+3x02	you put it in front of "wine" or "dining," and you’ve really got something	0
+3x02	okay, well, let me ask you this	0
+3x02	how was last night for you	0
+3x02	it was okay	0
+3x02	okay	0
+3x02	yeah, it’s a perfectly	0
+3x02	good word	0
+3x02	i mean, you put it in front of "dokay" and you really got something	0
+3x02	all right, look,	0
+3x02	let’s not overreact, you know	1	1	ni
+3x02	for a lot of couples, it takes time to get to know each other’s rhythms learn what the other person wants and likes	0
+3x02	so, you’ve been through this before	0
+3x02	no	0
+3x02	okaydokay	0
+3x02	you know, i think this is	0
+3x02	one of those things where talking about it is not going to make it better	0
+3x02	want a glass of wine	1	3	nf
+3x02	so much	0
+3x02	okay	0
+3x02	see, we should’ve	0
+3x02	done this last night	0
+3x02	you know, have a little wine,	0
+3x02	take the edge off	0
+3x02	actually, ethyl alcohol inhibits electrical conduction in the nerve cells and	stimulates reuptake receptors of inhibitory neurotransmitters like gammaaminobutyric acid	0
+3x02	don’t talk, just drink	1	1	ni
+3x02	no, you’re misunderstanding	0
+3x02	a shiksa goddess isn’t an actual goddess	0
+3x02	and we don’t pray to them	0
+3x02	we prey on them	0
+3x02	whatever, dude	0
+3x02	the point is, leonard’s	0
+3x02	got one and you don’t	0
+3x02	is this it	0
+3x02	it was inappropriate to discuss	leonard and penny’s sex life in front of leonard and penny	0
+3x02	oh, good	0
+3x02	now i can eat	0
+3x02	what’s that	0
+3x02	sounds like a cricket	0
+3x02	hang on	1	1	nf
+3x02	based on the number of chirps per minute and the ambient temperature in this room,	0
+3x02	it is a snowy tree cricket	0
+3x02	oh, give me a freakin’ break	1	2	nf
+3x02	how could you possibly know that	0
+3x02	in , emile dolbear determined that there was a fixed relationship between the number of chirps per minute of the snowy tree cricket	0
+3x02	and the ambient temperature a precise relationship that is not present with ordinary field crickets	0
+3x02	how do you know what the exact temperature of the room is	0
+3x02	under the terms of my roommate agreement with leonard,	0
+3x02	i’ve had unilateral control of the thermostat	0
+3x02	ever since the sweaty night of ’	0
+3x02	okay, you were right about wolverine and bone claws,	0
+3x02	but you’re wrong about the cricket	0
+3x02	howard, don’t embarrass	yourself	1	1	ni
+3x02	the science chirps for itself	0
+3x02	humorous word play	0
+3x02	no, no, not this time	0
+3x02	i know insects, my friend	0
+3x02	i spent many childhood years capturing them with nets, putting them in glass jars, sticking pins through them, mounting them on corrugated cardboard with dymo labels underneath, identifying the genus and species in latin	0
+3x02	oh, dude, you are never	getting a shiksa goddess	0
+3x02	that is a snowy tree cricket	0
+3x02	oecanthus fultoni	0
+3x02	i was done with latin by fifth grade	0
+3x02	okay, okay, tell you what	0
+3x02	i am willing to bet anything	0
+3x02	that’s an ordinary	0
+3x02	field cricket	0
+3x02	i can’t take your money	0
+3x02	what’s the matter, you chicken	0
+3x02	i’ve always found that	an inappropriate slur	0
+3x02	chickens are not, by nature,	0
+3x02	at all timid	0
+3x02	in fact, when i was young,	0
+3x02	my neighbor’s chicken got loose	0
+3x02	and chased me up the big elm tree in front of our house	chickens can’t climb trees	0
+3x02	thank god	0
+3x02	okay,	0
+3x02	i believe a chicken made you his bitch	0
+3x02	but the cricket thing, i don’t buy	0
+3x02	bet me	1	1	nf
+3x02	fair enough	0
+3x02	what stakedo you propose	0
+3x02	i will put up my fantastic four number , first appearance of silver surfer against your flash , the classicflash of two worlds issue	0
+3x02	all right, you have a wager	0
+3x02	hmm	0
+3x02	great	0
+3x02	now how are you going to	0
+3x02	settle it, hmm	0
+3x02	there is no way	to determine the species of the cricket	without examining it	0
+3x02	i wonder what the nonpathetic	0
+3x02	people are doing tonight	0
+3x02	more wine	1	3	nf
+3x02	hit me	1	1	nf
+3x02	i don’t see anything	0
+3x02	shh	0
+3x02	hallway	0
+3x02	one at a time	1	1	nf
+3x02	what was that	0
+3x02	my stomach	0
+3x02	indian food doesn’t agree with me	0
+3x02	ironic, isn’t it	0
+3x02	shh	0
+3x02	elevator shaft	1	1	nf
+3x02	help me open it	1	1	nf
+3x02	are you crazy	0
+3x02	we can’t go down an empty elevator shaft	1	1	ni
+3x02	fine, if you don’t want to proceed, then you forfeit the bet,	0
+3x02	and i’ll take possession of your fantastic four	0
+3x02	let’s open her up	1	1	nf
+3x02	are you bothered that i can so easily manipulate you	0
+3x02	don’t push me, sheldon	1	1	ni
+3x02	i may be small, but i took kung fu when i was ,	0
+3x02	and i remember a good deal of it	0
+3x02	oh, really	0
+3x02	well, i grew up	with an older brother	0
+3x02	and a very contentious twin sister	0
+3x02	and i believe i could easily best you in any physical confrontation	0
+3x02	be it noogies, swirlies	or the classic	0
+3x02	"why are you hitting yourself"	0
+3x02	ooh, big talk from a man who was once treed by a chicken	0
+3x02	what are we drinking now	0
+3x02	peppermint schnapps	0
+3x02	why would you buy peppermint schnapps	0
+3x02	because i like peppermint,	0
+3x02	and it’s fun to say schnapps	0
+3x02	hey, leonard	0
+3x02	what	0
+3x02	schnapps	0
+3x02	schnapps	0
+3x02	you’re right	0
+3x02	, that is fun	0
+3x02	be careful	1	1	nf
+3x02	sheldon	0
+3x02	if i were not being careful, your telling me to be careful	0
+3x02	would not ke me careful	0
+3x02	stairwell	0
+3x02	sheldon	0
+3x02	uhoh, flashlight went out	0
+3x02	i need some batteries	1	1	nf
+3x02	fellas	0
+3x02	hello	0
+3x02	it’s really dark down here	0
+3x02	oh, sweetie	0
+3x02	you really can’t hold	0
+3x02	your liquor, can you	0
+3x02	i’m okay	0
+3x02	just a little mouthwash,	0
+3x02	and then i’m gonna rock your world	0
+3x02	are you okay	0
+3x02	ugh, toby, what did you do in a past life to be so disgusting now	0
+3x02	his name isn’t toby	1	1	ni
+3x02	toby is an absurd name	for a cricket	0
+3x02	what would you name him	0
+3x02	an appropriate cricket name	0
+3x02	for example, jiminy	0
+3x02	all right,	0
+3x02	sheldon, here we go	0
+3x02	kleingast’s field guide	to north american insects	0
+3x02	hey, toby	0
+3x02	right here	0
+3x02	see it	1	1	nf
+3x02	the common field cricket, aka gryllus assimilis, which is latin	for "suck it, you lose"	0
+3x02	hang on	1	1	nf
+3x02	voil	0
+3x02	the snowy tree cricket aka oecanthus fultoni, which is latin for i’ll suck nothing	0
+3x02	of course i’m joking	0
+3x02	because the latin for that	0
+3x02	isnihil exsorbibo	0
+3x02	that is not toby,	0
+3x02	this is toby	0
+3x02	raj, what do	0
+3x02	you think	0
+3x02	oh, i really don’t care anymore	0
+3x02	god, i had the most	0
+3x02	horrible night	0
+3x02	what happened	0
+3x02	obviously another carnal fiasco	0
+3x02	with the shiksi goddess	0
+3x02	shiksa shiksa	0
+3x02	forgive me	0
+3x02	yiddish was not spoken	0
+3x02	in east texas	0
+3x02	and if it was, it wasn’t spoken for long	0
+3x02	yeah, fine, whatever	0
+3x02	the point is,	0
+3x02	you’re wrong again	0
+3x02	we haven’t established that i’m wrong once	0
+3x02	all right	0
+3x02	tell you what	0
+3x02	let’s go down to the entomology department and let professor crley tell us	what kind of cricket toby is	1	1	nf
+3x02	sheldon	0
+3x02	he’s a snowy tree cricket,	0
+3x02	and his name is jiminy	0
+3x02	i bet i could throw a rock in this room	0
+3x02	and come up with three better friends	0
+3x02	holy crap	0
+3x02	it’s like silence of the lambs down here	0
+3x02	don’t do that	1	1	ni
+3x02	you’re such a girl	0
+3x02	they’re just bugs	0
+3x02	yeah, well,	0
+3x02	i don’t like bugs, okay	0
+3x02	they freak me out	0
+3x02	interesting	0
+3x02	you’re afraid of insects and women	0
+3x02	ladybugs must render	0
+3x02	you catatonic	0
+3x02	it was a joke	0
+3x02	i made it to lessen	0
+3x02	your discomfort	0
+3x02	you’re welcome	0
+3x02	don’t knock	1	1	ni
+3x02	just walk in	1	1	nf
+3x02	why be polite to the world’s leading expert on the dung beetle	0
+3x02	excuse me,	0
+3x02	are you professor crawley	0
+3x02	who wants to know	0
+3x02	i’m dr cooper from the physics department	0
+3x02	couldn’t wait, huh	0
+3x02	i’m sorry	0
+3x02	i haven’t even packed yet,	0
+3x02	and you’re already measuring my lab for one of your godless laser machines	0
+3x02	no, you don’t understand	0
+3x02	we just want to ask you	a question	0
+3x02	let me ask you one first	0
+3x02	what’s a world renowned	entomologist with a doctorate and years of experience to do with his life	when the university cuts off the funding for his lab, huh	0
+3x02	ask rhetorical questions that make people uncomfortable	0
+3x02	what’s your deal	0
+3x02	are they planning to outsource my job to bangalore	0
+3x02	i’m from new delhi	0
+3x02	maybe you should find another entomologist	1	3	nf
+3x02	no, no we’re here	0
+3x02	let’s settle this	1	1	nf
+3x02	professor, can you identify our cricket	0
+3x02	of course i can	0
+3x02	i can identify every insect and arachnid on the planet	0
+3x02	not that	0
+3x02	that’s going to keep me from having to move in with my daughter in oxnard	0
+3x02	and we’re not talking oxnard at the beach no	0
+3x02	we’re talking oxnard in the onion fields	0
+3x02	well, could you	look at toby	0
+3x02	toby	0
+3x02	what a stupid name	0
+3x02	for a cricket	0
+3x02	told ya	0
+3x02	it’s a field cricket	0
+3x02	yes	0
+3x02	no, no, wait	1	1	ni
+3x02	dr crawley, are you sure	0
+3x02	young man, i’ve been studying insects since i was eight years old	0
+3x02	you know what they used to call me in school	0
+3x02	creepy crawley	0
+3x02	cruel as that may be,	0
+3x02	that is not in itself a credential	0
+3x02	let me show you something	0
+3x02	see that	0
+3x02	that’s a crawley’s dung beetle	0
+3x02	i discovered it after spending six months slogging through a bornean rain forest, while my wife was back home shacking up with a twobit	ornithologist who lives on a sailboat and likes to wear	bootcut jeans	0
+3x02	so, when i tell	0
+3x02	you that that’s a common field cricket,	you can take that to the damn bank	0
+3x02	cause god knows i can’t	0
+3x02	well, apparently,	0
+3x02	i was wrong	0
+3x02	congratulations	0
+3x02	enjoy oxnard	0
+3x02	i’m sure your daughter’s looking forward to having you	0
+3x02	oh, hey, sheldon	0
+3x02	what you got there	0
+3x02	a new comic book	0
+3x02	old comic book	0
+3x02	i just retrieved it from my safe deposit box	0
+3x02	what do you have a safe	deposit box for	old comic books	0
+3x02	i lost this to wolowitz	in an illconsidered cricket wager	0
+3x02	what, do they have	0
+3x02	wii cricket now	0
+3x02	that can’t be very popular	0
+3x02	penny, i’d rather not talk about it	0
+3x02	well, if it makes you feel any better,	0
+3x02	i’m not feeling so hot either	0
+3x02	why would that make me feel better	0
+3x02	i don’t know, empathy	0
+3x02	anyway, i’m just saying,	0
+3x02	that you’re feeling upset about something with howard,	0
+3x02	and i’m upset about something with leonard	0
+3x02	yes,	0
+3x02	yes, the disappointing sex	0
+3x02	that’s an inexact parallel	0
+3x02	you and leonard can always return to being friends,	0
+3x02	whereas i can never return to a state in which wolowitz	has not bested me like mrs riley’s chicken	0
+3x02	what’s mrs riley’s chicken	0
+3x02	a chicken that was owned by mrs riley	0
+3x02	okay, forget the chicken	1	1	nf
+3x02	well, i wish i could	0
+3x02	no, no	0
+3x02	you may be right about me and leonard	0
+3x02	of course i’m right	0
+3x02	what are the odds i’d be wrong twice in one week	0
+3x02	no, i mean, we can always go back to being friends	0
+3x02	i just said that	0
+3x02	this conversation has started to circle	meeting adjourned	0
+3x02	hello	0
+3x02	hey	0
+3x02	what’s going on	0
+3x02	oh, you’d like to catch up on the events of the day all right	0
+3x02	well, there was a halfhour wait	at the bank to get into my safe deposit box,	0
+3x02	i was forced to talk to penny about your sexual problems,	0
+3x02	and, oh, yes,	0
+3x02	in a moment filled with biblical resonance, pride wenteth before my fall, causing my flash to goeth to wolowitz	0
+3x02	wait a minute	1	1	nf
+3x02	you talked to penny	0
+3x02	about our sex life	0
+3x02	leonard, it astonishes me	0
+3x02	how you continually fixate on the trivial	0
+3x02	i lost a bet to wolowitz	0
+3x02	right, right	0
+3x02	you’re saying you talked to penny	0
+3x02	yeyes	0
+3x02	interesting	0
+3x02	hardly	0
+3x02	excuse me	0
+3x02	have i crossed some sort of line again	0
+3x02	little bit	0
+3x02	hmm	0
+3x02	ah, who cares	0
+3x02	oh, hey	0
+3x02	hey	0
+3x02	uh, what did sheldon	0
+3x02	say to you	0
+3x02	not a lot	0
+3x02	just that we always have the option of going back to being friends	0
+3x02	is that what you want	0
+3x02	i don’t know	0
+3x02	i mean, you have to admit things seemed simpler when we were just friends	0
+3x02	i guess	0
+3x02	it would take the pressure off	0
+3x02	it would, wouldn’t it	0
+3x02	so, we’ll just be friends	0
+3x02	good	0
+3x02	good	0
+3x02	come here	1	1	nf
+3x02	hmm	0
+3x02	okaydokey	0

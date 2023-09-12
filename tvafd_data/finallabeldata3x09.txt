@@ -1,0 +1,239 @@
+﻿3x09	so two years later, there's a knock on the door, guy opens it, and there on his porch is the snail, who says, "what the heck was all that about"	0
+3x09	i don't really get it	0
+3x09	well, see, it took two years for the snail to, not important	0
+3x09	can i ask you a question	0
+3x09	sure	0
+3x09	where do you think this is going	0
+3x09	to be honest, i was hoping at least second base	0
+3x09	you're so funny you're like a standup comedian	a jewish standup comedian,	0
+3x09	that'd be new	0
+3x09	actually, i think a lot of them are jewish	0
+3x09	no, i was just	0
+3x09	never mind	1	1	ni
+3x09	look, howard, this is our third date and we both know what that means	0
+3x09	we do	0
+3x09	sex	0
+3x09	you're kidding	0
+3x09	but i need to know whether you're looking for a relationship or a one night stand	0
+3x09	okay, just to be clear there's only one correct answer, right	0
+3x09	it's not like "chicken or fish" on an airplane maybe you need to think about it a little	0
+3x09	you know, it's not unheard of for a one night stand to turn into a relationship	0
+3x09	call me when you figure it out	1	1	nf
+3x09	three dates means sex who knew	0
+3x09	greetings, homies	0
+3x09	homette	0
+3x09	why are you back from your date so early	0
+3x09	in romance, as in show business, always leave them wanting more	0
+3x09	what exactly does that mean	0
+3x09	he struck out	0
+3x09	hey, did either of you guys know that three dates with the same woman is the threshold for sex	0
+3x09	actually, i've never had three dates with the same woman	0
+3x09	with penny and me, it took two years now that i think about it, that was three dates	0
+3x09	okay, well, before you and penny hooked up, did she ask for any kind of commitment	0
+3x09	no, she was pretty clear about wanting to keep her options open	0
+3x09	i have something to announce, but out of respect for convention, i will wait for you to finish your current conversation	0
+3x09	what are you talking about	0
+3x09	the cultural paradigm in which people have sex after three dates	0
+3x09	i see	0
+3x09	now, are we talking "date", the social interaction, or "date", the dried fruit	0
+3x09	never mind,	0
+3x09	what's your announcement	0
+3x09	oh, good, my turn well, this is very exciting and i wanted you to be among the first to know	0
+3x09	hey, cooper i hear you're going to be on the radio with ira flatow from science friday next week	0
+3x09	thank you, kripke, for depriving me of the opportunity	0
+3x09	to share my news with my friends	0
+3x09	my pleasure	0
+3x09	my "thank you"	was not sincere	0
+3x09	but "my pleasure" is	0
+3x09	let me ask you a question at what point	did national public radio have to start scraping the bottom of the barrel for its guests	0
+3x09	don't answer	1	1	ni
+3x09	it's rhetorical	0
+3x09	why are you such a stupid head	0
+3x09	that is also rhetorical	0
+3x09	i'm sorry you had to hear that	0
+3x09	are you really going to be on npr	0
+3x09	yes, they're interviewing me by phone from my office, regarding the recent so called "discovery"	 of magnetic monopoles in spinices it's pledge week and they're trying to goose the ratings with a little controversy	0
+3x09	very cool,	0
+3x09	congratulations	0
+3x09	thank you	0
+3x09	my mother is very excited she's convening her bible study group to listen in, and then pray for my soul	0
+3x09	i was on the radio once	0
+3x09	i called in to fever  fm new delhi	and was the fourth person to say the phrase that pays "fever , aajke naye acchha sangeetka ghar" that means "fever , home of the really good current music" it's much catchier	 in hindi	0
+3x09	all right these are the talking points for my npr interview tomorrow i need to make sure that they're simple enough for the less educated in the audience to understand howard, look this over and tell me what's unclear to you	0
+3x09	excuse me, i have a master's degree in engineering from the massachusetts institute of technology it required the completion of units of grad work and an original thesis	0
+3x09	yes	0
+3x09	look this over and tell	me what's unclear to you	1	1	nf
+3x09	you know, when Sheldon gives you homework,	0
+3x09	you don't have to do it	1	3	ni
+3x09	in fact, it's better if you don't, otherwise it makes the rest of us look bad	0
+3x09	hi, guys	0
+3x09	hello	0
+3x09	yo, raj, talk to me	1	1	nf
+3x09	i'm sorry,	0
+3x09	just screwing with you	0
+3x09	hey, howard, why haven't you called bernadette	0
+3x09	did she say something	0
+3x09	yeah, she said she hasn't heard from you in a week	0
+3x09	i thought you liked her	0
+3x09	i do, but she wants a commitment and i'm not sure she's my type	0
+3x09	she agreed to go out with you for free what more do you need	0
+3x09	look, bernadette is really nice i just always thought when i finally settle down into a relationship, it would be with someone, you know, different	0
+3x09	different how	0
+3x09	well, you know, more like megan fox from transformers or katee sackhoff from battlestar galactica	0
+3x09	are you high	0
+3x09	you'd have a better shot with the three breasted martian hooker from total recall	0
+3x09	okay, now you're just being unrealistic anyway, that movie was like  years ago imagine how saggy those things would be	0
+3x09	howard, you're going to throw away a great girl like Bernadette because you're holding out for some ridiculous fantasy	0
+3x09	hey, just because you settled doesn't mean i have to	0
+3x09	excuse me,	1	1	nf
+3x09	i'm sitting here	0
+3x09	hey, i did not settle for leonard i mean, obviously, he isn't the kind of guy i usually go out with you know, physically	0
+3x09	again, i'm right here	0
+3x09	my point is, i do not judge a book by its cover i am interested in the person underneath	0
+3x09	i am here, right you see me	0
+3x09	hey, i'm interested in what's inside people, too, but why is it wrong to want those insides wrapped up in, say, the delicious caramel that is halle berry	0
+3x09	yes, you're delicious caramel, too	0
+3x09	all right, you know what, i will tell you why it's wrong	0
+3x09	excuse me, may i interject	0
+3x09	what	0
+3x09	biologically speaking, howard is perfectly justified in seeking out the optimum mate for the propagation of his genetic line	0
+3x09	thank you, sheldon	0
+3x09	now, whether that propagation is in the interest of humanity is, of course, an entirely different question	0
+3x09	this is ira flatow and you're listening to npr's science Friday joining us today by phone from his office in pasadena, California is dr sheldon cooper	0
+3x09	oh, this is going to be a riot	0
+3x09	thanks for being with us today, dr cooper	0
+3x09	my pleasure, ira	0
+3x09	now, let's talk about magnetic monopoles can you explain to our audience just what a monopole is	0
+3x09	of course first, consider an ordinary magnet which has, as even the most uneducated in your audience must know, two poles a north and south pole if you cut that in half, you have two smaller magnets, each with its own north and south pole	0
+3x09	uh, dr cooper, i think there might be something wrong with our connection	0
+3x09	no, i hear you fine as i was saying, an ordinary magnet has two poles the primary characteristic of a monopole is that it has only one pole, hence, monopole a requirement for string theory, or mtheory, if you will, the existence of such monopoles i, myself, led an expedition to the arctic circle in search of said particles	0
+3x09	kripke, i found the nozzle	0
+3x09	i'm going to kill you	0
+3x09	so nice you could join me this evening	0
+3x09	you're looking lovely as always	0
+3x09	thanks, howard	0
+3x09	always nice to be part of your masturbatory fantasies	0
+3x09	come on, katee	0
+3x09	don't make it sound so cheap	1	1	ni
+3x09	i'm sorry, fiddling with yourself in the bathtub is a real class act	0
+3x09	thank you	0
+3x09	so, shall we get started	1	3	nf
+3x09	sure	0
+3x09	but can i ask you a question first do you want to play	0
+3x09	cylon and colonist	0
+3x09	no	0
+3x09	i want to know why you're playing make believe with me when you could be out with a real woman tonight	0
+3x09	you mean, bernadette	0
+3x09	no, i mean princess leia of course i mean Bernadette she's a wonderful girl and she really likes you	0
+3x09	i know, but she's not you	0
+3x09	i'm not me	0
+3x09	the real me is in beverly hills going out with a tall, handsome, rich guy really tall sixfour	0
+3x09	ouch	0
+3x09	the point is, you've got a wonderful girl in your life, and you're ignoring her in order to spend your nights in the bathtub with a mental image and a wash cloth	0
+3x09	howard	0
+3x09	what are you doing in there	0
+3x09	i'm taking a bath	0
+3x09	i hope that's all you're doing we share that tub	0
+3x09	don't remind me	1	1	ni
+3x09	oh, man all soaped up and no place to go	0
+3x09	how ya doin', buddy	0
+3x09	i was humiliated on national radio how do you think i'm doing	0
+3x09	come on, it wasn't that bad	0
+3x09	what do you want	0
+3x09	we represent the lollipop guild, and we want you	0
+3x09	okay, so kripke played a joke on you	0
+3x09	it wasn't funny	0
+3x09	i thought it was funny	0
+3x09	raj	0
+3x09	you laughed	0
+3x09	did you laugh	0
+3x09	i fell on the floor	0
+3x09	all right, he got you you can get him back	0
+3x09	i refuse to sink to his level	0
+3x09	you can't sink with all that helium in you, lucky you don't float away	0
+3x09	are you really admitting defeat	0
+3x09	i never admit defeat	0
+3x09	good	0
+3x09	however, on an unrelated topic, i am never getting out of this bed again	0
+3x09	what if you could make kripke look even sillier than he made you look	0
+3x09	i don't think that's possible, dude	0
+3x09	you're not helping	0
+3x09	i didn't come to help, i came to mock	0
+3x09	sheldon, what you need to do is figure out a way to exact vengeance on kripke,	1	3	nf
+3x09	like, uh, like, how the joker got back at batman for putting him in the arkham asylum for the criminally insane	0
+3x09	that's true he didn't just stay there and talk about his feelings with the other psychotic villains he, he broke out and poisoned gotham's water supply	0
+3x09	well i suppose i could poison kripke	0
+3x09	no no it's a simple matter	0
+3x09	there are several toxic chemicals that'd be untraceable in an autopsy	0
+3x09	okay, uh, that's the spirit, but, um, let's dial it back to a nonlethal form of vengeance	0
+3x09	oh	0
+3x09	how about we put a whoopee cushion on his office chair he'll sit down, it'll sound like he's flatulent, even though he's not	0
+3x09	let's keep thinking	1	1	nf
+3x09	oh, gee, you're too late scarlett johansson and wonder woman were just in here trolling around for neurotic, little weasels	0
+3x09	i came to talk to Bernadette she's working today, right	0
+3x09	yes, but i don't think she wants to see you	0
+3x09	why not	0
+3x09	come on, howard you hurt her feelings by not calling her all week plus, i've kind of been talkin' some smack about ya	0
+3x09	hello, howard	0
+3x09	wait, bernadette,	1	1	nf
+3x09	i need to talk to you	0
+3x09	i can't now, i'm working	0
+3x09	this will only take a second you asked me to think about where our relationship was going, and i did Bernadette will you marry me	0
+3x09	is this more comedy that i don't understand	0
+3x09	no i'm serious i'm never going to find another girl like you who likes me and is know, real	0
+3x09	so, this isn't a joke	0
+3x09	no	0
+3x09	then you're insane	0
+3x09	i prefer to think of myself as quirky	0
+3x09	howard, we've only been on three dates we haven't even had sex yet	0
+3x09	fair enough when's your break	0
+3x09	wow	0
+3x09	don't you just hate it when this happens	0
+3x09	wow	0
+3x09	all right, how's this for revenge a solution of hydrogen peroxide, and one of saturated potassium iodide	0
+3x09	what's this	0
+3x09	mountain dew	0
+3x09	ahh, refreshing	0
+3x09	now, we're going to combine these chemicals with ordinary dish soap, creating a little exothermic release of oxygen foamy vengeance	0
+3x09	yes, exactly this is brilliant, sheldon	0
+3x09	how are we going to deploy it in kripke's office	0
+3x09	already taken care of	0
+3x09	observe	1	1	nf
+3x09	this is a live shot of kripke's lab via a mini webcam i was able to install, thanks to a dollar bill discreetly placed in the night janitor's shirt pocket at the same time, i also secured large quantities of these chemicals above the tiles in the drop ceiling	0
+3x09	oh, sheldon,	0
+3x09	you remind me of a young lex luthor	0
+3x09	you flatter me, sir	0
+3x09	let me guess motion sensors	0
+3x09	yes	0
+3x09	the reaction will be triggered when kripke reaches the center of the room mwah, ha, ha	0
+3x09	i gotta say, i am really impressed	0
+3x09	this is truly the sheldon cooper way to get even	0
+3x09	it may be lowtech, but i still maintain the whoopee cushion has comic validity	0
+3x09	here comes kripke who is that with him	0
+3x09	i believe that's the president of the university and the board of directors	0
+3x09	abort abort	0
+3x09	there is no "abort"	0
+3x09	how could you not put in an "abort"	0
+3x09	i made a booboo, all right	0
+3x09	i think the board will really appreciate well we're using that nsa grant, president seibert	0
+3x09	right here we have a microcontrolled plasma	0
+3x09	wow looks like the ganges on laundry day	0
+3x09	at least they don't know it was you	0
+3x09	hello, kripke this classic prank comes to you from the malevolent mind of sheldon cooper if you'd like to see the look on your stupid face, this video is being instantly uploaded to youtube oh, and a hat tip to leonard Hofstadter and raj koothrappali for their support and encouragement in this enterprise	0
+3x09	well, i'm going back to india	0
+3x09	what's your plan	0
+3x09	hey, here's your tip from table seven	0
+3x09	oh, thanks	0
+3x09	mmhmm	0
+3x09	testing check check two	0
+3x09	oh, now what	0
+3x09	you want me to throw him out	0
+3x09	no, that's okay	0
+3x09	are you sure he's small i bet i can get a nice, tight spiral on him	0
+3x09	i want to dedicate this number to a great gal who i've done wrong Bernadette i am so sorry for trying to propose to you Bernadette you found it creepy but that's just the kind of thing i do	0
+3x09	ahh	0
+3x09	i know now it was too soon to talk of love it was just a crazy idea that came to me in my tub but, Bernadette, give me one more chance sweet Bernadette i'll get the hang of this thing they call romance, sweet Bernadette i dream to once again kiss your lips, sweet Bernadette sincerely yours howard wolowitz	0
+3x09	bernadette oh, i am so sorry	0
+3x09	are you kidding that's the most romantic thing anyone's ever done for me	0
+3x09	bernadette	0
+3x09	thank you, cheesecake factory	0

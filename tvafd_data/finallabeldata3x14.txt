@@ -1,0 +1,245 @@
+﻿3x14	whatcha doing	0
+3x14	i'm attempting to view my work as a fleeting peripheral image so as to engage the superior colliculus of my brain	0
+3x14	interesting i usually just have coffee	0
+3x14	you've been up all night	0
+3x14	is it morning	0
+3x14	yes	0
+3x14	then i've been up all night	0
+3x14	and you're stuck	0
+3x14	why else would a person try to engage their superior colliculus	0
+3x14	oh, sorry, sweetie, i can't help you till i've had my coffee	0
+3x14	penny, i told you if you don't put him in his crate at night he just runs around the apartment	0
+3x14	what is he doing now	0
+3x14	hmm, he's either isolating the terms of his formula and examining them individually, or looking for the alligator that swallowed his hand after peter pan cut it off	0
+3x14	captain hook's hand was eaten by a crocodile, not an alligator if you're going to mock me, at	0
+3x14	least get your facts straight	1	1	nf
+3x14	aye, aye, captain	0
+3x14	i can't see it	0
+3x14	it just won't coalesce	0
+3x14	maybe you need a fresh start	0
+3x14	you're right	0
+3x14	it's a great idea, leonard thank you electrons move through graphene act as if they have no mass	0
+3x14	how long has he been stuck	0
+3x14	intellectually about  hours	0
+3x14	emotionally about  years	0
+3x14	unit cell contains two carbon atoms interior angle of a hexagon is  degrees	0
+3x14	have you tried rebooting him	0
+3x14	no, i think it's a firmware problem	0
+3x14	hey, it's disco night at the moonlight roller rink in glendale tonight	0
+3x14	who's up for getting down	1	3	nf
+3x14	that's perfect	bernadette's been hocking me to take her roller skating	0
+3x14	i think penny likes to skate the four of us could double what could be better	0
+3x14	we're in	0
+3x14	great it's not like i brought it up because i wanted to go	0
+3x14	you can come with us	0
+3x14	no, it's okay i don't have to go i'm happy just to guide you and your ladies to suitable entertainment choices i'm a walking brown yelpcom	0
+3x14	structure, constant structure one atom	0
+3x14	boy, he's really gone, isn't he	0
+3x14	yeah, this morning he used a stick of butter as deodorant	0
+3x14	i thought i smelled popcorn	0
+3x14	pattern is the same as fermions	travels on the pathways	hexagonal it's always hexagonal	0
+3x14	i haven't seen him this stuck since he tried to figure out the third matrix movie	0
+3x14	hey, those are my lima beans	1	1	nf
+3x14	not lima beans, carbon atoms	0
+3x14	but if i don't eat my lima beans, i can't have my cookie	0
+3x14	here, you want my peas	0
+3x14	the peas perfect they can be electrons	0
+3x14	want my corn	0
+3x14	don't be ridiculous what would i do with corn	0
+3x14	so roller skating should we all grab a bite to eat first	0
+3x14	good pf chang's	my mom has coupons	0
+3x14	great your mom's not coming, right	0
+3x14	not this time, i promise	0
+3x14	okay, just to be clear, roller skating was my idea, and i'm very unhappy that you turned it into a double date,	0
+3x14	and i hope you both fall on your asses and break your coccyxes	1	2	nf
+3x14	the plural of coccyx is coccyges	0
+3x14	screw you	0
+3x14	give me back my lima beans	1	1	nf
+3x14	oh, my god have you ever been so embarrassed	0
+3x14	not recently	0
+3x14	i don't know which was lamer	0
+3x14	their rollerskating or their disco dancing	0
+3x14	for me, the worst part	was when people	saw us leave with them	0
+3x14	you had some nice moves	out there, howard	0
+3x14	thanks you, too	0
+3x14	yeah	0
+3x14	did you notice all the people looking at us	0
+3x14	not really i was in my boogie zone	0
+3x14	when howard tried to do the splits	0
+3x14	shh	0
+3x14	sorry i'm moving a little slow i think i bruised my coccyx	0
+3x14	oh, poor baby	0
+3x14	don't tell koothrappali	1	1	ni
+3x14	after you	1	1	nf
+3x14	oh, what a gentleman	0
+3x14	hey, sheldon	0
+3x14	leonard oh, my god are you	0
+3x14	sheldon	1	1	nf
+3x14	good lord you're ruining everything	0
+3x14	oh, damn are you okay	0
+3x14	do i look okay	0
+3x14	don't bark at me	1	1	ni
+3x14	i fell, too	0
+3x14	oh, you've been falling	all night you're used to it	0
+3x14	sheldon, what the hell are you doing	0
+3x14	the same thing i've been doing for three days trying to figure out why electrons behave as if they have no mass	when traveling through a graphene sheet	with marbles	0
+3x14	well, i needed something bigger	than peas, now, didn't i	0
+3x14	sheldon, when was the last time you got any sleep	0
+3x14	i don't know two, three days not important i don't need sleep i need answers i need to determine wherin this swamp of unbalanced formulas squatteth the toad of truth	0
+3x14	toad of truth is that a physics thing	0
+3x14	no, that's a crazy thing	0
+3x14	okay, sheldon what happens to our neuroreceptors when we don't get enough rem sleep	0
+3x14	they lose their sensitivity to serotonin and norepinephrine which leads to impaired cognitive function	0
+3x14	right, so march in there,	1	1	nf
+3x14	brush your teeth and go to bed	1	1	nf
+3x14	but i don't want to go to bed	0
+3x14	i'm going to count to three one	0
+3x14	oh, all right	0
+3x14	that was amazing how you handled him	0
+3x14	i know how to deal with stubborn children my mother used to run an illegal day care center in our basement	0
+3x14	leonard, you're you're	giggling in your sleep	0
+3x14	it's not me it's my new ringtone the joker from batman	0
+3x14	well, it creeps me out	0
+3x14	me, too, but i paid three bucks for it	0
+3x14	just answer the phone	1	1	nf
+3x14	hello yeah, i'm leonard hofstadter yeah, yeah, he's my roommate	oh, god, is he okay yeah, allall right i'll be right there	0
+3x14	what happened	0
+3x14	sheldon's escaped and is terrorizing the village	0
+3x14	okay have fun	1	2	nf
+3x14	hi i'm dr hofstadter where is he	0
+3x14	ball pit	0
+3x14	thanks for not calling the cops	0
+3x14	oh, hey, it's no big deal	0
+3x14	my sister's got a kid who's special	0
+3x14	yeah, well, he's extra special	0
+3x14	hey, shelly what you doing	0
+3x14	size ratio was all wrong couldn't visualize it	needed bigger carbon atoms	0
+3x14	sure, sure how did you get into this place	0
+3x14	back door has a fivepin tumbler system, singlecircuit alarm child's play	0
+3x14	you can start sorting protons	1	1	nf
+3x14	and neutrons while i build carbon atoms	0
+3x14	no, i don't think so	0
+3x14	we need to go home now	1	1	nf
+3x14	but i'm still working	0
+3x14	if you don't come out of there, i'm going to have to drag you out	0
+3x14	you can try, but you'll never catch me	0
+3x14	for god's sakes	0
+3x14	sheldon, come here	1	1	nf
+3x14	bazinga	bazinga	bazinga	0
+3x14	of gain det and fabrleonard and penny	0
+3x14	what	0
+3x14	what, what, what	0
+3x14	what	0
+3x14	i have good news	0
+3x14	leonard and you had to barge in here and wake us up in the middle of the night	0
+3x14	your cell phone was off	0
+3x14	because we didn't want to be disturbed	0
+3x14	well, that didn't work out, did it	0
+3x14	sheldon, what do you want	0
+3x14	i came to tell you i've got the answer	0
+3x14	really you figured out	the graphene problem	0
+3x14	no, no, i'm still	0
+3x14	hopelessly stuck on that, but i figured out how to figure it out	0
+3x14	okay, you know what, leonard, i know i said i could handle your roommate, but i was wrong we're going to have to break up	0
+3x14	what are you talking about	0
+3x14	oh	0
+3x14	einstein	0
+3x14	yeah, i'm going to need a little more	1	1	nf
+3x14	albert einstein	0
+3x14	keep going	1	1	nf
+3x14	when albert einstein came up with special relativity, he was working at	the patent office so, you're going to go work at the patent office	0
+3x14	don't be absurd	1	1	ni
+3x14	that's in washington you know i could never live in a city whose streets are laid out in a wheelandspoke pattern no i'm going to find a similarly menial job where my basal ganglia are	occupied with a routine task, freeing my prefrontal cortex to work quietly in the background on my problem	0
+3x14	sounds like a great plan	0
+3x14	of course it is	even talking to you is	sufficiently menial that i can feel the proverbial juices starting to flow	0
+3x14	okay, well, thanks for sharing with us good night	0
+3x14	you're welcome and good night to you, too	0
+3x14	oh, by the way, i was watching you sleep for a moment, and i noticed that your snoring seems to be worse when you're on your back	0
+3x14	leonard doesn't snore	0
+3x14	no, i wasn't talking to leonard	0
+3x14	told you	0
+3x14	so, mr cooper, you're looking for a job	a menial job	0
+3x14	like yours	0
+3x14	why, thank you for noticing i'm "menial employee of the month" do you have a particular field in mind	0
+3x14	i do for thousands of years, the lowest classes	of the human race have spent their lives laboring to erect monuments under the lash of their betters, until finally, they dropped down and became one with the dust through which they trudged do you have anything like that	0
+3x14	no	0
+3x14	shouldn't you check your database	1	1	ni
+3x14	no	0
+3x14	you didn't really type	0
+3x14	i didn't really have to	so, how about construction	0
+3x14	oh, that would be good sawing, hammering, eating out of a lunch pail as my workingclass	fellows and i sit perched precariously	on a girder high above the metropolis	0
+3x14	no, no this is	putting up sheetrock at a housing project in rosemead	0
+3x14	i could do that	0
+3x14	good	0
+3x14	one question	0
+3x14	yes	0
+3x14	what's sheetrock	0
+3x14	moving on how about doing deliveries for a florist	0
+3x14	that seems acceptable	0
+3x14	do you have your own car	0
+3x14	i don't drive	0
+3x14	of course you don't mr cooper, let me just ask you a question what was your last job	0
+3x14	senior theoretical particle physicist at caltech, focusing on m theory, or, in	layman's terms, string theory	0
+3x14	i see	0
+3x14	just give me a second	1	1	nf
+3x14	security	1	1	nf
+3x14	okay, i'll get those drinks started for you	0
+3x14	behind you	1	1	nf
+3x14	sheldon, what the hell	are you doing	0
+3x14	i'm trying to get these tables cleared	we're slammed	0
+3x14	no, wait, wait,	0
+3x14	no, wait	1	1	ni
+3x14	whwhat are you doing here	0
+3x14	a reasonable question i asked myself, what is the most mindnumbing, pedestrian job conceivable,	and three answers came to mind	uh, toll booth attendant, apple store genius and what penny does now since i don't like touching other people's coins, and i refuse to contribute to the devaluation of the word "genius," here i am	0
+3x14	you just, you just walked in and they hired you, just like that	0
+3x14	oh, heavens, no since i don't need to be paid,	i didn't need to be hired i simply came in, picked up a tray, and started "working for the man"	0
+3x14	let me get that plate out of your way	0
+3x14	sheldon, this is ridiculous	0
+3x14	is it just a moment ago, i had a minor epiphany	regarding the polymer degradation phenomenon while scraping congealed nachos off a plate	0
+3x14	bernadette, table 10 wants their check	1	1	nf
+3x14	thanks, sheldon	0
+3x14	sheldon,	0
+3x14	wait, this isn't even what i do	1	1	nf
+3x14	i'm a waitress, not a busboy	0
+3x14	you're right that is more menial	0
+3x14	hello, i'm sheldon	0
+3x14	i'll be your server today i don't recommend the salmon	i saw it in the kitchen	0
+3x14	all right, one bacon cheeseburger,	0
+3x14	breaking two jewish dietary restrictions simultaneously	kudos	0
+3x14	beerbattered fish and chips now, here's your tartar sauce i also brought you salsa it's a little unconventional, but i think you'll like it it's zingy and for you, factory burrito grande no cheese, no sour cream, no ugly consequences from your lactose intolerance	0
+3x14	bon appãetite	1	2	nf
+3x14	hang on	1	1	nf
+3x14	black beans, not pinto beans	0
+3x14	yes	0
+3x14	double guacamole	0
+3x14	of course	0
+3x14	no cilantro	0
+3x14	nope	0
+3x14	lettuce shredded, not chopped yep	0
+3x14	you understand why i'm doing this to you	0
+3x14	i do	0
+3x14	that'll be all	0
+3x14	that was fun	0
+3x14	how long can he keep this up	0
+3x14	i heard about this professor at mit who melted down, bought a van, and spent the rest of his life as a mobile dog groomer he never went back to the university only to shampoo professor shamburg's shih tzu	0
+3x14	sheesh	0
+3x14	i bet if we all chipped in, we could buy sheldon a van	0
+3x14	but he's afraid of dogs	0
+3x14	yeah, that's the only thing wrong with that plan	0
+3x14	hey, guys, sorry you had to wait, but we are swamped	0
+3x14	what's this	0
+3x14	sheldon took our order	0
+3x14	sheldon doesn't work here	0
+3x14	well, honey, not to complain, but we were starting to think you didn't either	0
+3x14	is that really necessary	0
+3x14	good lord the interference pattern in the fracture the motion of the wave through the molecular structure i've been looking at it all wrong i can't consider the electrons as particles they move through the graphene as a wave it's a wave	0
+3x14	the moment to applaud would be now	1	1	nf
+3x14	troglodytes	0
+3x14	sheldon where are you going	0
+3x14	aren't you going to clean this up	0
+3x14	i'm sorry i don't work here	0
+3x14	happy now	0
+3x14	i'm on a cloud	0
+3x14	swing me	1	1	nf
+3x14	sheldon, come here	1	1	nf
+3x14	bazinga	bazinga	bazinga	bazinga	bazinga	0

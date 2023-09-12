@@ -1,0 +1,275 @@
+﻿3x23	okay, we've got power to the laser	0
+3x23	i should've brought an umbrella	0
+3x23	what for it's not going to rain	0
+3x23	i know that, but with skin as fair as mine, moon burn is a real possibility	0
+3x23	that's a "bazinga," right	0
+3x23	one of my best, don't you think	0
+3x23	howard, do you want to doublecheck the equatorial mount	on the laser we need it locked onto the sea of tranquility	0
+3x23	you got it	0
+3x23	oh, raj, no billions of dollars have gone into inventing the internet and filling it with pictures of naked women, so we don't have to peep through windows	0
+3x23	it's not like that i'm watching someone's tv the good wife is on	0
+3x23	i tell you, this is my new grey's anatomy	0
+3x23	leonard, leonard what is that what is that	0
+3x23	relax, it's just a dirty sock	0
+3x23	how on earth can you say "dirty sock" and "relax" in the same sentence	0
+3x23	sheldon, the world is filled with dirty discarded socks	0
+3x23	not my world	0
+3x23	hey, you know who'd really dig seeing this experiment penny	0
+3x23	i wasn't aware that lunar ranging was her thing	although, i suppose the retroreflector left on the moon by neil armstrong does qualify as a shiny object	0
+3x23	why don't you ask her to come up	1	3	ni
+3x23	i don't know, it's still a little weird	since, you know	0
+3x23	she dumped you	0
+3x23	she didn't dump me we were just in different places in the relationship	0
+3x23	i fail to see how a relationship can have the qualities	of a geographic location	0
+3x23	oh, it's very simple leonard was living	in a little town called "please don't leave me"	while penny had just moved to the island of "buhbye"	0
+3x23	screw you guys i'm gonna go see if she's home	0
+3x23	if it's not too much trouble, i'd like to point this at the moon now	0
+3x23	wait a second	1	1	nf
+3x23	the good wife is crying	something's very wrong	0
+3x23	oh, hi	0
+3x23	what's going on	0
+3x23	we're up on the roof bouncin laser beams off the moon	0
+3x23	i'm sorry, what	0
+3x23	it's pretty cool we've got a twometer parabolic reflector and everything i thought you might want to see it	0
+3x23	that makes no sense	0
+3x23	um	0
+3x23	how can you bounce stuff off the moon there's no gravity	0
+3x23	uh, leonard, this is zack zack, leonard	0
+3x23	hey	0
+3x23	oh, sorry, i didn't know you were busy maybe another time	0
+3x23	yeah, maybe	0
+3x23	hey, i want to see this laser thing	0
+3x23	oh, but what about the party	0
+3x23	it's a surprise party doesn't matter when we get there	0
+3x23	okay, well, yeah, come on up	1	3	nf
+3x23	so, how'd you two guys meet	0
+3x23	my company designs the menus for the cheesecake factory	0
+3x23	your company	0
+3x23	well, my dad, but but me and my sister are vps	0
+3x23	so menus	0
+3x23	i know it sounds easy but there's a lot	of science that goes in designing one	0
+3x23	happy now i'm moving the dirty sock	0
+3x23	thank you	0
+3x23	raj, keep an eye out for other one	1	1	nf
+3x23	hey, guys, this is my friend zack	0
+3x23	hey	0
+3x23	hello whoa is that the laser it's bitchin'	0
+3x23	yes in , when albert einstein established the theoretic foundation for the laser in his paper "zur quantentheorie der strahlung," his fondest hope was that the resultant device be bitchin'	0
+3x23	well, mission accomplished	0
+3x23	let me explain what we're doing here	um, in , the astronauts on apollo positioned reflectors on the surface of the moon, and we're going to shoot a laser off one of them and let the light bounce back into this photomultiplier	0
+3x23	oh that's very cool	0
+3x23	one question how can you be sure it won't blow up	0
+3x23	the laser	0
+3x23	the moon	0
+3x23	see, now this is a man for penny	0
+3x23	that's a great question, zack	0
+3x23	no, it's not penny	0
+3x23	sheldon play nice	1	1	nf
+3x23	it's not a great question	0
+3x23	how could somebody possibly think we're going to blow up the moon	0
+3x23	that's a great question		0
+3x23	don't worry about the moon	1	1	ni
+3x23	wewe set our laser to stun	0
+3x23	smart	0
+3x23	now, we'll be able to see the beam when it leaves, but it won't be strong enough when it comes back to be seen by the naked eye	0
+3x23	naked	0
+3x23	right uh funny uh, that device, there, will measure the photons that return and let us see it on this computer	0
+3x23	raj, get them some glasses	0
+3x23	cool, it's gonna be in d	0
+3x23	preparing to fire laser at the moon	0
+3x23	make it so	1	1	nf
+3x23	there it is there's the spike	0
+3x23	seconds for the light to return	0
+3x23	that's the moon we hit the moon	0
+3x23	that's your big experiment all that for a line on the screen leonard	0
+3x23	yeah, but, uh, think about what this represents	1	1	nf
+3x23	the fact that we can do this is the only way of definitively proving that there are man made objects on the moon, put there by a member of a species that only  years before had just invented the airplane	0
+3x23	what species is that	0
+3x23	i was wrong penny can do better	0
+3x23	okay, guys, thank you, it's been fun	0
+3x23	yeah, thanks	0
+3x23	should we invite them to the party	0
+3x23	no, just keep walking	1	1	ni
+3x23	he must be very skilled at coitus	0
+3x23	i'm telling you, dude, the only way to feel better about penny going out with other guys is for you to get back on the whores	1	3	nf
+3x23	horse	0
+3x23	what	0
+3x23	the phrase is "get back on the horse," not "whores"	0
+3x23	that's disgusting, dude	0
+3x23	no, it's not	0
+3x23	never mind	0
+3x23	he is right, though if you want, i can turn you on to this great new dating site i found	0
+3x23	no, thanks	0
+3x23	you sure they say they can find a match for anybody	0
+3x23	have they found a match for you	0
+3x23	tons i've had, like, eight dates in the last month and if you count the ones who showed up and left	0
+3x23	i can't bring the nitrogen tank down	0
+3x23	why not	0
+3x23	all right, let me restate that it's very heavy, and i don't want to	0
+3x23	i'll help you	0
+3x23	thank you	0
+3x23	lift with your knees, not your back	1	3	ni
+3x23	good night	0
+3x23	you know what would be fun signing sheldon up for online dating	0
+3x23	yeah, right	0
+3x23	no, think about it	1	1	ni
+3x23	we make it an experiment like when frankenstein's monster was lonely and he found a wife	0
+3x23	he didn't find a wife they built him a wife out of dead body parts	0
+3x23	okay, we'll call that plan b	0
+3x23	coming		0
+3x23	damn you, you rat bastard	0
+3x23	are you drunk	0
+3x23	zack was a perfectly nice guy, and then you ruined him	0
+3x23	how did i ruin him	0
+3x23	'cause in the olden days, i never would've known he was so stupid	0
+3x23	come on, he wasn't that stupid	0
+3x23	yes, he was he thought you were gonna blow up the moon	0
+3x23	okay, yeah, he's stupid	0
+3x23	he spent the entire night bragging about how he invented the word "appeteasers"	0
+3x23	how is that my fault	0
+3x32	you have destroyed my ability to tolerate idiots now, come with me	1	1	nf
+3x23	whwhere are we going	0
+3x23	we're gonna have sex	1	1	nf
+3x23	why i mean, okay	0
+3x23	what's going on	0
+3x23	put on your noise canceling headphones,	1	1	nf
+3x23	'cause it's gonna get loud	0
+3x23	oh not this again	0
+3x23	in what universe is this low pulp	0
+3x23	good morning, penny	0
+3x23	what, do you have eyes in the back of your head	0
+3x23	when one gets beaten up every other day in school, one of necessity develops a keen sense of hearing incidentally, one can get beaten up in school simply by referring to oneself as "one"	0
+3x23	i'm making english muffins would you like an english muffin	0
+3x23	oh, thanks, i'm not hungry fyi, my noise canceling headphones proved ineffective last night	0
+3x23	yeah, sorry about that	0
+3x23	as a native texan, i must say i've never heard the phrase "yeehaw"	 used in quite that context	0
+3x23	oh, god	0
+3x23	"oh, god" that i've heard on multiple occasions	0
+3x23	in what universe is that lightly toasted this has to be the worst day of my life	0
+3x23	good morning, leonard	0
+3x23	how many times have i asked you not to do that counting this instance	0
+3x23	where's penny	0
+3x23	she returned to her apartment i presume to shower and vomit not necessarily in that order	0
+3x23	i wonder why she didn't say goodbye	0
+3x23	are you expecting me to offer an explanation of human behavior	0
+3x23	i know i just thought as an outsider, you might be able to provide a fresh perspective	0
+3x23	i have no difficulty believing you're not butter	0
+3x23	oh, hey	0
+3x23	oh, hi	0
+3x23	um, i gotta run early shift	0
+3x23	okay, i'll walk down with you so, last night was fun, huh	0
+3x23	yeah, it must have been i just threw up in my closet	0
+3x23	bummer anyway, i was thinking tonight maybe we could catch a movie	1	3	nf
+3x23	oh, yeah, tonight's not great for me	0
+3x23	doesn't have to be tonight i'm free pretty much always	0
+3x23	leonard, last night was a mistake	0
+3x23	when you say "mistake," do you mean a fortunate mistake, like the discovery of penicillin	0
+3x23	look, i'm sorry i was drunk, i was lonely, i hated zack can we just forget it ever happened	1	1	nf
+3x23	no, it's pretty well imprinted on my brain especially the whole rodeo thing	0
+3x23	oh, god	0
+3x23	so, that's it wham, bam, thank you, leonard	0
+3x23	look, i said i'm sorry can't you please let it go	1	1	ni
+3x23	how am i supposed to let it go you used me for sex morning, mrs gunderson	0
+3x23	good morning, leonard or should i say "yeehaw"	0
+3x23	holy crap	0
+3x23	what	0
+3x23	we finally have proof that aliens walk among us	0
+3x23	excuse me	0
+3x23	the dating site matched a woman with sheldon	0
+3x23	you're kidding an actual woman	0
+3x23	yeah, look	1	1	nf
+3x23	breasts and everything	0
+3x23	trust me, breasts doesn' necessarily mean woman	0
+3x23	since when	0
+3x23	i'll show you a picture of my uncle louie in a bathing suit sometime	0
+3x23	leonard, you gotta see this	1	1	nf
+3x23	we found a match for sheldon	0
+3x23	great maybe she can have sex with him, and then walk out on him the next morning without so much as a "how do you do"	0
+3x23	do you know what he's talking about	0
+3x23	nope	0
+3x23	why don't you ask him	1	3	ni
+3x23	leonard, what are you talking about	0
+3x23	i don't want to talk about it	0
+3x23	that was a lousy suggestion	0
+3x23	whatever right now, dr sheldon cooper has to send an email to his perfect match	0
+3x23	"greetings, fellow lifeform"	0
+3x23	if she can do it, i can do it if she can do it, i can do it if she can do it, i can do it i can't do it	0
+3x23	hello	0
+3x23	oh, hi hey hi, leslie	0
+3x23	leonard hofstadter what're you doing here	0
+3x23	uh, i know it's been a while	0
+3x23	yeah,  months	0
+3x23	right right so how you doing	0
+3x23	fine you	0
+3x23	uh, not bad you remember when we used to have sex and you said that it didn't mean anything, it was just for fun	0
+3x23	yeah	0
+3x23	you, uh, want to do that again	0
+3x23	what happened blondie dumped you	0
+3x23	she didn't dump me we were just in different places in the relationship	0
+3x23	right	0
+3x23	um anyway, apparently, it's okay to go back to people you're no longer seeing and have recreational sex with them	0
+3x23	uhhuh	0
+3x23	so, what do you say	0
+3x23	let me think about it	0
+3x23	she's not coming back	0
+3x23	uhoh she wants to meet us	0
+3x23	not us him	0
+3x23	yes, but him doesn't even know about her	0
+3x23	well, him about to find out about her	0
+3x23	really us gonna tell him	0
+3x23	who's going to tell whom about what	0
+3x23	sheldon hey hi	0
+3x23	your surprise confuses me I live here	0
+3x23	right so, listen, what are you doing tomorrow afternoon	0
+3x23	be more specific that's not afternoon that's preevning	0
+3x23	what	0
+3x23	it's a time of day i invented it better defines the ambiguous period between afternoon and evening preevning	0
+3x23	i'm fairly certain it will catch on as it fills a desperate need	0
+3x23	right, okay what are you doing tomorrow preevning	0
+3x23	well, tomorrow's saturday saturday night is laundry night so i'll be spending the preevning presorting and presoaking	0
+3x23	okay, what if i	0
+3x23	were to tell you, tomorrow, at, you could meet a woman who has been scientifically chosen to be your perfect mate	0
+3x23	i would snort in derision and throw my arms in the air, exhausted by your constant tomfoolery	0
+3x23	but it's true	0
+3x23	but wewe put all your vital information into this dating site, answered all their questions just like you would, and they found a match for you her name is amy farrah fowler	0
+3x23	please even assuming you could answer any question the way i would, the algorithms used by matchmaking sites are complete hokum	0
+3x23	and that's exactly the answer we gave to the question "what is your attitude towards online dating"	0
+3x23	howard wanted to write "mumbo jumbo," but i said no our sheldon would say "hokum"	0
+3x23	come on, where's your scientific curiosity	0
+3x23	well, most of it is being applied to unraveling the secrets of the universe while the rest of it's wondering why i'm having this conversation with you	0
+3x23	okay, how about this even spock had a date once every seven years	0
+3x23	he didn't date it was pon farr	0
+3x23	his blood boiled with mating lust	0
+3x23	well, why don't you start with a cup of coffee, and you can pon farr amy farrah fowler later	1	3	ni
+3x23	i don't drink coffee	0
+3x23	all right, you can have a hot chocolate	1	4	nf
+3x23	as i will not be engaging in this nonsense, my choice of beverage is moot but for the record, i only drink hot chocolate in months with an "r" in them	0
+3x23	why	0
+3x23	what's life without whimsy	0
+3x23	okay, i'm out	0
+3x23	sheldon, i've hidden the dirty sock from the roof somewhere in your apartment unless you are willing to come with us to meet this girl, it will remain there forever	0
+3x23	you're bluffing	0
+3x23	are you willing to risk it	0
+3x23	curse you	0
+3x23	feet	0
+3x23	oh hey, leonard	0
+3x23	i was a perfectly happy, geeky, little lonely guy, and you ruined me	0
+3x23	are you drunk	0
+3x23	come on we're gonna have sex,	1	1	nf
+3x23	and it's not gonna mean a thing	0
+3x23	are you out of your mind	0
+3x23	i'm really starting to think there's a double standard here	0
+3x23	in a few minutes, when i gloat over the failure of this enterprise, how would you prefer i do it the standard "i told you so" the classic "neenerneener” or just my normal look of haughty derision	0
+3x23	you don't know we're wrong yet	0
+3x23	haughty derision it is	0
+3x23	excuse me i'm amy farrah fowler you're sheldon cooper	0
+3x23	hello, amy farrah fowler	0
+3x23	i'm sorry to inform you that you have been taken in by unsupportable mathematics designed to prey on the gullible and the lonely additionally, i'm being blackmailed with a hidden dirty sock	0
+3x23	if that was slang, i'm unfamiliar with it if it was literal, i share your aversion to soiled hosiery in any case, i'm here because my mother and i have agreed that i will date at least once a year	0
+3x23	interesting my mother and i have the same agreement about church	0
+3x23	i don't object to the concept of a deity, but i'm baffled by the notion of one that takes attendance	0
+3x23	well, then you might want to avoid east texas	1	4	nf
+3x23	noted now, before this goes any further, you should know that all forms of physical contact up to and including coitus are off the table	1	1	nf
+3x23	may i buy you a beverage	0
+3x23	tepid water, please	1	1	nf
+3x23	good god, what have we done	0

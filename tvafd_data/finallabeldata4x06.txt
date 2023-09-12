@@ -1,0 +1,688 @@
+﻿4x06	problem	0
+4x06	this is the worst cobbler	0
+4x06	i've ever eaten	0
+4x06	it tastes like it's made of actual groundup shoemaker	0
+4x06	amusing a play on the two meanings of "cobbler"	0
+4x06	hey, guys guess who	0
+4x06	i found at lax	0
+4x06	my baby sister priya	0
+4x06	excuse me, i object you propose a guessing game,	0
+4x06	yet you don't give me enough time to guess	0
+4x06	for the record,	0
+4x06	i was going to say	0
+4x06	"your sister priya"	0
+4x06	oh, sheldon you haven't	changed a bit, have you	0
+4x06	why would i change the hope has been that	0
+4x06	you'd eventually bend	0
+4x06	to public opinion	0
+4x06	so, priya, what brings	0
+4x06	you back to la	0
+4x06	i have a oneday layover	0
+4x06	on my way to toronto	0
+4x06	corporate merger	0
+4x06	can you believe it	0
+4x06	little priya's one of the lead attorneys	0
+4x06	for the biggest car company in india	0
+4x06	given that when we met her,	0
+4x06	she was finishing law school	0
+4x06	and planning an internship	0
+4x06	at a large indian car company,	0
+4x06	it's actually	0
+4x06	extremely plausible	0
+4x06	and your poll numbers just keep dropping	0
+4x06	i want to catch up with all of you,	0
+4x06	but first i really must visit the loo	0
+4x06	i'm going, too i'll	0
+4x06	show you where it is	0
+4x06	all right, this goes	0
+4x06	without saying,	0
+4x06	but i'm just going to say it anyway	0
+4x06	hands off my sister	1	1	nf
+4x06	why would i touch her she's	0
+4x06	covered with airplane germs	0
+4x06	i'm so not talking to you	0
+4x06	i'm talking to him	0
+4x06	hey i've got a girlfriend now	0
+4x06	oh, please	0
+4x06	my sister's much hotter	0
+4x06	than your girlfriend,	0
+4x06	and you know it	0
+4x06	let's just agree	0
+4x06	they're both hot	0
+4x06	but dude, that's my sister	0
+4x06	you're talking about	0
+4x06	okay, forget who's hotter	1	1	nf
+4x06	the first time priya came to	0
+4x06	la, leonard and i made a pact out of respect to our friendship and to you	0
+4x06	that neither of us	0
+4x06	would hit on her	0
+4x06	did you pinkyswear	0
+4x06	yes	0
+4x06	okay, then	0
+4x06	cobbler i'm still laughing	0
+4x06	it's really nice	0
+4x06	to see you again, leonard	0
+4x06	yeah it's good	0
+4x06	to see you, too	0
+4x06	here you go	0
+4x06	thanks	0
+4x06	whoa, whoa, whoa, whoa, whoa	0
+4x06	okay	0
+4x06	so you got any special plans	0
+4x06	with your sister	0
+4x06	oh, not really just hang out	0
+4x06	i always tell people,	0
+4x06	"if you have only one day in los angeles, make it a train day"	0
+4x06	train day	0
+4x06	the fun starts with brunch	0
+4x06	at carney's in studio city,	0
+4x06	a hotdog stand in a	0
+4x06	converted railroad dining car	0
+4x06	next stop, travel town,	0
+4x06	an outdoor museum featuring	0
+4x06	railroad engines,	0
+4x06	cars, and other rolling stock	0
+4x06	from the s to the s	0
+4x06	and, finally, we're off to the	0
+4x06	glitz and glamour of hollywood,	0
+4x06	for dinner atthat's right	0
+4x06	the hollywood carney's,	0
+4x06	a hotdog stand in a different	0
+4x06	converted railroad dining car	0
+4x06	i don't think	0
+4x06	we're going to do that	0
+4x06	well, then apparently	0
+4x06	you hate fun	0
+4x06	priya's not back yet	0
+4x06	well, i guess	0
+4x06	that's not unusual	0
+4x06	women, men, the whole	0
+4x06	sittingstanding deal	0
+4x06	so what are we talking about	0
+4x06	uh, my plans with priya	0
+4x06	he rejected train day	0
+4x06	did you make it clear that	0
+4x06	it's two different train cars turned into hotdog stands	0
+4x06	abundantly	0
+4x06	i guess he just hates fun	0
+4x06	that's what i said	0
+4x06	okay, so what's	0
+4x06	new with you guys	0
+4x06	i have a girlfriend now	0
+4x06	hey, good for you	0
+4x06	yeah, i just want to put it out there	0
+4x06	in case i inadvertently	squirt any pheromones	0
+4x06	in your direction	0
+4x06	happy	0
+4x06	so, priya, what are your plans while you're here	0
+4x06	i don't know i just have the one day	0 
+406	do you like trains	0
+4x06	not particularly	0
+4x06	you might as well just wait	0
+4x06	at the airport for your flight	0
+4x06	"you are in a forest	0
+4x06	"there is quicksand to the west,	0
+4x06	a path leads to the east"	0
+4x06	go east	1	1	nf
+4x06	"an iron gate blocks your way"	0
+4x06	open gate	1	1	nf
+4x06	"it's locked"	0
+4x06	hmm	0
+4x06	well, so much for that	0
+4x06	it's getting pretty late	0
+4x06	how come you're still up	0
+4x06	i found an emulator online that	0
+4x06	lets you play classic textbased	0
+4x06	computer games from the s	0
+4x06	that's pretty cool	0
+4x06	oh, yes it runs on the world's	0
+4x06	most powerful graphics chip	0
+4x06	imagination	0
+4x06	you've really got to get out more	0
+4x06	go north	0
+4x06	"you can't go that way"	0
+4x06	go west	1	1	nf
+4x06	"a troll blocks your passage"	0
+4x06	okay fasten your seatbelts	0
+4x06	kill troll	0
+4x06	"with what"	0
+4x06	with sword	0
+4x06	"you don't have the sword"	0
+4x06	good golly, it's as if it's actually happening to me	0
+4x06	raj finally went to bed	0
+4x06	sheldon's still up	0
+4x06	you said he goes to bed at	0
+4x06	yeah, he does, but he got caught	0
+4x06	up in a computer game and	0
+4x06	sheldon hit troll with axe	0
+4x06	hit troll with axe	0
+4x06	hit troll with axe	0
+4x06	my, this is one tough troll	0
+4x06	can't you get rid of him	1	1	ni
+4x06	if the past is any indication, no	0
+4x06	sheldon	0
+4x06	leonard, i'm trapped	0
+4x06	in quicksand	0
+4x06	the axe is dragging me down	0
+4x06	drop axe	1	1	nf
+4x06	sheldon	0
+4x06	drop axe, brilliant	0
+4x06	give me a minute	1	1	nf
+4x06	sheldon	0
+4x06	hold on	1	1	nf
+4x06	trying to figure out	0
+4x06	how to get the bucket,	0
+4x06	so i can carry the mud	0
+4x06	past the dragon	0
+4x06	sheldon, you need to work in the morning	0
+4x06	i know	0
+4x06	well, then bed, mister	1	1	nf
+4x06	five more minutes	0
+4x06	really	0
+4x06	you're going to risk getting	0
+4x06	sleepy in the middle of your	0
+4x06	thermodynamic	0
+4x06	fluctuations seminar	0
+4x06	you know what happens	0
+4x06	when you yawn in public	0
+4x06	everyone will see	0
+4x06	my oddly shaped uvula	0
+4x06	you don't want that, do you	0
+4x06	no	0
+4x06	but it's a shame our society	0
+4x06	mocks the differently uvulated	0
+4x06	who was at the door	0
+4x06	uh, building manager	0
+4x06	they have to fix a pipe,	0
+4x06	so the water'll be off	0
+4x06	tomorrow from noon to	0
+4x06	that's unacceptable	0
+4x06	we're supposed to be	0
+4x06	given written notice	0
+4x06	well, no, it doesn't matter	0
+4x06	we'll be at work	0
+4x06	what if i spill tomato	0
+4x06	soup on my shirt,	0
+4x06	and have to come home to change,	0
+4x06	only to find there's no water	0
+4x06	for an enzyme soak	0
+4x06	bifurcated uvula, sheldon	0
+4x06	i'll have the chicken noodle	0
+4x06	good night	0
+4x06	we're going to have to be very quiet	1	1	nf
+4x06	sheldon	0
+4x06	i know how to get the bucket	0
+4x06	i can turn the axe around	0
+4x06	and use the handle to reach it	0
+4x06	let's see	0
+4x06	go north	0
+4x06	"you are in a forest"	0
+4x06	go north	0
+4x06	"you are in a forest"	0
+4x06	(typing)	0
+4x06	go north	0
+4x06	"you are in a forest"	0
+4x06	oh dear, i believe i'm lost	0
+4x06	well, i'll just have to get	0
+4x06	a fresh start tomorrow	0
+4x06	no, no, no you just	0
+4x06	took a wrong turn	0
+4x06	you just need to map it out	0
+4x06	come on, i'll help you	0
+4x06	so you stopped at the stream,	0
+4x06	and you turned	0
+4x06	north three times	0
+4x06	yes	0
+4x06	you're right	0
+4x06	you're lost good luck	0
+4x06	oh	0
+4x06	leonard wake up	1	1	nf
+4x06	huh wh sorry	0
+4x06	for what	0
+4x06	i don't know when i'm in bed	0
+4x06	with a girl, it's just	0
+4x06	it's my goto response	0
+4x06	it's  i have to get back to raj's	0
+4x06	before he wakes up	0
+4x06	and realizes i'm gone	0
+4x06	oh right sure	0
+4x06	i wish you could stay	0
+4x06	in la a while longer	0
+4x06	mmm, me, too	0
+4x06	you know, i was thinking	0
+4x06	there are some great	0
+4x06	research facilities in india	0
+4x06	where are you going with this, leonard	0
+4x06	well, i'm just saying, you know,	0
+4x06	i don't have any real ties here,	0
+4x06	so if i were to move to new	0
+4x06	delhi, we could, you know	0
+4x06	go out	0
+4x06	leonard, didn't we have this	0
+4x06	conversation five years ago	0
+4x06	well, yes, but	0
+4x06	things have changed	0
+4x06	you know, you're older,	0
+4x06	i'm older	0
+4x06	look, no more	0
+4x06	superhero bed sheets	0
+4x06	sweetheart,	0
+4x06	just because we have fun when	0
+4x06	i come to town doesn't mean	0
+4x06	i want to have a	0
+4x06	serious relationship	0
+4x06	it doesn't	0
+4x06	mmmm	0
+4x06	and besides, i could never bring	0
+4x06	a white boy home to my parents	0
+4x06	they'd have a cow	0
+4x06	which is a much	0
+4x06	bigger deal in india	0
+4x06	i'm not that white	0
+4x06	my greatgreatgrandmother	0
+4x06	was half cherokee	0
+4x06	i know that's not the right kind	0
+4x06	of indian, but it is something	0
+4x06	you're funny	0
+4x06	sheldon leonard	0
+4x06	leonard	0
+4x06	what	0
+4x06	i heard a woman laughing	0
+4x06	oh, uh, yeah i was trying to	0
+4x06	see if i could laugh as a woman	0
+4x06	oh well, good job	0
+4x06	quite convincing	0
+4x06	i smell perfume	0
+4x06	air freshener	0
+4x06	and is that lipstick	0
+4x06	on your cheek and neck	0
+4x06	rash that's a bad rash	0
+4x06	my sympathies	0
+4x06	i'm no stranger to the crimson	0
+4x06	scourge that is dermatitis	0
+4x06	can i interest you	0
+4x06	in a topical steroid	0
+4x06	from my lotion and	0
+4x06	unguent collection	0
+4x06	uh, yeah, yeah,	0
+4x06	that sounds great	0
+4x06	very well i'm sure	0
+4x06	i can find something	0
+4x06	that will help	0
+4x06	you ditch that itch	0
+4x06	okay, he's in the bathroom	0 
+4x06	let's go	1	1	nf
+4x06	do you prefer	0
+4x06	ointment or cream	0
+4x06	cream	0
+4x06	with or without a numbing agent	0
+4x06	without	0
+4x06	really, leonard	0
+4x06	there are no heroes when	0
+4x06	it comes to dermatitis	0
+4x06	fine with	0
+4x06	prescription or	0
+4x06	nonprescription strength	0
+4x06	use your best judgment	1	1	nf
+4x06	well, i think i have a	0
+4x06	nice  anamantle hc	0
+4x06	it's usually indicated for	0
+4x06	acutely inflamed hemorrhoids,	0
+4x06	but it also goes nicely	0
+4x06	with nonmucosal body parts	0
+4x06	sounds great	0
+4x06	excellent choice	0
+4x06	okay, hurry, hurry, hurry	1	1	nf
+4x06	come on, come on, come on	1	1	nf
+4x06	sheldon	0
+4x06	priya	0
+4x06	good morning, sheldon	0
+4x06	for shame, leonard, for shame	0
+4x06	and to think,	0
+4x06	i was ready to waste	0
+4x06	the last of my good	0
+4x06	hemorrhoid cream on you	0
+4x06	making pretty	0
+4x06	good time, huh	0
+4x06	is that really what you want	0
+4x06	to talk about, leonard	0
+4x06	no	0
+4x06	what do you want to talk about	0
+4x06	please don't tell anyone i spent the night with raj's sister	1	1	ni
+4x06	there it is	0
+4x06	what if someone asks	0
+4x06	no one's going to ask if i spent	0
+4x06	the night with raj's sister	0
+4x06	perhaps, but they might ask me	0
+4x06	something else	0
+4x06	like what	0
+4x06	like	0
+4x06	"has leonard betrayed any	0
+4x06	of his friends recently"	0
+4x06	priya and i are both adults	0
+4x06	i didn't betray raj	0
+4x06	in fact, you did,	0
+4x06	but i was referring to howard	0
+4x06	what are you talking about	0
+4x06	april ,	0
+4x06	bob's big boy,	0
+4x06	toluca lake	0
+4x06	raj had just introduced us	0
+4x06	to priya for the first time	0
+4x06	she was enjoying the sweet taste	0
+4x06	of hindu rebellion	0
+4x06	in the form of a bob's	0
+4x06	super big boy hamburger	0
+4x06	in order	0
+4x06	to preserve	0
+4x06	your friendship, you and howard	0
+4x06	made a pinky swear	0
+4x06	that neither of you	0
+4x06	would attempt to woo her	0
+4x06	i had a patty melt	0
+4x06	okay, fine, i betrayed howard	0
+4x06	and raj	0
+4x06	all right, and raj	0
+4x06	and me	0
+4x06	you	0
+4x06	violation of the	0
+4x06	roommate agreement's	0
+4x06	overnight guest	0
+4x06	notification clause	0
+4x06	okay, fine,	0
+4x06	ii'm a horrible human being	0
+4x06	i'm the darth vader of pasadena	0
+4x06	you're far too short	0
+4x06	to be darth vader	0
+4x06	at best you might be	0
+4x06	a turncoat ewok	0
+4x06	my point is priya's gone	0
+4x06	and it would be much better	0
+4x06	if no one else found out	0
+4x06	about us	0
+4x06	you mean you want me	0
+4x06	to keep a secret	0
+4x06	yes	0
+4x06	you know i can't	0
+4x06	keep a secret	0
+4x06	you can if you try	0
+4x06	think about	0
+4x06	it this way	0
+4x06	um, if i were batman	0
+4x06	and you were alfred,	0
+4x06	you'd keep that	0
+4x06	secret, right	0
+4x06	why do you get	0
+4x06	to be batman	0
+4x06	because batman has the secret	0
+4x06	alfred has secrets, too	0
+4x06	like what	0
+4x06	alfred knows	0
+4x06	that barbara gordon	0
+4x06	is batgirl	0
+4x06	which i've now just	0
+4x06	told to batman	0
+4x06	see, i cannot	0
+4x06	keep a secret	0
+4x06	tadah	0
+4x06	what	0
+4x06	tadah	0
+4x06	it's short for	0
+4x06	♪ dadadada ♪	0
+4x06	kind of busy here, sheldon	0
+4x06	i know,	0
+4x06	that's why i shortened it	0
+4x06	what do you want	0
+4x06	i came to go over your alibi	0
+4x06	for last night	0
+4x06	what alibi	0
+4x06	you've asked me	0
+4x06	to lie on your behalf,	0
+4x06	and as you know,	0
+4x06	i am deeply uncomfortable	0
+4x06	with impromptu dishonesty,	0
+4x06	so i've provided you	0
+4x06	with an ironclad alibi	0
+4x06	you couldn't have spent	0
+4x06	last night with priya	0
+4x06	because you were	0
+4x06	with another woman	0
+4x06	oh, i'm so sure	0
+4x06	i'm gonna regret this,	0
+4x06	but who was i with	0
+4x06	the funloving and morally loose	0
+4x06	miss maggie mcgarry	0
+4x06	oh, god	0
+4x06	you met her at pasadena's most	0
+4x06	popular irish watering hole,	0
+4x06	lucky baldwin's, where maggie	0
+4x06	spends her nights tending bar	0
+4x06	with a head full of curls	0
+4x06	and a heart full of dreams	0
+4x06	"leonard, call me if you	0
+4x06	are interested in coitus	0
+4x06	sincerely,	0
+4x06	maggie mcgarry"	0
+4x06	and if anyone were	0
+4x06	to actually call that number,	0
+4x06	they will hear this	0
+4x06	female texttospeech voice	0
+4x06	top of the morning to you	0
+4x06	you've reached maggie mcgarry	0
+4x06	leave a message	1	1	nf
+4x06	after the wee little beep	0
+4x06	it's pretty convincing, huh	0
+4x06	that wasn't even	0
+4x06	a real person	0
+4x06	and here is	0
+4x06	the clincher	0
+4x06	a lock of maggie's	0
+4x06	flaming auburn hair	0
+4x06	where'd you get that	0
+4x06	from an orangutan	0
+4x06	in the primate lab	0
+4x06	an orangutan	0
+4x06	well, no one's going	0
+4x06	to run a dna test	0
+4x06	on it, leonard	0
+4x06	honestly, you overthink	0
+4x06	everything	0
+4x06	sheldon, i don't need an alibi	0
+4x06	nobody's going to ask	0
+4x06	about last night	0
+4x06	as long as you just	0
+4x06	zip your lip	0
+4x06	thank you	0
+4x06	now, don't worry,	1	1	ni
+4x06	everything is going to be fine	0
+4x06	hey	0
+4x06	hey, leonard, will you please tell howard my sister has never been attracted to him	1	1	ni
+4x06	come on, raj,	0
+4x06	how am i supposed to know	0
+4x06	who she is attracted to	0
+4x06	or was attracted to	0
+4x06	or who she might be	0
+4x06	attracted to in the future	0
+4x06	and i have nothing	0
+4x06	to contribute	0
+4x06	to this conversation	0
+4x06	because i, too,	0
+4x06	know absolutely nothing	0
+4x06	about priya's preferences	0
+4x06	in male companionship	0
+4x06	and with that,	0
+4x06	i will rezip my lip	0
+4x06	hey, so what did you guys think	of the new episode of caprica last night	0
+4x06	i didn't see it	0
+4x06	didn't see it	0
+4x06	what were you doing	0
+4x06	uh, i was out	0
+4x06	what, on caprica night	0
+4x06	yeah, i, uh, went	0
+4x06	for a drink	0
+4x06	really, you	0
+4x06	where, wwhere'd	0
+4x06	you go	0
+4x06	to, uh	0
+4x06	lucky baldwin's	0
+4x06	oh, i've heard	0
+4x06	of that place	0
+4x06	isn't that pasadena's	0
+4x06	favorite irish watering hole	0
+4x06	yes	0
+4x06	did you meet	0
+4x06	anyone interesting there,	0
+4x06	perhaps a promiscuous,	0
+4x06	redheaded barmaid	0
+4x06	as a matter of fact	0
+4x06	iiiii can't, i can't,	0
+4x06	i can't do it	0
+4x06	sure you can, you're doing	0
+4x06	fine, it's very believable	0
+4x06	i'm sorry, raj,	0
+4x06	but the truth is,	0
+4x06	i was with priya	0
+4x06	last night	0
+4x06	don't listen to him	1	1	ni
+4x06	he's still lightheaded	0
+4x06	from all the irish whiskey	0
+4x06	and pickled eggs	0
+4x06	in his system	0
+4x06	what were you doing	0
+4x06	with priya	0
+4x06	i believe they engaged	0
+4x06	in coitus,	0
+4x06	but more	0
+4x06	importantly,	0
+4x06	if leonard had not abandoned	0
+4x06	his story,	0
+4x06	would you have found it	0
+4x06	plausible	0
+4x06	you slept with my sister	0
+4x06	yeah	0
+4x06	how could you	0
+4x06	we had a pact	0
+4x06	excuse me, i think	0
+4x06	"how could you she's my sister"	0
+4x06	takes precedence over	0
+4x06	a fiveyearold pinky swear	0
+4x06	may i point out,	0
+4x06	in a parallel universe,	0
+4x06	your friends are saying	0
+4x06	"maggie mcgarry	0
+4x06	she sounds lovely"	0
+4x06	look, ii admit it, i may	0
+4x06	have crossed a line here,	0
+4x06	but come on, raj, your	0
+4x06	sister is a grown woman,	0
+4x06	and to her, i'm a forbidden	0
+4x06	piece of white chocolate	0
+4x06	koothrappali	0
+4x06	i don't believe it	0
+4x06	this is a terrible	0
+4x06	betrayal of my trust	0
+4x06	no, wwwould it help if i told you	0
+4x06	that i offered her my heart,	0
+4x06	and she kind of stomped on it	0
+4x06	how hard did she stomp	0
+4x06	very hard	0
+4x06	okay, i'm good	0
+4x06	well, raj,	0
+4x06	i just want to say that i'd	0
+4x06	never betray your trust	0
+4x06	unlike leonard,	0
+4x06	i respect you	0
+4x06	really	0
+4x06	mmhmm	0
+4x06	was it out of respect	0
+4x06	that you didn't tell raj	0
+4x06	about the time you dropped	0
+4x06	his iphone in a urinal	0
+4x06	dude, i put that thing	0
+4x06	on my face	0
+4x06	i think a more amusing	0
+4x06	violation of raj's trust	0
+4x06	is when howard convinced him	0
+4x06	that foreigners give presents	0
+4x06	to americans	0
+4x06	on thanksgiving	0
+4x06	hey, i didn't see	0
+4x06	you giving back	0
+4x06	your snoopy	0
+4x06	snow cone maker	0
+4x06	that was all a lie	0
+4x06	this year's gifts	0
+4x06	are already wrapped	0
+4x06	and as long as we're talking	0
+4x06	about betraying our friends,	0
+4x06	how about the month sheldon	0
+4x06	spent grinding up insects	0
+4x06	and mixing them	0
+4x06	into leonard's food	0
+4x06	sheldon	0
+4x06	well, excuse me	0
+4x06	that was not a betrayal	0
+4x06	that was an experiment	0
+4x06	to determine	0
+4x06	at what concentration	0
+4x06	food starts tasting "mothy"	0
+4x06	you put moths in my food	0
+4x06	for science	0
+4x06	i can't believe you kissed	0
+4x06	my sister with moth mouth	0
+4x06	well, i can't believe you	0
+4x06	used sheldon's toothbrush	0
+4x06	you used my toothbrush	0
+4x06	not the brush part,	0
+4x06	just the little rubber thing	0
+4x06	to pick food from my teeth	0
+4x06	and massage my gums	0
+4x06	okay, ii think	0
+4x06	it's safe to say	0
+4x06	that we've all done	0
+4x06	some things	0
+4x06	we're not	0
+4x06	particularly proud of	0
+4x06	but come on,	0
+4x06	we're friends	0
+4x06	friends overlook	0
+4x06	each other's minor lapses	0
+4x06	for the record, howard, i'm	0
+4x06	sorry that i broke our pact	0
+4x06	thank you	0
+4x06	and i'm sorry	0
+4x06	about your phone	0
+4x06	and thanksgiving	0
+4x06	and while we're at it,	0
+4x06	you don't have to wash our	0
+4x06	clothes on the fourth of july	0
+4x06	as long as we're apologizing,	0
+4x06	sheldon, i'm, i'm sorry	0
+4x06	i used your toothbrush	0
+4x06	and i'm sorry	0
+4x06	but that behavior	0
+4x06	is beyond the pale	0
+4x06	and cannot be tolerated	0
+4x06	we are no longer friends	0
+4x06	i got you a talking thomas the	0
+4x06	tank engine for thanksgiving	0
+4x06	with real puffing smoke	0
+4x06	yes	0
+4x06	all right	0
+4x06	but i'm watching you	0
+4x06	hey, you've got snoopy out	0
+4x06	can i have a snow cone	0
+4x06	well, sure	0
+4x06	this is pretty good	0
+4x06	what flavor is this	0
+4x06	guess	0
+4x06	papaya	0
+4x06	no	0
+4x06	guava	0
+4x06	you're so close	0
+4x06	i give up	0
+4x06	mango caterpillar	0
+4x06	what are	0
+4x06	you doing	0
+4x06	you said you	0
+4x06	liked it	0

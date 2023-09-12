@@ -1,0 +1,514 @@
+﻿4x03	all right, i'm ready for my next question	0
+4x03	in a world where rhinoceroses are domesticated pets,	0
+4x03	who wins the second world war	0
+4x03	uganda	0
+4x03	defend	1	1	nf
+4x03	kenya rises to power	0
+4x03	on the export of rhinoceroses a central african	0
+4x03	power block is formed,	0
+4x03	colonizing north africa and europe	0
+4x03	when war breaks out, no one can	afford the luxury of a rhino	0
+4x03	kenya withers, uganda triumphs	0
+4x03	correct	0
+4x03	my turn	0
+4x03	in a world where a piano is a weapon,	0
+4x03	not a musical instrument,	0
+4x03	on what does scott joplin play "the maple leaf rag"	0
+4x03	tuned bayonets	0
+4x03	defend	1	1	nf
+4x03	isn't it obvious	0
+4x03	you're right my apologies	0
+4x03	what the hell are you guys playing	0
+4x03	it's a game we invented	0
+4x03	it's called counterfactuals	0
+4x03	we postulate an alternate world that differs from ours in one key aspect and then pose questions to each other	0
+4x03	it's fun for ages eight to	0
+4x03	join us	1	3	nf
+4x03	all right	0
+4x03	i like a good brainteaser	0
+4x03	give it a whirl	1	1	nf
+4x03	you're in luck	0
+4x03	this is an easy one	0
+4x03	in a world where mankind is ruled by a giant intelligent beaver,	0
+4x03	what food is no longer consumed	0
+4x03	uh a blt where the "b" stands for beaver	0
+4x03	i don't know	0
+4x03	leonard, be serious	1	1	nf
+4x03	we're playing a game here	0
+4x03	i can figure this out	0
+4x03	let's see	0
+4x03	um, well, beavers eat tree bark	0
+4x03	the only tree bark i know that	0
+4x03	humans consume is cinnamon	0
+4x03	so, i'll say cinnamon	0
+4x03	incorrect	0
+4x03	obviously, the answer	0
+4x03	is cheese danish	0
+4x03	what	0
+4x03	in a world ruled by a giant beaver,	0
+4x03	mankind builds many dams to please the beaver overlord	0
+4x03	the lowlying city of copenhagen is flooded	0
+4x03	thousands die devastated, the danes never invent their namesake pastry	0
+4x03	how does one miss that	0
+4x03	this is ridiculous	0
+4x03	you're just making stuff up	0
+4x03	is he always like this when he loses	0
+4x03	oh, yes	0
+4x03	you should've been here for the	great jenga tantrum of	0 
+403	you bumped the table	0
+4x03	and you know it	0
+4x03	perhaps it would be kinder to play a game more suited to his abilities	1	3	nf
+4x03	we'll close our eyes and count to ten while you hide	0
+4x03	i'm going to my room	0
+4x03	very good, leonard	0
+4x03	but next time, don't tell us where you're hiding	1	1	ni
+4x03	did you guys see the paper in the american physics journal on supersolids	0
+4x03	it's pretty interesting	0
+4x03	this guy's working from	a hypothesis where spoiler alert spoiler alert	0
+4x03	what	0
+4x03	don't ruin it for me, man	1	1	ni
+4x03	i printed out a pdf to read on the potty on the potty	0
+4x03	what are you, five	0
+4x03	it's a potty what do you call it	0
+4x03	toilet	0
+4x03	that's a little vulgar for the dinner table, don't you think	0
+4x03	oh, and "potty" is okay	0
+4x03	"potty" is innocent	0
+4x03	"potty" is adorable	0
+4x03	what do you do in the potty,	0
+4x03	weewee	0
+4x03	if i don't have to boomboom	0
+4x03	greetings	0
+4x03	you all remember amy farrah fowler	0
+4x03	nice to see you hello	0
+4x03	sorry we're late	0
+4x03	i must take responsibility	0
+4x03	i had to stop for feminine hygiene supplies	0
+4x03	aha okay	0
+4x03	i believe she's experiencing her menses	0
+4x03	actually, i'm not	0
+4x03	in order to avoid surprises,	0
+4x03	i wear them all the time	0
+4x03	aha okay	0
+4x03	"toilet's" sounding pretty good now, huh	0
+4x03	hey, look, it's shamy	0
+4x03	shamy	0
+4x03	a juvenile amalgamation of our names	0
+4x03	sheldon, amy shamy	0
+4x03	oh	0
+4x03	i don't like that	0
+4x03	don't do that	1	1	ni
+4x03	all righty what's new	0
+4x03	well, just recently, i learned that you refer to us as shamy,	0
+4x03	and i don't like that	0
+4x03	i got it	0
+4x03	but what i was going for was,	0
+4x03	you know, how's your life	0
+4x03	like everybody else's subject to entropy, decay and eventual death	0
+4x03	thank you for asking	0
+4x03	why is she not taking our order	0
+4x03	i should've warned you,	0
+4x03	one has to navigate a labyrinth of social nonsense	0
+4x03	before one can be fed here	0
+4x03	amy really	0
+4x03	i assumed an establishment called the cheesecake factory would function more efficiently	0
+4x03	it's how they lure you in	0
+4x03	i believe it's called "	0
+4x03	bait and switch"	0
+4x03	okay, i'm just gonna walk away,	0
+4x03	'cause i don't want to be here	0
+4x03	so, this is nice	0
+4x03	first time we've all	0
+4x03	gotten together to eat	0
+4x03	you're right, he's a festival of humdrum chitchat	0
+4x03	okay, that's all i got	0
+4x03	howard, you're up	1	1	nf
+4x03	um tell us about your work, amy	1	1	nf
+4x03	i doubt you'd understand	0
+4x03	sheldon tells me you only have a master's degree	0
+4x03	raj, do you have any questions for amy	0
+4x03	i'm curious as to why	0
+4x03	we're not eating alone	0
+4x03	they can't function without me	0
+4x03	i'm the social glue that holds	0
+4x03	this little group together	0
+4x03	you're welcome	0
+4x03	listen, can i talk to you about your girlfriend	0
+4x03	she's not my girlfriend	0
+4x03	she's a girl and she's my friend,	0
+4x03	but there's no touching or unsanitary exchange of saliva	0
+4x03	got it	0
+4x03	although, for the record,	0
+4x03	on one occasion,	0
+4x03	she licked her thumb to remove raspberry jelly	0
+4x03	from the corner of my mouth	0
+4x03	it's an action we both regret to this day	0
+4x03	uhhuh	0
+4x03	anyway, i'm not sure	0
+4x03	she's the best fit	0
+4x03	for our little how should	0
+4x03	we call it rebel alliance	0
+4x03	oh, i never identified with the rebel alliance	0
+4x03	despite their tendency to build death stars,	0
+4x03	i've always been more of an empire man	0
+4x03	yeah, not my point	0
+4x03	i know what your point is	0
+4x03	you're intimidated	0
+4x03	by amy's intellect	0
+4x03	to that i say,	0
+4x03	buck up	1	1	nf
+4x03	okay, let me just	0
+4x03	get right to it	0
+4x03	amy is judgmental,	0
+4x03	sanctimonious and frankly	0
+4x03	just obnoxious	0
+4x03	so	0
+4x03	so we already have you for all that	0
+4x03	are you suggesting i terminate my relationship with amy	0
+4x03	no, no, of course not	0
+4x03	just have your relationship someplace else	1	1	nf
+4x03	may i point out that	0
+4x03	for eight long months,	0
+4x03	i suffered in silence	0
+4x03	as your female companion filled our apartment with her	0
+4x03	offkey country music caterwauling,	0
+4x03	the unappetizing spectacle of her grinding a pumice stone against her calloused feet	0
+4x03	in our living room,	0
+4x03	and night after night of uninformative tv documentaries	0
+4x03	about the jersey shore	0
+4x03	suffered in silence	0
+4x03	yes	0
+4x03	and i'd thank you to do the same	0
+4x03	reall silence	0
+4x03	ah	0
+4x03	nothing makes beer taste better than cool clear rocky	0
+4x03	mountain spring water	0
+4x03	where are the rocky mountains, anyway	0
+4x03	philadelphia	0
+4x03	really	0
+4x03	i thought they were out west someplace	0
+4x03	think about it, raj	1	1	nf
+4x03	where did the movie	0
+4x03	rocky take place	0
+4x03	philadelphia	0
+4x03	okay, now i get it	0
+4x03	so this is the plan	0
+4x03	from now on, we're just	gonna hide out in here to avoid the shamy	0
+4x03	i'm very comfortable here	0
+4x03	penny, dear, why don't you shoot another silver bullet my way	1	1	ni
+4x03	get one yourself	1	1	nf
+4x03	ooh, somebody's been taking bitchy pills	0
+4x03	god, he's an ass when he drinks	0
+4x03	oh, he's an ass when he doesn't	0
+4x03	you just don't hear it	0
+4x03	think we need to start entertaining the possibility that the shamy could go on for years	1	1	nf
+4x03	well, if that's the case,	0
+4x03	penny will have to get satellite tv	0
+4x03	and maybe once a week run a vacuum through this place	0
+4x03	i thought you were going to talk to sheldon	0
+4x03	i did well, what'd he say	0
+4x03	well, he pointed out that	0
+4x03	he kinda sorta had to	0
+4x03	put up with you	0
+4x03	kinda sorta had to	0
+4x03	i didn't agree with him	0
+4x03	well, you defended me, right	0
+4x03	i tried, but	0
+4x03	he made a fairly wellreasoned argument	0
+4x03	you're not doing that right	0
+4x03	what	0
+4x03	gimme	1	1	nf
+4x03	no	0 
+4x03	trust me	1	1	nf
+4x03	no i do this for	0
+4x03	my mom all the time	0
+4x03	see	0
+4x03	with the grain	0
+4x03	wow, that is better	0
+4x03	and someday, when you have varicose veins,	0
+4x03	i'll show you how to massage them	0
+4x03	oh, god, never again	0
+4x03	i assume by "never again,	0
+4x03	" you mean never again will you drink	0
+4x03	all of penny's beer,	0
+4x03	then run down to the gas station	0
+4x03	for a couple of s,	0
+4x03	a box of slim jims	0
+4x03	and the latest issue of	bombay badonkadonks	0
+4x03	i was homesick	0
+4x03	the highlight of the evening was when you showed us your bollywood break dancing skills	0
+4x03	that's very offensive	0
+4x03	yeah, we all thought so	0
+4x03	leonard oh, no	0
+4x03	what	0
+4x03	it's john and yoko	0
+4x03	more like yoko and yoko	0
+4x03	greetings hey	0
+4x03	i brought amy here to show her some of the work i'm doing	0
+4x03	it's very impressive,	0
+4x03	for theoretical work	0
+4x03	do i detect a hint of condescension	0
+4x03	i'm sorry, was i being too subtle	0
+4x03	i meant compared to the realworld applications of neurobiology,	0
+4x03	theoretical physics is what's the word i'm looking for	0
+4x03	hmm, cute	0
+4x03	are you suggesting the work of a neurobiologist	0
+4x03	like babinski could ever rise to the significance of a physicist like clarkemaxwell or dirac	0
+4x03	i'm stating it outright	0
+4x03	babinski eats dirac for breakfast	0
+4x03	and defecates clarkemaxwell	0
+4x03	you take that back	1	1	nf
+4x03	absolutely not	0
+4x03	my colleagues and i are mapping the neurological substrates that subserve global information processing,	0
+4x03	which is required for all cognitive reasoning, including scientific inquiry, making my research ipso facto	0
+4x03	prior in the ordo cognoscendi	0
+4x03	that means it's better than his research,	0
+4x03	and by extension, of course, yours	0
+4x03	i'm sorry, i'mi'm still trying to work on the defecating clark maxwell, so	0
+4x03	excuse me, but a grand unified theory,	0
+4x03	insofar as it explains everything,	0
+4x03	will ipso facto explain neurobiology	0
+4x03	yes, but if i'm successful,	0
+4x03	i will be able to map and reproduce your thought processes in deriving a grand unified theory,	0
+4x03	and therefore, subsume your conclusions under my paradigm	0
+4x03	that's the rankest psychologism,	0
+4x03	and was conclusively revealed as hogwash by gottlob frege in the s	0
+4x03	we appear to have reached an impasse	0
+4x03	i agree	0
+4x03	i move our relationship	terminate immediately	0
+4x03	seconded	0
+4x03	there being no objections	0
+4x03	all uhuh	0
+4x03	the motion carries	0
+4x03	good day, amy farrah fowler	0
+4x03	good day, sheldon cooper	0
+4x03	women, huh	0
+4x03	can't live with them,	0
+4x03	can't successfully refute their hypotheses	0
+4x03	amen to that	0
+4x03	hey, sheldon	0
+4x03	hello	0
+4x03	i hear you broke up with amy	0
+4x03	a breakup would imply	0
+4x03	she was my girlfriend	0
+4x03	she was a girl who was my friend	0
+4x03	who is now a girl who is not my friend	0
+4x03	wow that's like the worst country song ever	0
+4x03	so, how are you doing	0
+4x03	regarding what	0
+4x03	amy	0
+4x03	i don't follow	0
+4x03	well, breakups or whatever the	0
+4x03	hell this is can be tough	0
+4x03	penny, i assure you, i'm fine	0
+4x03	my relationship with amy was purely intellectual,	0
+4x03	there were no emotional bonds, the severing of which would cause me any discomfort	0
+4x03	the relationship simply	outlived its utility,	0
+4x03	and i'm continuing on	0
+4x03	with my life as before	0
+4x03	okay good	0
+4x03	now, if you'll excuse me,	0
+4x03	i'm off to buy a pussycat	0
+4x03	i gotta tell you guys,	0
+4x03	i'm a little worried about sheldon	0
+4x03	we're all a little worried about sheldon	0
+4x03	no, i mean since the shamy hit a reef	0
+4x03	oh, i thought you were just making a generalization	0
+4x03	"you know,	0
+4x03	i'm worried about sheldon	0
+4x03	"someday setting off a lowyield nuclear device	0
+4x03	because the cafeteria ran out of lime jello"	0
+4x03	what does "hit a reef" mean	0
+4x03	uh, went splitsville	0
+4x03	pardon	0
+4x03	turned to boomboom	0
+4x03	ah	0
+4x03	i think sheldon really misses amy	0
+4x03	you should lend him your copy of bombay badonkadonks	1	4	nf
+4x03	he got a cat to keep him company	0
+4x03	you're kidding	0
+4x03	he takes it everywhere to bed, to the bathroom	0
+4x03	he takes the kitty to the potty	0
+4x03	i thought we discussed the pword	0
+4x03	don't try to change me, dude	1	1	ni
+4x03	i am what i am	0
+4x03	oh, gentlemen	0
+4x03	hey aren't you going to introduce us to your little friend	1	1	nf
+4x03	my apologies	0
+4x03	raj, howard, i'd like you to meet dr	0
+4x03	robert oppenheimer	0
+4x03	hello hi	0
+4x03	now, if you'll excuse me,	0
+4x03	the father of the atomic bomb wants a saucer of milk	0
+4x03	okay, i get it	0
+4x03	we're worried about sheldon	0
+4x03	yeah	0
+4x03	hey	0
+4x03	oh, no	0
+4x03	robert oppenheimer was lonely	0
+4x03	so you decided to get the	0
+4x03	whole manhattan project	0
+4x03	but he's so zazzy	0
+4x03	okay, we need to talk	1	1	nf
+4x03	about what	0
+4x03	cats, sheldon	0
+4x03	you're clearly upset about amy being gone,	0
+4x03	and you're trying to replace her with a bunch of cats	0
+4x03	clowder what	0
+4x03	a group of cats is a clowder	0
+4x03	or a glaring	0
+4x03	okay, yeah, fine	0
+4x03	it's the kind of thing you ought to know now that we have one	0
+4x03	terrific my point is,	0
+4x03	you need to face up to what you're feeling with this breakup	0
+4x03	it wasn't a breakup	0
+4x03	a breakup would imply that	0
+4x03	amy was my girlfriend	0
+4x03	okay, i got it, i got it	0
+4x03	she's not your girlfriend	0
+4x03	now listen to me	1	1	nf
+4x03	i know about loneliness	0
+4x03	i know about trying to replace	0
+4x03	someone with other stuff	0
+4x03	when i broke up with penny,	0
+4x03	i got back into my cello,	0
+4x03	i built a bunch of model rockets,	0
+4x03	i got those weightlifting gloves	0
+4x03	and that fivepound dumbbell	0
+4x03	you didn't break up,	0
+4x03	she dumped you	0
+4x03	she didn't dump me	0
+4x03	it was mutual	0
+4x03	i was there she dumped you	0
+4x03	okay, fine	0
+4x03	live with cats	0
+4x03	be like my aunt nancy	0
+4x03	she had dozens of them	0
+4x03	and do you know what happened	0
+4x03	after she died they ate her	0
+4x03	you don't have to sell me on cats, leonard	0
+4x03	i'm already a fan	0
+4x03	all right, fellas,	0
+4x03	who's in the mood for fancy feast	0
+4x03	well, that's not fancy at all	0
+4x03	hi, mrs cooper thanks for coming	0
+4x03	where is he	0
+4x03	he's in his bedroom	0
+4x03	now, when you said on the phone	0
+4x03	he broke up with a girl,	0
+4x03	you meant an actual girl,	0
+4x03	not something you kids	0
+4x03	whipped up in a lab	0
+4x03	no, she's real	0
+4x03	did they sin	0
+4x03	no, no, it's not like that	0
+4x03	it's, uh	0
+4x03	i don't know what it's like	0
+4x03	but there is something i should prepare you for	0
+4x03	oh, relax, leonard,	1	1	nf
+4x03	i have raised that boy	0
+4x03	i've seen him at his best,	0
+4x03	i've seen him at his worst	0
+4x03	there's nothing he can	0
+4x03	do that'll surprise me	0
+4x03	hold on to that thought	1	1	nf	
+4x03	come in	1	1	nf
+4x03	surprise	0
+4x03	mom, what an unexpected pleasure	0
+4x03	my, my, that's a powerful smell	0
+4x03	i'd like you to meet oppenheimer,	0
+4x03	frisch, panofsky,	0
+4x03	feynman, weisskopf	0
+4x03	yeah, i get it	0
+4x03	you got a lot of cats	0
+4x03	and you gave 'em cute jewish names	0
+4x03	what are you doing here	0
+4x03	leonard called	0
+4x03	and he said that you were pining for a young lady	0
+4x03	oh, that's preposterous	0
+4x03	i'm not pining over anyone	0
+4x03	oh, lambchop, we can quibble what to call it,	0
+4x03	but i think we can	0
+4x03	both agree it's creepy	0
+4x03	i do not agree	0
+4x03	cats make wonderful companions	0
+4x03	they don't argue or question	0
+4x03	my intellectual authority,	0
+4x03	and this little guy here,	0
+4x03	i think you'll find to be quite zazzy	0
+4x03	you should have called sooner	0
+4x03	shelly dinner's ready	0
+4x03	sheldon coming	0
+4x03	no cats	1	1	ni
+4x03	aw	0
+4x03	what is she doing here	0
+4x03	i called her	0
+4x03	your mother thinks	0
+4x03	you might be losing your mind over me	0
+4x03	as a neurobiologist, i was curious	0
+4x03	well, rest assured, i am in full possession of my faculties	0
+4x03	cats	0
+4x03	oh, god bless you, dear	0
+4x03	sheldon, sit down let's talk	1	1	nf
+4x03	all right, but you're not fooling me	0
+4x03	whenever you say we have to talk,	0
+4x03	it means you want me to listen	0
+4x03	then stop talking	1	1	nf
+4x03	yes, ma'am	0
+4x03	now, the reason i called amy over was to find out what type of person she is	0
+4x03	and after chatting a bit,	0
+4x03	i have to say that while she is a perfectly unique young woman,	0
+4x03	you two are definitely not suited for each other	0
+4x03	that's a peculiar conclusion	0
+4x03	by any standard,	0
+4x03	amy is more similar to me	0
+4x03	than anyone i've ever met	0
+4x03	oh, i'm sorry, shelly,	0
+4x03	i can't see it	0
+4x03	well, whether you see it or not is irrelevant	0
+4x03	i can't see subatomic particles,	0
+4x03	but nevertheless, they're there	0
+4x03	excellent point	0
+4x03	a physics point	0
+4x03	touché	0
+4x03	well, putting aside the pig latin,	0
+4x03	it's a good thing that you two decided to end the relationship	0
+4x03	so i didn't have to end it for you	0
+4x03	amy, after consideration,	0
+4x03	i believe we may have acted rashly	0
+4x03	i propose we resume our relationship	0
+4x03	and attempt to resolve our differences	0
+4x03	i'll agree to that only	0
+4x03	if you'll stipulate that % of our difficulties were caused by you	0
+4x03	i'll go as high as  sixtyfive	0
+4x03	done	0
+4x03	you understand that moving forward,	0
+4x03	we deal with the fact that my mother does not approve of you	0
+4x03	i do i find being cast in the role of bad	0
+4x03	girl oddly titillating	0
+4x03	would you like to see my cats	0
+4x03	i would i love cats	0
+4x03	they're the epitome of indifference	0
+4x03	ah, then you may find	0
+4x03	zazzles a little cloying	0
+4x03	i saw what you did there	0
+4x03	he thinks he's such a smarty pants	0
+4x03	he's no different from any man	0
+4x03	you tell 'em not to do	0
+4x03	something, that's all	0
+4x03	they want to do	0
+4x03	if i hadn't told my brother stumpy	0
+4x03	not to clear out the wood chipper by hand,	0
+4x03	we'd still be calling him edward	0
+4x03	now, don't you move	1	1	ni
+4x03	i'll bring over all the food	0
+4x03	no, no, no, i can do it	0
+4x03	well, isn't that sweet	0
+4x03	thank you, amy	0
+4x03	here's your cat	0
+4x03	and here's your $	0
+4x03	amy	0 
+4x03	next	1	3	nf
+4x03	thank you, amy	0
+4x03	here's your cat	0
+4x03	and here's your $	0

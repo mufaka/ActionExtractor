@@ -1,0 +1,398 @@
+﻿2x17	okay, raj	0
+2x17	hand me the #6 torx screwdriver	1	1	nf
+2x17	stop	1	1	nf
+2x17	we can't do this	1	1	ni
+2x17	it's not right	0
+2x17	you have two choices either you let him put a bigger hard drive in the tivo, or you delete stuff before we go out of town	1	1	nf
+2x17	but once you open the box, you've voided the warranty	0
+2x17	the warranty is a sacred covenant we've entered into with the manufacturer	0
+2x17	he offers to stand by his equipment,	0
+2x17	and we in return agree not to violate the integrity of the internal hardware	0
+2x17	this little orange sticker is all that stands between us and anarchy	0
+2x17	then we won't touch the hard drive	0
+2x17	we'll just erase the first season of battlestar	0
+2x17	there we're outlaws	0
+2x17	is this going to be big enough	0
+2x17	it's perfect for taking daffodils to your unicorn	0
+2x17	it's just for my notebooks	0
+2x17	thanks, penny	0
+2x17	i love san francisco	0
+2x17	i wish i was going with you	1	2	nf
+2x17	i understand your envy	0
+2x17	this is a can'tmiss symposium	0
+2x17	there are going to be discussions on bioorganic cellular computer devices,	0
+2x17	the advancements in multithreaded task completion,	0
+2x17	plus a roundtable on the nonequilibrium green's function approach to the photoionization process in atoms	0
+2x17	when i go, i usually just get hammered and ride the cable cars	0
+2x17	this conference is kind of a big thing	0
+2x17	the keynote address is being delivered by george smoot	0
+2x17	oh, my god, the george smoot	0
+2x17	you've heard of him	0
+2x17	of course i haven't	0
+2x17	george smoot	0
+2x17	is a nobel prizewinning physicist,	0
+2x17	one of the great minds of our time	0
+2x17	his work in black body form and anisotropy of the cosmic microwave background radiation cemented our understanding of the origin of the universe	0
+2x17	it's kind of a funny name, though "smoot"	0
+2x17	it's like talking to a chimp	0
+2x17	now that i've been completely insulted,	0
+2x17	have a good flight i wish	1	2	nf
+2x17	we're not flying	1	1	ni
+2x17	we're taking the train	1	1	nf
+2x17	oh, cool	0
+2x17	yeah, cool	0
+2x17	seven times as long as flying, and costs almost twice as much	0
+2x17	then why are you doing it	0
+2x17	we had a vote	0
+2x17	three of us voted for airplane	0
+2x17	sheldon voted for train	0
+2x17	so we're taking the train	1	1	nf
+2x17	don't say it like that	1	1	ni
+2x17	say it like	1	1	nf
+2x17	"we're taking the train"	0
+2x17	we're all going over to the apple store to make fun of the guys at the genius bar	0
+2x17	you want to come	1	3	nf
+2x17	i always enjoy that, but i'm a little busy	0
+2x17	what are you doing	0
+2x17	i'm simplifying the task of packing for our trip	0
+2x17	see, by attaching rfid tags to my clothing,	0
+2x17	it will enable my laptop to read and identify the items	0
+2x17	with this wand i will then crossreference them against destination, anticipated activity spectrum, weather conditions, duration of trip, et cetera	0
+2x17	that does sound much simpler	0
+2x17	how long is this going to take	0
+2x17	assuming i can keep up this pace,	0
+2x17	three hours,  minutes	0
+2x17	plus however long it takes to conclude this fairly pointless conversation	0
+2x17	teasing the guys at the apple store seems a little redundant now	0
+2x17	i don't follow	1	1	ni
+2x17	i wouldn't expect you to see you	0
+2x17	socks one pair,	0
+2x17	cotton, argyle, blue	0
+2x17	socks one pair,	0
+2x17	cotton, argyle, blue	0
+2x17	what on earth are you doing	0
+2x17	whatever it is,	0
+2x17	i'm guessing we're doing it wrong	0
+2x17	gentlemen, this is the coast starlight, one of the great american trains operating on one of the classic american routes	0
+2x17	on this side, you'll see panoramic ocean vistas inaccessible to any other form of transportation,	0
+2x17	while on your side, you'll be treated to  miles of costcos, jiffy lubes, and cinderblock homes with aboveground pools	0
+2x17	come on, raj	0
+2x17	what's wrong with jiffy lubes	0
+2x17	why not	0
+2x17	that's over the wheelbase	0
+2x17	are you completely unfamiliar with the suspension characteristics of a pre pullmanbuilt superliner deluxe passenger coach	0
+2x17	we've been on this train  seconds,	0
+2x17	and you've already said a thousand words	0
+2x17	just tell us where to sit	1	1	nf
+2x17	and shut up	1	1	nf
+2x17	here	1	1	nf
+2x17	i'm hoping once you reap the endorphic rewards of the steady clickety-clack of steel wheels on polished rails, your sour disposition will abate	1	2	nf
+2x17	yeah, maybe	0
+2x17	meanwhile, back in the st century, people are raising their tray tables and putting their seatbacks in an upright position	0
+2x17	'cause it's time to land in san francisco	0
+2x17	it's not so bad, really at least these trains have modern plumbing	0
+2x17	in india, you squat over a hole in the train and expose your naked buttocks to the chilly air of rajasthan	0
+2x17	he is referring, of course, to third class on indian railways' magnificent ranakpur express	0
+2x17	and its ,kilometer journey from maharashtra to the bikaner junction	0
+2x17	oh, look, now he's boring on an international scale	0
+2x17	holy crap look	0
+2x17	is that who i think it is	0
+2x17	it can't be	0
+2x17	what would summer glau be doing riding the train	0
+2x17	maybe john connor's aboard and she's protecting him from an evil terminator	0
+2x17	unlikely that's a television show	0
+2x17	thank you	0
+2x17	of course, if skynet actually did exist in the future,	0
+2x17	a perfect way to infiltrate and destroy mankind	0
+2x17	would be to send terminators back posing as actors	0
+2x17	who have played terminators in popular films and television series,	0
+2x17	lulling us into a false sense of security, ie, "that's summer glau	0
+2x17	from the sarah connor chronicles "no, summer, don't kill me i'm prorobot"	0
+2x17	at least he's off the train crap	0
+2x17	i owe you an apology taking the train was a stroke of brilliance	0
+2x17	i've actually got a shot at a terminator	0
+2x17	please	0
+2x17	when it comes to terminators, you've got a better shot of scoring with arnold schwarzenegger	0
+2x17	you're overlooking something	0
+2x17	i have hours with her in a confined space unless she's willing to jump off a moving train,	0
+2x17	tuck and roll down the side of a hill,	0
+2x17	she will eventually succumb to the acquired taste	0
+2x17	that is howard wolowitz	0
+2x17	my money's on tuck and roll	0
+2x17	i'm confused	0
+2x17	i thought you were involved in some sort of socially intimate pairing with leslie winkle	0
+2x17	let me explain to you how this works	1	1	nf
+2x17	that's summer glau	0
+2x17	that's it	0
+2x17	hang on a sec	1	1	nf
+2x17	why do you get first crack at her	0
+2x17	let's see, couple reasons	0
+2x17	one, i saw her first	1	1	nf
+2x17	no, you didn't i did	0
+2x17	fair enough	0
+2x17	but then, let me move on to #	0
+2x17	unlike you, i can actually talk to women when i'm sober	0
+2x17	you fail to take into account that even mute, i am foreign and exotic,	0
+2x17	while you, on the other hand, are frail and pasty	0
+2x17	you know the old saying, "pasty and frail never fail"	0
+2x17	excuse me, but what about me	0
+2x17	why don't i get a shot	0
+2x17	fine, go ahead	1	1	nf
+2x17	take a shot	1	1	nf
+2x17	i've already got a gorgeous blonde back home that i can't score with	0
+2x17	i think i'll let you two take this one	1	3	nf
+2x17	is there a place on this train to get alcohol	0
+2x17	interesting that you ask the coast starlight recently added the refurbished pacific parlour car built in  and originally known as the santa fe lounge car,	0
+2x17	the lower level is a theater and the upper level is a bar that offers wine tastings if you're going as far as portland	0
+2x17	so aren't you going to go talk to her	0
+2x17	i will, i'm just working on my opening line	0
+2x17	she's probably heard every possible line	0
+2x17	why don't you just try "hello"	0
+2x17	no, no,	0
+2x17	that always creeps girls out	0
+2x17	i need to come up with something that's funny, smart and delicately suggests that my sexual endowment	0
+2x17	is disproportionate to my physical stature	0
+2x17	you're going to need more than  hours	0
+2x17	oh, no	0
+2x17	what's the matter	0
+2x17	i forgot my flash drive	0
+2x17	so	0
+2x17	so we have to go back	1	1	nf
+2x17	okay, i'm going to say "why"	0
+2x17	and your answer cannot be "because i forgot my flash drive"	1	1	ni
+2x17	you don't understand	0
+2x17	my flash drive has my paper on astrophysical probes of mtheory effects in the early universe that i was going to give to george smoot at the conference	0
+2x17	why do you have to give your paper to george smoot	0
+2x17	it's brilliant	0
+2x17	he needs to read it	1	1	nf
+2x17	so you'll send him an email when we get back	1	3	nf
+2x17	then i won't get to see his face light up as he reads it	0
+2x17	right of course	0
+2x17	this is an unmitigated disaster	0
+2x17	there's nothing you can do about it,	0
+2x17	so relax, sit back, enjoy the clickety-clack of the steel wheels on the polished rails	1	1	nf
+2x17	you forgot your flash drive,	0
+2x17	you forgot your flash drive	0
+2x17	only ten hours,  minutes to go	0
+2x17	it's hot in here must be summer	0
+2x17	so where you gals headed	0
+2x17	okay, i've found the perfect solution	0
+2x17	we get off the train at the next stop in oxnard	1	1	nf
+2x17	we then take the  train	back to union station	1	1	nf
+2x17	we take a cab back to the apartment, get my flash drive, and then race to san luis obispo,	1	1	nf
+2x17	where, assuming the lights are with us and minimal traffic, we'll meet the train	1	1	nf
+2x17	i've got a better idea	0
+2x17	are you going to be sarcastic	0
+2x17	you take all the fun	0
+2x17	out of it for me	0
+2x17	penny's homes	0
+2x17	why don't we call her, have her go in the apartment, get your flash drive and email you the paper	1	3	nf
+2x17	but the flash drive is in a locked drawer in my desk	0
+2x17	so	0
+2x17	the key is hidden in my room	0
+2x17	so	0
+2x17	penny would have to go into my room	0
+2x17	so	0
+2x17	people don't go in my room	0
+2x17	i see it seems once again, you're caught between a rock and a crazy place	0
+2x17	i hate when that happens	0
+2x17	it's hot in here must be summer	0
+2x17	it's hot in here must be summer	0
+2x17	it's hot in here must be summer	0
+2x17	that's cute	0
+2x17	really i just made it up	0
+2x17	have you seen slumdog millionaire	0
+2x17	yeah, i loved it	0
+2x17	it's loosely based on my life	0
+2x17	we're putting the play on for one night in this little seat theater	0
+2x17	can you come	0
+2x17	oh, great	0
+2x17	do you know  other people that might want to come	0
+2x17	hang on	1	1	nf
+2x17	listen carefully	1	1	nf
+2x17	i'm about to give you a set of instructions which you must follow to the letter	0
+2x17	just a sec	1	1	nf
+2x17	the theater is above a bowling alley, so it's a little noisy,	0
+2x17	but it might be the only chance i'll ever get to play anne frank and the director is brilliant	0
+2x17	he uses the bowling sounds as, like, nazi artillery great, i'll see you then	0
+2x17	hello	0
+2x17	okay, step four	0
+2x17	do you see that small plastic case	0
+2x17	on my dresser	0
+2x17	your dresser who is this	0
+2x17	it's sheldon	0
+2x17	hey, sheldon	0
+2x17	how is san francisco	0
+2x17	i'm not in san francisco	0
+2x17	i'm on a train	0
+2x17	were you even listening to me	0
+2x17	i was talking to my friend,	0
+2x17	but what's up	0
+2x17	what's up i'll tell you what's up	0
+2x17	i'm in a crisis situation,	0
+2x17	and i need you to marshal your powers of concentration, limited as they may be	0
+2x17	give me the phone	1	1	nf
+2x17	hi, penny it's leonard	0
+2x17	hey, leonard	0
+2x17	what's going on with dr wackadoodle	0
+2x17	he's calling to ask you a favor	0
+2x17	you might be confused because he didn't use the words,	0
+2x17	"penny," "sheldon,"	0
+2x17	"please" or "favor"	0
+2x17	enough chitchat	1	1	nf
+2x17	okay, step one	0
+2x17	locate your emergency key to our apartment	1	1	nf
+2x17	step two	0
+2x17	enter our apartment	1	1	nf
+2x17	step three	0
+2x17	enter my bedroom	1	1	nf
+2x17	step four	0
+2x17	hang on, getting another call	1	1	nf
+2x17	let me tell you	0
+2x17	personal robots cannot get here	0
+2x17	soon enough	0
+2x17	and that bright little star peeking her head out early today	0
+2x17	that's venus	0
+2x17	that is so cool	0
+2x17	you really know a lot about space	0
+2x17	come on	0
+2x17	when you were on tv in firefly,	0
+2x17	you were actually in space	0
+2x17	you're not one of those guys	0
+2x17	who really believe that, are you	0
+2x17	you mean one of the hopeless geeks	0
+2x17	those are crazy people	0
+2x17	howard, be a dear and get me another one of these	1	1	nf
+2x17	now, him, he's one of those geeks	0
+2x17	all right, now, before you enter my bedroom unescorted,	0
+2x17	i need you to understand that this onetime grant of access does not create a permanent easement	0
+2x17	easement	0
+2x17	it's a legal right of access	0
+2x17	good grief	0
+2x17	what no, don't put me on hold	1	1	ni
+2x17	do you believe him	0
+2x17	normally around women,	0
+2x17	he has the personality of a boiled potato	0
+2x17	put one beer in him,	0
+2x17	and he's m night charmalarmalon	0
+2x17	is that what he's drinking	0
+2x17	it's not even real beer	0
+2x17	what	0
+2x17	look	1	1	nf
+2x17	"nonalcoholic beer"	0
+2x17	what's going on	0
+2x17	i don't know	0
+2x17	some sort of placebo effect, i guess	0
+2x17	placebo, you say	0
+2x17	interesting	0
+2x17	yes, i'm still here	0
+2x17	where am i going i'm on a train	0
+2x17	now, what you'll be looking for is a small wooden box located between a hoberman's sphere and a sample of quartz flecked with pyrite	0
+2x17	hoberman's sphere	0
+2x17	it's a collapsible	0
+2x17	icosidodecahedron	0
+2x17	no, the thing with the time on it is my alarm clock	0
+2x17	actually, in india, the names of constellations are different	0
+2x17	where you have the big dipper, we have the big curry pot	0
+2x17	you're making that up	0
+2x17	you got me	1	1	nf
+2x17	now what are you	0
+2x17	going to do with me	0
+2x17	look	1	1	nf
+2x17	what am i looking at	0
+2x17	you tell me	1	1	nf
+2x17	"nonalcoholic beer"	0
+2x17	hi i'm the small package	0
+2x17	good things come in	0
+2x17	i got a box,	0
+2x17	but there's no key in here just letters	0
+2x17	that's the wrong box	0 
+2x17	put it back	1	1	nf
+2x17	are these letters from your grandmother	0
+2x17	don't read those letters	1	1	ni
+2x17	look, she calls you "moon pie"	0
+2x17	that is so cute	0
+2x17	put down the letters	1	1	nf
+2x17	hey, penny it's leonard	0
+2x17	how's the train ride	0
+2x17	delightful	0
+2x17	i don't know what you're doing	0
+2x17	but there are little bubbles forming on the corners of sheldon's mouth	0
+2x17	yeah, i kind of crossed a line	0
+2x17	put him back on	1	1	nf
+2x17	thank you	0
+2x17	i'm back	0
+2x17	what up, moon pie	0
+2x17	no one calls me moon pie but meemaw	1	1	ni
+2x17	hey, penny leonard again	0
+2x17	in the dream, you and i were ice skating, just the two of us	0
+2x17	and then, i picked you up by your ankles	0
+2x17	and twirled you round and round until your legs tore off	0
+2x17	i tried to stick them back on,	0
+2x17	but before i could, you turned into a giant loaf of pumpernickel bread	0
+2x17	what do you think that means	0
+2x17	i really don't know	0
+2x17	i'll give you a clue	0
+2x17	my favorite sandwich salami on pumpernickel	0
+2x17	is that so	0
+2x17	did you know "pumpernickel" comes from the german words	0
+2x17	"pumper" and "nickel,"	0
+2x17	which loosely translates to "fart goblin"	0
+2x17	i didn't	0
+2x17	okay, i found the box now what	0
+2x17	you're holding a japanese puzzle box, which takes ten precise moves to open	0
+2x17	first, locate the panel	1	1	nf
+2x17	with the diamond pattern	0
+2x17	and slide the center portion	1	1	nf
+2x17	one millimeter to the left	0
+2x17	then, on the opposite end of the box,	0
+2x17	slide the entire panel down	1	1	nf
+2x17	two millimeters	0
+2x17	you'll hear a slight click	0
+2x17	hang on	1	1	nf
+2x17	do you have any emotional attachment to this box	0
+2x17	no, it's a novelty	0
+2x17	i ordered off the internet	0
+2x17	did you hear the click	0
+2x17	not yet	0
+2x17	there it is	0
+2x17	okay, here's another one	0
+2x17	if you married the famous rock guitarist johnny winter, you'd be summer winter	0
+2x17	i'm going to just go for broke here	0
+2x17	and say i like you	0
+2x17	so here's my question	0
+2x17	do you realistically see any conversational path	0
+2x17	that would take us from where we are right now to a place where i could ask you out	0
+2x17	and you'd say yes	0
+2x17	fair enough	0
+2x17	i'll leave you in peace	0
+2x17	thank you	0
+2x17	but before i go,	0
+2x17	would you mind if i take one picture of us together for my facebook page	1	3	nf	
+2x17	sure	0
+2x17	great now, can i take one where it looks like we're making out	1	3	nf
+2x17	now you're going to insert the flash drive into the usb port	1	1	nf
+2x17	she calls me moon pie	0
+2x17	because i'm nummynummy	0
+2x17	and she could just eat me up	0
+2x17	now, please put the flash drive in the usb port	0
+2x17	the one that looks like a little duck's mouth	0
+2x17	how'd it go	0
+2x17	terminator broke my phone	0
+2x17	excuse me	0
+2x17	i'll be honest with you	0
+2x17	i've just spent the last two hours imaging various scenarios in my head, trying to come up with some clever line to say to you	0
+2x17	but i finally realized you're a human being	0
+2x17	i'm a human being	0
+2x17	i could just say	0
+2x17	next stop santa barbara	0
+2x17	i'm sorry this is me	0
+2x17	hi, my name's leonard	0
+2x17	so, i'm thinking, you won the nobel prize what, three years ago	0
+2x17	so you must deal with a whole lot of "what has smoot done lately"	0
+2x17	my thought is we continue my research as a team	0
+2x17	you know, coopersmoot, alphabetical and when we win the nobel prize, you'll be back on top	0
+2x17	with all due respect, dr cooper, are you on crack	0
+2x17	fine	0
+2x17	smootcooper	0
+2x17	what a diva	0

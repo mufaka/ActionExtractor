@@ -1,0 +1,497 @@
+﻿3x04	this movie baffles me every time we watch it	0
+3x04	what do you mean	0
+3x04	the instructions are very clear	0
+3x04	"don't feed the gremlins after midnight "	0
+3x04	"don't get the gremlins wet "	0
+3x04	how hard is that	0	
+3x04	hi, guys	0
+3x04	hi, honey	0
+3x04	hey	0
+3x04	ooh, we're "honey" now, are we	0
+3x04	yes since their relationship became carnal,	0
+3x04	penny has upgraded his designated term of endearment,	0
+3x04	thus distinguishing him	from those she calls "sweetie,"	0
+3x04	usually in an attempt to soften	a thinlyveiled insult	0
+3x04	you're boring people,	0
+3x04	sweetie	0
+3x04	although, sometimes,	0
+3x04	she omits the veil entirely	0
+3x04	so, what are you guys doing	0
+3x04	celebrating	0
+3x04	columbus day	0
+3x04	we're watching goonies, gremlins	0
+3x04	and young sherlock holmes	0
+3x04	they're all written by chris columbus	0
+3x04	okay	1	3	nf
+3x04	what do you watch on thanksgiving	0
+3x04	the parade	0
+3x04	oh, you know,	0
+3x04	that reminds me	0
+3x04	i usually go back to nebraska for thanksgiving,	0
+3x04	but this year they're calling it off on account of my brother's trial	0
+3x04	what's he on trial for	0
+3x04	oh, just a big misunderstanding	0
+3x04	you know, you'd actually like my brother	0
+3x04	he's kind of a chemist	0
+3x04	anyway, i was thinking	0
+3x04	i'd have thanksgiving here,	0
+3x04	and you are all invited	0
+3x04	oh i'll be there	0
+3x04	will you be serving cranberry jelly or cranberry sauce	0
+3x04	i guess i could	0
+3x04	serve both	0
+3x04	you guess i don't seem to have much of a handle on this	0
+3x04	yeah, i really wish i could,	0
+3x04	penny, but every year,	0
+3x04	my mother has all the relatives over and cooks up her famous turbriskafil turbriskafil turkey stuffed with a brisket	0
+3x04	stuffed with gefilte fish	0
+3x04	it's not as good as it sounds	0
+3x04	raj, what about you	0
+3x04	oh, he usually comes	0
+3x04	to my house right, pal	0
+3x04	all right, this year,	0
+3x04	you don't have to eat the turbriskafil	1	3	ni
+3x04	i don't even chew it	0
+3x04	i swallow it like pills	0
+3x04	so, what's going on	0
+3x04	with raj	0
+3x04	well, the good news is,	0
+3x04	he has no problem with my mother's turbruskafil	0
+3x04	hard to believe,	0
+3x04	but go on	1	1	nf
+3x04	the bad news is,	0
+3x04	he says he's getting deported	0
+3x04	leonard	0
+3x04	what do you mean,	0
+3x04	he's getting deported	0
+3x04	i believe it means that the us government is going to expel him from the country	0
+3x04	he could then either return to his native india, emigrate to another country that's willing to accept him or wander the high seas as a stateless pirate	0
+3x04	personally, i'd choose pirate	0
+3x04	penny, would you mind stepping outside	1	1	nf
+3x04	so we can speak to him	0
+3x04	fine	0
+3x04	but the man really needs to work on his girl issues	0
+3x04	another reason to consider a life of piracy	0
+3x04	even today, i understand	0
+3x04	that's an allmale profession	0
+3x04	okay, she's gone	0
+3x04	sorry	0
+3x04	i lost my cool	0
+3x04	so, what's going on	0
+3x04	okay, here's the deal	0
+3x04	six months ago, my research testing the predicted composition of transneptunian objects	ran into a dead end	0
+3x04	so	0
+3x04	so, my visa's only good as long as	0
+3x04	i'm employed at the university	0
+3x04	and when they find out at i've got squat, they're going to cut me off	0
+3x04	by the way, when i say squat, i mean diddlysquat	0
+3x04	i wish i had squat	0
+3x04	so, wait, what have you been doing for the past six months	0
+3x04	you know, checking email,	0
+3x04	updating my facebook status,	0
+3x04	messing up wikipedia entries	0
+3x04	hey, did you know netflix lets you stream movies on your computer now	0
+3x04	and you've continued to take the university's money under false pretenses	0
+3x04	highly unethical for an astrophysicist	0
+3x04	although practically mandatory for a pirate	0
+3x04	i don't want to go back	to india	0
+3x04	it's hot and loud,	0
+3x04	and there's so many people	0
+3x04	you have no idea	0
+3x04	they're everywhere	0
+3x04	okay, guys, think	1	1	nf
+3x04	how do we keep raj in the country	0
+3x04	penny	0
+3x04	why doesn't he just get another job	0
+3x04	what are you asking me for	0
+3x04	i don't know if you can talk now or not	0
+3x04	oh, beef	0
+3x04	i'm going to miss you so much	0
+3x04	do you know, at the mumbai mcdonald's,	you can't get a big mac	all you can get	is a chicken maharaja mac	0
+3x04	and the special sauce	0
+3x04	curry which, in india,	0
+3x04	believe me,	1	1	nf
+3x04	is really not that special	0
+3x04	don't worry,	1	2	ni
+3x04	you'll find another job	0
+3x04	yeah let me start practicing for it	0
+3x04	"do you want fries with	that maharaja mac"	0
+3x04	sheldon	0
+3x04	hi, leonard	0
+3x04	hello, raj	0
+3x04	hello, sheldon	0
+3x04	forgive me, as you know, i'm no adept at reading facial cues,	1	2	nf
+3x04	but i'm going to take a stab here	0
+3x04	you're either sad or nauseated	0
+3x04	i'm sad	0
+3x04	i was going to say sad	0
+3x04	i don't know why i hedged	0
+3x04	what are you eating	0
+3x04	elbow macaroni with ground hamburger and tomato sauce	0
+3x04	oh, beefaroni	0
+3x04	i think i'll miss you most of all	0
+3x04	i've always been a little confused about this	0
+3x04	why don't hindus eat beef	0
+3x04	we believe cows are gods	0
+3x04	not technically	0
+3x04	in hinduism, cattle are	thought to be like god	0
+3x04	do not tell me about my own culture	1	1	ni
+3x04	in the mood i'm in, i'll take you out i swear to cow	0
+3x04	i'm sorry	0
+3x04	me, too	0
+3x04	i'm just	0
+3x04	i'm a little on edge	0
+3x04	understandable	0
+3x04	your entire life seems	to be crumbling around you,	0
+3x04	and your future	appears bleak at best	0
+3x04	thank you	0
+3x04	and you're wrong about hinduism and cows	0
+3x04	hey, raj, guess what	0
+3x04	professor laughlin is looking for someone to join the stellar evolution	research team	0
+3x04	you're kidding that's fantastic	0
+3x04	i know what are you waiting for	0
+3x04	call him and set up an interview	1	1	nf
+3x04	i'm on it	0
+3x04	that's happy, right	0
+3x04	yeah	0
+3x04	nailed it	0
+3x04	dr koothrappali, come on in	1	1	nf
+3x04	i was surprised to hear	0
+3x04	you were interested in joining our little team giving up on those transneptunian objects, are we	0
+3x04	no, no it's a very promising area	0
+3x04	in a perfect world i'd spend several more years on it	0
+3x04	but i just couldn't pass up the opportunity to work with you on your tremendously exciting	0
+3x04	and not yet conclusively disproved hypothesis	0
+3x04	splendid	0
+3x04	uh, please sit down	1	1	nf
+3x04	can i offer you	a sherry	0
+3x04	it's a little early, isn't it	0
+3x04	not on proxima centauri	0
+3x04	that's very good	0
+3x04	jolly amusing,	0
+3x04	but if you don't mind,	i'll hold off until sunset on titan	0
+3x04	well done	0
+3x04	i have a feeling you're going to fit in just fine,	0
+3x04	dr koothrappali	0
+3x04	thank you, sir	0
+3x04	i'm sorry	0
+3x04	am i late	0
+3x04	no, no, no	1	1	ni
+3x04	right on time	0
+3x04	dr koothrappali,	0
+3x04	may i present	0
+3x04	dr millstone from mit	0
+3x04	she'll be heading up our data analysis team	0
+3x04	it's nice to meet you,	0
+3x04	dr koothrappali	0
+3x04	i read your paper on kuiper belt object size distribution	0
+3x04	i really enjoyed it	0
+3x04	how did you correct for the selection bias	0
+3x04	well, i ran a simulation	0
+3x04	that allowed me	to correct for the observational efficiency	0
+3x04	that's just fascinating	0
+3x04	thank you	0
+3x04	would you like to hear more about it in my hot tub	1	3	nf
+3x04	so, when do i start	0
+3x04	what do you mean you didn't get the job	0
+3x04	how could you not get it	0
+3x04	you know he's british	0
+3x04	i'm indian	0
+3x04	ever since gandhi,	0
+3x04	they haven't liked us very much	0
+3x04	wait, are you saying that	1	1	nf
+3x04	he discriminated against you	0
+3x04	because we should file a complaint	0
+3x04	that's okay	0
+3x04	a complaint has been filed	0
+3x04	so, that's it	0
+3x04	that was my last hope	0
+3x04	i'm going to be deported,	0
+3x04	sent home in disgrace,	0
+3x04	exposed to the sardonic barb of my cousin sanjay	0
+3x04	or, as you may know him,	0
+3x04	dave from at&t customer service	0
+3x04	i'm really going to miss you	0
+3x04	will you come visit me in india	0
+3x04	gee, that's, like,	0
+3x04	a hour flight	0
+3x04	how about i meet you halfway	0
+3x04	halfway is  miles	0
+3x04	off the coast of japan	0
+3x04	tell you what,	0
+3x04	we'll skype	1	1	nf
+3x04	gentlemen	0
+3x04	leonard	0
+3x04	hey, raj,	0
+3x04	did you get the job with professor laughlin	0
+3x04	no	0
+3x04	i assumed as much	0
+3x04	but never fear	1	1	ni
+3x04	like the subordinate male protagonist	0
+3x04	in countless action movies	0
+3x04	who disappears half way	through the second reel,	0
+3x04	i have returned to save the day	0
+3x04	odd	0
+3x04	usually, he's met by cheers	0
+3x04	anyway,	0
+3x04	i was thinking about exploring the string theory implications of gamma rays from dark matter annihilations,	0
+3x04	and it occurred to me	0
+3x04	that i could benefit	0
+3x04	excuse me, sheldon	1	1	nf
+3x04	how many reels before the subordine male protagonist gets to his point	0
+3x04	i'm sorry if you didn't	cheer at my entrance,	0
+3x04	it's too late to buy into the premise	0
+3x04	anyway, i got some extra money from the head of the department,	0
+3x04	and raj can come work for me	0
+3x04	you want me to work with you	0
+3x04	for me	0
+3x04	you're going to	have to listen more carefully when you're on the job	1	1	nf
+3x04	ay, uh, please don't take this the wrong way,	0
+3x04	but i'd rather swim bucknaked across the ganges	with a paper cut on my nipple and die a slow, agonizing death	from a viral infection	0
+3x04	than work with you	0
+3x04	for me	0
+3x04	sheldon, are you busy	0
+3x04	of course i'm busy	0
+3x04	shall i wait	0
+3x04	yes, please	1	1	nf
+3x04	how may i help you	0
+3x04	i've reconsider your offer	0
+3x04	to let me work with you	0
+3x04	for me	0
+3x04	yes, for you	0
+3x04	i do, however, have	0
+3x04	a few conditions	0
+3x04	first, at all times, i am to be treated	as a colleague and an equal	1	1	nf
+3x04	second, my contributions shall be noted	in all published material	1	1	nf
+3x04	and third, you are never allowed to lecture me on hinduism or my indian culture	1	1	nf
+3x04	i'm impressed, raj	0
+3x04	those are very cogent	0
+3x04	and reasonable conditions	0
+3x04	thank you	0
+3x04	i reject them all	0
+3x04	then you leave me no choice	0
+3x04	i accept the job	0
+3x04	i'm sorry, i believe	0
+3x04	you've misunderstood	0
+3x04	i'm not giving you the job	0
+3x04	i'm simply affording you	0
+3x04	the opportunity to apply for it	0
+3x04	have a seat we'll get started with the interview	1	1	nf
+3x04	wha you're kidding	0
+3x04	please	1	1	nf
+3x04	all right	0
+3x04	so 	0
+3x04	that's what you wear to an interview	0
+3x04	come on, dude,	0
+3x04	we've been friends for years	0
+3x04	oh, pulling strings, are we	0
+3x04	sheldon, for god's sakes,	0
+3x04	don't make me beg	1	1	ni
+3x04	bazinga	0
+3x04	you've fallen victim	0
+3x04	to another one of my classic practical jokes	0
+3x04	i'm your boss now	0
+3x04	you may want to laugh at that	0
+3x04	ah, nice having the place to ourselves, isn't it	0
+3x04	uhhuh	0
+3x04	now that raj is	0
+3x04	working for sheldon,	0
+3x04	i don't have to chauffeur	0
+3x04	him around anymore	0
+3x04	plus, yeah, with them	0
+3x04	working late so much,	0
+3x04	we get some privacy	0
+3x04	mmhmm	0
+3x04	hey, want to get a little crazy	1	3	nf
+3x04	what are you thinking	0
+3x04	let's slide over to sheldon's spot a make out	1	3	nf
+3x04	you are a dirty girl	0
+3x04	oh, god, how did he know	0
+3x04	hello	0
+3x04	hi, howard	0
+3x04	am i interrupting	0
+3x04	little bit, yeah	0
+3x04	guess i should have called	0
+3x04	yeah, maybe	0
+3x04	tonight's the night	0
+3x04	i usually go line dancing	0
+3x04	with raj at the palomino	0
+3x04	uhhuh	0
+3x04	but he's working with sheldon	0
+3x04	yes, we know	0
+3x04	want me to leave	0
+3x04	you know, whatever	0
+3x04	okay, i guess i can hang for a little while	0
+3x04	so what are we watching	sex and the city	0
+3x04	yikes	0
+3x04	hey, i happen to love this movie	0
+3x04	fine, let's watch it	1	3	nf
+3x04	maybe all our periods will synchronize	0
+3x04	all right, we're going to be designing an experiment to look for the annihilation spectrum resulting from dark matter collisions in space	1	1	nf
+3x04	ooh, dark matter	0
+3x04	we better bring	a flashlight	0
+3x04	i was making a joke	0
+3x04	i'm the boss	0
+3x04	i make the jokes	1	1	nf
+3x04	sorry	0
+3x04	go ahead and make your joke	1	3	nf
+3x04	this is not the	0
+3x04	time for joking	0
+3x04	we're doing serious research,	0
+3x04	which requires complete	and utter focus	0
+3x04	all right,	0
+3x04	let's buckle down and work	1	1	nf
+3x04	sheldon	0
+3x04	what	0
+3x04	i need an aspirin	0
+3x04	top desk drawer	1	4	nf
+3x04	thank you	0
+3x04	alright	0
+3x04	yes	0
+3x04	good	0
+3x04	that was fun	0
+3x04	thank you	0
+3x04	leonard, honey, you don't have to say thank you	every time we have sex	1	1	ni
+3x04	oh okay	0
+3x04	tomorrow you're going to get a card in the mail	0
+3x04	just throw it away	1	1	nf
+3x04	top o' the mornin' to ya	0
+3x04	what are you doing here	0
+3x04	well, usually, on sundays,	0
+3x04	i go with raj to scam on hippie chicks at the farmers market,	0
+3x04	but he's still working with sheldon,	0
+3x04	so i thought i'd come over here	0
+3x04	and make you guys scrambled eggs and salami	0
+3x04	it's the perfect meal for après i'amour	0
+3x04	oh, kill me	1	2	nf
+3x04	by the way, i couldn't help overhearing your big finish	0
+3x04	bravo, leonard	0
+3x04	see, if you had killed me	0
+3x04	when i said "kill me,"	0
+3x04	i wouldn't have had to hear that	0
+3x04	what do you guys think	0
+3x04	want to take in a matinee, maybe go rollerblading, catch a step class	1	3	nf
+3x04	do something	1	1	nf
+3x04	okay	0
+3x04	um, howard, we need to talk	1	1	nf
+3x04	sure 'sup, holmes	0
+3x04	uh please understand that it's not that we don't want you around,	1	1	nf
+3x04	but penny and i	0
+3x04	occasionally need some	alone time	0
+3x04	oh	0
+3x04	i i get it, i'm the third wheel	0	0
+3x04	sorry, i should have seen that	0
+3x04	i'll get out	0
+3x04	of your way	0
+3x04	uh, you're gonna want to eat those eggs	while they're still hot	1	3	nf
+3x04	thank you	0
+3x04	there's lox and cream cheese in the fridge	0
+3x04	the bagels are in the oven,	0
+3x04	i was  warming them up	0
+3x04	great	0
+3x04	i'm just going to hang out	0
+3x04	with my mom	0
+3x04	that's always fun	0
+3x04	good	0
+3x04	are we terrible people	0
+3x04	i don't know	0
+3x04	what do you	0
+3x04	want me to do	0
+3x04	get him	1	1	nf
+3x04	bring him back	1	1	nf
+3x04	are you sure	0
+3x04	yeah	0
+3x04	okay	0
+3x04	howard come back	1	1	nf
+3x04	oh, you guys had me scared	0
+3x04	for a minute	0
+3x04	no, no, no, no	0
+3x04	that rate is much too low	0
+3x04	from what we'd expect	0
+3x04	from this collision	0
+3x04	do you understand	0
+3x04	we're talking about dark matter	colliding in outer space	0
+3x04	of course i understand	0
+3x04	and who are you to tell me about outer space	0
+3x04	i'm the astrophysicist	0
+3x04	"astro" means "space "	0
+3x04	"astor" means "star "	0
+3x04	okay, well, let	0
+3x04	me just tell you,	0
+3x04	if we were having this argument	in my native language,	0
+3x04	i'd be kicking your butt	0
+3x04	english is your native language	0
+3x04	okay, you got me there, but	0
+3x04	you're wrong about this	0
+3x04	there is a fine line between wrong and visionary	0
+3x04	unfortunately you have to be a visionary to see it	0
+3x04	my god, you think	0
+3x04	that every thought that comes out of your head is pure gold	0
+3x04	well, let me tell you something	0
+3x04	some of those thoughts are pure cacacaca	0
+3x04	it means "doodoo"	0
+3x04	all right	0
+3x04	first of all,	0
+3x04	dr koothrappali,	0
+3x04	when i first proposed	0
+3x04	that you work with me	0
+3x04	aha so i am working with you	0
+3x04	in this context,	0
+3x04	"with me" means "for me"	0
+3x04	ah, well, in	0
+3x04	this context	0
+3x04	oh	0
+3x04	if i'm wrong,	0
+3x04	prove it	1	1	nf
+3x04	okay	0
+3x04	here's where we derive the mass	of the dark matter particle	0
+3x04	you've misstated the atomic weight of the target	0
+3x04	let me finish	1	1	nf
+3x04	you're defacing work	0
+3x04	i'm not defacing it,	0
+3x04	i'm fixing it	0
+3x04	give me the eraser	1	1	nf
+3x04	no	0
+3x04	i said give it to me	1	1	nf
+3x04	come and get it	1	1	nf
+3x04	fine	0
+3x04	oh, lord	0
+3x04	dr koothrappali,	0
+3x04	as your superior, i forbid you from writing on my board	1	1	nf
+3x04	you are not my superior	0
+3x04	i am in every way	0
+3x04	oh, yeah	0
+3x04	can you do this	0
+3x04	nice working with you	0
+3x04	i'm sorry for you	0
+3x04	raj	0
+3x04	raj raj	0
+3x04	i'm busy	0
+3x04	doing what	0
+3x04	all right,	0
+3x04	you've made your point	0
+3x04	what do you want, sheldon	0
+3x04	i looked over the board	0
+3x04	and it turns out	0
+3x04	you were right	0
+3x04	so you were wrong	0
+3x04	i didn't say that	0
+3x04	that's the only	logical inference	0
+3x04	nevertheless,	0
+3x04	i didn't say it	0
+3x04	anyway, i would like you to come back and work for me	0
+3x04	for you or with you	0
+3x04	in this context "for me"	0
+3x04	could mean "with me "	0
+3x04	all right, but i have some conditions	0
+3x04	i reject them all	0
+3x04	i'll take the job	0
+3x04	see you monday	0
+3x04	wait, you have to drive me home	1	1	nf
+3x04	how did you get here	0
+3x04	i walked	0
+3x04	so walk home	1	1	nf
+3x04	i can't	0
+3x04	there's a big dog outside on the way home,	0
+3x04	we can start thinking about methods of optimizing the detector for  gev particles	0
+3x04	all right	0

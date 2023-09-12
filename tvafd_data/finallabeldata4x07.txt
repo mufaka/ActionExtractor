@@ -1,0 +1,684 @@
+﻿4x07	no, seriously,	0
+4x07	i think	0
+4x07	i've finally figured out	0
+4x07	my problem with women	0
+4x07	the capybara is the largest	0
+4x07	member of the rodent family	0
+4x07	what does that have to do	0
+4x07	with me and women	0
+4x07	nothing	0
+4x07	it was a desperate attempt	0
+4x07	to introduce an alternate topic	0
+4x07	of conversation	0
+4x07	my problem is,	0
+4x07	i don't project confidence	0
+4x07	so i decided that	0
+4x07	the next time i meet a woman	0
+4x07	i think is attractive,	0
+4x07	rather than holding back	0
+4x07	and being cautious,	0
+4x07	i'm going to assume	0
+4x07	the mantle of selfassurance	0
+4x07	oh, yeah	0
+4x07	what's that look like	0
+4x07	hi	0
+4x07	i'm leonard	0
+4x07	and you are beautiful you pop, sparkle	0
+4x07	and buzz electric	0
+4x07	i'm going to pick you up	0
+4x07	at , show you a night you will never forget	0
+4x07	where are we going	0
+4x07	good news	0
+4x07	i made it	0
+4x07	onto the team	0
+4x07	for the new defense department	0
+4x07	laserequipped	0
+4x07	surveillance satellite	0
+4x07	excuse me	0
+4x07	if we're changing topics,	0
+4x07	i believe i have first dibs	0
+4x07	with capybara, a rodent	0
+4x07	the size of a baby hippo	0
+4x07	congratulations,	0
+4x07	howard	0
+4x07	wolowitz	0
+4x07	thanks	0
+4x07	listen, i have to get a security clearance,	0
+4x07	so you guys might be	0
+4x07	hearing from the fbi	0
+4x07	whoa, whoa, whoa	0
+4x07	i don't want to speak	0
+4x07	to the fbi	0
+4x07	why not	0
+4x07	i'm brown and i talk funny	0
+4x07	they're just doing	0
+4x07	a background check on me	0
+4x07	it doesn't matter	0
+4x07	they'll find a reason	0
+4x07	to give me a oneway ticket	0
+4x07	back to gandhiville	0
+4x07	by the way,	0
+4x07	when i say that,	0
+4x07	it's not offensive	0
+4x07	don't be ridiculous, raj	1	1	ni
+4x07	you're here legally	0
+4x07	nobody cares	0
+4x07	do you know how long it's been	0
+4x07	since i got through	0
+4x07	airport security	0
+4x07	without being given	0
+4x07	a colonoscopy	0
+4x07	you know, i	0
+4x07	try very hard to make our lunch hours	0
+4x07	educational and informative,	0
+4x07	but your insistence on	0
+4x07	talking about your own lives	0
+4x07	stymies me at	0
+4x07	every turn	0
+4x07	fine, sheldon, tell us about your giant rodents	1	4	nf
+4x07	no, you squandered	0
+4x07	your time with me,	0
+4x07	and the moment	0
+4x07	has now passed	0
+4x07	feast on your disappointment,	0
+4x07	much as the capybara	0
+4x07	feasts on its own waste	0
+4x07	oh, bella, don't you see	0
+4x07	edward's only pushing you away	0
+4x07	because he loves you	0
+4x07	coming	0
+4x07	dr koothrappali	0
+4x07	i'm special agent page, fbi	0
+4x07	may i come in	0
+4x07	i'd like to talk to you	0
+4x07	about howard wolowitz	0
+4x07	oh, thank you	0
+4x07	all right	0
+4x07	well, how long	0
+4x07	have you known mr wolowitz	0
+4x07	rum cake	0
+4x07	no, thanks	0
+4x07	now, about mr	0
+4x07	wolowitz	0
+4x07	seven years	0
+4x07	i see	0
+4x07	i'm in this country	0
+4x07	legally, you know	0
+4x07	i'm sure you are	0
+4x07	now, to your knowledge, has mr	0
+4x07	wolowitz ever committed a crime	0
+4x07	of course not	0
+4x07	i'm here on an hb visa,	0
+4x07	which means i can't be	0
+4x07	associated in any way	0
+4x07	with crime	0
+4x07	or criminal activity	0
+4x07	and i'm not	0
+4x07	good	0
+4x07	to your knowledge,	0
+4x07	does mr wolowitz have any foreign contacts	0
+4x07	no, just me	0
+4x07	oh, there it is	0
+4x07	here comes a cavity search	0
+4x07	excuse me	0
+4x07	please don't send me back to india it's so crowded	1	1	ni
+4x07	it's like the whole country	0
+4x07	is one endless comiccon,	0
+4x07	except everybody's wearing	0
+4x07	the same costume indian guy	0
+4x07	dr koothrappali, i'm not	0
+4x07	i love this country	0
+4x07	thethe baseball,	0
+4x07	the freedom,	0
+4x07	the rampant morbid obesity	0
+4x07	from california	0
+4x07	to the new york island	0
+4x07	i'm a real yankee doodle boy	0
+4x07	dr koothrappali, please	1	1	nf
+4x07	♪ my country 'tis of thee ♪	0
+4x07	♪ liberty ♪	0
+4x07	♪ it's really great ♪	0
+4x07	so, when howard said the fbi	0
+4x07	would be contacting me,	0
+4x07	i was expecting mulder	0
+4x07	glad to see i got scully	0
+4x07	who	0
+4x07	mulder and scully	0
+4x07	xfiles	0
+4x07	"the truth is out there"	0
+4x07	never mind	0
+4x07	uh, so, what would you	0
+4x07	like to know	0
+4x07	you work with mr wolowitz here	0
+4x07	at the university, correct	0
+4x07	yes of course, we're in	0
+4x07	different departments	0
+4x07	he's an engineer and i'm	0
+4x07	an experimental physicist	0
+4x07	you know, one of those guys	0
+4x07	who examines the building blocks of creation	0
+4x07	and says,	0
+4x07	"hello, maker of the universe	0
+4x07	"i see what you did there	0
+4x07	good one"	0
+4x07	right	0
+4x07	now, how would you characterize	0
+4x07	your relationship with mr wolowitz	0
+4x07	good	0
+4x07	it's a good	0
+4x07	relationship	0
+4x07	of course, most of my	0
+4x07	relationships are good	0
+4x07	probably because	0
+4x07	i exude confidence	0
+4x07	people are drawn to that,	0
+4x07	you know	0
+4x07	confidence, not exuding	0
+4x07	do you know of any groups	0
+4x07	mr wolowitz is a member of	0
+4x07	you are beautiful,	0
+4x07	you know that	0
+4x07	you pop, sparkle	0
+4x07	and buzz electric	0
+4x07	i'm going to pick you up	0
+4x07	at , show you a night you will never forget	0
+4x07	sounds great	0
+4x07	really	0
+4x07	yeah	0
+4x07	can my sixfoottwo navy seal husband come with us	1	1	nf
+4x07	is that	0
+4x07	oh, my, i didn't see the ring	0
+4x07	with my glasses off, so	0
+4x07	look at that,	0
+4x07	i'm starting to exude	0
+4x07	want to get that	0
+4x07	not particularly	0
+4x07	could you get that	1	1	nf
+4x07	i suppose i could	0
+4x07	if i were asked	0
+4x07	would you please get that	1	1	nf
+4x07	of course	0
+4x07	why do you have to make things	0
+4x07	so complicated	0
+4x07	dr cooper	0
+4x07	yes	0
+4x07	i'm special agent page, fbi	0
+4x07	you say you're special	0
+4x07	agent page, fbi	0
+4x07	here's my id	0
+4x07	and here is	0
+4x07	my justice league	0
+4x07	membership card	0
+4x07	but that doesn't	0
+4x07	prove i know batman	0
+4x07	i just want to ask you a few	0
+4x07	questions about howard wolowitz	0
+4x07	oh all right	0
+4x07	i doubt anyone	0
+4x07	would risk	0
+4x07	the stiff penalties for	0
+4x07	impersonating a federal officer	0
+4x07	just to ask questions about	0
+4x07	a minor league engineer	0
+4x07	with an unresolved	0
+4x07	oedipal complex	0
+4x07	thank you	0
+4x07	for the record,	0
+4x07	i truly support the fbi	0
+4x07	in the mission	0
+4x07	which is expressed	0
+4x07	through their motto	0
+4x07	fidelity, bravery, integrity	0
+4x07	correct, now to business	1	1	nf
+4x07	years ago, i sent	0
+4x07	the fbi crime lab samples	0
+4x07	from a bag of excrement	0
+4x07	that had been lit on fire	0
+4x07	on my front porch	0
+4x07	for fingerprinting	0
+4x07	and dna analysis	0
+4x07	why haven't i heard back yet	0
+4x07	well, the fbi crime lab	0
+4x07	does have a lot on its plate	0
+4x07	that's of little comfort	0
+4x07	to a nation	0
+4x07	attempting to scrape	0
+4x07	burning feces off its shoes	0
+4x07	would you mind if we talked about mr wolowitz now	1	1	nf
+4x07	a little, but go on	1	1	nf
+4x07	thank you	0
+4x07	would you characterize him	0
+4x07	as responsible	0
+4x07	i'm going to answer that	0
+4x07	with a visual aid	0
+4x07	this is my ninedisc complete	0
+4x07	lord of the rings trilogy	0
+4x07	bluray set	0
+4x07	mr wolowitz borrowed it,	0
+4x07	damaged plastic retention	0
+4x07	hub number three	0
+4x07	and then returned it to me,	0
+4x07	hoping i wouldn't notice	0
+4x07	would you characterize that	0
+4x07	as responsible	0
+4x07	that's really not the sort of	0
+4x07	thing we're interested in	0
+4x07	you heard me say	0
+4x07	bluray, right	0
+4x07	i did	0
+4x07	very well	0
+4x07	would you be interested	0
+4x07	in knowing that mr wolowitz	0
+4x07	once snuck onto	0
+4x07	my world of warcraft account	0
+4x07	and changed the name	0
+4x07	of a certain level warlock	0
+4x07	from sheldor to smeldor	0
+4x07	i'm afraid not	0
+4x07	is there anything else	0
+4x07	"is there anything else"	0
+4x07	where would you like to start	0
+4x07	he refuses to pay fines	0
+4x07	when he's overdue	0
+4x07	with books i lend him	0
+4x07	he crashed the mars rover while	0
+4x07	attempting to impress a woman	0
+4x07	he recommended that i go see	0
+4x07	the third matrix movie	0
+4x07	because it was, and i quote,	0
+4x07	"just as good	0
+4x07	as the first one"	0
+4x07	if that's not irresponsible,	0
+4x07	i don't know what is	0
+4x07	the mars rover	0
+4x07	did i say mars rover	0
+4x07	you did	0
+4x07	that was actually	0
+4x07	a poorly chosen example,	0
+4x07	as it had nothing	0
+4x07	to do with me	0
+4x07	yes, well, let's talk about it anyway	1	1	nf
+4x07	i don't want to	0
+4x07	not that my disinclination	0
+4x07	to discuss the topic	0
+4x07	should be interpreted as	0
+4x07	evidence of howard wolowitz's	0
+4x07	culpability in the destruction	0
+4x07	of government property	0
+4x07	worth millions of dollars	0
+4x07	thank you, dr cooper	0
+4x07	i think i have all i need	0
+4x07	oh, good	0
+4x07	i was afraid you were	0
+4x07	going to fixate	0
+4x07	on that mars rover incident	0
+4x07	hey, buddies	0
+4x07	guess who didn't get	0
+4x07	security clearance	0
+4x07	to work on	0
+4x07	the giant space laser	0
+4x07	what happened	0
+4x07	apparently, the background	0
+4x07	interviews didn't go well	0
+4x07	you guys wouldn't	0
+4x07	know anything	0
+4x07	about that, would you	0
+4x07	well, actually,	0
+4x07	i may have gotten	0
+4x07	a little tipsy	0
+4x07	when i talked to her	0
+4x07	and i may have	0
+4x07	hit on her a little bit	0
+4x07	i may have thrown up	0
+4x07	rum cake on her shoes	0
+4x07	i see	0
+4x07	well, it's good to know, when	0
+4x07	i need you guys, i can always count on you to step up and ruin everything	0
+4x07	i feel awful	0
+4x07	ah, me, too	0
+4x07	to tell you the truth,	0
+4x07	i thought if anyone was going to	0
+4x07	screw things up for howard,	0
+4x07	it'd be sheldon	0
+4x07	well, your expectations	0
+4x07	have been subverted	0
+4x07	aha	0
+4x07	what are you doing up	0
+4x07	sleep eludes me, leonard	0
+4x07	really	0
+4x07	maybe sleep has met you before	0
+4x07	mockery	0
+4x07	that's all you have to offer	0
+4x07	i'm sorry why can't you sleep	0
+4x07	who knows	0
+4x07	i haven't watched	0
+4x07	any scary movies recently	0
+4x07	i'm no longer obsessing	0
+4x07	over why the predicted mass	0
+4x07	of the quantum vacuum	0
+4x07	has little effect	0
+4x07	on the expansion	0
+4x07	of the universe	0
+4x07	and it's been weeks since i took	0
+4x07	that accidental sip of red bull	0
+4x07	did something happen today	0
+4x07	that's bothering you	0
+4x07	well, i did mention	0
+4x07	the mars rover incident	0
+4x07	to that fbi agent	0
+4x07	and probably cost howard	0
+4x07	his security clearance	0
+4x07	what	0
+4x07	but why should that keep me up	0
+4x07	because you feel guilty	0
+4x07	interesting	0
+4x07	so you're saying my insomnia is	0
+4x07	caused by a guilty conscience	0
+4x07	actually,	0
+4x07	you don't have insomnia	0
+4x07	you're sleeping now	0
+4x07	excuse me	0
+4x07	you're having a guiltridden dream	0
+4x07	do you have any evidence	0
+4x07	to support that hypothesis	0
+4x07	how about that gorn	0
+4x07	sitting on the couch	0
+4x07	that seems fairly conclusive	0
+4x07	no, gorn, no	0
+4x07	that's where i sit	0
+4x07	thank you for agreeing	0
+4x07	to see me, agent page	0
+4x07	thank you for filing a complaint	0
+4x07	with my superior, dr cooper	0
+4x07	i understand	0
+4x07	you want to recant	0
+4x07	your statement	0
+4x07	about howard wolowitz	0
+4x07	yes	0
+4x07	was your statement untrue	0
+4x07	no	0
+4x07	then i'm afraid	0
+4x07	you can't withdraw it	0
+4x07	i'm sorry i don't recall	0
+4x07	you saying "no backsies"	0
+4x07	is there anything else	0
+4x07	yes i'd like to offer	0
+4x07	a laudatory statement	0
+4x07	about howard's many excellent	0
+4x07	qualities that i believe	0
+4x07	will tip the scales	0
+4x07	back in his favor	0
+4x07	"howard joel wolowitz	0
+4x07	"h is for honesty,	0
+4x07	of which he has much	0
+4x07	"o's for outstanding,	0
+4x07	"which he is such	0
+4x07	"w's for witty,	0
+4x07	he's quick with a joke	0
+4x07	a's for artistic, his ability	0
+4x07	" i'm sorry	0
+4x07	dr cooper, this matter	0
+4x07	is already closed	0
+4x07	but i still have	0
+4x07	"rd joel wolowitz" left to go	0
+4x07	it's closed	0
+4x07	i don't understand	0
+4x07	why you people	0
+4x07	are picking on my	0
+4x07	friend, howard,	0
+4x07	when there are much more serious	0
+4x07	security threats to pursue	0
+4x07	for instance,	0
+4x07	when i first met leonard,	0
+4x07	he was on the verge	0
+4x07	of giving away	0
+4x07	rocket secrets	0
+4x07	to a north korean spy,	0
+4x07	and not one agent	0
+4x07	ever investigated that	0
+4x07	this is leonard hofstadter	0
+4x07	no, it's a different leonard	0
+4x07	he's	0
+4x07	chinese, red hair, six fingers	0
+4x07	goodbye	0
+4x07	raj	0
+4x07	have you seen howard	0
+4x07	i think he's eating lunch	0
+4x07	uh, sheldon, i want you	0
+4x07	to meet neil degrasse tyson	0
+4x07	from the hayden planetarium	0
+4x07	in new york	0
+4x07	i'm quite familiar	0
+4x07	with dr tyson	0
+4x07	he's responsible	0
+4x07	for the demotion of pluto	0
+4x07	from planetary status	0
+4x07	i liked pluto	0
+4x07	ergo i do not like you	0
+4x07	but i actually	0
+4x07	didn't demote pluto	0
+4x07	that was a vote	0
+4x07	of the international	0
+4x07	astronomical union	0
+4x07	if "ifs" and "buts"	0
+4x07	were candy and nuts,	0
+4x07	we'd all have a merry christmas	0
+4x07	think about that, dr tyson	1	1	nf
+4x07	is that the guy you	0
+4x07	were telling me about	0
+4x07	oh, yeah	0
+4x07	howard	0
+4x07	the person at fault for you	0
+4x07	not getting	0
+4x07	a security clearance is me	0
+4x07	you	0
+4x07	yes, but before you get upset,	0
+4x07	i want you to know	0
+4x07	i went to the fbi	0
+4x07	and retracted my statement	0
+4x07	and they were okay with that	0
+4x07	no if anything,	0
+4x07	i made it worse	0
+4x07	in any case, i have	0
+4x07	been riddled with guilt,	0
+4x07	which is causing	0
+4x07	gorninfested rem sleep	0
+4x07	so, i'm here now	0
+4x07	to say i'm sorry	0
+4x07	are you kidding me	0
+4x07	you've set my career back	0
+4x07	at least two years,	0
+4x07	and you think you can make it	0
+4x07	right with "i'm sorry"	0
+4x07	yes	0
+4x07	i followed the social protocol	0
+4x07	i attempted to right the wrong,	0
+4x07	and when i failed to do so,	0
+4x07	i delivered a heartfelt apology	0
+4x07	now you say,	0
+4x07	"apology accepted,"	0
+4x07	and i will offer you	0
+4x07	a onetimeonly high five	0
+4x07	your apology is not accepted	0
+4x07	you're tricking me	0
+4x07	it really is, isn't it	0
+4x07	leave me alone, sheldon	1	1	nf
+4x07	dr cooper, i just	0
+4x07	wanted you to know	0
+4x07	i'm sorry for the role i	0
+4x07	played in the pluto matter	0
+4x07	oh, shut up	1	1	nf
+4x07	sheldon	0
+4x07	hello	0
+4x07	what are you doing here	0
+4x07	i have troubles, penny	0
+4x07	i've come to pour them out	0
+4x07	to the sympathetic ear	0
+4x07	of the local barkeep	0
+4x07	you know, they have	0
+4x07	a really nice bar	0
+4x07	over at the olive garden	0
+4x07	i don't like the olive garden	0
+4x07	they treat me like family	0
+4x07	okay, sheldon	0
+4x07	what can i get you	0
+4x07	alcohol	0
+4x07	could you be a little more specific	1	1	nf
+4x07	ethyl alcohol	0
+4x07	milliliters	0
+4x07	i'm sorry, honey	0
+4x07	i don't know milliliters	0
+4x07	ah blame president james	0
+4x07	"jimmy" carter	0
+4x07	he started america on a path	0
+4x07	to the metric system	0
+4x07	but then just gave up	0
+4x07	he wonders why he	0
+4x07	was a oneterm president	0
+4x07	would you say that's	0
+4x07	about  milliliters	0
+4x07	more or less	0
+4x07	great	0
+4x07	now, where were we	0
+4x07	i believe you were about	0
+4x07	to ask me to choose a cocktail	0
+4x07	fortunately, thanks	0
+4x07	to computersavvy alcoholics,	0
+4x07	there's an app for that	0
+4x07	let's see	0
+4x07	harvey wallbanger eh	0
+4x07	sex on the beach	0
+4x07	i hardly think so	0
+4x07	rob roy,	0
+4x07	silk slipper, mad hatter	0
+4x07	ooh	0
+4x07	i'll have a rosewater ricky	0
+4x07	a what	0
+4x07	you'll need pitted,	0
+4x07	brandied cherries, gin,	0
+4x07	rosewater,	0
+4x07	angostura bitters	0
+4x07	and overproofed rum	0
+4x07	now, first, dust the cherries with sugar, then spray them with a mixture	1	1	nf
+4x07	of rum and bitters	0
+4x07	then ignite the rum, caramel	1	1	nf
+4x07	here you go one	0
+4x07	rosewater ricky	0
+4x07	that's not how it looks	0
+4x07	in the picture	0
+4x07	oh, yeah, you know, every	0
+4x07	bartender makes it differently	0
+4x07	why don't you give it a try	1	3	ni
+4x07	all right	0
+4x07	to the metric system	0
+4x07	i can't taste the cherries	0
+4x07	all right	0
+4x07	sheldon, what's on your mind	0
+4x07	i wronged howard,	0
+4x07	and he won't accept my apology	0
+4x07	oh, right, that	0
+4x07	yes, leonard told me	0
+4x07	sorry, honey	0
+4x07	penny, you face failure	0
+4x07	on a daily basis	0
+4x07	how do you cope	0
+4x07	i drink	0
+4x07	to drinking	0
+4x07	nope	0
+4x07	oh, if only there were some way	0
+4x07	to force howard	0
+4x07	to accept my apology	0
+4x07	so i could escape	0
+4x07	this miasma of guilt	0
+4x07	you know, sometimes	0
+4x07	stuff just happens,	0
+4x07	and there's nothing	0
+4x07	you can do about it	0
+4x07	for example, lisa peterson	0
+4x07	hasn't talked to me	0
+4x07	since the th grade,	0
+4x07	because no matter how	0
+4x07	much you apologize,	0
+4x07	you can't go back and	0
+4x07	undryhump someone's boyfriend	0
+4x07	i see	0
+4x07	you're saying i'm facing	0
+4x07	starfleet academy's	0
+4x07	unwinnable command scenario	0
+4x07	the kobayashi maru	0
+4x07	exactly	0
+4x07	sometimes you can't win	0
+4x07	captain kirk won	0
+4x07	kirk cheated	0
+4x07	impressive that you know that	0
+4x07	it's hard to believe	0
+4x07	i'm actually having	0
+4x07	this conversation with you	0
+4x07	right there with you	0
+4x07	kirk beat the kobayashi maru	0
+4x07	by reprogramming the simulator	0
+4x07	that's it	0
+4x07	what	0
+4x07	i'll reprogram howard	0
+4x07	what	0
+4x07	sheldon, you can't	0
+4x07	reprogram people	0
+4x07	no, you can't reprogram people	0
+4x07	to james tiberius kirk	0
+4x07	hello, all	0
+4x07	leonard hello	0
+4x07	koothrappali hey	0
+4x07	howard, you're feeling better	0
+4x07	about me today, aren't you	0
+4x07	not really	0
+4x07	yes, you are	0
+4x07	i'm using	0
+4x07	neurolinguistic programming	0
+4x07	to modify your thought patterns	0
+4x07	oh	0
+4x07	go away, sheldon	1	1	nf
+4x07	there's a $ ebook	0
+4x07	down the drain	0
+4x07	what's in the bag	0
+4x07	it's for howard	0
+4x07	oh sheldon, you can't fix this with gifts	0
+4x07	nevertheless, i've hurt you,	0
+4x07	and whether you	0
+4x07	forgive me or not,	0
+4x07	i want you to	0
+4x07	have this	0
+4x07	you're giving me	0
+4x07	a couch cushion	0
+4x07	no	0
+4x07	the cushion is merely symbolic	0
+4x07	i'm giving you my spot	0
+4x07	on the couch	0
+4x07	but you love that spot	0
+4x07	no i love my mother	0
+4x07	my feelings for my spot	0
+4x07	are much greater	0
+4x07	it is the singular location	0
+4x07	in space	0
+4x07	around which revolves	0
+4x07	my entire universe	0
+4x07	and now it's yours	0
+4x07	oh, my god, dude	0
+4x07	now you have to forgive him	1	1	nf
+4x07	all right	0
+4x07	apology accepted	0
+4x07	high five	0
+4x07	not too hard	1	1	ni
+4x07	thank you	0
+4x07	i haven't cried like this	0
+4x07	since toy story	0
+4x07	i got to tell you,	0
+4x07	sheldon, i understand why	0
+4x07	you chose this spot	0
+4x07	i mean, the temperature is	0
+4x07	good, but there's no draft	0
+4x07	i can see the television,	0
+4x07	but i can still talk to	0
+4x07	i changed my mind	0
+4x07	get out of my spot	1	1	nf
+4x07	how long	0
+4x07	seconds	0

@@ -1,0 +1,469 @@
+﻿2x08	oh, look,	1	1	nf
+2x08	saturn  is on	0
+2x08	i don't want to watch saturn	0
+2x08	deep space nine is better	0
+2x08	how is deep space nine better than saturn	0
+2x08	simple subtraction	0
+2x08	will tell you it's six better	0
+2x08	compromise watch babylon	1	3	nf
+2x08	in what sense is that a compromise	0
+2x08	well, five is partway between three never mind	0
+2x08	i'll tell you what	0
+2x08	how about we go rock-paper-scissors	1	3	nf
+2x08	i don't think so	0
+2x08	anecdotal evidence suggests that in the game of rockpaperscissors, players familiar with each other will tie  to % of the time due to the limited number of outcomes	0
+2x08	i suggest	0
+2x08	rockpaperscissorslizardspock	0
+2x08	what	0
+2x08	it's very simple	0
+2x08	scissors cuts paper	0
+2x08	paper covers rock	0
+2x08	rock crushes lizard	0
+2x08	lizard poisons spock	0
+2x08	spock smashes scissors	0
+2x08	scissors decapitates lizard	0
+2x08	lizard eats paper	0
+2x08	paper disproves spock	0
+2x08	spock vaporizes rock	0
+2x08	and as it always has,	0
+2x08	rock crushes scissors	0
+2x08	okay, i think i got it	0
+2x08	rockpaperscissorslizardspock	0
+2x08	hello, boys	0
+2x08	ahoy, matey	0
+2x08	noticed the eye patch, did you	0
+2x08	it's all part of a technique	0
+2x08	i've been studying for picking up women	0
+2x08	you employ a visual display	designed to make yourself distinctive and memorable	0
+2x08	oh, yes, like the male peacock with brilliant plumage	0
+2x08	or the rutting baboon with engorged hindquarters	0
+2x08	or in this case,	0
+2x08	the bar mitzvah boy with pinkeye	0
+2x08	mock me if you will,	1	3	nf
+2x08	but it works	0
+2x08	you show up at a club	0
+2x08	in something distinctive,	0
+2x08	scope out your target	0
+2x08	and toss out some negs	0
+2x08	what are negs	0
+2x08	a neg is a negative compliment	0
+2x08	that throws a pretty woman	0
+2x08	off her game,	0
+2x08	like "normally,	0
+2x08	i'm not turned on by big teeth,	0
+2x08	but on you, they work"	0
+2x08	i got a whole list of 'em	0
+2x08	who wants to be my wingman	0
+2x08	you're not gonna need a wingman	0
+2x08	you're gonna need a paramedic	0
+2x08	your scooter's blocking my car	0
+2x08	did you get pinkeye again	0
+2x08	step one	0
+2x08	she notices the eye patch	0
+2x08	may i say, penny,	0
+2x08	not a lot of women	0
+2x08	could look as hot as you do	0
+2x08	with such greasy hair	0
+2x08	just move your stupid scooter	1	1	nf
+2x08	before i pick it up	0
+2x08	and throw it in the dumpster	0
+2x08	i'm sorry, but i'm not going to watch the clone wars tv series	0
+2x08	until i've seen the clone wars movie	0
+2x08	i prefer to let george lucas	0
+2x08	disappoint me in the order he intended	0
+2x08	i want to watch it now	0
+2x08	then i believe we've arrived at another quintessential rock-paper-scissors-lizard-spock moment	1	3	nf
+2x08	watch whatever you want	1	3	nf
+2x08	i saw what you did there	0
+2x08	what'd i do	0
+2x08	what's wrong	0
+2x08	okay, we'll be right there	0
+2x08	what happened	0
+2x08	howard's at the mars rover lab	0
+2x08	he says he's in trouble	0
+2x08	defcon	0
+2x08	defcon	0
+2x08	well, there's no need to rush	0
+2x08	what	0
+2x08	defcon  means "no danger"	0
+2x08	defcon  is a crisis	0
+2x08	how can	0
+2x08	not be worse than	0
+2x08	star trek v worse than i	0
+2x08	first of all, that's a comparison	0
+2x08	of quality, not intensity	0
+2x08	secondly, star trek i is ordersofmagnitude worse	0
+2x08	than star trek v	0
+2x08	are you joking	0
+2x08	star trek v is the standard	0
+2x08	against which all badness is measured	0
+2x08	no, no	0
+2x08	star trek v has specific failures	0
+2x08	in writing and direction,	0
+2x08	while star trek i	0
+2x08	fails across the board	0
+2x08	art direction, costuming,	0
+2x08	music, sound editing	0
+2x08	can we just forget i said defcon and go	1	1	nf
+2x08	star trek v	0
+2x08	will you at least stipulate	0
+2x08	that star trek iv the voyage home is inarguably the best	0
+2x08	i have three words for you	0
+2x08	wrath of khan	0
+2x08	thank god, you're here	0
+2x08	what's the emergency	0
+2x08	i got the mars rover stuck in a ditch	0
+2x08	where	0
+2x08	on a dusty highway	0
+2x08	just outside bakersfield	0
+2x08	where do you think	0
+2x08	on mars	0
+2x08	is everything okay	0
+2x08	yeah, baby, i'll be right in	0
+2x08	you brought a girl to the mars rover control room	0
+2x08	yeah, i picked her up in the bar	0
+2x08	she's a doctor	0
+2x08	one free barium enema,	0
+2x08	and my mother won't care	0
+2x08	she's not jewish	0
+2x08	wait a minute	1	1	nf
+2x08	so the eye patch and the insults worked	0
+2x08	no, there were three other guys	0
+2x08	with eye patches it was a fiasco	0
+2x08	what did work was, "how'd you like to visit a secret government facility"	0
+2x08	so what exactly	0
+2x08	do you want us to do	0
+2x08	you and raj help me	0
+2x08	get the rover out of the ditch	0
+2x08	and you get stephanie out	0
+2x08	before somebody notices her	0
+2x08	she doesn't exactly have clearance	0
+2x08	really	0
+2x08	they don't let strange	0
+2x08	women from honkytonks	0
+2x08	come in and play with $ million	0
+2x08	government projects on distant planets	0
+2x08	yes, i was bad	0
+2x08	maybe she'll spank me	0
+2x08	can we please move on	1	1	nf
+2x08	it's getting late,	0
+2x08	so do i get to drive this thing or what	0
+2x08	no i'm sorry,	0
+2x08	but something's come up	0
+2x08	kind of a mars rover	0
+2x08	mars rover	0
+2x08	can howard come over	0
+2x08	situation	0
+2x08	so my friend leonard is gonna take you home	0
+2x08	okay let's go, friend leonard	1	3	nf
+2x08	i'll call ya	0
+2x08	so are you a scientist like howard	0
+2x08	no one's a scientist like howard	0
+2x08	my mother is so gonna love her	0
+2x08	how nice maybe they can carpool	0
+2x08	when they visit you in federal prison	0
+2x08	i'm sorry	0
+2x08	i totally interrupted you	0
+2x08	what were you saying	0
+2x08	just said howard's a terrific guy	0
+2x08	he's got a great sense of humor	0
+2x08	he loves his mother	0
+2x08	a lot	0
+2x08	people say "too much"	0
+2x08	i really like	0
+2x08	that you're such a loyal friend	0
+2x08	yeah, i am loyal	0
+2x08	if you look at the big picture	0
+2x08	out of curiosity,	0
+2x08	did he ever have a shot with you	0
+2x08	are you insane	0
+2x08	the guy was wearing an eye patch	0
+2x08	then why did you	0
+2x08	he said that i could drive a car	0
+2x08	on mars	0
+2x08	got it	0
+2x08	so, can i see you again	0
+2x08	you're not gonna see me now	0
+2x08	cool	0
+2x08	anything	0
+2x08	actually, i was just	0
+2x08	checking my email	0
+2x08	but, no,	0
+2x08	the rover is not responding	0
+2x08	i believe the appropriate metaphor here involves a river of excrement and a native american water vessel without any means of propulsion	0
+2x08	hang on	1	1	nf
+2x08	there's got to be other options	0
+2x08	you could try calling triplea	0
+2x08	but based on nasa's latest timetable,	0
+2x08	they won't get there for  years	0
+2x08	plus i understand	0
+2x08	you have to be standing next to the vehicle with your card when they arrive	0
+2x08	oh, snap	0
+2x08	snap what	0
+2x08	i guess we have to turn to plan b	0
+2x08	what's plan b	0
+2x08	erase hard drives, scrap surveillance tapes, wipe our fingerprints off every surface and run	1	1	nf
+2x08	why wasn't that plan a	0
+2x08	a nasa spokesman states	0
+2x08	that due to the loss of data,	0
+2x08	they will most likely be unable to determine the cause	0
+2x08	of the mars rover's malfunction	0
+2x08	thank god for plan b	0
+2x08	didn't you say	0
+2x08	you worked on the mars rover	0
+2x08	no, you're mistaken	0
+2x08	when we first met,	0
+2x08	you said that if i went out with you,	0
+2x08	i could drive a car on mars	0
+2x08	i don't know	0
+2x08	what you're talking about	0
+2x08	will you all excuse me	0
+2x08	leonard is subtly signaling	0
+2x08	that he'd like to talk to me in private	0
+2x08	no i remember specifically	0
+2x08	you started by asking	0
+2x08	if i was from mars	0
+2x08	because my ass	0
+2x08	was out of this world	0
+2x08	that does sound like me,	0
+2x08	but no	0
+2x08	is there some problem	0
+2x08	listen, i have to kinda	0
+2x08	sneak out for a while	0
+2x08	all right, goodbye	0
+2x08	no, wait	1	1	ni
+2x08	if anyone asks you where i went, you don't know	1	1	nf
+2x08	where are you going	0
+2x08	i can't tell you that	0
+2x08	who would ask me	0
+2x08	i can't tell you that, either	0
+2x08	you brought me in here to inform me	0
+2x08	you can't tell me where you're going	0
+2x08	and you can't tell me	0
+2x08	who might ask	0
+2x08	yeah, i really didn't	0
+2x08	think this through	0
+2x08	leonard, a moment	1	1	nf
+2x08	what	0
+2x08	if someone, and of course,	0
+2x08	we don't know who this would be,	0
+2x08	does ask where you've gone,	0
+2x08	what should i say	0
+2x08	i don't know	0
+2x08	just tell 'em i went to the office	1	1	nf
+2x08	are you going to the office	0
+2x08	no	0
+2x08	then how can i say it convincingly	0
+2x08	just say,	0
+2x08	"leonard went to the office"	0
+2x08	all right	0
+2x08	leonard went to the office	0
+2x08	what is no, not like that	0
+2x08	just, "leonard went to the office"	0
+2x08	it would've worked out a lot better if you'd just told me you were going to the office	1	2	nf
+2x08	i'm going to the office	0
+2x08	see why don't i believe you	0
+2x08	i'm going out for a while	0
+2x08	doesn't anyone want to know	0
+2x08	where he's going	0
+2x08	okay, where is he going	0
+2x08	leonard is going to the office	0
+2x08	so how was work today	0
+2x08	busy	0
+2x08	i removed an appendix,	0
+2x08	a gall bladder	0
+2x08	and about a foot	0
+2x08	and a half of bowel	0
+2x08	i'm hoping that was	0
+2x08	three different guys	0
+2x08	no, just the one	0
+2x08	he didn't make it	0
+2x08	so, how was your day	0
+2x08	you know, i'm a physicist, so	0
+2x08	i thought about stuff	0
+2x08	that's it	0
+2x08	i wrote some of it down	0
+2x08	are you done eating	0
+2x08	yeah	0
+2x08	good	0
+2x08	if i knew you were waiting,	0
+2x08	i would've swallowed that lasagna whole	0
+2x08	you've reached dr stephanie barnett	0
+2x08	leave a message	1	3	nf
+2x08	it's me again, howard	0
+2x08	if you're free friday,	maybe we could have a little something to eat at my place	1	3	nf
+2x08	my mom cooks a hell of a brisket	0
+2x08	let me know	1	2	nf
+2x08	it's howard	0
+2x08	i've had her brisket	0
+2x08	melts in your mouth	0
+2x08	maybe we should think about going to the bedroom	1	3	nf
+2x08	good idea	0
+2x08	there's a bed in there,	0
+2x08	and i'm very, very, very probed	0
+2x08	you've reached dr stephanie barnett	0
+2x08	leave a message	1	1	nf
+2x08	hey, it's me again	0
+2x08	just want to let you know	0
+2x08	the head count for dinner friday has gone up	0
+2x08	my aunt betty and uncle elliot are coming in from palm springs	0
+2x08	if anybody should ask, you're half-jewish on your mother's side	1	3	nf	
+2x08	okay, call me	1	2	nf
+2x08	it's howard	0
+2x08	don't you think we should tell him you're not interested	1	4	ni
+2x08	do you want me to stop	0
+2x08	and call him back right now	0
+2x08	dear god, no	0
+2x08	you've reached dr stephanie barnett	0
+2x08	leave a message	1	1	nf
+2x08	hey, it's me again	0
+2x08	my cousins from fort lauderdale are flying in to meet you	0
+2x08	so that means we're gonna	0
+2x08	have to move the dinner to a restaurant	0
+2x08	tell her we're going to the olive garden	1	1	nf
+2x08	i have a coupon from the paper	0
+2x08	we're not going to the olive garden, ma	0
+2x08	mr bigshot with his red lobster	0
+2x08	i'll call you back	0
+2x08	when we firm up the details	0
+2x08	it's howard	0
+2x08	new shirts	0
+2x08	yeah, a couple	0
+2x08	nice	0
+2x08	thank you	0
+2x08	so, who's the girl	0
+2x08	i'm sorry	0
+2x08	well, last time you bought a new shirt	0
+2x08	was when we were dating	0
+2x08	so what we did	0
+2x08	was in fact dating	0
+2x08	well, yeah, we did have a date	0
+2x08	exactly thank you	0
+2x08	do me a favor, tell koothrappali that next time you see him	1	1	nf
+2x08	so, who is she	0
+2x08	she's a doctor	0
+2x08	nice	0
+2x08	a doctor doctor,	0
+2x08	or a you kind of doctor	0
+2x08	doctor doctor	0
+2x08	surgical resident	0
+2x08	smart, pretty	0
+2x08	let me ask you something	0
+2x08	if your friend thinks	0
+2x08	he's dating someone,	0
+2x08	but he's not because, in fact,	0
+2x08	you're dating her,	0
+2x08	does that make you a bad person	0
+2x08	that depends	0
+2x08	on what	0
+2x08	is that friend wolowitz	0
+2x08	screw him you're fine	0
+2x08	are you sure	0
+2x08	well, have you slept with her yet	0
+2x08	you dog	0
+2x08	good for you	0
+2x08	does that change things	0
+2x08	no	0
+2x08	so why'd you ask	0
+2x08	i'm nosy	0
+2x08	see ya	0
+2x08	howard, get the door	1	1	nf
+2x08	really is that what you do	0
+2x08	when someone knocks	0
+2x08	thank you i had no idea	0
+2x08	hey, buddy what brings you to my little slice of hell	0
+2x08	who is it	0
+2x08	it's leonard	0
+2x08	you're gonna have to play outside	1	1	nf
+2x08	i'm not dressed to receive	0
+2x08	no one cares, ma	0
+2x08	so, what's up	0
+2x08	listen, i need to talk to you	0
+2x08	about something	0
+2x08	momentito	1	1	nf
+2x08	yello	0
+2x08	thanks for calling me back	0
+2x08	i was worried	0
+2x08	no, i understand	0
+2x08	sure, we can be friends	0
+2x08	absolutely	0
+2x08	thanks for calling	0
+2x08	you have a nice day, too	1	4	nf
+2x08	you are dead to me	0
+2x08	who gets the extra dumpling	0
+2x08	rockpaperscissorslizardspock	0
+2x08	okay, one of us is going to have to stop putting up spock	1	1	nf
+2x08	how do we decide that	0
+2x08	hey, guys	0
+2x08	hello	0
+2x08	hi, howard	0
+2x08	howard is employing	0
+2x08	a schoolyard paradigm	0
+2x08	in which you are,	0
+2x08	for all intents and purposes, deceased	0
+2x08	he intends to act on this	0
+2x08	by not speaking to you,	0
+2x08	feigning an inability to hear you	0
+2x08	when you speak	0
+2x08	and otherwise refusing to acknowledge your existence	0
+2x08	that's just ridiculous	0
+2x08	why are you cooperating with him	0
+2x08	i don't make the rules, leonard	0
+2x08	howard, come on	0
+2x08	i didn't plan on this	0
+2x08	these things just happen	0
+2x08	usually not to me,	0
+2x08	but they do happen	0
+2x08	did someone just feel	0
+2x08	a cold breeze	0
+2x08	i believe this is an extension	0
+2x08	of the death metaphor	0
+2x08	the cold breeze is the socalled	0
+2x08	ectoplasmic issue	0
+2x08	of a disembodied soul passing by	0
+2x08	screw it	0
+2x08	i'm just gonna eat the dumpling	0
+2x08	come on in	1	1	nf
+2x08	is this a bad time	0
+2x08	yes, but i don't see	0
+2x08	a better one on the horizon	0
+2x08	if it isn't mrs dead to me	0
+2x08	i'm sorry, you violated	0
+2x08	the terms of your metaphor	0
+2x08	by acknowledging her existence	0
+2x08	i'm out	0
+2x08	he just won't listen to me	0
+2x08	okay, i guess it'll just be	0
+2x08	the three of us then	0
+2x08	lisa's gonna be disappointed	0
+2x08	lisa	0
+2x08	my roommate she just went through a really bad breakup,	0
+2x08	i thought she might like to meet somebody fun like you	0
+2x08	leonard, stephanie,	0
+2x08	you're alive	0
+2x08	it's a miracle	0
+2x08	so, anyway, lisa,	0
+2x08	i just wanted to tell you again	0
+2x08	how much i enjoyed the other night,	0
+2x08	and again,	0
+2x08	i'm sorry for how it ended	0
+2x08	but again, if you could	let me know about friday	1	2	nf
+2x08	my mother needs a head count	0
+2x08	so she can know	0
+2x08	how big a brisket to get	0
+2x08	howard, look at this	1	1	nf
+2x08	anyway, call me	1	1	nf
+2x08	it's howard	0
+2x08	it's unclear how the mars rover	0
+2x08	got into the crevice,	0
+2x08	but one thing's certain	0
+2x08	the data which it has sent back	0
+2x08	contain the first clear indications	0
+2x08	that there may have been	0
+2x08	life on mars	0
+2x08	it's a scientific discovery	0
+2x08	that has staggering implications	0
+2x08	for all mankind	0
+2x08	unfortunately, we'll never know	0
+2x08	who's responsible	0
+2x08	son of a bitch	0

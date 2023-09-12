@@ -1,0 +1,292 @@
+﻿3x12	look at us getting ready for a double date	1	1	nf
+3x12	with actual women who publicly acknowledge they're our girlfriends	0
+3x12	yes, actual women are the best	0
+3x12	i don't understand	0
+3x12	what other kind of women are there	0
+3x12	howard, artificial women are your department	0
+3x12	you want to take this	0
+3x12	no, it would just freak him out	0
+3x12	listen, before we leave,	1	1	nf
+3x12	i should warn you, i'm a passionate man and i tend towards public displays of affection	0
+3x12	what are you trying to tell me, howard	0
+3x12	there might be some making out in the car or the restaurant, and i don't want Bernadette to feel uncomfortable,	0
+3x12	so it would help if you and penny made out, too	1	1	nf
+3x12	don't worry	1	1	ni
+3x12	we're planning to have sex right on the salad bar	0
+3x12	namaste, white people	0
+3x12	good news	0
+3x12	i rented us the four hour edition of watchmen	0
+3x12	got it seen it	0
+3x12	detailed analysis posted online	0
+3x12	well, then what are we going to do tonight	0
+3x12	uh, sorry, raj howard and i are going out to dinner with penny and bernadette yeah	0
+3x12	no more carefree bachelor nights for me and leonard	0
+3x12	these broncos have been saddled	0
+3x12	how did we get actual women	0
+3x12	great they get girlfriends,	0
+3x12	and they just abandon us	0
+3x12	it is great, isn't it	0
+3x12	we have a wonderful evening ahead of us we do	0
+3x12	oh, yes i just discovered i don't have enough room on my hard drive for a linux partition,	0
+3x12	so you and i are going to perform a full backup,	1	1	nf
+3x12	reinitialize and then reinstall all my operating systems	0
+3x12	i don't want to do that	0
+3x12	all right	0
+3x12	well, i'm going to perform full backup, reinitialize and then reinstall all my operating systems	0
+3x12	what about me	0
+3x12	well, i understand there are several types of artificial women	0
+3x12	maybe you should look into that	1	4	nf
+3x12	sync by honeybunny wwwaddicedcom	0
+3x12	dude, there's so many cool things we could be doing tonight look at the glendale galleria,	0
+3x12	"put on your best zoot suit, "it's a salute to swing music in the center court near macy's pm to  pm"	0
+3x12	huh huh	0
+3x12	a salute to zoot	1	1	nf
+3x12	sounds like a hoot	0
+3x12	i'm sorry, raj, i have no desire to salute any article of clothing tonight	0
+3x12	much less one that's linked to race riots in the s race riots	0
+3x12	the zoot suit riots	0
+3x12	oh	0
+3x12	i always thought that was some sort of after christmas sale	0
+3x12	well, then why don't we just go	to the galleria and walk around	1	1	ni
+3x12	but i don't need anything at the galleria	0
+3x12	do you need anything at the galleria	0
+3x12	no we would just walk around and see what's what	0
+3x12	that's a semantically null sentence	0
+3x12	okay, well, how about this from the university web site pm to  pm norton hall multipurpose room, "mixer for grad students and faculty "of the science and humanities departments "whether you split atoms or infinitives, this is the place to be"	0
+3x12	well, that's certainly amusing, but i have no interest	0
+3x12	come on, Sheldon, the world is filled with people doing things outside	0
+3x12	let's go outside	1	1	nf
+3x12	outside is good	0
+3x12	if outside is so good, why has mankind spent thousands of years trying to perfect inside	0
+3x12	i don't know, it's a marketing scheme	0
+3x12	please, sheldon, i'm a young, virile visitor from a foreign land and i need to strut my stuff let me offer you a compromise sometimes when i feel stifled and want a change of scenery, i use my imagination	0
+3x12	oh, boy	0
+3x12	one of my favorite places to visit is the two dimensional world described in edwin abbott's mathematical fantasy, "flatland"	0
+3x12	i don't want to go to flatland	0
+3x12	you're only saying that because you haven't been there	0
+3x12	i am now a hexagon in two dimensional space and can only perceive the edges of other objects	0
+3x12	oy	0
+3x12	is that you, raj i don't recognize your edge	0
+3x12	sheldon, i'm begging you i want to go to this mixer,	0
+3x12	and i don't want to go alone	1	1	ni
+3x12	well, you're in luck there's a mixer here in flatland	0
+3x12	oh, look, there's a sexually	1	1	nf
+3x12	attractive line segment	0
+3x12	you should chat her up	1	3	nf
+3x12	what	0
+3x12	tell her you're a circle	1	1	nf
+3x12	flatland gals are all hot for circles i hope you're hungry, Bernadette we're going to a terrific restaurant	0
+3x12	oh, yeah, i'm starved when you spend all day in a biolab, watching flesheating bacteria skeletonize small rodents, it really works up an appetite	0
+3x12	flesheating bacteria yet, i still want to kiss this woman what does that tell you	0
+3x12	that you'd be willing to die a horrible death on the off chance you'd get to second base	0
+3x12	oh, we're way past second base	0
+3x12	right, howard	0
+3x12	well, we kind of disagree about what the bases are	0
+3x12	how's your work going, penny any acting jobs	0
+3x12	well, the last big thing i did was this production of diary of anne frank above a bowling alley but i think things might be turning around pretty soon	0
+3x12	great how come	0
+3x12	well, promise you won't make fun of me	1	1	ni
+3x12	of course, i would never make fun of you	0
+3x12	okay	0
+3x12	well, i went to this psychic who told me that if i cut my hair, I'm going to get a national commercial	0
+3x12	wh seriously you're getting career advice from a psychic	0
+3x12	good job not making fun of her	0
+3x12	she's not one of those phonies, okay she wrote a book and has her own web site	0
+3x12	oh, gee, why didn't you say so	0
+3x12	they don't let just anyone have a web site	0
+3x12	why are you being such a jerk	0
+3x12	you're surprised	0
+3x12	your psychic tell you I was going to be a jerk	0
+3x12	bite me	1	2	nf
+3x12	come on, penny	0
+3x12	why don't you kids go ahead and chat	1	1	ni
+3x12	we're gonna make out back here	0
+3x12	i'm sliding into third	0
+3x12	thanks for coming with me	0
+3x12	thanks for giving me your limited edition green lantern lantern	0
+3x12	did you really have to bring it in with you	0
+3x12	what if evil strikes and my power ring runs low	0
+3x12	come on, let's get a drink	1	1	nf 
+3x12	i don't drink	0
+3x12	yeah, well i do and when my wingman is carrying a green lantern lantern, i drink a lot	0
+3x12	i'll have a screwdriver, please	1	1	nf
+3x12	don't be chintzy with the screw	1	1	ni
+3x12	i would like a root beer float	1	1	nf
+3x12	sheldon, they don't have ice cream	0
+3x12	they don't	0
+3x12	well, apparently, these people and i differ greatly on the definition of "party"	0
+3x12	he'll have a shirley temple	1	1	nf
+3x12	and don't be chintzy with the shirley	1	1	ni
+3x12	okay,	0
+3x12	let's check out the females	1	1	nf
+3x12	all right	0
+3x12	there's a female	0
+3x12	that's professor wilkinson's wife	0
+3x12	she's like  years old	0
+3x12	but she's female	0
+3x12	isn't that the game no	0
+3x12	i'm looking for a hookup	0
+3x12	oh, yes	0
+3x12	so, the point of this exercise is for you to find someone to copulate with	0
+3x12	not so loud,	0
+3x12	but ideally, yes	0
+3x12	thanks	0
+3x12	thank you	0
+3x12	and what is my function as "wingman"	0
+3x12	you help me run my game	1	1	nf
+3x12	okay what is your game	0
+3x12	when i lie through my teeth to a woman,	0
+3x12	you nod and agree	1	1	nf
+3x12	hey, that's pretty cool	0
+3x12	what is it	0
+3x12	it's a limited edition green lantern lantern	0
+3x12	my friend is looking for someone to copulate with	0
+3x12	you're very funny	0
+3x12	i'm abby	0
+3x12	i'm sheldon how do you do	0
+3x12	rajesh ramayan koothrappali	0
+3x12	call me raj	1	1	nf
+3x12	hi, raj	0
+3x12	where are you from	0
+3x12	the mysterious subcontinent of india	0
+3x12	ooh, india	0
+3x12	you know india i saw slumdog millionaire	0
+3x12	well, i'm a slumdog astrophysicist	0
+3x12	i thought your father was a gynecologist	0
+3x12	i'm sorry	0
+3x12	martha, come here	1	1	nf
+3x12	meet raj and sheldon	1	1	nf
+3x12	this is my friend, martha hi	0
+3x12	hello hello	0
+3x12	is that the limited edition green lantern lantern	0
+3x12	"in brightest day, in darkest night, no evil shall escape my sight"	0
+3x12	oh, that is so awesome	0
+3x12	thank you	0
+3x12	have you chosen one to copulate with	0
+3x12	so, what should we talk about	0
+3x12	well, we could always learn more about why people who believe in psychics are idiots	0
+3x12	leonard	0
+3x12	oh, we don't need to talk about that anymore	1	1	ni
+3x12	leonard covered it pretty well in the car	0
+3x12	i'm sorry, but facts are facts	0
+3x12	right, and if you can't understand it, it's not a fact	0
+3x12	no, if it's not a fact, it's not a fact	0
+3x12	oh, got it thank you for educating me	0
+3x12	you're welcome	0
+3x12	how's your fish	0
+3x12	amazing	0
+3x12	would you like to try some	1	3	nf
+3x12	yeah, sure well, the fact is, you can't	0
+3x12	come on, howard, bernadette, you're both scientists	0
+3x12	help me out here	1	1	nf
+3x12	what do you think want to jump right in the middle of another couple's argument	0
+3x12	no, thank you	0
+3x12	sorry	0
+3x12	maybe we should just stop talking about this	0
+3x12	maybe some of us should	stop talking altogether	1	1	nf
+3x12	how is everything tonight	0
+3x12	really uncomfortable	0
+3x12	you know, the best thing about being in a committed, monogamous, mutually supportive relationship is that even if you have different ideas, you can have a spirited debate, yet still care for, even make love with	0
+3x12	want your fish	0
+3x12	i knew you were going to do that	0
+3x12	doesn't make me psychic	0
+3x12	attaboy, leonard, make it worse	0
+3x12	american woman listen what i say	0
+3x12	what's going on	0
+3x12	we scored	0
+3x12	i'm the wingman	0
+3x12	american woman	0
+3x12	hey	0
+3x12	laser	1	1	nf 
+3X12	had a great night last night	0
+3x12	i don't like to kiss and tell, but somebody made it to eighth base	0
+3x12	what the hell is eighth base	0
+3x12	seventh base with shirt off well, my shirt	0
+3x12	how'd things go with penny	0
+3x12	oh couldn't be better	0
+3x12	are we taking	0
+3x12	our relationship frustrations out on innocent cylons	0
+3x12	it's not just cylons	0
+3x12	superman's next	0
+3x12	all right, i was going to try to squeeze in a little more mocking before lunch, but i can come back later when you don't have a highpowered weapon	0
+3x12	how can i go out with a woman who believes in psychics	0
+3x12	hey, i once dated a girl who believed she was abducted by aliens and that didn't bother you	0
+3x12	au contraire it meant she was gullible and open to a little probing	0
+3x12	what am i supposed to do, pretend i believe something I don't whenever i'm with penny	0
+3x12	hey, i'm sure penny fakes all kinds of things when she's with you	0
+3x12	do me a favor lean over,	1	1	nf
+3x12	put your head right here	1	1	nf
+3x12	let me show you another way to look at this	1	1	nf
+3x12	here we have the universe of all women these are the ones you want to sleep with these are the women who believe exactly what you believe these are the women who would be willing to sleep with and right there in the little triple intersection is your ideal mate odds are she's a short physicist with low self esteem who lives in a government research facility in china	0
+3x12	what's your point	0
+3x12	in order to keep having a sexual relationship with penny, i have to give up everything i believe in my intellectual integrity, the very nature of who i am	0
+3x12	i can't do that, howard	0
+3x12	i respect that	0
+3x12	what is that	0
+3x12	your new girlfriend	0
+3x12	have fun tonight	1	2	nf
+3x12	the dog	0
+3x12	koira	0
+3x12	the roof	0
+3x12	katto	0
+3x12	grapes	0
+3x12	ryp leet	0
+3x12	one minute	0
+3x12	sis  n	0
+3x12	what was that	0
+3x12	it means "come in"	0
+3x12	it's taking forever to load the new operating system on my computer	0
+3x12	i disinfected the kitchen and the bathroom, and now i thought i'd learn finnish	0
+3x12	that's hindi for ”whatever floats your boat"	0
+3x12	uh, listen, i got a text	1	1	nf
+3x12	from that girl abby, and she and her friend martha want to hang out with us again what do you say	0
+3x12	i don't say anything i merely offer you a facial expression	0
+3x12	that suggests you've gone insane	0
+3x12	i don't get it you had a great time	0
+3x12	yes, exactly, i had a great time that's done i've moved on to other things for example, after i learn finnish, I'm not going to learn finnish again	0
+3x12	please, sheldon, i'm a lost indian boy	1	1	nf
+3x12	far from home, and i want a girlfriend and i want her to be abby, and she'll only come over if she can bring martha	0
+3x12	raj, i highly doubt there is any argument you can make, threat you might levy, rhetorical strategy, plea, invocation, supplication, or vetoomus that you can employ that would convince me to reconsider	0
+3x12	my incredible hulk hands signed by stan lee	0
+3x12	oh, my i've admired these for years	0
+3x12	so does that mean we can go with the girls again	0
+3x12	hulk agree to second date with puny humans	0
+3x12	you can't wear the hands on the date	1	1	ni
+3x12	hulk sad	0
+3x12	hey	0
+3x12	cleaning out the old dryer lint, huh	0
+3x12	not only is it courteous, it's safety smart every year, , fires are caused by accidental dryer lint ignition now you're supposed to say, "wow, what an interesting fact "come here, you crazy, nerdy guy i could never be mad at you"	0
+3x12	wow, that's all you got after you were the most obnoxious person on a double date that included howard wolowitz	0
+3x12	no, i'm sorry I really am it's not right to mock what a person believes in	0
+3x12	thank you would you be willing to go to my psychic and see what it's all about	0
+3x12	would you be willing to read a book that concisely explains how all psychics are frauds	0
+3x12	i would not	0
+3x12	okay, let's go see your psychic	1	1	nf
+3x12	really	0
+3x12	well, yeah, one of us has to keep an open mind	0
+3x12	you saying i don't have an open mind	0
+3x12	no, nnot at all	0
+3x12	let me help you with this stuff	0
+3x12	you know, i believe in ghosts, too	0
+3x12	great and astrology	0
+3x12	i know, and pyramid power and healing crystals	0
+3x12	oh, no, no, no, crystals don't work	0
+3x12	really, that's the line	0
+3x12	psychics are real, but crystals are voodoo	0
+3x12	oh, voodoo's real you don't want to mess with voodoo	0
+3x12	flatland is more than just a mathematical essay	0
+3x12	it is also a treatise on victorian social mores	0
+3x12	you know, i had never considered that	0
+3x12	wow, that's going to completely change my visits there	0
+3x12	well, it's late	0
+3x12	uhhuh	0
+3x12	time for bed	0
+3x12	okay	0
+3x12	good night, puny human	0
+3x12	sheldon	0
+3x12	yes	0
+3x12	listen, they're kind of getting busy in the living room, and	0
+3x12	i was wondering if i could hang out in here for a while	1	1	nf
+3x12	well, i suppose	0
+3x12	come in	1	1	nf
+3x12	i'll sleep in leonard's room good night	0

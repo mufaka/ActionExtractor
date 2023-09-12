@@ -1,0 +1,607 @@
+﻿4x08	okay, help me out here	1	1	nf
+4x08	how does an archeology professor get that good with a whip	0
+4x08	maybe he took a class	0
+4x08	at the adult bookstore	0
+4x08	that's how i learned	0
+4x08	i can't believe you've never	0
+4x08	seen raiders of the lost ark	0
+4x08	and i can't believe you've	0
+4x08	never read eat, pray, love	0
+4x08	when she comes out with	eat, pray, run away from a	0
+4x08	giant boulder, i'll read it	0
+4x08	i don't care if eat, pray, love	0
+4x08	changed your life,	0
+4x08	i'm not reading it	0
+4x08	you know, i could totally rock a hat like that	0
+4x08	that's the work of noted	0
+4x08	hollywood costume designer	0
+4x08	deborah nadoolman	0
+4x08	she also designed	0
+4x08	the iconic red and black jacket	0
+4x08	in michael jackson's	0
+4x08	thriller video,	0
+4x08	which i've never viewed	0
+4x08	in its entirety,	0
+4x08	as i find zombies dancing	0
+4x08	in choreographed synchronicity	0
+4x08	implausible	0
+4x08	and also, it's really scary	0
+4x08	would someone please turn off the sheldon commentary track	1	1	nf
+4x08	there's no switch	0
+4x08	just listen and learn	1	1	nf
+4x08	penny, if you think	0
+4x08	this is good,	0
+4x08	you should come with us friday to see it on the big screen at the colonial	1	3	nf
+4x08	well, i'm watching it now	0
+4x08	why would i want to see it again	0
+4x08	on friday	0
+4x08	because the print	0
+4x08	they're showing on friday	0
+4x08	has an additional  seconds	0
+4x08	of previously unseen footage	0
+4x08	seconds that'll be like	0
+4x08	seeing a whole new movie	0
+4x08	exactly	0
+4x08	they say it finally solves	0
+4x08	the submarine controversy	0
+4x08	did leonard	0
+4x08	i'm no expert, but i believe	0
+4x08	what we just heard from penny	0
+4x08	was sarcasm	0
+4x08	oh good	0
+4x08	i'm eight for  this month	0
+4x08	yeah, i think i'll pass	0
+4x08	but you guys enjoy	0
+4x08	your extra  seconds	0
+4x08	bet if i could	0
+4x08	make you understand	0
+4x08	why this is such a cool thing,	0
+4x08	we'd still be together	0
+4x08	mm, yeah, no,	0
+4x08	we wouldn't	0
+4x08	uhhuh	0
+4x08	i'm guessing  seconds had	0
+4x08	something to do with that, too	0
+4x08	may i point out to you all	0
+4x08	that the screening is	0
+4x08	"first come, first served"	0
+4x08	relax, it's  the movie	0
+4x08	doesn't start till midnight	0
+4x08	another way of saying that is	0
+4x08	"the movie starts at midnight,	0
+4x08	and it's already "	0
+4x08	let's go	1	1	nf
+4x08	you know, if we miss it,	0
+4x08	we'll have the fun of	0
+4x08	listening to sheldon whine about	0
+4x08	it for the rest of our lives see howard's on my side	0
+4x08	actually, i'm not	0
+4x08	i'm using sarcasm to mock you	0
+4x08	drat now i'm  for	0
+4x08	don't worry, sheldon	1	1	ni
+4x08	we'll be fine	0
+4x08	what happened to the leonard hofstadter	0
+4x08	who waited in line	0
+4x08	with me for  hours	0
+4x08	to see the midnight premiere	0
+4x08	of star trek nemesis	0
+4x08	oh well, he waited	0
+4x08	in line for  hours,	0
+4x08	while you napped	0
+4x08	in a lawn chair,	0
+4x08	he got in a fight	0
+4x08	with a klingon	0
+4x08	when he stepped	0
+4x08	out of line to pee	0
+4x08	and you wouldn't wake up	0
+4x08	to vouch for him,	0
+4x08	and worst of all,	0
+4x08	he saw star trek nemesis	0
+4x08	but how were our seats	0
+4x08	excellent	0
+4x08	i rest my case	0
+4x08	amy, don't you agree we should	0
+4x08	leave now and get in line	0
+4x08	actually, as the newest member	0
+4x08	of your social group,	0
+4x08	i believe i'll gain more	0
+4x08	acceptance by arbitrarily	0
+4x08	siding with your friends	0
+4x08	from time to time	0
+4x08	shrewd	0
+4x08	leonard, you're right	0
+4x08	we should enjoy our meal, arrive late,	0
+4x08	and risk winding up	0
+4x08	with terrible seats,	0
+4x08	assuming we get in at all	0
+4x08	thank you, amy	0
+4x08	see it's working	0
+4x08	knockknock	0
+4x08	who's there	0
+4x08	olive	0
+4x08	olive you, too	0
+4x08	guys, that's really	0
+4x08	starting to get old	0
+4x08	knockknock	0
+4x08	who's there	0
+4x08	i have a girlfriend	0
+4x08	and you don't	0
+4x08	hysterical	0
+4x08	wait, now, we don't know	0
+4x08	that yet he isn't finished	0
+4x08	i have a girlfriend	0
+4x08	and you don't who	0
+4x08	so are you sure you don't want	0
+4x08	to come with us to raiders	0
+4x08	oh, no that movie has melting faces	0
+4x08	it reminds me	0
+4x08	too much of the time	0
+4x08	i dropped that vial of	0
+4x08	flesheating bacteria	0
+4x08	into the rhesus monkey lab	0
+4x08	besides, penny and i are having	0
+4x08	a girls' night tonight	0
+4x08	girls' night	0
+4x08	what does that entail	0
+4x08	oh, you know, girls get	0
+4x08	together,	0
+4x08	hang out, share girl talk	0
+4x08	i'm a girl	0
+4x08	oh well, maybe you can join us	0
+4x08	i'll ask penny	0
+4x08	no need penny and i	0
+4x08	are very close	0
+4x08	you are	0
+4x08	yes in fact,	0
+4x08	our menses are synchronized	0
+4x08	penny	0
+4x08	bernadette tells me you're	0
+4x08	planning a girls' night	0
+4x08	yeah	0
+4x08	i'm a girl	0
+4x08	oh um, it was it was just	0
+4x08	going to be me and bernadette	0
+4x08	besides, i thought you	0
+4x08	were going to the movies	0
+4x08	with sheldon and the guys	0
+4x08	yes, but they're not girls	0
+4x08	i'm a girl	0
+4x08	yeah, no, no,	0
+4x08	iii got that	0
+4x08	what's the dress code	0
+4x08	uh, just wear something comfortable	1	4	nf
+4x08	all right	0
+4x08	i'll have to go shopping	0
+4x08	knockknock	0
+4x08	who is there	0
+4x08	hugh	0
+4x08	hugh who	0
+4x08	hugh people need to listen to me	1	1	nf
+4x08	it's time to get in line for the movie	1	1	nf
+4x08	and that's how you tell	0
+4x08	a knockknock joke	0
+4x08	under normal circumstances	0
+4x08	i'd say, "i told you so"	0
+4x08	but as i have told you so	0
+4x08	with such vehemence	0
+4x08	and frequency already,	0
+4x08	the phrase has lost all meaning	0
+4x08	therefore, i will be	0
+4x08	replacing it with the phrase	0
+4x08	"i informed you thusly"	0
+4x08	ooh can't wait	0
+4x08	for that to start	0
+4x08	i informed you thusly	0
+4x08	eight for	0
+4x08	this is where we could have been	0
+4x08	if we hadn't stopped for dinner	0
+4x08	this is where we could have been	0
+4x08	if koothrappali	0
+4x08	hadn't ordered dessert	0
+4x08	well i earned it, dude,	0
+4x08	i ate all my broccoli	0
+4x08	and here's where we are	0
+4x08	the runts in a large litter	0
+4x08	unlikely to ever reach	0
+4x08	the nourishing teats	0
+4x08	of indiana jones	0
+4x08	so i guess it's a good thing	0
+4x08	we stopped for dinner	0
+4x08	you know, guys, when	0
+4x08	facing disappointment,	0
+4x08	eat, pray, love  teaches us	0
+4x08	oh, shut up	1	1	nf
+4x08	so anyway, to make	0
+4x08	a long story short,	0
+4x08	turns out i have	0
+4x08	an unusually firm cervix	0
+4x08	you	0
+4x08	amy, when we say "girl talk,"	0
+4x08	it doesn't just have to	0
+4x08	be about our lady parts	0
+4x08	shame 'cause i have a real	0
+4x08	zinger about my titled uterus	0
+4x08	penny, your nails look great	0
+4x08	oh, thanks i found	0
+4x08	this place in alhambra	0
+4x08	it's in a woman's basement	0
+4x08	i think it's a front	0
+4x08	for human trafficking,	0
+4x08	but they do a really good job	0
+4x08	a colleague of mine did her	0
+4x08	graduate thesis on the fungus	0
+4x08	that grows on improperly	0
+4x08	sterilized manicure implements	0
+4x08	well don't tell me that's not "girl talk"	1	1	ni
+4x08	so where should	0
+4x08	we go tonight	0
+4x08	a bar a club a movie	0
+4x08	or we could just stay here	1	1	nf
+4x08	yes, and continue to bond	0
+4x08	i have a feeling	0
+4x08	that after tonight,	0
+4x08	one of you will become	0
+4x08	my best friend forever	0
+4x08	or "bff," if you prefer	0
+4x08	which i don't	0
+4x08	all right, time to open	0
+4x08	bachelor number two	0
+4x08	gee, i don't know	0
+4x08	if i should drink more	0
+4x08	i have to drive home,	0
+4x08	and i've got enough trouble	0
+4x08	seeing over the dashboard	0
+4x08	as it is	0
+4x08	that's okay	0
+4x08	you can just sleep here	1	1	nf
+4x08	oh, good, a slumber party	0
+4x08	we'll do makeovers,	0
+4x08	initiate phony phone calls,	0
+4x08	and have spirited pillow fights	0
+4x08	in our frilly nighties	0
+4x08	oh, gosh, amy	0
+4x08	i don't know if i would call	0
+4x08	this an actual slumber party	0
+4x08	well, that's disappointing	0
+4x08	i've always wanted to be	0
+4x08	invited to a slumber party	0
+4x08	oh, you never were	0
+4x08	not even when	0
+4x08	you were a kid	0
+4x08	well, there was the time	0
+4x08	i had my tonsils out,	0
+4x08	and i shared a room with	0
+4x08	a little vietnamese girl	0
+4x08	she didn't make it	0
+4x08	through the night,	0
+4x08	but up till then,	0
+4x08	it was kind of fun	0
+4x08	okay well, i guess we're	0
+4x08	having a slumber party	0
+4x08	oh	0
+4x08	pillow fight	0
+4x08	oh, i hope they	0
+4x08	let us in soon	0
+4x08	i'm tired of running to the gas	0
+4x08	station to use the bathroom	0
+4x08	the guy makes me buy	0
+4x08	a gatorade every time	0
+4x08	it's a vicious circle	0
+4x08	too bad you don't have	0
+4x08	a stadium pal like me	0
+4x08	what's a stadium pal	0
+4x08	let me put it this way	0
+4x08	takes care of	0
+4x08	the bathroom problem,	0
+4x08	and it keeps your calf warm	0
+4x08	hey, guys, bad news	0
+4x08	i just did a quick calculation	0
+4x08	given the size of the theater	0
+4x08	and the length of this line,	0
+4x08	we might not get seats	0
+4x08	what did he say	0
+4x08	nice going, raj	0
+4x08	just got him down for his nap	0
+4x08	we might not get seats	0
+4x08	it's fine, it's fine	0
+4x08	go back to sleep	1	1	nf
+4x08	oh, i informed you thusly	0
+4x08	i so informed you thusly	0
+4x08	howard, you talk to him	1	1	nf
+4x08	howard	0
+4x08	you're peeing,	0
+4x08	aren't you	0
+4x08	hey, look who's here	0
+4x08	hey, buddies	0
+4x08	well, if it isn't wil wheaton,	0
+4x08	the jar jar binks	0
+4x08	of the star trek universe	0
+4x08	meesa think that very funny	0
+4x08	well, yousa can go think that at the back of the line	1	4	nf
+4x08	no cuts, no buts, no coconuts	1	3	ni
+4x08	wil wheaton	0
+4x08	yeah	0
+4x08	i'm a big fan	0
+4x08	of what poorly	0
+4x08	executed beards	0
+4x08	do you think you could get me and my friends into the movie	1	1	nf
+4x08	we got here	0
+4x08	a little late	0
+4x08	no problem 	0
+4x08	come on,	1	1	nf
+4x08	i'll hook you up	0
+4x08	awesome	0
+4x08	wesa gonna go into	0
+4x08	the movie now byebye	0
+4x08	this is indiana jones,	0
+4x08	not star trek	0
+4x08	there should be no value	0
+4x08	to his pseudocelebrity here	0
+4x08	and even at	0
+4x08	star trek conventions,	0
+4x08	they only let him in	0
+4x08	if he helps set up	0
+4x08	calm down, sheldon	1	1	nf
+4x08	i will not calm down	0
+4x08	this affront to justice and	0
+4x08	decency cannot go unanswered	0
+4x08	as captain jeanluc picard	0
+4x08	once said,	0
+4x08	"the line must be drawn here	0
+4x08	"this far, no farther"	0
+4x08	had to wake him up	0
+4x08	from his nap, didn't you	0
+4x08	you know what i really love	0
+4x08	about howard	0
+4x08	his chest hair	0
+4x08	howard has a hairy chest	0
+4x08	no, just the one	0
+4x08	but it's really long	0
+4x08	okay, there you go	0
+4x08	sultry sunrise red	0
+4x08	what do you think	0
+4x08	my nails have never	0
+4x08	looked so pretty before	0
+4x08	get it off	1	1	nf
+4x08	oh, oh, uh, looks like	0
+4x08	they're getting ready	0
+4x08	to let people in listen to what mr wil wheaton is tweeting	0
+4x08	"best seats in house	0
+4x08	for raiders screening	0
+4x08	suck on that, sheldon cooper"	1	2	nf
+4x08	why do you read	0
+4x08	his twitter feed	0
+4x08	you know it's only	0
+4x08	going to upset you	0
+4x08	i believe in knowing	0
+4x08	my enemy, leonard	0
+4x08	had twitter existed at the time,	0
+4x08	would not general custer	0
+4x08	have followed the tweets	0
+4x08	of sitting bull	0
+4x08	would not lee have	0
+4x08	followed grant	0
+4x08	would not spy have followed spy	0
+4x08	i have more examples,	0
+4x08	but excuse me	0
+4x08	hello	0
+4x08	well, this seems	0
+4x08	like an odd time	0
+4x08	to test my cell phone quality,	0
+4x08	but go on	1	1	nf
+4x08	test phrases all right	0
+4x08	imatote	0
+4x08	ulba	0
+4x08	twad	0
+4x08	all together	0
+4x08	i'm a total buttwad	0
+4x08	why are you laughing	0
+4x08	hello	0
+4x08	and that, girls, is how you make	0
+4x08	a phony phone call	0
+4x08	i'm not sure i grasp	0
+4x08	the full entertainment value,	0
+4x08	but all right	0
+4x08	next on wikipedia's list	0
+4x08	of slumber party activities	0
+4x08	"truth or dare"	0
+4x08	okay, it's your game	0
+4x08	you go first	1	1	nf
+4x08	hang on i'm familiarizing	0
+4x08	myself with the rules	0
+4x08	seems fairly straightforward	0
+4x08	bernadette, truth or dare	0
+4x08	truth	0
+4x08	all right	0
+4x08	to what temperature	0
+4x08	must you heat beef	0
+4x08	in order to	0
+4x08	kill the prion	0
+4x08	that causes bovine	0
+4x08	spongiform encephalopathy	0
+4x08	um	0
+4x08	remember, you have to answer honestly	1	1	nf
+4x08	wait no, amy, you're	0
+4x08	supposed to ask her	0
+4x08	something personal	0
+4x08	or embarrassing	0
+4x08	oh	0
+4x08	all right	0
+4x08	what is the circumference	0
+4x08	of your areolas	0
+4x08	"munching on	0
+4x08	complimentary popcorn	0
+4x08	woot, woot"	0
+4x08	oh, the gall	0
+4x08	i hope his next tweet is	0
+4x08	"popcorn lodged in trachea	0
+4x08	"choking to death	0
+4x08	woot, woot"	0
+4x08	guys, i am sorry	0
+4x08	we are full up	0
+4x08	no	0
+4x08	we're full up	0
+4x08	we really want	0
+4x08	to see this	0
+4x08	isn't there anything you can do	1	1	ni
+4x08	sorry fire regulations	0
+4x08	should've gotten here earlier	0
+4x08	this is nothing but a	0
+4x08	blatant abuse of power	0
+4x08	by a petty functionary	0
+4x08	explain to me why wil wheaton and his lackeys get in and we don't	1	1	ni
+4x08	'cause i'm the petty functionary	0
+4x08	with a clipboard, bitch	0
+4x08	i guess that's that	0
+4x08	let's go home	1	1	nf
+4x08	you know what	0
+4x08	i'm going back to	0
+4x08	"i told you so"	0
+4x08	i told you so	0
+4x08	we can still see something	0
+4x08	oh, the new sandra bullock movie	0
+4x08	is playing two blocks away	0
+4x08	you know sandy b	0
+4x08	always brings it	0
+4x08	look a side door	1	1	nf
+4x08	come on, short round	1	1	nf
+4x08	i guess we'd better	0
+4x08	go after him	0
+4x08	short round	0
+4x08	indy's young sidekick	0
+4x08	from temple of doom	0
+4x08	yeah, i know who it	0
+4x08	is, but why is it me	0
+4x08	you're right it should	0
+4x08	be a cuddly asian boy	0
+4x08	like me	0
+4x08	"and absolon hath	0
+4x08	kist hir nether ye,	0
+4x08	"and nicholas is scalded	0
+4x08	in the towte	0
+4x08	this tale is doon,	0
+4x08	and god save al the rowte"	0
+4x08	what the hell was that	0
+4x08	bernadette dared me to	0
+4x08	tell a dirty story	0
+4x08	"the miller's tale" by chaucer	0
+4x08	is the dirtiest story i know	0
+4x08	it would have been hidden	0
+4x08	in sock drawers	0
+4x08	if people in the th century	0
+4x08	had worn socks	0
+4x08	i thought it was pretty spicy	0
+4x08	especially the part	0
+4x08	where he kisses her nether ye	0
+4x08	you might not	0
+4x08	like it as much	0
+4x08	if you knew what	0
+4x08	"nether ye" meant	0
+4x08	if one cares	0
+4x08	about hygiene,	0
+4x08	one ought not be kissing it	0
+4x08	okay, my turn	0
+4x08	penny, truth or dare	0
+4x08	truth	0
+4x08	why are you still hanging out	0
+4x08	with leonard so much	0
+4x08	even though you broke up	0
+4x08	with him	0
+4x08	oh, that's an	0
+4x08	excellent question	0
+4x08	for two people who claim to be	0
+4x08	no longer pairbonded,	0
+4x08	you spend an inordinate amount	0
+4x08	of time in each other's company	0
+4x08	yeah	0
+4x08	dare	0
+4x08	i don't believe the rules allow	0
+4x08	for an ex post facto	0
+4x08	option change	0
+4x08	yeah	0
+4x08	okay, look, just because we're	0
+4x08	not seeing each other anymore	0
+4x08	doesn't mean	0
+4x08	we can't be friends	0
+4x08	i mean, leonard's a great guy	0
+4x08	then, why did you terminate	0
+4x08	your relationship with him	0
+4x08	i don't know	0
+4x08	he got really serious,	0
+4x08	and i wasn't ready for it	0
+4x08	interesting	0
+4x08	how will you react	0
+4x08	if, in the future,	0
+4x08	you become ready for it,	0
+4x08	and leonard is unavailable,	0
+4x08	because another woman	0
+4x08	has realized that he is	0
+4x08	to use your words	0
+4x08	"a great guy"	0
+4x08	you can only ask one question	1	1	nf
+4x08	that one	0
+4x08	you know what,	0
+4x08	i don't want to play anymore	0
+4x08	well, i'm not sure	0
+4x08	how this is scored,	0
+4x08	but i believe	0
+4x08	we may have won	0
+4x08	sheldon	0
+4x08	sheldon	0
+4x08	where did he go	0
+4x08	we're looking for sheldon,	0
+4x08	not marmaduke	0
+4x08	you whistled	0
+4x08	what is that	0
+4x08	raiders of the lost ark	0
+4x08	with  additional seconds	0
+4x08	if i can't see it,	0
+4x08	no one else can see it	0
+4x08	sheldon, this is crazy	0
+4x08	no crazy was leaving	0
+4x08	the projection booth unattended	0
+4x08	listen to me	1	1	nf
+4x08	you are overtired	0
+4x08	you're not thinking right	0
+4x08	put the movie back before we get into trouble	1	1	nf
+4x08	trouble is my middle name,	0
+4x08	leonard	0
+4x08	actually, it's lee,	0
+4x08	but i prefer trouble	0
+4x08	oh, look who	0
+4x08	they let in	0
+4x08	don't worry, wil wheaton	1	2	ni
+4x08	i was just leaving	0
+4x08	come on, short round	1	1	nf
+4x08	yeah	0
+4x08	come on, guys	1	1	nf
+4x08	hurry up hurry up	1	1	nf
+4x08	let's see you run	0
+4x08	with a bag of urine	0
+4x08	strapped to your leg	0
+4x08	he's got the movie, get him	1	1	nf
+4x08	why is there never a pontoon	0
+4x08	plane when you need one	0
+4x08	she's been in there	0
+4x08	a long time	0
+4x08	clearly, losing truth or dare	0
+4x08	upset her	0
+4x08	perhaps we should try to take her mind off it with another popular slumber party activity	1	3	nf
+4x08	ooh, like what	0
+4x08	well, the internet suggests	0
+4x08	that slumber party guests	0
+4x08	often engage	0
+4x08	in harmless experimentation	0
+4x08	with lesbianism	0
+4x08	where exactly on the internet	0
+4x08	have you been looking	0
+4x08	penny	0
+4x08	oh, hey, amy	0
+4x08	look, i'm sorry i got	0
+4x08	so upset i just	0
+4x08	whoa, whoa, whoa	0
+4x08	what are you doing	0
+4x08	don't worry	1	1	ni
+4x08	i;ll avoid the nether ye	0
+4x08	i might have gone	0
+4x08	with eating raw cookie dough	0
