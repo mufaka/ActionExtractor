@@ -1,4 +1,6 @@
+import os
 import pandas as pd 
+import glob
 from SpacyAnalyzer import SpacyAnalyzer as sa 
 
 '''
@@ -39,9 +41,6 @@ def print_full(x):
     print(x)
     pd.reset_option('display.max_rows')
 
-# try reading from github directly
-url = "https://raw.githubusercontent.com/yiminxsisu/TV-AfD_Imperative_Corpus/master/TV_show/Classified_data/season_2_labeled/finallabeldata2x01.txt"
-
 '''
 The columns respectively are: 
     data source (in the formant of nxmm with 'n' indicating the season of the show and 'mm' representing the episode), 
@@ -53,25 +52,30 @@ The columns respectively are:
     need to find documentation on imperative category and affixal negative markers
 
 '''
-col_names = ["source", "text", "is_imperative", "category", "has_neg_mark", "ext1"] # some lines have extraneous field(s)
-df = pd.read_csv(url, sep="\t", names=col_names)
+def get_tvafd_dataframe():
+    tvafd_path_glob = f'tvafd_data{os.sep}*.txt'
+    tvafd_files = glob.glob(tvafd_path_glob)
+    merged_df = pd.DataFrame()
+    col_names = ["source", "text", "is_imperative", "category", "has_neg_mark", "ext1", "ext2"] # some lines have extraneous field(s)
 
-#print_full(df)
-#quit()
+    for file in tvafd_files:
+        df = pd.read_csv(file, sep="\t", names=col_names)
+        merged_df = pd.concat([merged_df, df])
+    return merged_df
 
-#df.reset_index()
-
+df = get_tvafd_dataframe()
 imperative_sentences = []
 
 for index, row in df.iterrows():
     # marked imperative?
     if (row["is_imperative"] == 1 and row["has_neg_mark"] == "nf"):
-        #imperative_sentences.append(f'{row["category"]}-{row["text"]}')
         imperative_sentences.append(f'{row["text"]}')
 
-print(*imperative_sentences, sep = "\n")
+#print(*imperative_sentences, sep = "\n")
 
 analyzer = sa("en_core_web_trf")
-analyzer.show_imperative_phrases_for_sentences(imperative_sentences)
+imperative_phrases = analyzer.get_imperative_phrases_for_sentences(imperative_sentences)
+print(*imperative_phrases, sep = "\n")
+#analyzer.show_imperative_phrases_for_sentences(imperative_sentences)
 # print_full(df)
 

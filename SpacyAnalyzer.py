@@ -97,7 +97,31 @@ class SpacyAnalyzer:
         print(doc)
         print(spans)
 
+    def get_imperative_phrases(self, doc):
+        patterns = [
+            [
+                {'POS': 'VERB', 'OP': '+'}, # require verb 1 or more times
+                {'TAG': 'VBD', 'OP': '!'}, # not a past tense verb
+                {'OP': '*'},
+                {'TAG': 'NN', 'OP': '+'}
+            ]
+        ]
+        matcher = Matcher(self.nlp.vocab)
+        matcher.add("verb-phrases", patterns)
+        matches = matcher(doc)
+        spans = [doc[start:end] for _, start, end in matches]
+        return list(spans)
+
     def show_imperative_phrases_for_sentences(self, sentences):
         sentence_docs = list(self.nlp.pipe(sentences))
         for sentence_doc in sentence_docs:
             self.show_imperative_phrases(sentence_doc)
+
+    def get_imperative_phrases_for_sentences(self, sentences):
+        imperative_phrases = []
+        sentence_docs = list(self.nlp.pipe(sentences))
+        for sentence_doc in sentence_docs:
+            imperatives = self.get_imperative_phrases(sentence_doc)
+            if len(imperatives) > 0:
+                imperative_phrases.append(imperatives)
+        return imperative_phrases
