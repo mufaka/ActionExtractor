@@ -1,10 +1,13 @@
 import spacy 
 from spacy.matcher import Matcher
+from spacy import displacy
 
 '''
 https://github.com/explosion/spaCy
 https://spacy.io/models for 'built in' models
 https://spacy.io/universe/category/models for available 3rd party models.
+
+WSL/WSL 2 tip: https://stackoverflow.com/questions/43397162/show-matplotlib-plots-and-other-gui-in-ubuntu-wsl1-wsl2
 
 models need to be loaded into the environment before being used
 eg:
@@ -140,6 +143,15 @@ class SpacyAnalyzer:
                 {'TAG': 'VB', 'OP': '+'},
                 {'POS': 'DET', 'OP': '+'},
                 {'TAG': 'NN', 'OP': '+'}
+            ],
+            [
+                {'TAG': 'VB', 'OP': '+'},
+                {'POS': 'DET', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'},
+                {'POS': 'ADP', 'OP': '+'},
+                {'POS': 'DET', 'OP': '+'},
+                {'TAG': 'NN', 'OP': '+'},
+                {'TAG': 'RB', 'OP': '+'}
             ]
         ]
         matcher = Matcher(self.nlp.vocab)
@@ -161,3 +173,15 @@ class SpacyAnalyzer:
             if len(imperatives) > 0:
                 imperative_phrases.append(imperatives)
         return imperative_phrases
+
+    def get_imperative_phrases_from_text(self, text):
+        doc = self.nlp(text)
+        return self.get_imperative_phrases(doc)
+
+    def show_morph_for_text(self, text):
+        doc = self.nlp(text)
+        self.show_morph(doc)
+
+    def display_parse_dependency(self, text):
+        doc = self.nlp(text)
+        displacy.serve(doc, style="dep")

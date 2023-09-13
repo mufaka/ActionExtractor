@@ -22,9 +22,48 @@ imperative_sentences = [
     "Hit the ball."
 ]
 
-imperative_phrases = analyzer.get_imperative_phrases_for_sentences(imperative_sentences)
-print(*imperative_phrases, sep = "\n")
+#imperative_phrases = analyzer.get_imperative_phrases_for_sentences(imperative_sentences)
+#print(*imperative_phrases, sep = "\n")
 
+# gpt prompt: "You are an origami teacher teaching students how to make a paper airplane. Give them all of the steps required to make an airplane."
+
+chatGPT_response = """
+1. Start with a rectangular sheet of paper.
+2. Fold the top two corners of the paper towards the center.
+3. Turn the paper over and fold the top two corners of the paper towards the center again.
+4. Flip the paper over again and fold the top of the paper downwards, so that the two flaps created in the previous steps meet in the middle.
+5. Fold the paper in half along the line created by the two flaps.
+6. Unfold the paper, and then fold the top corners of the paper inwards again.
+7. Turn the paper over and fold the top corners of the paper inwards again.
+8. Fold the two sides of the paper inwards, so that they meet in the middle.
+9. Flip the paper over and fold the two sides of the paper inwards again.
+10. Fold the front of the paper downwards, so that the two flaps created in the previous steps meet in the middle.
+11. Fold the wings of the paper plane downwards.
+12. Your paper plane is now finished!
+"""
+
+analyzer.display_parse_dependency("Turn the paper over and fold the top two corners of the paper towards the center again.")
+quit()
+
+
+#analyzer.show_morph_for_text(chatGPT_response)
+#quit()
+
+actions_from_text = analyzer.get_imperative_phrases_from_text(chatGPT_response)
+print(*actions_from_text, sep = "\n")
+
+'''
+Turn the paper
+Flip the paper
+fold the top
+Fold the paper
+Unfold the paper
+Turn the paper
+Flip the paper
+Fold the front
+'''
+
+#analyzer.show_morph_for_sentences(["Turn the paper over", "fold the top two corners", "Fold the wings of the paper plane downwards"])
 
 #analyzer.show_morph_for_sentences(imperative_sentences)
 #analyzer.show_imperative_phrases_for_sentences(imperative_sentences)
