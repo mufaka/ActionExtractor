@@ -107,14 +107,16 @@ class SpacyAnalyzer:
         # verbs and nouns use tag_, rest use pos_, OP is always + for now
         for token in doc:
             tokenDict = {}
+            op = '+'
             if token.pos_ == "NOUN" or token.pos_ == "VERB":
                 tokenDict['TAG'] = token.tag_
                 patternKey.append(f'TAG-{token.tag_}')
             else: 
                 tokenDict['POS'] = token.pos_ 
                 patternKey.append(f'POS-{token.pos_}')
+                op = '{1,2}'
             
-            tokenDict['OP'] = '+'
+            tokenDict['OP'] = op
             pattern.append(tokenDict)
         
         return ':'.join(patternKey), pattern 

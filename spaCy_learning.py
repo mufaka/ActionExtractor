@@ -1,6 +1,5 @@
-from SpacyAnalyzer import SpacyAnalyzer as sa 
-
-analyzer = sa("en_core_web_lg")
+from SpacyAnalyzer import SpacyAnalyzer as sa
+from SpacyAutoMatcher import SpacyAutoMatcher
 
 #analyzer.show_model_info() 
 #analyzer.show_pipeline_info()
@@ -44,15 +43,19 @@ chatGPT_response = """
 
 # what if we build matcher patterns on the fly from exemplary phrases?
 # the pattern builder can evolve over time to include wildcards or op hints
-patterns = analyzer.build_patterns(imperative_sentences)
-print(patterns)
+#patterns = analyzer.build_patterns(imperative_sentences)
+#print(patterns)
 
-actions_from_text = analyzer.get_matching_phrases(patterns, chatGPT_response)
+auto_matcher = SpacyAutoMatcher("en_core_web_trf")
+actions_from_text = auto_matcher.get_matching_phrases(imperative_sentences, chatGPT_response)
 print(*actions_from_text, sep = "\n")
+
+#analyzer = sa("en_core_web_lg")
+#actions_from_text = analyzer.get_matching_phrases(imperative_sentences, chatGPT_response)
+#print(*actions_from_text, sep = "\n")
 
 #analyzer.display_parse_dependency(chatGPT_response)
 #quit()
-
 
 #analyzer.show_morph_for_text(chatGPT_response)
 #quit()
