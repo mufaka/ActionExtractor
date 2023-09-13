@@ -13,13 +13,12 @@ analyzer = sa("en_core_web_lg")
 # https://en.wikipedia.org/wiki/Imperative_mood
 
 imperative_sentences = [
-    "Drive to the store.",
-    "Eat the apple if you want.",
-    "Have a nice trip!",
-    "I have to ask you to stop.",
-    "It would be great if you made us a drink.",
-    "Go to your cubicle!",
-    "Hit the ball."
+    "Drive to the store and buy some groceries",
+    "Eat the apple if you want",
+    "Have a nice trip",
+    "Go to your cubicle and finish your work",
+    "Hit the ball as hard as you can",
+    "Update the modifier and resubmit the claim"
 ]
 
 #imperative_phrases = analyzer.get_imperative_phrases_for_sentences(imperative_sentences)
@@ -42,26 +41,21 @@ chatGPT_response = """
 12. Your paper plane is now finished!
 """
 
-analyzer.display_parse_dependency("Turn the paper over and fold the top two corners of the paper towards the center again.")
-quit()
+# what if we build matcher patterns on the fly from exemplary phrases?
+# the pattern builder can evolve over time to include wildcards or op hints
+patterns = analyzer.build_patterns(imperative_sentences)
+actions_from_text = analyzer.get_matching_phrases(patterns, chatGPT_response)
+print(*actions_from_text, sep = "\n")
+
+#analyzer.display_parse_dependency(chatGPT_response)
+#quit()
 
 
 #analyzer.show_morph_for_text(chatGPT_response)
 #quit()
 
-actions_from_text = analyzer.get_imperative_phrases_from_text(chatGPT_response)
-print(*actions_from_text, sep = "\n")
-
-'''
-Turn the paper
-Flip the paper
-fold the top
-Fold the paper
-Unfold the paper
-Turn the paper
-Flip the paper
-Fold the front
-'''
+#actions_from_text = analyzer.get_imperative_phrases_from_text(chatGPT_response)
+#print(*actions_from_text, sep = "\n")
 
 #analyzer.show_morph_for_sentences(["Turn the paper over", "fold the top two corners", "Fold the wings of the paper plane downwards"])
 

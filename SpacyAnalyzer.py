@@ -184,4 +184,4 @@ class SpacyAnalyzer:
 
     def display_parse_dependency(self, text):
         doc = self.nlp(text)
-        displacy.serve(doc, style="dep")
+        displacy.serve(list(doc.sents), style="dep")
