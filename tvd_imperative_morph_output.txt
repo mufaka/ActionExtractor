@@ -1,0 +1,3461 @@
+############ MORPH ############
+screensaver
+screensaver			screensaver	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+okay, all right,let's assume your hypothesis
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+all			all	ADV	RB	advmod	xxx	True	True	{}
+right			right	ADV	RB	advmod	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+assume			assume	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+hypothesis			hypothesis	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+think back, leonard
+think			think	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+back			back	ADP	RP	prt	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+leonard			leonard	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+let's go to the tape
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+tape			tape	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+look at her reaction to the good night kiss
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+her			her	PRON	PRP$	poss	xxx	True	True	{'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'Poss': 'Yes', 'PronType': 'Prs'}
+reaction			reaction	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+to			to	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+good			good	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+night			night	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+kiss			kiss	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+and take down that camera
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+take			take	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+down			down	ADP	RP	prt	xxxx	True	True	{}
+that			that	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+camera			camera	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+give him time
+give			give	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+him			he	PRON	PRP	dative	xxx	True	True	{'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+time			time	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+fyi, the hot water is inadequate on machine two, so colors only, and four is still releasing the fabric softener too early in the cycle, so avoid using it for your delicates
+fyi			fyi	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+hot			hot	ADJ	JJ	amod	xxx	True	False	{'Degree': 'Pos'}
+water			water	NOUN	NN	nsubj	xxxx	True	False	{'Number': 'Sing'}
+is			be	AUX	VBZ	ROOT	xx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+inadequate			inadequate	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+on			on	ADP	IN	prep	xx	True	True	{}
+machine			machine	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+two			two	NUM	CD	nummod	xxx	True	True	{'NumType': 'Card'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+so			so	ADV	RB	cc	xx	True	True	{}
+colors			color	NOUN	NNS	conj	xxxx	True	False	{'Number': 'Plur'}
+only			only	ADV	RB	advmod	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+four			four	NUM	CD	nsubj	xxxx	True	True	{'NumType': 'Card'}
+is			be	AUX	VBZ	aux	xx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+still			still	ADV	RB	advmod	xxxx	True	True	{}
+releasing			release	VERB	VBG	conj	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+fabric			fabric	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+softener			softener	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+too			too	ADV	RB	advmod	xxx	True	True	{}
+early			early	ADV	RB	advmod	xxxx	True	False	{}
+in			in	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+cycle			cycle	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+so			so	CCONJ	CC	cc	xx	True	True	{'ConjType': 'Cmp'}
+avoid			avoid	VERB	VB	conj	xxxx	True	False	{'VerbForm': 'Inf'}
+using			use	VERB	VBG	xcomp	xxxx	True	True	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+delicates			delicate	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+sheldon, please
+sheldon			sheldon	PROPN	NNP	ROOT	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+
+############ MORPH ############
+if you're free friday night, i thought maybe we could go see a movie
+if			if	SCONJ	IN	mark	xx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'re			be	AUX	VBP	advcl	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+free			free	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+friday			friday	PROPN	NNP	compound	xxxx	True	False	{'Number': 'Sing'}
+night			night	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+thought			think	VERB	VBD	ROOT	xxxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+maybe			maybe	ADV	RB	advmod	xxxx	True	False	{}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+see			see	VERB	VB	advcl	xxx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+movie			movie	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+i just think you need to be careful how you phrase things, sir
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+think			think	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+need			need	VERB	VBP	ccomp	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+be			be	AUX	VB	xcomp	xx	True	True	{'VerbForm': 'Inf'}
+careful			careful	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+how			how	SCONJ	WRB	advmod	xxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+phrase			phrase	VERB	VBP	ccomp	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+things			thing	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sir			sir	PROPN	NNP	npadvmod	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you must release me from my oath
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+must			must	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+release			release	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+from			from	ADP	IN	prep	xxxx	True	True	{}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+oath			oath	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+sheldon, i'm working
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'m			be	AUX	VBP	aux	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+working			work	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+
+############ MORPH ############
+just forget i told you about me not graduating from community college
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+forget			forget	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+told			tell	VERB	VBD	ccomp	xxxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	dobj	xxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs'}
+about			about	ADP	IN	prep	xxxx	True	True	{}
+me			I	PRON	PRP	nsubj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+not			not	PART	RB	neg	xxx	True	True	{'Polarity': 'Neg'}
+graduating			graduate	VERB	VBG	pcomp	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+from			from	ADP	IN	prep	xxxx	True	True	{}
+community			community	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+college			college	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you promised me you would keep my secret, so just figure out a way to do it
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+promised			promise	VERB	VBD	ccomp	xxxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+would			would	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+keep			keep	VERB	VB	ccomp	xxxx	True	True	{'VerbForm': 'Inf'}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+secret			secret	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+so			so	ADV	RB	advmod	xx	True	True	{}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+figure			figure	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+way			way	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+to			to	PART	TO	aux	xx	True	True	{}
+do			do	VERB	VB	relcl	xx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+get out of bed
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+out			out	ADP	IN	prep	xxx	True	True	{}
+of			of	ADP	IN	prep	xx	True	True	{}
+bed			bed	NOUN	NN	pobj	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+we're switching
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+'re			be	AUX	VBP	aux	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+switching			switch	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+
+############ MORPH ############
+just get in the bed
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+in			in	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+bed			bed	NOUN	NN	pobj	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+are you boys roughhousing
+are			be	AUX	VBP	aux	xxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+boys			boy	NOUN	NNS	appos	xxxx	True	False	{'Number': 'Plur'}
+roughhousing			roughhouse	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+
+############ MORPH ############
+go to sleep
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+sleep			sleep	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+tell me the secret
+tell			tell	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+secret			secret	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+the other secret
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+other			other	ADJ	JJ	amod	xxxx	True	True	{'Degree': 'Pos'}
+secret			secret	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+please let it go, sheldon
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+can we please just go in
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+in			in	ADV	RB	advmod	xx	True	True	{}
+
+############ MORPH ############
+be a tool
+be			be	AUX	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+tool			tool	NOUN	NN	attr	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+go get yourself a little rebound stress release
+go			go	VERB	VB	intj	xx	True	True	{'VerbForm': 'Inf'}
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+yourself			yourself	PRON	PRP	dative	xxxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs', 'Reflex': 'Yes'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+rebound			rebound	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+stress			stress	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+release			release	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+do you have a second
+do			do	AUX	VBP	aux	xx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+have			have	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+second			second	ADJ	JJ	dobj	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+now that you're unattached,maybe we can revisit our previous attachment
+now			now	ADV	RB	advmod	xxx	True	True	{}
+that			that	SCONJ	IN	mark	xxxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'re			be	AUX	VBP	ccomp	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+unattached			unattached	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+maybe			maybe	ADV	RB	advmod	xxxx	True	False	{}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+revisit			revisit	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+our			our	PRON	PRP$	poss	xxx	True	True	{'Number': 'Plur', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+previous			previous	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+attachment			attachment	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+your place, we'll order chinese,you'll rent a movieartsy, but accessible then light petting, no coitus
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+place			place	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+order			order	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+chinese			chinese	PROPN	NNP	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you'll			you'll	PRON	PRP	nsubj	xxx'xx	False	False	{'PronType': 'Prs'}
+rent			rent	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+movieartsy			movieartsy	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+but			but	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+accessible			accessible	ADJ	JJ	conj	xxxx	True	False	{'Degree': 'Pos'}
+then			then	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+light			light	ADJ	JJ	compound	xxxx	True	False	{'Degree': 'Pos'}
+petting			petting	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+no			no	DET	DT	det	xx	True	True	{}
+coitus			coitus	NOUN	NN	appos	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+call me
+call			call	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+break out the red bull, it's time to rock mario, old school
+break			break	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+red			red	ADJ	JJ	compound	xxx	True	False	{'Degree': 'Pos'}
+bull			bull	PROPN	NNP	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'s			be	AUX	VBZ	ROOT	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+time			time	NOUN	NN	attr	xxxx	True	False	{'Number': 'Sing'}
+to			to	PART	TO	aux	xx	True	True	{}
+rock			rock	VERB	VB	relcl	xxxx	True	False	{'VerbForm': 'Inf'}
+mario			mario	PROPN	NNP	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+old			old	ADJ	JJ	amod	xxx	True	False	{'Degree': 'Pos'}
+school			school	NOUN	NN	appos	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+nevertheless, i have one now and i'd appreciate it if you would,make yourself scarce
+nevertheless			nevertheless	ADV	RB	advmod	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+one			one	NUM	CD	dobj	xxx	True	True	{'NumType': 'Card'}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'d			would	AUX	MD	aux	'x	False	True	{'VerbForm': 'Fin'}
+appreciate			appreciate	VERB	VB	conj	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+if			if	SCONJ	IN	mark	xx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+would			would	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+make			make	VERB	VB	advcl	xxxx	True	True	{'VerbForm': 'Inf'}
+yourself			yourself	PRON	PRP	nsubj	xxxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs', 'Reflex': 'Yes'}
+scarce			scarce	ADJ	JJ	ccomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+could you just give us a little privacy
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+give			give	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+us			we	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+privacy			privacy	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+i am a modern day napoleon exiled to the elba of the staircasebecause leonard, get this, has a date
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+am			be	AUX	VBP	ROOT	xx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+modern			modern	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+day			day	NOUN	NN	compound	xxx	True	False	{'Number': 'Sing'}
+napoleon			napoleon	PROPN	NNP	attr	xxxx	True	False	{'Number': 'Sing'}
+exiled			exile	VERB	VBN	acl	xxxx	True	False	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+to			to	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+elba			elba	PROPN	NNP	pobj	xxxx	True	False	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+staircasebecause			staircasebecause	PROPN	NNP	pobj	xxxx	True	False	{'Number': 'Sing'}
+leonard			leonard	PROPN	NNP	nsubj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+get			get	VERB	VB	parataxis	xxx	True	True	{'VerbForm': 'Inf'}
+this			this	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+has			have	VERB	VBZ	ccomp	xxx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+date			date	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+no popcorn at the mo listen to yourself
+no			no	DET	DT	det	xx	True	True	{}
+popcorn			popcorn	NOUN	NN	dep	xxxx	True	False	{'Number': 'Sing'}
+at			at	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+mo			mo	NOUN	NN	pobj	xx	True	False	{'Number': 'Sing'}
+listen			listen	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+yourself			yourself	PRON	PRP	pobj	xxxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs', 'Reflex': 'Yes'}
+
+############ MORPH ############
+continue
+continue			continue	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+i believe protocol dictates you wait a minimum of 18 hours before you callso i'm not repulsed by your cloying eagerness
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+believe			believe	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+protocol			protocol	NOUN	NN	nsubj	xxxx	True	False	{'Number': 'Sing'}
+dictates			dictate	VERB	VBZ	ccomp	xxxx	True	False	{'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+wait			wait	VERB	VBP	ccomp	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+minimum			minimum	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+18			18	NUM	CD	nummod	dd	False	False	{'NumType': 'Card'}
+hours			hour	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+before			before	SCONJ	IN	mark	xxxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+callso			callso	ADP	IN	advcl	xxxx	True	False	{}
+i			I	PRON	PRP	nsubjpass	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'m			be	AUX	VBP	auxpass	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+not			not	PART	RB	neg	xxx	True	True	{'Polarity': 'Neg'}
+repulsed			repulse	VERB	VBN	advcl	xxxx	True	False	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+by			by	ADP	IN	agent	xx	True	True	{}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+cloying			cloying	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+eagerness			eagerness	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+that's enough
+that			that	PRON	DT	nsubj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+'s			be	AUX	VBZ	ROOT	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+enough			enough	ADJ	JJ	acomp	xxxx	True	True	{'Degree': 'Pos'}
+
+############ MORPH ############
+call me
+call			call	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+you can go dressed as a star trek science officerexploring a planet similar to earth in the 1500s
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+dressed			dress	VERB	VBN	advcl	xxxx	True	False	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+as			as	ADP	IN	prep	xx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+star			star	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+trek			trek	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+science			science	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+officerexploring			officerexplore	VERB	VBG	pcomp	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+planet			planet	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+similar			similar	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+to			to	ADP	IN	prep	xx	True	True	{}
+earth			earth	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+in			in	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+1500s			1500	NOUN	NNS	pobj	ddddx	False	False	{'Number': 'Plur'}
+
+############ MORPH ############
+let's do it
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+do			do	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+you can either sit with me, your friend, colleague and roommateor with an overrated scientist you might have sex with
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+either			either	CCONJ	CC	preconj	xxxx	True	True	{'ConjType': 'Cmp'}
+sit			sit	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+me			I	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+friend			friend	NOUN	NN	conj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+colleague			colleague	NOUN	NN	conj	xxxx	True	False	{'Number': 'Sing'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+roommateor			roommateor	NOUN	NN	conj	xxxx	True	False	{'Number': 'Sing'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+an			an	DET	DT	det	xx	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+overrated			overrated	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+scientist			scientist	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+might			might	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+have			have	VERB	VB	relcl	xxxx	True	True	{'VerbForm': 'Inf'}
+sex			sex	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+
+############ MORPH ############
+penny, hold on
+penny			penny	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+hold			hold	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+excuse me
+excuse			excuse	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+sheldon, come back
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+back			back	ADV	RB	advmod	xxxx	True	True	{}
+
+############ MORPH ############
+are you gonna let me talk
+are			be	AUX	VBP	aux	xxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+gon			gon	AUX	VBG	aux	xxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+na			na	AUX	VBG	aux	xx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	nsubj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+talk			talk	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+wait a minute
+wait			wait	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+minute			minute	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+hop, you little plumber, hop, hop, hop
+hop			hop	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nmod	xxx	True	True	{'Person': '2', 'PronType': 'Prs'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+plumber			plumber	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+hop			hop	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+hop			hop	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+hop			hop	INTJ	UH	intj	xxx	True	False	{}
+
+############ MORPH ############
+if the word is pee-pee, just do it
+if			if	SCONJ	IN	mark	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+word			word	NOUN	NN	nsubj	xxxx	True	False	{'Number': 'Sing'}
+is			be	AUX	VBZ	advcl	xx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+pee			pee	NOUN	NN	attr	xxx	True	False	{'Number': 'Sing'}
+-			-	PUNCT	HYPH	punct	-	False	False	{'PunctType': 'Dash'}
+pee			pee	NOUN	NN	attr	xxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+do			do	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+you kids have fun
+you			you	PRON	PRP	nmod	xxx	True	True	{'Person': '2', 'PronType': 'Prs'}
+kids			kid	NOUN	NNS	nsubj	xxxx	True	False	{'Number': 'Plur'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+fun			fun	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+hang on a second
+hang			hang	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+second			second	ADJ	JJ	npadvmod	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+amuse me
+amuse			amuse	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+are you gonna let him talk to me like that
+are			be	AUX	VBP	aux	xxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+gon			gon	VERB	VBG	ROOT	xxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+na			na	AUX	VBG	aux	xx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+let			let	VERB	VB	xcomp	xxx	True	False	{'VerbForm': 'Inf'}
+him			he	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+talk			talk	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+me			I	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+like			like	ADP	IN	prep	xxxx	True	False	{}
+that			that	PRON	DT	pobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+you agree with me, right
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+agree			agree	VERB	VBP	ccomp	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+me			I	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+right			right	INTJ	UH	ROOT	xxxx	True	False	{}
+
+############ MORPH ############
+tell me, how will we raise the children
+tell			tell	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+how			how	SCONJ	WRB	advmod	xxx	True	True	{}
+will			will	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+raise			raise	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+children			child	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+look on the bright side
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+bright			bright	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+side			side	NOUN	NN	pobj	xxxx	True	True	{'Number': 'Sing'}
+
+############ MORPH ############
+you guys want corn dogs
+you			you	PRON	PRP	nmod	xxx	True	True	{'Person': '2', 'PronType': 'Prs'}
+guys			guy	NOUN	NNS	nsubj	xxxx	True	False	{'Number': 'Plur'}
+want			want	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+corn			corn	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+dogs			dog	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+then you can drive let's go
+then			then	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+drive			drive	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+let			let	VERB	VB	dep	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+let's go
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+take the bus
+take			take	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+bus			bus	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+now, take me to return my star wars sheets
+now			now	ADV	RB	advmod	xxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+take			take	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+to			to	PART	TO	aux	xx	True	True	{}
+return			return	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+star			star	PROPN	NNP	compound	xxxx	True	False	{'Number': 'Sing'}
+wars			wars	PROPN	NNPS	compound	xxxx	True	False	{'Number': 'Plur'}
+sheets			sheet	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+you have to drive me to work
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+drive			drive	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+to			to	ADP	IN	prep	xx	True	True	{}
+work			work	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+when you're done, we'll go
+when			when	SCONJ	WRB	advmod	xxxx	True	True	{}
+you			you	PRON	PRP	nsubjpass	xxx	True	True	{'Person': '2', 'PronType': 'Prs'}
+'re			be	AUX	VBP	auxpass	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+done			do	VERB	VBN	advcl	xxxx	True	True	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+sheldon, it's fine
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'s			be	AUX	VBZ	ROOT	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+fine			fine	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+come on it's fun
+come			come	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'s			be	AUX	VBZ	ROOT	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+fun			fun	ADJ	JJ	acomp	xxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+get out
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+i said, "get out"
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+said			say	VERB	VBD	ROOT	xxxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+"			"	PUNCT	``	punct	"	False	False	{'PunctSide': 'Ini', 'PunctType': 'Quot'}
+get			get	VERB	VB	xcomp	xxx	True	True	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+"			"	PUNCT	''	punct	"	False	False	{'PunctSide': 'Fin', 'PunctType': 'Quot'}
+
+############ MORPH ############
+howard, help me out here
+howard			howard	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+help			help	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+out			out	ADV	RB	advmod	xxx	True	True	{}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+
+############ MORPH ############
+we have to go to the comic book store
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+go			go	VERB	VB	xcomp	xx	True	True	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+comic			comic	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+book			book	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+store			store	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+then, we have to stop at souplantation
+then			then	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+stop			stop	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+souplantation			souplantation	PROPN	NNP	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+and radio shack
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+radio			radio	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+shack			shack	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+plus, we have to go to pottery barn and return my star wars sheets
+plus			plus	CCONJ	CC	cc	xxxx	True	False	{'ConjType': 'Cmp'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+go			go	VERB	VB	xcomp	xx	True	True	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+pottery			pottery	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+barn			barn	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+return			return	VERB	VB	conj	xxxx	True	False	{'VerbForm': 'Inf'}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+star			star	PROPN	NNP	compound	xxxx	True	False	{'Number': 'Sing'}
+wars			wars	PROPN	NNPS	compound	xxxx	True	False	{'Number': 'Plur'}
+sheets			sheet	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+can you drive me to pottery barn
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+drive			drive	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+to			to	ADP	IN	prep	xx	True	True	{}
+pottery			pottery	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+barn			barn	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+sheldon, sit down
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sit			sit	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+down			down	ADP	RP	prt	xxxx	True	True	{}
+
+############ MORPH ############
+sheldon, you need to learn how to drive
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+need			need	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+learn			learn	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+how			how	SCONJ	WRB	advmod	xxx	True	True	{}
+to			to	PART	TO	aux	xx	True	True	{}
+drive			drive	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+all right, come on, sheldon
+all			all	ADV	RB	advmod	xxx	True	True	{}
+right			right	ADV	RB	advmod	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+and radio shack
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+radio			radio	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+shack			shack	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+all right
+all			all	INTJ	UH	ROOT	xxx	True	True	{}
+right			right	INTJ	UH	intj	xxxx	True	False	{}
+
+############ MORPH ############
+give it to her
+give			give	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+to			to	ADP	IN	dative	xx	True	True	{}
+her			she	PRON	PRP	pobj	xxx	True	True	{'Case': 'Acc', 'Gender': 'Fem', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+take this to the testing area, put your name at the top, sign the bottom, answer the questions, bring it black
+take			take	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+this			this	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+to			to	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+testing			testing	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+area			area	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+put			put	VERB	VB	dep	xxx	True	True	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+name			name	NOUN	NN	dobj	xxxx	True	True	{'Number': 'Sing'}
+at			at	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+top			top	NOUN	NN	pobj	xxx	True	True	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sign			sign	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+bottom			bottom	NOUN	NN	dobj	xxxx	True	True	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+answer			answer	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+questions			question	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+bring			bring	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dative	xx	True	True	{'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+black			black	ADJ	JJ	dobj	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+look at that sign up there
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+that			that	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+sign			sign	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+up			up	ADV	RB	advmod	xx	True	True	{}
+there			there	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+
+############ MORPH ############
+just look
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+look at the sign
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+sign			sign	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+listen to that little girl, honey
+listen			listen	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+that			that	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+girl			girl	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+honey			honey	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+put "c" next
+put			put	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+"			"	PUNCT	``	punct	"	False	False	{'PunctSide': 'Ini', 'PunctType': 'Quot'}
+c			c	PRON	PRP	dobj	x	True	False	{'PronType': 'Prs'}
+"			"	PUNCT	''	punct	"	False	False	{'PunctSide': 'Fin', 'PunctType': 'Quot'}
+next			next	ADV	RB	advmod	xxxx	True	True	{}
+
+############ MORPH ############
+wait hang on
+wait			wait	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+hang			hang	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+look at this next question
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+this			this	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+next			next	ADJ	JJ	amod	xxxx	True	True	{'Degree': 'Pos'}
+question			question	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+go away
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+away			away	ADV	RB	advmod	xxxx	True	False	{}
+
+############ MORPH ############
+come on
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+let's boot it up
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+boot			boot	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+up			up	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+okay, now, what you want to do first is turn on the ignition and shift into drive
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+what			what	PRON	WP	dobj	xxxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+want			want	VERB	VBP	csubj	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+do			do	VERB	VB	xcomp	xx	True	True	{'VerbForm': 'Inf'}
+first			first	ADV	RB	advmod	xxxx	True	True	{}
+is			be	AUX	VBZ	ROOT	xx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+turn			turn	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+ignition			ignition	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+shift			shift	VERB	VB	conj	xxxx	True	False	{'VerbForm': 'Inf'}
+into			into	ADP	IN	prep	xxxx	True	True	{}
+drive			drive	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+okay, fasten your seat belt
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+fasten			fasten	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+seat			seat	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+belt			belt	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+okay, now shift into drive
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+shift			shift	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+into			into	ADP	IN	prep	xxxx	True	True	{}
+drive			drive	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+pull out slowly into traffic
+pull			pull	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+out			out	ADV	RB	advmod	xxx	True	True	{}
+slowly			slowly	ADV	RB	advmod	xxxx	True	False	{}
+into			into	ADP	IN	prep	xxxx	True	True	{}
+traffic			traffic	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+watch out, watch, watch out
+watch			watch	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+watch			watch	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+watch			watch	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+wait slow
+wait			wait	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+slow			slow	ADV	RB	advmod	xxxx	True	False	{}
+
+############ MORPH ############
+hit the brakes the brakes
+hit			hit	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+brakes			brake	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+brakes			brake	NOUN	NNS	appos	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+maybe you want to give it a rest and try again tomorrow
+maybe			maybe	ADV	RB	advmod	xxxx	True	False	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+want			want	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+give			give	VERB	VB	xcomp	xxxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dative	xx	True	True	{'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+rest			rest	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+try			try	VERB	VB	conj	xxx	True	False	{'VerbForm': 'Inf'}
+again			again	ADV	RB	advmod	xxxx	True	True	{}
+tomorrow			tomorrow	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+hold on
+hold			hold	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+yes, you are
+yes			yes	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+are			be	AUX	VBP	ROOT	xxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+
+############ MORPH ############
+please learn how to drive
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+learn			learn	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+how			how	SCONJ	WRB	advmod	xxx	True	True	{}
+to			to	PART	TO	aux	xx	True	True	{}
+drive			drive	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+let's find out
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+find			find	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+go
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+excuse me
+excuse			excuse	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+you have to sign this
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+sign			sign	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+this			this	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+i now need you to acknowledge receipt of the package so that i'm fully indemnified and no longer liable
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+need			need	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+to			to	PART	TO	aux	xx	True	True	{}
+acknowledge			acknowledge	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+receipt			receipt	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+package			package	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+so			so	SCONJ	IN	mark	xx	True	True	{}
+that			that	SCONJ	IN	mark	xxxx	True	True	{}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'m			be	AUX	VBP	advcl	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+fully			fully	ADV	RB	advmod	xxxx	True	False	{}
+indemnified			indemnified	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+no			no	ADV	RB	neg	xx	True	True	{}
+longer			long	ADV	RBR	advmod	xxxx	True	False	{'Degree': 'Cmp'}
+liable			liable	ADJ	JJ	conj	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+look, look
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+look			look	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+see
+see			see	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+sign here
+sign			sign	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+
+############ MORPH ############
+sheldon, hold on
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+hold			hold	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+could you maybe show me how to make more money with this
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+maybe			maybe	ADV	RB	advmod	xxxx	True	False	{}
+show			show	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+how			how	SCONJ	WRB	advmod	xxx	True	True	{}
+to			to	PART	TO	aux	xx	True	True	{}
+make			make	VERB	VB	xcomp	xxxx	True	True	{'VerbForm': 'Inf'}
+more			more	ADJ	JJR	amod	xxxx	True	True	{'Degree': 'Cmp'}
+money			money	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+this			this	PRON	DT	pobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+wait
+wait			wait	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+will you
+will			will	AUX	MD	ROOT	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+
+############ MORPH ############
+please come back
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+back			back	ADV	RB	advmod	xxxx	True	True	{}
+
+############ MORPH ############
+please tell me what to do about it
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+tell			tell	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+what			what	PRON	WP	dobj	xxxx	True	True	{}
+to			to	PART	TO	aux	xx	True	True	{}
+do			do	VERB	VB	xcomp	xx	True	True	{'VerbForm': 'Inf'}
+about			about	ADP	IN	prep	xxxx	True	True	{}
+it			it	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+let's go we're going to miss the coming attractions
+let			let	AUX	VB	aux	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+'re			be	AUX	VBP	aux	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+going			go	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+to			to	PART	TO	aux	xx	True	True	{}
+miss			miss	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+coming			come	VERB	VBG	amod	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+attractions			attraction	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+what if we infused the bottom layer with siliconertv to providea better mounting surface
+what			what	PRON	WP	dep	xxxx	True	True	{}
+if			if	SCONJ	IN	mark	xx	True	True	{}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+infused			infuse	VERB	VBD	advcl	xxxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+bottom			bottom	ADJ	JJ	amod	xxxx	True	True	{'Degree': 'Pos'}
+layer			layer	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+siliconertv			siliconertv	PROPN	NNP	pobj	xxxx	True	False	{'Number': 'Sing'}
+to			to	PART	TO	aux	xx	True	True	{}
+providea			providea	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+better			well	ADJ	JJR	amod	xxxx	True	False	{'Degree': 'Cmp'}
+mounting			mounting	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+surface			surface	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+let's think out of the box for a moment
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+think			think	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+out			out	ADP	IN	prep	xxx	True	True	{}
+of			of	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+box			box	NOUN	NN	pobj	xxx	True	False	{'Number': 'Sing'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+moment			moment	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+do whatever you want
+do			do	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+whatever			whatever	PRON	WDT	dobj	xxxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+want			want	VERB	VBP	ccomp	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+
+############ MORPH ############
+i'd strongly recommend that we let leonard go
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'d			would	AUX	MD	aux	'x	False	True	{'VerbForm': 'Fin'}
+strongly			strongly	ADV	RB	advmod	xxxx	True	False	{}
+recommend			recommend	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+that			that	SCONJ	IN	mark	xxxx	True	True	{}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+let			let	VERB	VBP	ccomp	xxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+leonard			leonard	PROPN	NNP	nsubj	xxxx	True	False	{'Number': 'Sing'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+look
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+look at the comments
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+comments			comment	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+wait a minute, you want to make a hair barrette with bluetooth
+wait			wait	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+minute			minute	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+want			want	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+make			make	VERB	VB	xcomp	xxxx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+hair			hair	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+barrette			barrette	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+bluetooth			bluetooth	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+get out
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+we should get to work
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+should			should	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+work			work	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you guys get started
+you			you	PRON	PRP	nmod	xxx	True	True	{'Person': '2', 'PronType': 'Prs'}
+guys			guy	NOUN	NNS	nsubjpass	xxxx	True	False	{'Number': 'Plur'}
+get			get	AUX	VBP	auxpass	xxx	True	True	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+started			start	VERB	VBN	ROOT	xxxx	True	False	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+
+############ MORPH ############
+stop with the fake third world crap
+stop			stop	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+fake			fake	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+third			third	ADJ	JJ	amod	xxxx	True	True	{'Degree': 'Pos'}
+world			world	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+crap			crap	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+observe
+observe			observe	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+less talk, more work
+less			less	ADJ	JJR	amod	xxxx	True	True	{'Degree': 'Cmp'}
+talk			talk	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+more			more	ADJ	JJR	amod	xxxx	True	True	{'Degree': 'Cmp'}
+work			work	NOUN	NN	appos	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you let me know
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+let			let	VERB	VBD	ROOT	xxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+me			I	PRON	PRP	nsubj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+know			know	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+honey, do you want some coffee
+honey			honey	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+do			do	AUX	VBP	aux	xx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+want			want	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+some			some	DET	DT	det	xxxx	True	True	{}
+coffee			coffee	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+leonard, help
+leonard			leonard	PROPN	NNP	dep	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+help			help	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+here, this will help
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+this			this	PRON	DT	nsubj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+will			will	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+help			help	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+you're going to have to answer to my mother
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'re			be	AUX	VBP	aux	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+going			go	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+to			to	PART	TO	aux	xx	True	True	{}
+have			have	VERB	VB	xcomp	xxxx	True	True	{'VerbForm': 'Inf'}
+to			to	PART	TO	aux	xx	True	True	{}
+answer			answer	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+mother			mother	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+look at planck's constant
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+planck			planck	NOUN	NN	poss	xxxx	True	False	{'Number': 'Sing'}
+'s			's	PART	POS	case	'x	False	True	{}
+constant			constant	ADJ	JJ	pobj	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+guess we'd better get started
+guess			guess	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubjpass	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+'d			would	AUX	MD	aux	'x	False	True	{'VerbForm': 'Fin'}
+better			well	ADV	RB	advmod	xxxx	True	False	{}
+get			get	AUX	VB	auxpass	xxx	True	True	{'VerbForm': 'Inf'}
+started			start	VERB	VBN	ccomp	xxxx	True	False	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+
+############ MORPH ############
+come on
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+but you have to at least try with the little ones
+but			but	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+at			at	ADP	IN	advmod	xx	True	True	{}
+least			least	ADJ	JJS	advmod	xxxx	True	True	{'Degree': 'Sup'}
+try			try	VERB	VB	xcomp	xxx	True	False	{'VerbForm': 'Inf'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+ones			one	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+get over it
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+over			over	ADP	IN	prep	xxxx	True	True	{}
+it			it	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+new topic, please
+new			new	ADJ	JJ	amod	xxx	True	False	{'Degree': 'Pos'}
+topic			topic	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+
+############ MORPH ############
+okay, new topic, please
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+new			new	ADJ	JJ	amod	xxx	True	False	{'Degree': 'Pos'}
+topic			topic	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+
+############ MORPH ############
+you let the bag sit in the water a while
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+let			let	VERB	VBD	ROOT	xxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+bag			bag	NOUN	NN	nsubj	xxx	True	False	{'Number': 'Sing'}
+sit			sit	VERB	VB	ccomp	xxx	True	False	{'VerbForm': 'Inf'}
+in			in	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+water			water	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+while			while	NOUN	NN	npadvmod	xxxx	True	True	{'Number': 'Sing'}
+
+############ MORPH ############
+hold on you honestly expect me to believe that social protocol dictates we break our backs
+hold			hold	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+honestly			honestly	ADV	RB	advmod	xxxx	True	False	{}
+expect			expect	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+me			I	PRON	PRP	nsubj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+to			to	PART	TO	aux	xx	True	True	{}
+believe			believe	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+that			that	SCONJ	IN	mark	xxxx	True	True	{}
+social			social	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+protocol			protocol	NOUN	NN	nsubj	xxxx	True	False	{'Number': 'Sing'}
+dictates			dictate	VERB	VBZ	ccomp	xxxx	True	False	{'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+break			break	VERB	VBP	ccomp	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+our			our	PRON	PRP$	poss	xxx	True	True	{'Number': 'Plur', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+backs			back	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+you tell me the truth,
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+tell			tell	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+me			I	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+truth			truth	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+
+############ MORPH ############
+help me out here
+help			help	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+out			out	ADV	RB	advmod	xxx	True	True	{}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+
+############ MORPH ############
+you're almost fly, for god's sake
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'re			be	AUX	VBP	ROOT	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+almost			almost	ADV	RB	advmod	xxxx	True	True	{}
+fly			fly	NOUN	NN	attr	xxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+god			god	PROPN	NNP	poss	xxx	True	False	{'Number': 'Sing'}
+'s			's	PART	POS	case	'x	False	True	{}
+sake			sake	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you can take your head out of the oven
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+take			take	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+head			head	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+out			out	ADP	IN	prep	xxx	True	True	{}
+of			of	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+oven			oven	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+stay calm we don't know
+stay			stay	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+calm			calm	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+do			do	AUX	VBP	aux	xx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+n't			n't	PART	RB	neg	x'x	False	True	{'Polarity': 'Neg'}
+know			know	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+hang on are you now
+hang			hang	VERB	VB	csubj	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+are			be	AUX	VBP	ROOT	xxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+
+############ MORPH ############
+if that changes, let me know
+if			if	SCONJ	IN	mark	xx	True	True	{}
+that			that	PRON	DT	nsubj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+changes			change	VERB	VBZ	advcl	xxxx	True	False	{'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	nsubj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+know			know	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+yeah, be careful
+yeah			yeah	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+be			be	AUX	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+careful			careful	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+you have to imagine me with a giant squid head
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+imagine			imagine	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+giant			giant	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+squid			squid	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+head			head	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+come
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+come on in let's open it
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+in			in	ADV	RB	advmod	xx	True	True	{}
+let			let	VERB	VB	dep	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+open			open	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+let one go once in a while
+let			let	VERB	VBD	ROOT	xxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+one			one	PRON	PRP	nsubj	xxx	True	True	{'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+once			once	ADV	RB	advmod	xxxx	True	True	{'NumType': 'Mult'}
+in			in	ADP	IN	prep	xx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+while			while	NOUN	NN	pobj	xxxx	True	True	{'Number': 'Sing'}
+
+############ MORPH ############
+can you set up my printer
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+set			set	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+printer			printer	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you could set up mine
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+set			set	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+mine			mine	PRON	PRP	dobj	xxxx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+
+############ MORPH ############
+listen to that stomp, stomp, stomp
+listen			listen	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+that			that	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+stomp			stomp	NOUN	NN	nmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+stomp			stomp	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+stomp			stomp	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+see how it's done
+see			see	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+how			how	SCONJ	WRB	advmod	xxx	True	True	{}
+it			it	PRON	PRP	nsubjpass	xx	True	True	{'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'s			be	AUX	VBZ	auxpass	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+done			do	VERB	VBN	ccomp	xxxx	True	True	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+
+############ MORPH ############
+please
+please			please	INTJ	UH	ROOT	xxxx	True	True	{}
+
+############ MORPH ############
+can i talk to you about that for a second
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+talk			talk	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+you			you	PRON	PRP	pobj	xxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs'}
+about			about	ADP	IN	prep	xxxx	True	True	{}
+that			that	PRON	DT	pobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+second			second	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+morning, sheldon come dance with me
+morning			morning	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sheldon			sheldon	PROPN	NNP	nsubj	xxxx	True	False	{'Number': 'Sing'}
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+dance			dance	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+me			I	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+alright, want some french toast
+alright			alright	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+want			want	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+some			some	DET	DT	det	xxxx	True	True	{}
+french			french	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+toast			toast	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+look, leonard, penny made french toast
+look			look	VERB	VB	intj	xxxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+leonard			leonard	PROPN	NNP	dep	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+penny			penny	PROPN	NNP	nsubj	xxxx	True	False	{'Number': 'Sing'}
+made			make	VERB	VBD	ROOT	xxxx	True	True	{'Tense': 'Past', 'VerbForm': 'Fin'}
+french			french	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+toast			toast	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+sheldon, you really need to find a better way of dealing with penny
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+really			really	ADV	RB	advmod	xxxx	True	True	{}
+need			need	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+find			find	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+better			well	ADJ	JJR	amod	xxxx	True	False	{'Degree': 'Cmp'}
+way			way	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+dealing			deal	VERB	VBG	pcomp	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+penny			penny	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+sheldon it's an amazing coincidence can we leave it at that
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'s			be	AUX	VBZ	ccomp	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+an			an	DET	DT	det	xx	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+amazing			amazing	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+coincidence			coincidence	NOUN	NN	attr	xxxx	True	False	{'Number': 'Sing'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+leave			leave	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+at			at	ADP	IN	prep	xx	True	True	{}
+that			that	PRON	DT	pobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+come on, you guys, let it go
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nmod	xxx	True	True	{'Person': '2', 'PronType': 'Prs'}
+guys			guy	NOUN	NNS	npadvmod	xxxx	True	False	{'Number': 'Plur'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	dep	xxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+would you like a chocolate
+would			would	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+like			like	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+chocolate			chocolate	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+they're called tattoo sleeves look
+they			they	PRON	PRP	nsubjpass	xxxx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '3', 'PronType': 'Prs'}
+'re			be	AUX	VBP	auxpass	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+called			call	VERB	VBN	ROOT	xxxx	True	False	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+tattoo			tattoo	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+sleeves			sleeve	NOUN	NNS	nsubj	xxxx	True	False	{'Number': 'Plur'}
+look			look	VERB	VBP	oprd	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+
+############ MORPH ############
+have a chocolate
+have			have	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+chocolate			chocolate	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+just remember we are lost boys, children of the night
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+remember			remember	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+are			be	AUX	VBP	ccomp	xxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+lost			lose	VERB	VBN	amod	xxxx	True	False	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+boys			boy	NOUN	NNS	attr	xxxx	True	False	{'Number': 'Plur'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+children			child	NOUN	NNS	appos	xxxx	True	False	{'Number': 'Plur'}
+of			of	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+night			night	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+can you pass the chex mix, please
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+pass			pass	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+chex			chex	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+mix			mix	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+
+############ MORPH ############
+two light beers
+two			two	NUM	CD	nummod	xxx	True	True	{'NumType': 'Card'}
+light			light	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+beers			beer	NOUN	NNS	ROOT	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+thank you chocolate
+thank			thank	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	dobj	xxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs'}
+chocolate			chocolate	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+yes, please
+yes			yes	INTJ	UH	ROOT	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+
+############ MORPH ############
+you know what, hold on let me take this in the hall
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+know			know	VERB	VBP	ccomp	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+what			what	PRON	WP	dobj	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+hold			hold	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+let			let	VERB	VB	dep	xxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	nsubj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+take			take	VERB	VB	ccomp	xxxx	True	True	{'VerbForm': 'Inf'}
+this			this	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+in			in	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+hall			hall	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+chocolate
+chocolate			chocolate	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+come on  i know a place you'll really dig
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+ 			 	SPACE	_SP	dep	 	False	False	{}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+know			know	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+place			place	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+really			really	ADV	RB	advmod	xxxx	True	True	{}
+dig			dig	VERB	VB	relcl	xxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+let's go
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+forget it
+forget			forget	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+come again
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+again			again	ADV	RB	advmod	xxxx	True	True	{}
+
+############ MORPH ############
+have a chocolate
+have			have	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+chocolate			chocolate	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+get the mean little skull, and i'll see if i can make him smile
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+mean			mean	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+skull			skull	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+see			see	VERB	VB	conj	xxx	True	True	{'VerbForm': 'Inf'}
+if			if	SCONJ	IN	mark	xx	True	True	{}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+make			make	VERB	VB	ccomp	xxxx	True	True	{'VerbForm': 'Inf'}
+him			he	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+smile			smile	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+when we tell this story, let's end it differently
+when			when	SCONJ	WRB	advmod	xxxx	True	True	{}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+tell			tell	VERB	VBP	advcl	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+this			this	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+story			story	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+end			end	VERB	VB	ccomp	xxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+differently			differently	ADV	RB	advmod	xxxx	True	False	{}
+
+############ MORPH ############
+let’s go
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+’s			we	PRON	PRP	nsubj	’x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+i’m sorry go on
+i			I	PRON	PRP	ROOT	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+’m			be	AUX	VBP	prep	’x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+sorry			sorry	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+go			go	VERB	VB	det	xx	True	True	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+true okay forget the hot tub
+true			true	ADJ	JJ	advmod	xxxx	True	False	{'Degree': 'Pos'}
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+forget			forget	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+hot			hot	ADJ	JJ	amod	xxx	True	False	{'Degree': 'Pos'}
+tub			tub	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+hey, want to try a country bar tomorrow night
+hey			hey	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+want			want	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+try			try	VERB	VB	xcomp	xxx	True	False	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+country			country	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+bar			bar	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+tomorrow			tomorrow	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+night			night	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+hey, leonard, check this out
+hey			hey	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+leonard			leonard	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+check			check	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+this			this	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+bernadette, say fo'shizzle to my nerdizzles
+bernadette			bernadette	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+say			say	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+fo'shizzle			fo'shizzle	NOUN	NN	dobj	xx'xxxx	False	False	{'Number': 'Sing'}
+to			to	ADP	IN	prep	xx	True	True	{}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+nerdizzles			nerdizzle	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+we'll just put it all on the table, you know, family style
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+put			put	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+all			all	PRON	DT	appos	xxx	True	True	{}
+on			on	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+table			table	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+know			know	VERB	VBP	parataxis	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+family			family	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+style			style	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+relax, it'll be fine
+relax			relax	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+be			be	AUX	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+fine			fine	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+sit down, you guys
+sit			sit	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+down			down	ADP	RP	prt	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nmod	xxx	True	True	{'Person': '2', 'PronType': 'Prs'}
+guys			guy	NOUN	NNS	npadvmod	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+just eat your dinner
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+eat			eat	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+dinner			dinner	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+oh, yeah, show me
+oh			oh	INTJ	UH	intj	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+yeah			yeah	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+show			show	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+face it, dude,
+face			face	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+dude			dude	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+
+############ MORPH ############
+hey, sheldon, can i talk to you for a second
+hey			hey	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+talk			talk	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+you			you	PRON	PRP	pobj	xxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+second			second	ADJ	JJ	pobj	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+um, actually, can we do it in private
+um			um	INTJ	UH	intj	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+actually			actually	ADV	RB	advmod	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+do			do	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+in			in	ADP	IN	prep	xx	True	True	{}
+private			private	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+go away
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+away			away	ADV	RB	advmod	xxxx	True	False	{}
+
+############ MORPH ############
+i was wondering if you could maybe teach me a little physics
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+was			be	AUX	VBD	aux	xxx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin'}
+wondering			wonder	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+if			if	SCONJ	IN	mark	xx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+maybe			maybe	ADV	RB	advmod	xxxx	True	False	{}
+teach			teach	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+physics			physics	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you can make it like an experiment
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+make			make	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+like			like	ADP	IN	prep	xxxx	True	False	{}
+an			an	DET	DT	det	xx	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+experiment			experiment	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+excuse me could you grab me another napkin, sweetie
+excuse			excuse	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+grab			grab	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+another			another	DET	DT	det	xxxx	True	True	{}
+napkin			napkin	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sweetie			sweetie	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+howard, relax
+howard			howard	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+relax			relax	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+come in take a seat
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+in			in	ADP	RP	prt	xx	True	True	{}
+take			take	VERB	VB	dep	xxxx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+seat			seat	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+one moment
+one			one	NUM	CD	nummod	xxx	True	True	{'NumType': 'Card'}
+moment			moment	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+it's at this point that you'll want to start taking notes
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'s			be	AUX	VBZ	ROOT	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+at			at	ADP	IN	prep	xx	True	True	{}
+this			this	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+point			point	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+that			that	SCONJ	WRB	advmod	xxxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+want			want	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	PART	TO	aux	xx	True	True	{}
+start			start	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+taking			take	VERB	VBG	xcomp	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+notes			note	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+raise your hand
+raise			raise	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+hand			hand	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+hey, ma, can i have lamb stew for dinner
+hey			hey	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+ma			ma	NOUN	NN	npadvmod	xx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+have			have	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+lamb			lamb	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+stew			stew	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+dinner			dinner	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+then get the regular
+then			then	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+regular			regular	ADJ	JJ	dobj	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+now, remember, newton realized that aristotle was wrong
+now			now	ADV	RB	advmod	xxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+remember			remember	VERB	VB	parataxis	xxxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+newton			newton	PROPN	NNP	nsubj	xxxx	True	False	{'Number': 'Sing'}
+realized			realize	VERB	VBD	ROOT	xxxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+that			that	SCONJ	IN	mark	xxxx	True	True	{}
+aristotle			aristotle	PROPN	NNP	nsubj	xxxx	True	False	{'Number': 'Sing'}
+was			be	AUX	VBD	ccomp	xxx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin'}
+wrong			wrong	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+can you just back up a little bit
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+back			back	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+bit			bit	NOUN	NN	npadvmod	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+okay, look, can we just please forget about all this extra stuff and can you just tell me what leonard does
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+look			look	VERB	VB	intj	xxxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+forget			forget	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+about			about	ADP	IN	prep	xxxx	True	True	{}
+all			all	DET	PDT	predet	xxx	True	True	{}
+this			this	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+extra			extra	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+stuff			stuff	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+tell			tell	VERB	VB	conj	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+what			what	PRON	WP	dobj	xxxx	True	True	{}
+leonard			leonard	PROPN	NNP	nsubj	xxxx	True	False	{'Number': 'Sing'}
+does			do	VERB	VBZ	ccomp	xxxx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+
+############ MORPH ############
+no, leonard, you should hear this
+no			no	INTJ	UH	intj	xx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+leonard			leonard	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+should			should	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+hear			hear	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+this			this	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+bernadette, please, i'm asking you to give me another chance
+bernadette			bernadette	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'m			be	AUX	VBP	aux	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+asking			ask	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+you			you	PRON	PRP	dobj	xxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs'}
+to			to	PART	TO	aux	xx	True	True	{}
+give			give	VERB	VB	xcomp	xxxx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+another			another	DET	DT	det	xxxx	True	True	{}
+chance			chance	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+come here, tushy face
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+tushy			tushy	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+face			face	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+will you please turn your shirt off
+will			will	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+turn			turn	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+shirt			shirt	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+off			off	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+well, you might want to mark your google calendars
+well			well	INTJ	UH	intj	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+might			might	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+want			want	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	PART	TO	aux	xx	True	True	{}
+mark			mark	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+google			google	PROPN	NNP	compound	xxxx	True	False	{'Number': 'Sing'}
+calendars			calendar	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+there's neosporin and bandaids in my top desk drawer
+there			there	PRON	EX	expl	xxxx	True	True	{}
+'s			be	VERB	VBZ	ROOT	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+neosporin			neosporin	NOUN	NN	attr	xxxx	True	False	{'Number': 'Sing'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+bandaids			bandaid	NOUN	NNS	conj	xxxx	True	False	{'Number': 'Plur'}
+in			in	ADP	IN	prep	xx	True	True	{}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+top			top	ADJ	JJ	amod	xxx	True	True	{'Degree': 'Pos'}
+desk			desk	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+drawer			drawer	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+um can you give me a hint
+um			um	INTJ	UH	intj	xx	True	False	{}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+give			give	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+hint			hint	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you just go down to the court
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+go			go	VERB	VBP	ROOT	xx	True	True	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+down			down	ADV	RB	advmod	xxxx	True	True	{}
+to			to	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+court			court	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+and you pay the fine
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+pay			pay	VERB	VBP	ROOT	xxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+fine			fine	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you'll be standing by my side, supporting me,
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+be			be	AUX	VB	aux	xx	True	True	{'VerbForm': 'Inf'}
+standing			stand	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+by			by	ADP	IN	prep	xx	True	True	{}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+side			side	NOUN	NN	pobj	xxxx	True	True	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+supporting			support	VERB	VBG	advcl	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+
+############ MORPH ############
+please try to wear something appropriate
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+try			try	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+to			to	PART	TO	aux	xx	True	True	{}
+wear			wear	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+something			something	PRON	NN	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Ind'}
+appropriate			appropriate	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+all right, let's go
+all			all	ADV	RB	advmod	xxx	True	True	{}
+right			right	ADV	RB	advmod	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+wait, hold on
+wait			wait	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+hold			hold	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+i'd like to call on your skills as an actress
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'d			would	AUX	MD	aux	'x	False	True	{'VerbForm': 'Fin'}
+like			like	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	PART	TO	aux	xx	True	True	{}
+call			call	VERB	VB	xcomp	xxxx	True	True	{'VerbForm': 'Inf'}
+on			on	ADP	IN	prep	xx	True	True	{}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+skills			skill	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+as			as	ADP	IN	prep	xx	True	True	{}
+an			an	DET	DT	det	xx	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+actress			actress	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+so shall we rehearse
+so			so	ADV	RB	advmod	xx	True	True	{}
+shall			shall	AUX	MD	aux	xxxx	True	False	{'VerbType': 'Mod'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+rehearse			rehearse	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+now, sit down
+now			now	ADV	RB	advmod	xxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sit			sit	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+down			down	ADP	RP	prt	xxxx	True	True	{}
+
+############ MORPH ############
+i call your attention to the events of november 16
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+call			call	VERB	VBP	ROOT	xxxx	True	True	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+attention			attention	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+to			to	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+events			event	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+of			of	ADP	IN	prep	xx	True	True	{}
+november			november	PROPN	NNP	pobj	xxxx	True	False	{'Number': 'Sing'}
+16			16	NUM	CD	nummod	dd	False	False	{'NumType': 'Card'}
+
+############ MORPH ############
+that's excellent, go on
+that			that	PRON	DT	nsubj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+'s			be	AUX	VBZ	ccomp	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+excellent			excellent	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+pay the cashier
+pay			pay	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+cashier			cashier	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+the court would advise you to make it quick,
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+court			court	NOUN	NN	nsubj	xxxx	True	False	{'Number': 'Sing'}
+would			would	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+advise			advise	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+you			you	PRON	PRP	dobj	xxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs'}
+to			to	PART	TO	aux	xx	True	True	{}
+make			make	VERB	VB	xcomp	xxxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+quick			quick	ADJ	JJ	ccomp	xxxx	True	False	{'Degree': 'Pos'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+
+############ MORPH ############
+pay the cashier
+pay			pay	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+cashier			cashier	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+that's my spot
+that			that	PRON	DT	nsubj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+'s			be	AUX	VBZ	ROOT	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+spot			spot	NOUN	NN	attr	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+knock yourself out
+knock			knock	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+yourself			yourself	PRON	PRP	dobj	xxxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs', 'Reflex': 'Yes'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+please tell the judge i'm ready to apologize
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+tell			tell	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+judge			judge	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'m			be	AUX	VBP	ccomp	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+ready			ready	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+to			to	PART	TO	aux	xx	True	True	{}
+apologize			apologize	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+look at that
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+that			that	PRON	DT	pobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+yeah, but we all want to hear it from you
+yeah			yeah	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+but			but	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+all			all	PRON	DT	appos	xxx	True	True	{}
+want			want	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+hear			hear	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+from			from	ADP	IN	prep	xxxx	True	True	{}
+you			you	PRON	PRP	pobj	xxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs'}
+
+############ MORPH ############
+well, i was hoping, um, you could do me a favor
+well			well	INTJ	UH	intj	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+was			be	AUX	VBD	aux	xxx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin'}
+hoping			hope	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+um			um	INTJ	UH	intj	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+do			do	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+favor			favor	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+sure, yeah, name it
+sure			sure	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+yeah			yeah	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+name			name	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+so i was hoping you could give me his phone number
+so			so	ADV	RB	advmod	xx	True	True	{}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+was			be	AUX	VBD	aux	xxx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Past', 'VerbForm': 'Fin'}
+hoping			hope	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+give			give	VERB	VB	ccomp	xxxx	True	True	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dative	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+his			his	PRON	PRP$	poss	xxx	True	True	{'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Poss': 'Yes', 'PronType': 'Prs'}
+phone			phone	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+number			number	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+wait
+wait			wait	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+wait
+wait			wait	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+joanie, call the police
+joanie			joanie	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+call			call	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+police			police	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+would you just let it go
+would			would	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+fine, sheldon, tell us about your giant rodents
+fine			fine	ADJ	JJ	intj	xxxx	True	False	{'Degree': 'Pos'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+tell			tell	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+us			we	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+about			about	ADP	IN	prep	xxxx	True	True	{}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+giant			giant	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+rodents			rodent	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+dr koothrappali, please
+dr			dr	PROPN	NNP	compound	xx	True	False	{'Number': 'Sing'}
+koothrappali			koothrappali	PROPN	NNP	ROOT	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+
+############ MORPH ############
+can my sixfoottwo navy seal husband come with us
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+sixfoottwo			sixfoottwo	NUM	CD	nummod	xxxx	True	False	{'NumType': 'Card'}
+navy			navy	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+seal			seal	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+husband			husband	NOUN	NN	nsubj	xxxx	True	False	{'Number': 'Sing'}
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+us			we	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+could you get that
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+that			that	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+would you please get that
+would			would	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+that			that	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+correct, now to business
+correct			correct	INTJ	UH	advmod	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+to			to	ADP	IN	ROOT	xx	True	True	{}
+business			business	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+would you mind if we talked about mr wolowitz now
+would			would	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+mind			mind	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+if			if	SCONJ	IN	mark	xx	True	True	{}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+talked			talk	VERB	VBD	advcl	xxxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+about			about	ADP	IN	prep	xxxx	True	True	{}
+mr			mr	PROPN	NNP	compound	xx	True	False	{'Number': 'Sing'}
+wolowitz			wolowitz	PROPN	NNP	pobj	xxxx	True	False	{'Number': 'Sing'}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+
+############ MORPH ############
+a little, but go on
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+little			little	ADJ	JJ	ROOT	xxxx	True	False	{'Degree': 'Pos'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+but			but	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+go			go	VERB	VB	conj	xx	True	True	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+yes, well, let's talk about it anyway
+yes			yes	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+well			well	INTJ	UH	intj	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+talk			talk	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+about			about	ADP	IN	prep	xxxx	True	True	{}
+it			it	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+anyway			anyway	ADV	RB	advmod	xxxx	True	True	{}
+
+############ MORPH ############
+think about that, dr tyson
+think			think	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+about			about	ADP	IN	prep	xxxx	True	True	{}
+that			that	PRON	DT	pobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+dr			dr	PROPN	NNP	compound	xx	True	False	{'Number': 'Sing'}
+tyson			tyson	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+leave me alone, sheldon
+leave			leave	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+alone			alone	ADV	RB	oprd	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+oh, shut up
+oh			oh	INTJ	UH	intj	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+shut			shut	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+could you be a little more specific
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+be			be	AUX	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+little			little	ADJ	JJ	npadvmod	xxxx	True	False	{'Degree': 'Pos'}
+more			more	ADV	RBR	advmod	xxxx	True	True	{'Degree': 'Cmp'}
+specific			specific	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+now, first, dust the cherries with sugar, then spray them with a mixture
+now			now	ADV	RB	advmod	xxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+first			first	ADV	RB	advmod	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+dust			dust	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+cherries			cherry	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+sugar			sugar	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+then			then	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+spray			spray	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+them			they	PRON	PRP	dobj	xxxx	True	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '3', 'PronType': 'Prs'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+mixture			mixture	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+then ignite the rum, caramel
+then			then	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+ignite			ignite	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+rum			rum	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+caramel			caramel	NOUN	NN	appos	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+go away, sheldon
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+away			away	ADV	RB	advmod	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+now you have to forgive him
+now			now	ADV	RB	advmod	xxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+forgive			forgive	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+him			he	PRON	PRP	dobj	xxx	True	True	{'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+get out of my spot
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+out			out	ADP	IN	prep	xxx	True	True	{}
+of			of	ADP	IN	prep	xx	True	True	{}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+spot			spot	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you'll have to use the stairs
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'ll			'll	AUX	MD	aux	'xx	False	True	{'VerbForm': 'Fin'}
+have			have	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+to			to	PART	TO	aux	xx	True	True	{}
+use			use	VERB	VB	xcomp	xxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+stairs			stair	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+be part of that proud tradition
+be			be	AUX	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+part			part	NOUN	NN	attr	xxxx	True	True	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+that			that	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+proud			proud	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+tradition			tradition	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+come on in, buddy
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+in			in	ADV	RB	advmod	xx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+buddy			buddy	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+take a load off
+take			take	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+load			load	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+off			off	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+do "our babies will be smart and beautiful "
+do			do	AUX	VBP	aux	xx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+"			"	PUNCT	``	punct	"	False	False	{'PunctSide': 'Ini', 'PunctType': 'Quot'}
+our			our	PRON	PRP$	poss	xxx	True	True	{'Number': 'Plur', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+babies			baby	NOUN	NNS	nsubj	xxxx	True	False	{'Number': 'Plur'}
+will			will	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+be			be	AUX	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+smart			smart	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+beautiful			beautiful	ADJ	JJ	conj	xxxx	True	False	{'Degree': 'Pos'}
+"			"	PUNCT	''	punct	"	False	False	{'PunctSide': 'Fin', 'PunctType': 'Quot'}
+
+############ MORPH ############
+hey, can i talk to you out here for a sec
+hey			hey	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+talk			talk	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+you			you	PRON	PRP	pobj	xxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs'}
+out			out	ADV	RB	advmod	xxx	True	True	{}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+sec			sec	NOUN	NN	pobj	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+get over yourself
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+over			over	ADP	IN	prep	xxxx	True	True	{}
+yourself			yourself	PRON	PRP	pobj	xxxx	True	True	{'Case': 'Acc', 'Person': '2', 'PronType': 'Prs', 'Reflex': 'Yes'}
+
+############ MORPH ############
+will you please just play along until my dad leaves
+will			will	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+play			play	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+along			along	ADP	RP	prt	xxxx	True	True	{}
+until			until	SCONJ	IN	mark	xxxx	True	True	{}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+dad			dad	NOUN	NN	nsubj	xxx	True	False	{'Number': 'Sing'}
+leaves			leave	VERB	VBZ	advcl	xxxx	True	False	{'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+
+############ MORPH ############
+hold on, you actually want me
+hold			hold	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+actually			actually	ADV	RB	advmod	xxxx	True	False	{}
+want			want	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+you want to join us
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+want			want	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+join			join	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+us			we	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+come here, you
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	npadvmod	xxx	True	True	{'Person': '2', 'PronType': 'Prs'}
+
+############ MORPH ############
+come on in
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+in			in	ADV	RB	advmod	xx	True	True	{}
+
+############ MORPH ############
+you'd better open up that bottle of wine or i'm gonna end up with swimmer's ear
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'d			would	AUX	MD	aux	'x	False	True	{'VerbForm': 'Fin'}
+better			well	ADV	RB	advmod	xxxx	True	False	{}
+open			open	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+that			that	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+bottle			bottle	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+wine			wine	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+or			or	CCONJ	CC	cc	xx	True	True	{'ConjType': 'Cmp'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'m			be	AUX	VBP	aux	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+gon			gon	AUX	VBG	aux	xxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+na			na	AUX	VBG	aux	xx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+end			end	VERB	VB	conj	xxx	True	False	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+swimmer			swimmer	NOUN	NN	poss	xxxx	True	False	{'Number': 'Sing'}
+'s			's	PART	POS	case	'x	False	True	{}
+ear			ear	NOUN	NN	pobj	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+hold on wait
+hold			hold	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+wait			wait	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+go ahead
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+ahead			ahead	ADV	RB	advmod	xxxx	True	False	{}
+
+############ MORPH ############
+oh, will you please let it go
+oh			oh	INTJ	UH	intj	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+will			will	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+moving on
+moving			move	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+yeah, okay, i think this ends he ex-boyfriend portion of our evening
+yeah			yeah	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+think			think	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+this			this	PRON	DT	nsubj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+ends			end	VERB	VBZ	ccomp	xxxx	True	False	{'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+he			he	PRON	PRP	det	xx	True	True	{'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+ex			ex	NOUN	NN	compound	xx	True	False	{'Number': 'Sing'}
+-			-	NOUN	NN	compound	-	False	False	{'Number': 'Sing'}
+boyfriend			boyfriend	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+portion			portion	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+our			our	PRON	PRP$	poss	xxx	True	True	{'Number': 'Plur', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+evening			evening	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+leonard, you want to come in for a nightcap
+leonard			leonard	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+want			want	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+come			come	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+in			in	ADP	RP	prt	xx	True	True	{}
+for			for	ADP	IN	prep	xxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+nightcap			nightcap	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+go, get , rupees
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+get			get	VERB	VB	dep	xxx	True	True	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+rupees			rupee	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+bernadette, please tell your boyfriend to cool it with the cow jokes
+bernadette			bernadette	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+tell			tell	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+boyfriend			boyfriend	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+to			to	PART	TO	aux	xx	True	True	{}
+cool			cool	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+cow			cow	NOUN	NN	compound	xxx	True	False	{'Number': 'Sing'}
+jokes			joke	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+let's make fun of his mother
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+make			make	VERB	VB	ccomp	xxxx	True	True	{'VerbForm': 'Inf'}
+fun			fun	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+his			his	PRON	PRP$	poss	xxx	True	True	{'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'Poss': 'Yes', 'PronType': 'Prs'}
+mother			mother	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+shut up
+shut			shut	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+sign here
+sign			sign	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+
+############ MORPH ############
+i'd like you to reposition the telescope, please
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'d			would	AUX	MD	aux	'x	False	True	{'VerbForm': 'Fin'}
+like			like	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+to			to	PART	TO	aux	xx	True	True	{}
+reposition			reposition	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+telescope			telescope	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+
+############ MORPH ############
+hold on he could come back
+hold			hold	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+he			he	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+could			could	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+back			back	ADV	RB	advmod	xxxx	True	True	{}
+
+############ MORPH ############
+oh, be careful
+oh			oh	INTJ	UH	intj	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+be			be	AUX	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+careful			careful	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+give him some line
+give			give	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+him			he	PRON	PRP	dative	xxx	True	True	{'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+some			some	DET	DT	det	xxxx	True	True	{}
+line			line	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+okay, now reel him in
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+reel			reel	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+him			he	PRON	PRP	dobj	xxx	True	True	{'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+in			in	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+oh, look at that baby
+oh			oh	INTJ	UH	intj	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+that			that	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+baby			baby	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+let me finish
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	nsubj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+finish			finish	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+keep walking
+keep			keep	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+walking			walk	VERB	VBG	xcomp	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+
+############ MORPH ############
+then, stack the deck
+then			then	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+stack			stack	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+deck			deck	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+cheat
+cheat			cheat	NOUN	NN	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+lie
+lie			lie	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+just get out
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+get			get	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+can we please just change the subject
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+change			change	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+subject			subject	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+way to go shutting up
+way			way	NOUN	NN	ROOT	xxx	True	False	{'Number': 'Sing'}
+to			to	PART	TO	aux	xx	True	True	{}
+go			go	VERB	VB	relcl	xx	True	True	{'VerbForm': 'Inf'}
+shutting			shut	VERB	VBG	acl	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+up			up	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+now you shut up
+now			now	ADV	RB	advmod	xxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+shut			shut	VERB	VBD	ROOT	xxxx	True	False	{'Tense': 'Past', 'VerbForm': 'Fin'}
+up			up	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+ma, ma, calm down
+ma			ma	INTJ	UH	npadvmod	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+ma			ma	NOUN	NN	npadvmod	xx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+calm			calm	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+down			down	ADP	RP	prt	xxxx	True	True	{}
+
+############ MORPH ############
+listen to me
+listen			listen	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+to			to	ADP	IN	prep	xx	True	True	{}
+me			I	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+now, put your finger on it
+now			now	ADV	RB	advmod	xxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+put			put	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+finger			finger	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+on			on	ADP	IN	prep	xx	True	True	{}
+it			it	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+now move it down to your email icon
+now			now	ADV	RB	advmod	xxx	True	True	{}
+move			move	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+down			down	ADV	RB	advmod	xxxx	True	True	{}
+to			to	ADP	IN	prep	xx	True	True	{}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+email			email	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+icon			icon	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+i think we should take a picture to capture this moment
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+think			think	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+should			should	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+take			take	VERB	VB	ccomp	xxxx	True	True	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+picture			picture	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+to			to	PART	TO	aux	xx	True	True	{}
+capture			capture	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+this			this	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+moment			moment	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+oh, dear lord, shush
+oh			oh	INTJ	UH	intj	xx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+dear			dear	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+lord			lord	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+shush			shush	INTJ	UH	ROOT	xxxx	True	False	{}
+
+############ MORPH ############
+leonard
+leonard			leonard	PROPN	NNP	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+okay, stop, stop
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+stop			stop	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+stop			stop	VERB	VB	dep	xxxx	True	False	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+hey, wait a minute
+hey			hey	INTJ	UH	intj	xxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+wait			wait	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+minute			minute	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+well, hang on
+well			well	INTJ	UH	intj	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+hang			hang	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+let's see where he's going
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+see			see	VERB	VB	ccomp	xxx	True	True	{'VerbForm': 'Inf'}
+where			where	SCONJ	WRB	advmod	xxxx	True	True	{}
+he			he	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'s			be	AUX	VBZ	aux	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+going			go	VERB	VBG	ccomp	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+
+############ MORPH ############
+hang on
+hang			hang	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+let's see where he's going
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+see			see	VERB	VB	ccomp	xxx	True	True	{'VerbForm': 'Inf'}
+where			where	SCONJ	WRB	advmod	xxxx	True	True	{}
+he			he	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+'s			be	AUX	VBZ	aux	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+going			go	VERB	VBG	ccomp	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+
+############ MORPH ############
+let's see you come up with an explanation as to why this woman hangs out with us all the time
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+see			see	VERB	VB	ccomp	xxx	True	True	{'VerbForm': 'Inf'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+come			come	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+an			an	DET	DT	det	xx	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+explanation			explanation	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+as			as	ADP	IN	prep	xx	True	True	{}
+to			to	ADP	IN	prep	xx	True	True	{}
+why			why	SCONJ	WRB	advmod	xxx	True	True	{}
+this			this	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+woman			woman	NOUN	NN	nsubj	xxxx	True	False	{'Number': 'Sing'}
+hangs			hang	VERB	VBZ	pcomp	xxxx	True	False	{'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+us			we	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+all			all	DET	PDT	predet	xxx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+time			time	NOUN	NN	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+i'm going to need you to pick up a present
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+'m			be	AUX	VBP	aux	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+going			go	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+to			to	PART	TO	aux	xx	True	True	{}
+need			need	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+to			to	PART	TO	aux	xx	True	True	{}
+pick			pick	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+up			up	ADP	RP	prt	xx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+present			present	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+okay, we need to stop for a minute
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+need			need	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+stop			stop	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+minute			minute	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+leonard, please, we can talk during our break
+leonard			leonard	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+please			please	INTJ	UH	intj	xxxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+talk			talk	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+during			during	ADP	IN	prep	xxxx	True	True	{}
+our			our	PRON	PRP$	poss	xxx	True	True	{'Number': 'Plur', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+break			break	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+look at the organizational chart
+look			look	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+at			at	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+organizational			organizational	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+chart			chart	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+you need to get clear on this right now
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+need			need	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+get			get	VERB	VB	xcomp	xxx	True	True	{'VerbForm': 'Inf'}
+clear			clear	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+on			on	ADP	IN	prep	xx	True	True	{}
+this			this	PRON	DT	pobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+right			right	ADV	RB	advmod	xxxx	True	False	{}
+now			now	ADV	RB	advmod	xxx	True	True	{}
+
+############ MORPH ############
+dr hofstadter, you have the conn
+dr			dr	PROPN	NNP	compound	xx	True	False	{'Number': 'Sing'}
+hofstadter			hofstadter	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+have			have	VERB	VBP	ROOT	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+conn			conn	PROPN	NNP	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+in that case, may i offer 27 little tweaks to make it slightly less embarrassing
+in			in	ADP	IN	prep	xx	True	True	{}
+that			that	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+case			case	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+may			may	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+offer			offer	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+27			27	NUM	CD	nummod	dd	False	False	{'NumType': 'Card'}
+little			little	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+tweaks			tweak	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+to			to	PART	TO	aux	xx	True	True	{}
+make			make	VERB	VB	relcl	xxxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+slightly			slightly	ADV	RB	advmod	xxxx	True	False	{}
+less			less	ADV	RBR	advmod	xxxx	True	True	{'Degree': 'Cmp'}
+embarrassing			embarrassing	ADJ	JJ	ccomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+let's just try it my way
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+try			try	VERB	VB	ccomp	xxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+my			my	PRON	PRP$	poss	xx	True	True	{'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+way			way	NOUN	NN	npadvmod	xxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+howard
+howard			howard	PROPN	NNP	ROOT	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+can we at least give it a secret code designation
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+at			at	ADP	IN	advmod	xx	True	True	{}
+least			least	ADJ	JJS	advmod	xxxx	True	True	{'Degree': 'Sup'}
+give			give	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dative	xx	True	True	{'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+secret			secret	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+code			code	NOUN	NN	compound	xxxx	True	False	{'Number': 'Sing'}
+designation			designation	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+hear me out
+hear			hear	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+out			out	ADP	RP	prt	xxx	True	True	{}
+
+############ MORPH ############
+i call for a vote of no confidence and an immediate change in leadership
+i			I	PRON	PRP	nsubj	x	True	True	{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+call			call	VERB	VBP	ROOT	xxxx	True	True	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+for			for	ADP	IN	prep	xxx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+vote			vote	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+no			no	DET	DT	det	xx	True	True	{}
+confidence			confidence	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+an			an	DET	DT	det	xx	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+immediate			immediate	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+change			change	NOUN	NN	conj	xxxx	True	False	{'Number': 'Sing'}
+in			in	ADP	IN	prep	xx	True	True	{}
+leadership			leadership	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+sheldon, stop it
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+stop			stop	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+
+############ MORPH ############
+that's enough, sheldon
+that			that	PRON	DT	nsubj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+'s			be	AUX	VBZ	ROOT	'x	False	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+enough			enough	ADJ	JJ	acomp	xxxx	True	True	{'Degree': 'Pos'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+sheldon			sheldon	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+all right, let's get right to the vote
+all			all	ADV	RB	advmod	xxx	True	True	{}
+right			right	ADV	RB	advmod	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+get			get	VERB	VB	ccomp	xxx	True	True	{'VerbForm': 'Inf'}
+right			right	ADV	RB	advmod	xxxx	True	False	{}
+to			to	ADP	IN	prep	xx	True	True	{}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+vote			vote	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+show of hands
+show			show	NOUN	NN	ROOT	xxxx	True	True	{'Number': 'Sing'}
+of			of	ADP	IN	prep	xx	True	True	{}
+hands			hand	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+go put on your bus pants
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+put			put	VERB	VB	xcomp	xxx	True	True	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+bus			bus	NOUN	NN	compound	xxx	True	False	{'Number': 'Sing'}
+pants			pant	NOUN	NNS	dobj	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+now down to business
+now			now	ADV	RB	advmod	xxx	True	True	{}
+down			down	ADV	RB	ROOT	xxxx	True	True	{}
+to			to	ADP	IN	prep	xx	True	True	{}
+business			business	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+what would it take for you to abandon leonard and join me in a rival company
+what			what	PRON	WP	dobj	xxxx	True	True	{}
+would			would	AUX	MD	aux	xxxx	True	True	{'VerbForm': 'Fin'}
+it			it	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+take			take	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+for			for	SCONJ	IN	mark	xxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+to			to	PART	TO	aux	xx	True	True	{}
+abandon			abandon	VERB	VB	advcl	xxxx	True	False	{'VerbForm': 'Inf'}
+leonard			leonard	PROPN	NNP	dobj	xxxx	True	False	{'Number': 'Sing'}
+and			and	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+join			join	VERB	VB	conj	xxxx	True	False	{'VerbForm': 'Inf'}
+me			I	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+in			in	ADP	IN	prep	xx	True	True	{}
+a			a	DET	DT	det	x	True	True	{'Definite': 'Ind', 'PronType': 'Art'}
+rival			rival	ADJ	JJ	amod	xxxx	True	False	{'Degree': 'Pos'}
+company			company	NOUN	NN	pobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+go, beavers
+go			go	VERB	VB	ROOT	xx	True	True	{'VerbForm': 'Inf'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+beavers			beaver	NOUN	NNS	npadvmod	xxxx	True	False	{'Number': 'Plur'}
+
+############ MORPH ############
+okay, let's try this one
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+try			try	VERB	VB	ccomp	xxx	True	False	{'VerbForm': 'Inf'}
+this			this	DET	DT	det	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+one			one	NOUN	NN	dobj	xxx	True	True	{'Number': 'Sing'}
+
+############ MORPH ############
+hold on
+hold			hold	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+let's say it together
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+say			say	VERB	VB	ccomp	xxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+together			together	ADV	RB	advmod	xxxx	True	True	{}
+
+############ MORPH ############
+by all means, carry on
+by			by	ADP	IN	prep	xx	True	True	{}
+all			all	DET	DT	det	xxx	True	True	{}
+means			mean	NOUN	NNS	pobj	xxxx	True	False	{'Number': 'Plur'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+carry			carry	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+
+############ MORPH ############
+we're working here
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+'re			be	AUX	VBP	aux	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+working			work	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+
+############ MORPH ############
+we need quiet
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+need			need	VERB	VBP	ROOT	xxxx	True	False	{'Tense': 'Pres', 'VerbForm': 'Fin'}
+quiet			quiet	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+
+############ MORPH ############
+just say the word,
+just			just	ADV	RB	advmod	xxxx	True	True	{}
+say			say	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+the			the	DET	DT	det	xxx	True	True	{'Definite': 'Def', 'PronType': 'Art'}
+word			word	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+
+############ MORPH ############
+you can make one with me
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+can			can	AUX	MD	aux	xxx	True	True	{'VerbForm': 'Fin'}
+make			make	VERB	VB	ROOT	xxxx	True	True	{'VerbForm': 'Inf'}
+one			one	NOUN	NN	dobj	xxx	True	True	{'Number': 'Sing'}
+with			with	ADP	IN	prep	xxxx	True	True	{}
+me			I	PRON	PRP	pobj	xx	True	True	{'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+
+############ MORPH ############
+imagine that
+imagine			imagine	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+that			that	PRON	DT	dobj	xxxx	True	True	{'Number': 'Sing', 'PronType': 'Dem'}
+
+############ MORPH ############
+do you want some
+do			do	AUX	VBP	aux	xx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+want			want	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+some			some	PRON	DT	dobj	xxxx	True	True	{}
+
+############ MORPH ############
+but you've got to come take your sheldon back
+but			but	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'ve			've	AUX	VBP	aux	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+got			get	VERB	VBN	ROOT	xxx	True	False	{'Aspect': 'Perf', 'Tense': 'Past', 'VerbForm': 'Part'}
+to			to	PART	TO	aux	xx	True	True	{}
+come			come	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+take			take	VERB	VB	advcl	xxxx	True	True	{'VerbForm': 'Inf'}
+your			your	PRON	PRP$	poss	xxxx	True	True	{'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}
+sheldon			sheldon	NOUN	NN	dobj	xxxx	True	False	{'Number': 'Sing'}
+back			back	ADP	RP	prt	xxxx	True	True	{}
+
+############ MORPH ############
+okay wait right here
+okay			okay	INTJ	UH	intj	xxxx	True	False	{}
+wait			wait	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+right			right	ADV	RB	advmod	xxxx	True	False	{}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+
+############ MORPH ############
+say you're sorry
+say			say	VERB	VB	ROOT	xxx	True	True	{'VerbForm': 'Inf'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'re			be	AUX	VBP	ccomp	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+sorry			sorry	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+
+############ MORPH ############
+so all you have to do here is say you're sorry to leonard, but say it sarcastically
+so			so	ADV	RB	advmod	xx	True	True	{}
+all			all	PRON	DT	nsubj	xxx	True	True	{}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+have			have	VERB	VBP	relcl	xxxx	True	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+to			to	PART	TO	aux	xx	True	True	{}
+do			do	VERB	VB	xcomp	xx	True	True	{'VerbForm': 'Inf'}
+here			here	ADV	RB	advmod	xxxx	True	True	{'PronType': 'Dem'}
+is			be	AUX	VBZ	ROOT	xx	True	True	{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+say			say	VERB	VB	xcomp	xxx	True	True	{'VerbForm': 'Inf'}
+you			you	PRON	PRP	nsubj	xxx	True	True	{'Case': 'Nom', 'Person': '2', 'PronType': 'Prs'}
+'re			be	AUX	VBP	ccomp	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+sorry			sorry	ADJ	JJ	acomp	xxxx	True	False	{'Degree': 'Pos'}
+to			to	ADP	IN	prep	xx	True	True	{}
+leonard			leonard	PROPN	NNP	pobj	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+but			but	CCONJ	CC	cc	xxx	True	True	{'ConjType': 'Cmp'}
+say			say	VERB	VB	conj	xxx	True	True	{'VerbForm': 'Inf'}
+it			it	PRON	PRP	dobj	xx	True	True	{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+sarcastically			sarcastically	ADV	RB	advmod	xxxx	True	False	{}
+
+############ MORPH ############
+come on let's go
+come			come	VERB	VB	ROOT	xxxx	True	False	{'VerbForm': 'Inf'}
+on			on	ADP	RP	prt	xx	True	True	{}
+let			let	VERB	VB	dep	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+go			go	VERB	VB	ccomp	xx	True	True	{'VerbForm': 'Inf'}
+
+############ MORPH ############
+now, let's start fresh
+now			now	ADV	RB	advmod	xxx	True	True	{}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+let			let	VERB	VB	ROOT	xxx	True	False	{'VerbForm': 'Inf'}
+'s			we	PRON	PRP	nsubj	'x	False	True	{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+start			start	VERB	VB	ccomp	xxxx	True	False	{'VerbForm': 'Inf'}
+fresh			fresh	ADV	RB	advmod	xxxx	True	False	{}
+
+############ MORPH ############
+howard, we're going to need some tea
+howard			howard	PROPN	NNP	npadvmod	xxxx	True	False	{'Number': 'Sing'}
+,			,	PUNCT	,	punct	,	False	False	{'PunctType': 'Comm'}
+we			we	PRON	PRP	nsubj	xx	True	True	{'Case': 'Nom', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'}
+'re			be	AUX	VBP	aux	'xx	False	True	{'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
+going			go	VERB	VBG	ROOT	xxxx	True	False	{'Aspect': 'Prog', 'Tense': 'Pres', 'VerbForm': 'Part'}
+to			to	PART	TO	aux	xx	True	True	{}
+need			need	VERB	VB	xcomp	xxxx	True	False	{'VerbForm': 'Inf'}
+some			some	DET	DT	det	xxxx	True	True	{}
+tea			tea	NOUN	NN	dobj	xxx	True	False	{'Number': 'Sing'}
+
