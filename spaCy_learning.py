@@ -18,7 +18,8 @@ imperative_sentences = [
     "Have a nice trip",
     "Go to your cubicle and finish your work",
     "Hit the ball as hard as you can",
-    "Update the modifier and resubmit the claim"
+    "Update the modifier and resubmit the claim",
+    "Fold the top of the paper downwards"
 ]
 
 #imperative_phrases = analyzer.get_imperative_phrases_for_sentences(imperative_sentences)
@@ -44,6 +45,8 @@ chatGPT_response = """
 # what if we build matcher patterns on the fly from exemplary phrases?
 # the pattern builder can evolve over time to include wildcards or op hints
 patterns = analyzer.build_patterns(imperative_sentences)
+print(patterns)
+
 actions_from_text = analyzer.get_matching_phrases(patterns, chatGPT_response)
 print(*actions_from_text, sep = "\n")
 
