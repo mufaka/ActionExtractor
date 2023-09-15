@@ -1,5 +1,6 @@
 from SpacyAnalyzer import SpacyAnalyzer as sa
 from SpacyAutoMatcher import SpacyAutoMatcher
+import markdown2
 
 #text = "As with dogs from other working breeds, the Australian Cattle Dog is energetic and intelligent with an independent streak. It responds well to structured training, particularly if it is interesting and challenging. It was originally bred to herd by biting, and is known to nip running children. It forms a strong attachment to its owners, and can be protective of them and their possessions. It is easy to groom and maintain, requiring little more than brushing during the shedding period. The most common health problems are deafness and progressive blindness (both hereditary conditions) and accidental injury; otherwise, it is a robust breed with a lifespan of 12 to 16 years."
 #doc = analyzer.nlp(text)
@@ -30,15 +31,69 @@ Peel and chop the tomatoes, chives and cucumber into very small squares and plac
 
 stanza_matcher = SpacyAutoMatcher("stanza")
 
-stanza_matches = stanza_matcher.get_imperative_phrases(chatGPT_response)
-print(stanza_matches)
+#stanza_matches = stanza_matcher.get_imperative_phrases(chatGPT_response)
+#print(stanza_matches)
 
 #stanza_matches = stanza_matcher.get_imperative_phrases_from_sentences(imperative_sentences)
-for sentence in imperative_sentences:
-    print(sentence)
-    print("-------------------")
-    stanza_matches = stanza_matcher.get_imperative_phrases(sentence, False)
-    print(stanza_matches)
-    print() 
+debug_output = stanza_matcher.debug_for_sentences_as_markdown_table(imperative_sentences)
 
-stanza_matcher.debug_for_sentences_as_markdown_table(imperative_sentences)
+#convert output to html
+#markdowner = Markdown()
+#html = markdowner.convert(debug_output)
+
+html_debug_template = """<!doctype html>
+<html>
+<head>
+<title>Our Funky HTML Page</title>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
+<style>
+table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+table th,
+table td {
+    padding: 12px 15px;
+}
+
+table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+</style>
+</head>
+<body>
+{html}
+</body>
+</html>"""
+
+html = markdown2.markdown(debug_output, extras=["tables"])
+html = html_debug_template.replace("{html}", html) 
+
+f = open("debug_output.html", "w")
+f.write(html)
+f.close()

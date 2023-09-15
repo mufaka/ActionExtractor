@@ -1,3 +1,5 @@
+import io 
+import os
 import spacy 
 import stanza 
 import spacy_stanza
@@ -23,10 +25,10 @@ class SpacyAutoMatcher:
         nlp_stanza = spacy_stanza.load_pipeline("en")
         return nlp_stanza
 
-    def get_imperative_phrases_from_sentences(self, sentences):
+    def get_imperative_phrases_from_sentences(self, sentences, strict = True):
         imperative_phrases = []
         for sentence in sentences:
-            matched_phrases = self.get_imperative_phrases(sentence)
+            matched_phrases = self.get_imperative_phrases(sentence, strict)
             if len(matched_phrases) > 0:
                 imperative_phrases.append()
         return imperative_phrases
@@ -153,13 +155,25 @@ class SpacyAutoMatcher:
 
     def debug_for_sentences_as_markdown_table(self, sentences):
         sentence_docs = list(self.nlp.pipe(sentences))
-        print("|Context|Token|Lemma|POS|TAG|MORPH|ANCESTORS|CHILDREN|")
-        print("|----|----|----|----|----|----|----|----|")
+        buffer = io.StringIO()
 
         for sentence_doc in sentence_docs:
+            buffer.write(f"### {sentence_doc}{os.linesep}")
+            matches = self.get_imperative_phrases(sentence_doc, False)
+
+            buffer.write(", ".join(f"*{e}*" for e in matches))
+            buffer.write(f"{os.linesep}")
+            buffer.write(f"{os.linesep}")
+
+            buffer.write(f"|Index|Token|Lemma|POS|TAG|MORPH|ANCESTORS|CHILDREN|{os.linesep}")
+            buffer.write(f"|----|----|----|----|----|----|----|----|{os.linesep}")
             for token in sentence_doc:
                 ancestors = [f'{t.text}-{t.i}' for t in token.ancestors]
                 children = [f'{t.text}-{t.i}' for t in token.children]
+                buffer.write(f"|{token.i}|{token.text}|{token.lemma_}|{token.pos_}|{token.tag_}|{token.morph.to_dict()}|{ancestors}|{children}|{os.linesep}")
 
-                print(f'|{sentence_doc}|{token.text}|{token.lemma_}|{token.pos_}|{token.tag_}|{token.morph.to_dict()}|{ancestors}|{children}|')
+            buffer.write(f"{os.linesep}")
 
+        markdown = buffer.getvalue()
+        buffer.close()                
+        return markdown
