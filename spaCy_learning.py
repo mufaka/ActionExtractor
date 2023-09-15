@@ -93,6 +93,11 @@ patterns = []
 with open('action_pattern_keys.pkl', 'rb') as f:
     patterns = pickle.load(f)
 '''
+stanza_matcher = SpacyAutoMatcher("stanza")
+stanza_matches = stanza_matcher.get_imperative_phrases(chatGPT_response)
+print(stanza_matches)
+
+quit()
 
 auto_matcher = SpacyAutoMatcher("en_core_web_trf", "wikihow_action_pattern_keys.pkl")
 matches = auto_matcher.get_matching_phrases_by_key(chatGPT_response)

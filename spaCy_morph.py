@@ -53,7 +53,7 @@ print(nlp.path)
 #doc = load_doc(nlp, "I don't watch the news, I read the paper instead") 
 #doc = load_doc(nlp, "Write an essay on morphological features of spaCy.") # Write  VERB    VB      ROOT    Xxxxx   True    False   {'VerbForm': 'Inf'} <-- meh....
 #doc = load_doc(nlp, "The author was staring pensively as she wrote")
-doc = load_doc(nlp, "You should drive to the store and buy some groceries and then drive back home")
+doc = load_doc(nlp, "Let the couscous soak for a few minutes until it becomes fluffy")
 #doc = load_doc(nlp, "What a great day today!") # nominal sentence; shouldn't be considered...
 
 def get_imperative_phrases(nlp, doc):
@@ -86,6 +86,16 @@ def get_imperative_phrases(nlp, doc):
 
 actions = get_imperative_phrases(nlp, doc)
 print(*actions, sep = "\n")
+
+for token in doc:
+    ancestors = [f'{t.text}-{t.i}' for t in token.ancestors]
+    children = [f'{t.text}-{t.i}' for t in token.children]
+    print(token.text, "\t", token.i, "\t", 
+          token.pos_, "\t", token.dep_, "\t", 
+          ancestors, "\t", children)
+
+show_morph(doc)
+
 
 quit()
 

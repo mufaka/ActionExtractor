@@ -5,7 +5,7 @@ from spacy.matcher import Matcher
 import pickle
 
 class SpacyAutoMatcher:
-    def __init__(self, model_name, key_pattern_file):
+    def __init__(self, model_name, key_pattern_file = ""):
         self.model_name = model_name
         
         # stanza translates to stanza.download("en")
@@ -18,13 +18,16 @@ class SpacyAutoMatcher:
             with open(key_pattern_file, 'rb') as f:
                 self.pattern_keys = set(pickle.load(f))
 
-    def load_stanza_nlp():
+    def load_stanza_nlp(self):
         stanza.download("en")
         nlp_stanza = spacy_stanza.load_pipeline("en")
         return nlp_stanza
 
     # find phrases where a noun has an imperative mood verb ancestor
-    def get_imperative_phrases(nlp, doc):
+    def get_imperative_phrases(self, doc):
+        if type(doc) is str:
+            doc = self.nlp(doc)
+
         verb_phrases = []
         for token in doc:
             if (token.pos_.lower() == "noun"):
@@ -46,7 +49,7 @@ class SpacyAutoMatcher:
         # is the phrase imperative?
         for verb_phrase in verb_phrases:
             phrase = " ".join([x.text for x in verb_phrase])
-            phrase_doc = nlp(phrase)
+            phrase_doc = self.nlp(phrase)
             if "Mood=Imp" in phrase_doc[0].morph:
                 imperative_phrases.append(phrase)
         
