@@ -3,6 +3,8 @@
 #python -m spacy download en_core_web_sm
 #python -m spacy download en_core_web_lg
 import spacy 
+import stanza 
+import spacy_stanza
 from spacy.matcher import Matcher
 
 def load_trf_nlp():
@@ -19,6 +21,11 @@ def load_lg_nlp():
     nlp_lg.add_pipe("entity_ruler", before="ner")
     return nlp_lg
 
+def load_stanza_nlp():
+    stanza.download("en")
+    nlp_stanza = spacy_stanza.load_pipeline("en")
+    return nlp_stanza
+
 def load_doc(nlp, text):
     return nlp(text)
 
@@ -26,9 +33,10 @@ def show_morph(doc):
     for token in doc:
         print(f'{token.text}\t\t\t{token.pos_}\t{token.tag_}\t{token.dep_}\t{token.shape_}\t{token.is_alpha}\t{token.is_stop}\t{token.morph.to_dict()}')
 
-nlp = load_trf_nlp() 
+#nlp = load_trf_nlp() 
 #nlp = load_sm_nlp()
 #nlp = load_lg_nlp() 
+nlp = load_stanza_nlp()
 
 '''
 The following causes a ValueError: [E109] Component 'morphologizer' could not be run. Did you forget to call `initialize()`?
@@ -45,37 +53,76 @@ print(nlp.path)
 #doc = load_doc(nlp, "I don't watch the news, I read the paper instead") 
 #doc = load_doc(nlp, "Write an essay on morphological features of spaCy.") # Write  VERB    VB      ROOT    Xxxxx   True    False   {'VerbForm': 'Inf'} <-- meh....
 #doc = load_doc(nlp, "The author was staring pensively as she wrote")
-doc = load_doc(nlp, "Add a modifier of either RT or LT to procedure 30801 and then resubmit the claim.")
+doc = load_doc(nlp, "You should drive to the store and buy some groceries and then drive back home")
+#doc = load_doc(nlp, "What a great day today!") # nominal sentence; shouldn't be considered...
+
+def get_imperative_phrases(nlp, doc):
+    verb_phrases = []
+    for token in doc:
+        if (token.pos_.lower() == "noun"):
+            ancestors = list(token.ancestors)
+            children = list(token.children)
+            verb_phrase = []
+            if len(ancestors) > 0:
+                if ancestors[0].pos_.lower() == "verb":
+                    verb_phrase.append(token)
+                    verb_phrase.append(ancestors[0])
+                    if len(children) > 0:
+                        for child in children:
+                            verb_phrase.append(child)
+                    sorted_phrase = sorted(verb_phrase, key=lambda x: x.i)
+                    verb_phrases.append(sorted_phrase)
+
+    imperative_phrases = []
+
+    # is the phrase imperative?
+    for verb_phrase in verb_phrases:
+        phrase = " ".join([x.text for x in verb_phrase])
+        phrase_doc = nlp(phrase)
+        if "Mood=Imp" in phrase_doc[0].morph:
+            imperative_phrases.append(phrase)
+    
+    return imperative_phrases
+
+actions = get_imperative_phrases(nlp, doc)
+print(*actions, sep = "\n")
+
+quit()
+
+def find_root_of_sentence(doc):
+    root_token = None
+    for token in doc:
+        if (token.dep_ == "ROOT" or token.dep_ == "root"):
+            root_token = token
+    return root_token
+
+root = find_root_of_sentence(doc)
+print(f'{root.i}\t{root.text}\t\t{root.dep_}')
+
+for token in doc:
+    ancestors = [f'{t.text}-{t.i}' for t in token.ancestors]
+    children = [f'{t.text}-{t.i}' for t in token.children]
+    print(token.text, "\t", token.i, "\t", 
+          token.pos_, "\t", token.dep_, "\t", 
+          ancestors, "\t", children)
 
 show_morph(doc)
-
-# pattern matching?
-pattern = [{'POS': 'VERB', 'OP': '?'},{'POS': 'ADV', 'OP': '*'},{'OP': '*'},{'POS': 'VERB', 'OP': '+'}]
-
-matcher = Matcher(nlp.vocab)
-matcher.add("verb-phrases", [pattern])
-matches = matcher(doc)
-spans = [doc[start:end] for _, start, end in matches]
-print(pattern)
-print(spans)
-
 
 '''
 https://spacy.io/usage/linguistic-features#morphology
 
-I               PRON    PRP     {'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
-do              AUX     VBP     {'Mood': 'Ind', 'Tense': 'Pres', 'VerbForm': 'Fin'}
-n't             PART    RB      {'Polarity': 'Neg'}
-watch           VERB    VB      {'VerbForm': 'Inf'}
-the             DET     DT      {'Definite': 'Def', 'PronType': 'Art'}
-news            NOUN    NN      {'Number': 'Sing'}
-,               PUNCT   ,       {'PunctType': 'Comm'}
-I               PRON    PRP     {'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
-read            VERB    VBP     {'Tense': 'Pres', 'VerbForm': 'Fin'} <--- doesn't include Mood as shown in documentation link above.
-the             DET     DT      {'Definite': 'Def', 'PronType': 'Art'}
-paper           NOUN    NN      {'Number': 'Sing'}
-instead         ADV     RB      {}'''
+Drive                   VERB    VB      root    Xxxxx   True    False   {'Mood': 'Imp', 'VerbForm': 'Fin'}
+to                      ADP     IN      case    xx      True    True    {}
+the                     DET     DT      det     xxx     True    True    {'Definite': 'Def', 'PronType': 'Art'}
+store                   NOUN    NN      obl     xxxx    True    False   {'Number': 'Sing'}
+and                     CCONJ   CC      cc      xxx     True    True    {}
+buy                     VERB    VB      conj    xxx     True    False   {'Mood': 'Imp', 'VerbForm': 'Fin'}
+some                    DET     DT      det     xxxx    True    True    {}
+groceries                       NOUN    NNS     obj     xxxx    True    False   {'Number': 'Plur'}
 
+pattern is imperative verb to noun
+
+'''
 
 '''
     print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
