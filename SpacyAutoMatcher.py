@@ -23,6 +23,7 @@ class SpacyAutoMatcher:
         nlp_stanza = spacy_stanza.load_pipeline("en")
         return nlp_stanza
 
+    # find phrases where a noun has an imperative mood verb ancestor
     def get_imperative_phrases(nlp, doc):
         verb_phrases = []
         for token in doc:
@@ -114,7 +115,6 @@ class SpacyAutoMatcher:
 
     def get_matching_phrases_by_key(self, text):
         matches = []
-        doc = self.nlp(text)
         doc = self.nlp(text)
         for sent in doc.sents:
             sent_doc = sent.as_doc()
