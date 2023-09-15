@@ -23,8 +23,15 @@ class SpacyAutoMatcher:
         nlp_stanza = spacy_stanza.load_pipeline("en")
         return nlp_stanza
 
-    # find phrases where a noun has an imperative mood verb ancestor
-    def get_imperative_phrases(self, doc):
+    def get_imperative_phrases_from_sentences(self, sentences):
+        imperative_phrases = []
+        for sentence in sentences:
+            matched_phrases = self.get_imperative_phrases(sentence)
+            if len(matched_phrases) > 0:
+                imperative_phrases.append()
+        return imperative_phrases
+
+    def get_imperative_phrases(self, doc, strict = True):
         if type(doc) is str:
             doc = self.nlp(doc)
 
@@ -50,7 +57,8 @@ class SpacyAutoMatcher:
         for verb_phrase in verb_phrases:
             phrase = " ".join([x.text for x in verb_phrase])
             phrase_doc = self.nlp(phrase)
-            if "Mood=Imp" in phrase_doc[0].morph:
+
+            if "Mood=Imp" in phrase_doc[0].morph or not strict:
                 imperative_phrases.append(phrase)
         
         return imperative_phrases
@@ -134,3 +142,24 @@ class SpacyAutoMatcher:
             if key in self.pattern_keys:
                 matches.append(sent_doc.text)
         return matches
+
+    def show_doc_debug(self, doc):
+        if type(doc) is str:
+            doc = self.nlp(doc)
+
+        for token in doc:
+            print(f'{token.text}\t\t\t{token.lemma_}\t{token.pos_}\t{token.tag_}\t{token.dep_}\t{token.shape_}\t{token.is_alpha}\t{token.is_stop}\t{token.morph.to_dict()}')
+        print()
+
+    def debug_for_sentences_as_markdown_table(self, sentences):
+        sentence_docs = list(self.nlp.pipe(sentences))
+        print("|Context|Token|Lemma|POS|TAG|MORPH|ANCESTORS|CHILDREN|")
+        print("|----|----|----|----|----|----|----|----|")
+
+        for sentence_doc in sentence_docs:
+            for token in sentence_doc:
+                ancestors = [f'{t.text}-{t.i}' for t in token.ancestors]
+                children = [f'{t.text}-{t.i}' for t in token.children]
+
+                print(f'|{sentence_doc}|{token.text}|{token.lemma_}|{token.pos_}|{token.tag_}|{token.morph.to_dict()}|{ancestors}|{children}|')
+
